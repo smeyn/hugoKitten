@@ -1,0 +1,6 @@
+[submodule "kitten/themes/starter"]
+	path = kitten/themes/starter
+	url = https://github.com/jimfrenette/hugo-starter.git
+[submodule "kitten/themes/hugo-simple"]
+	path = kitten/themes/hugo-simple
+	url = https://github.com/maolonglong/hugo-simple.git
