@@ -1,24 +1,26 @@
 +++
-date = '2025-11-29T17:30:49+11:00'
+date = 2025-11-29T20:44:33.274594+11:00
 draft = true
-title = 'Accelerator'
+title = "Accelerator"
+
 +++
-The **Accelerator** is a specialized, late-game building in *Kittens Game*, unlocked through advanced technology. Its primary function is resource conversion, specifically processing Titanium into Uranium, and greatly increasing resource storage capacity through upgrades.
+
+The [Accelerator]( {{< relref "accelerator.md" >}}) is a specialized, late-game building in *Kittens Game*, unlocked through advanced technology. Its primary function is resource conversion, specifically processing Titanium into Uranium, and greatly increasing resource storage capacity through upgrades.
 
 Here is a detailed breakdown of the Accelerator:
 
 ### 1. Construction and Core Function
 
-The Accelerator building is a vital component of the late-game resource chain, particularly in the run-up to unlocking **Metaphysics**.
+The Accelerator building is a vital component of the late-game resource chain, particularly in the run-up to unlocking [Metaphysics]( {{< relref "metaphysics.md" >}}).
 
-*   **Technology Prerequisite:** The Accelerator is unlocked by researching **Particle Physics**. Particle Physics requires 185,000 Science and 135 Blueprints.
+*   **Technology Prerequisite:** The Accelerator is unlocked by researching [Particle Physics]( {{< relref "particle_physics.md" >}}). Particle Physics requires 185,000 Science and 135 Blueprints.
 *   **Base Cost:** 7,500 Titanium, 125 Concrete, and 25 Uranium.
 *   **Conversion Production:** The Accelerator is designed to convert Titanium into Uranium, consuming energy in the process.
     *   **Consumption:** -0.015 Titanium per Tick.
     *   **Production:** +0.0025 Uranium per Tick.
-    *   **Energy:** It consumes **-2 Energy** per tick to operate.
+    *   [Energy:]( {{< relref "energy.md" >}}) It consumes **-2 Energy** per tick to operate.
 
-The Accelerator is one of the buildings whose output is considered "Conversion production" and can be boosted by policies like **Autocracy**.
+The Accelerator is one of the buildings whose output is considered "Conversion production" and can be boosted by policies like [Autocracy]( {{< relref "autocracy.md" >}}).
 
 ### 2. Strategic Role and Bottleneck Mitigation
 
@@ -34,13 +36,13 @@ The most notable feature of the Accelerator is its ability to unlock substantial
 
 | Upgrade Name | Technology Prerequisite | Effect (Storage Boost per Accelerator) |
 | :--- | :--- | :--- |
-| **Energy Rifts** | Dimensional Physics | Unlocks substantial storage capacity for Catnip, Wood, Minerals, Iron, Coal, Gold, and Titanium. |
-| **Stasis Chambers** | Chronophysics | Increases the storage gain from Energy Rifts by **+95%**. |
-| **Void Energy** | Stasis Chambers | Increases the storage gain from Energy Rifts by **+75%**. |
-| **Dark Energy** | Void Energy | Increases the storage gain from Energy Rifts by **+250%**. |
-| **Tachyon Accelerators** | Tachyon Theory | Increases the storage gain from Energy Rifts by **+500%**. |
+| [Energy Rifts]( {{< relref "energy_rifts.md" >}}) | Dimensional Physics | Unlocks substantial storage capacity for Catnip, Wood, Minerals, Iron, Coal, Gold, and Titanium. |
+| [Stasis Chambers]( {{< relref "stasis_chambers.md" >}}) | Chronophysics | Increases the storage gain from Energy Rifts by **+95%**. |
+| [Void Energy]( {{< relref "void_energy.md" >}}) | Stasis Chambers | Increases the storage gain from Energy Rifts by **+75%**. |
+| [Dark Energy]( {{< relref "dark_energy.md" >}}) | Void Energy | Increases the storage gain from Energy Rifts by **+250%**. |
+| [Tachyon Accelerators]( {{< relref "tachyon_accelerators.md" >}}) | Tachyon Theory | Increases the storage gain from Energy Rifts by **+500%**. |
 
-Furthermore, the **LHC** upgrade (unlocked by Dimensional Physics) provides a bonus of **+2500 Max Science per Accelerator**.
+Furthermore, the [LHC]( {{< relref "lhc.md" >}}) upgrade (unlocked by Dimensional Physics) provides a bonus of **+2500 Max Science per Accelerator**.
 
 In the late game, using the **Energy Rift** upgrade is key to increasing storage capacity for unobtainium.
 

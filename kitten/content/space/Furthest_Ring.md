@@ -1,5 +1,6 @@
 +++
-date = '2025-11-29T17:31:06+11:00'
+date = 2025-11-29T20:44:33.312594+11:00
 draft = true
-title = 'Furthest_Ring'
+title = "Furthest_Ring"
+
 +++

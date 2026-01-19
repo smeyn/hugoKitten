@@ -1,6 +1,8 @@
 +++
-date = '2025-11-29T17:40:06+11:00'
+date = 2025-11-29T20:44:33.351594+11:00
 draft = true
-title = 'Upgrade'
+title = "Upgrade"
+
 +++
+
 these are all the buildings

@@ -1,5 +1,16 @@
 +++
-date = '2025-11-29T17:31:25+11:00'
+date = 2025-12-24T09:55:06.173033+11:00
 draft = true
-title = 'Long Range_Spaceships'
+title = "Long Range Spaceships"
+
 +++
+
+Unlocks Space Shuttle (space Building). Need to be staffed with a crew of two kittens.
+
+
+
+The sources do not describe a specific entity named a "long range spaceship", though the **Research Vessel** is explicitly defined as a **"mobile research space vessel"**. The **Research Vessel** is unlocked after completing the [Piscine mission]( {{< relref "space/Piscine_Mission.md" >}}). To construct one vessel, you must invest **100 Starcharts, 2,500 Alloy, 12,500 Titanium, and 250 Kerosene**. Each vessel provides a significant boost to your infrastructure by increasing the **maximum science capacity by 10,000** and generating **0.05 Starcharts per second**. These vessels can be further enhanced through several workshop upgrades, including [Antimatter Reactors]( {{< relref "upgrade/Antimatter_Reactors.md" >}}) (+95% max science), [Advanced AM Reactors]( {{< relref "upgrade/Advanced_AM_Reactors.md" >}}) (+150% max science), and [Void Reactors]( {{< relref "upgrade/Void_Reactors.md" >}}) (+400% max science). In the late game, the utility of these vessels for starchart production is complemented by **Space Beacons**, which provide higher starchart generation (0.125/sec) and a larger science cap boost (25,000).
+
+True long-range interstellar travel is represented by the [Centaurus System]( {{< relref "planet/Centaurus_System.md" >}}) and [Furthest Ring]( {{< relref "planet/Furthest_Ring.md" >}}) missions. The [Centaurus System]( {{< relref "planet/Centaurus_System.md" >}}) mission requires a massive investment of **100,000 Starcharts, 40,000 Titanium, 400,000 Science, 50,000 Kerosene, and 50,000 Thorium**. The [Furthest Ring]( {{< relref "planet/Furthest_Ring.md" >}}) is described as the **"end of the universe"** and carries the highest mission costs in the game, requiring **500,000 Starcharts, 1.25 million Science, 75,000 Kerosene, and 75,000 Thorium**. Standard travel time to the Furthest Ring is approximately **725,200,000 game-days**, which is over 16,000 real-world days, though this can be drastically reduced by researching advanced propulsion systems. The [Thorium Drive]( {{< relref "upgrade/Thorium_Drive.md" >}}) divides travel time by 50, while the [Antimatter Drive]( {{< relref "upgrade/Antimatter_Drive.md" >}}) divides it by 25; researching both reduces travel times by a factor of **75**.
+
+Managing fuel for these long-range operations is a critical bottleneck, as missions to the outer reaches of the solar system and beyond require high quantities of **Kerosene and Thorium**. To sustain these operations, the sources recommend focusing on **maximising unobtainium production** via [Lunar Outposts]( {{< relref "planet/lunar_outpost.md" >}}) to craft the [Eludium]( {{< relref "resource/eludium.md" >}}) needed for high-tier space structures. Additionally, the **USS Mining Vessel Hissmeowra**, known as the **Planet Cracker**, acts as a heavy industrial vessel used to produce [Uranium]( {{< relref "resource/uranium.md" >}}) from Dune. Successful long-range progression relies on balancing these mobile assets with terrestrial storage and science capacity.

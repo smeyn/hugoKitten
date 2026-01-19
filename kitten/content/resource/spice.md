@@ -1,8 +1,10 @@
 +++
-date = '2025-11-29T19:12:16+11:00'
+date = 2025-11-29T20:44:33.299594+11:00
 draft = true
-title = 'Spice'
+title = "Spice"
+
 +++
+
 Spice is primarily used as a **rare luxury resource** and a **building component** for advanced structures in *Kittens Game* [1-3].
 
 ### Uses and Effects
@@ -11,16 +13,16 @@ Spice is primarily used as a **rare luxury resource** and a **building component
     Spice is categorized as a rare luxury resource [3]. Every rare resource, including spice, provides a **+10% bonus to happiness** [3].
 2.  **Building Material**
     Spice is a resource required for constructing late-game religious buildings:
-    *   The **Brewery** requires 5 Spice, along with Wood, Culture, and Parchment [4].
-    *   The **Marker**, a strange structure made of unknown metal, costs 50,000 Spice [1].
-    *   The **Black Pyramid**, a dark relic of unspeakable horrors that unlocks trade with Leviathans, costs 150,000 Spice [2].
+    *   The [Brewery]( {{< relref "brewery.md" >}}) requires 5 Spice, along with Wood, Culture, and Parchment [4].
+    *   The [Marker]( {{< relref "marker.md" >}}), a strange structure made of unknown metal, costs 50,000 Spice [1].
+    *   The [Black Pyramid]( {{< relref "black_pyramid.md" >}}), a dark relic of unspeakable horrors that unlocks trade with Leviathans, costs 150,000 Spice [2].
 
 ### Characteristics and Management
 
 *   **Consumption and Degradation:** Spice is a resource that **gradually degrades over time** [3, 5].
     *   Tradeposts help decrease the consumption rate of spice, though with diminishing returns [3].
-    *   The **Stoicism** policy can be chosen to halve the consumption of luxury resources, which includes Spice, and also reduces Brewery consumption by 25% [6].
-    *   Once a **Brewery** is built, it consumes 0.1 Spice per tick [4].
+    *   The [Stoicism]( {{< relref "stoicism.md" >}}) policy can be chosen to halve the consumption of luxury resources, which includes Spice, and also reduces Brewery consumption by 25% [6].
+    *   Once a [Brewery]( {{< relref "brewery.md" >}}) is built, it consumes 0.1 Spice per tick [4].
 
 ### Acquisition
 

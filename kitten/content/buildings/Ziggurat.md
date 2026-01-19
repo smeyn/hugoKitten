@@ -1,17 +1,19 @@
 +++
-date = '2025-11-29T17:30:50+11:00'
+date = 2025-11-29T20:44:33.275594+11:00
 draft = true
-title = 'Ziggurat'
+title = "Ziggurat"
+
 +++
-The **Ziggurat** is a major structure in *Kittens Game*, classified as a **Mega Structure**. It is crucial for initiating the production chain of unicorn-related resources and advancing through the later religious tiers of the game.
+
+The [Ziggurat]( {{< relref "ziggurat.md" >}}) is a major structure in *Kittens Game*, classified as a **Mega Structure**. It is crucial for initiating the production chain of unicorn-related resources and advancing through the later religious tiers of the game.
 
 ### 1. Unlocks and Construction
 
-The Ziggurat building is unlocked relatively early by researching the **Construction** technology. However, it requires highly processed and rare resources to build.
+The Ziggurat building is unlocked relatively early by researching the [Construction]( {{< relref "construction.md" >}}) technology. However, it requires highly processed and rare resources to build.
 
 | Detail | Cost/Requirement | Source |
 | :--- | :--- | :--- |
-| **Technology Prerequisite** | **Construction** | |
+| **Technology Prerequisite** | [Construction]( {{< relref "construction.md" >}}) | |
 | **Base Cost** | **50 Megalith, 50 Scaffold, and 1 Blueprint** | |
 | **Visibility Requirement** | Players usually need approximately **5 Megaliths, 5 Scaffolds, and 1 Blueprint** before the building becomes visible in the Bonfire tab. | |
 | **Price Ratio** | 1.25 | |
@@ -38,5 +40,5 @@ The Ziggurat is the entry point to the "Unicorn/Time Crystal Era".
 The Ziggurat interacts with other buildings and policies:
 
 *   **Religious Synergy (Nagas):** The **Naga Relations: Cultists** policy (a Foreign policy) allows Ziggurats to **gain 10% of the bonuses The Order of the Sun grants to temples**.
-*   **Culture Capacity (Unicorn Graveyard):** The **Unicorn Graveyard** building (unlocked by Megalomania/Black Codex) increases your culture maximum by **+1% per Ziggurat**.
+*   **Culture Capacity (Unicorn Graveyard):** The [Unicorn Graveyard]( {{< relref "unicorn_graveyard.md" >}}) building (unlocked by Megalomania/Black Codex) increases your culture maximum by **+1% per Ziggurat**.
 *   **Unicorn Rift Bonus:** The amount of unicorns gained from a **Unicorn Rift** (a random event unlocked by Ivory Towers) is boosted, calculated as **500 * (1 + your unicorn ziggurat bonus production to unicorns/10)**.

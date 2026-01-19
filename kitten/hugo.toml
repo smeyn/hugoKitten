@@ -1,8 +1,14 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Kittens Overview'
 theme = "hugo-simple" 
 sectionPagesMenu = 'main'
+Copyright = "stephan meyn 2025"
+
+mainSections =['upgrades', 'craft', 'buildings']
+[params]
+hideRSSLink = true
+toc = true
 
 [pagination]
   disableAliases = false

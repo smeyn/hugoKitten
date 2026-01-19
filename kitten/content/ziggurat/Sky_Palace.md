@@ -1,9 +1,11 @@
 +++
-date = '2025-11-29T17:31:02+11:00'
+date = 2025-11-29T20:44:33.353594+11:00
 draft = true
-title = 'Sky_Palace'
+title = "Sky_Palace"
+
 +++
-The **Sky Palace** is a specialized religious building that is part of the advanced Unicorn progression line.
+
+The [Sky Palace]( {{< relref "sky_palace.md" >}}) is a specialized religious building that is part of the advanced Unicorn progression line.
 
 Here is a detailed breakdown of its function, effects, and prerequisites:
 
@@ -34,5 +36,5 @@ The Sky Palace is unlocked and constructed in the Religion tab, following a spec
 
 The Sky Palace is an intermediate step in maximizing unicorn-related production, leading to even more powerful buildings [1]:
 
-*   Once you complete 1 Sky Palace, you unlock the **Unicorn Utopia**, which further improves unicorn generation by $250\%$ and increases the Time Crystal Refine ratio by $5\%$ [3].
+*   Once you complete 1 Sky Palace, you unlock the [Unicorn Utopia]( {{< relref "unicorn_utopia.md" >}}), which further improves unicorn generation by $250\%$ and increases the Time Crystal Refine ratio by $5\%$ [3].
 *   The Sky Palace, along with other advanced Unicorn buildings like the Ivory Tower and Ivory Citadel, helps generate ivory and alicorns, which are critical for late-game progression [1, 2]. Unicorns, alicorns, and tears are all considered luxury resources, contributing a bonus to happiness [4].

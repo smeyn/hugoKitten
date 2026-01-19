@@ -1,9 +1,11 @@
 +++
-date = '2025-11-29T19:05:17+11:00'
+date = 2025-11-29T20:44:33.298594+11:00
 draft = true
-title = 'Paragon'
+title = "Paragon"
+
 +++
-**Paragon** is a unique, persistent resource in *Kittens Game* that is fundamental to the game's prestige system, allowing players to purchase permanent upgrades that make subsequent runs easier [1].
+
+[Paragon]( {{< relref "paragon.md" >}}) is a unique, persistent resource in *Kittens Game* that is fundamental to the game's prestige system, allowing players to purchase permanent upgrades that make subsequent runs easier [1].
 
 ### Acquisition and Persistence
 
@@ -16,7 +18,7 @@ Paragon is primarily acquired by reaching a certain population level before rese
 
 ### Primary Purpose: The Metaphysics System
 
-Paragon is the currency used to purchase permanent enhancements in the **Metaphysics** tab [6]. The Metaphysics system itself must be researched again each run, but the purchased upgrades persist [6].
+Paragon is the currency used to purchase permanent enhancements in the [Metaphysics]( {{< relref "metaphysics.md" >}}) tab [6]. The Metaphysics system itself must be researched again each run, but the purchased upgrades persist [6].
 
 The central function of Metaphysics upgrades is to reduce the cost growth of buildings, often referred to as **price ratio reduction**, allowing players to buy "lots more stuff" [6-8]. This reduction only applies to buildings in the **Bonfire tab** [6].
 
@@ -29,7 +31,7 @@ Key Metaphysics upgrades and their Paragon costs include:
 | | **Divine Proportion** | 100 [10] | Reduces price ratios by approximately 1.777% [10]. |
 | | **Vitruvian Feline** | 250 [10] | Reduces price ratios by 2% [10]. |
 | | **Renaissance** | 750 [10] | Reduces price ratios by 2.25% [10]. |
-| **QoL/Progression** | **Diplomacy** | 5 [10] | Races are discovered earlier and with better standing [10]. |
+| **QoL/Progression** | [Diplomacy]( {{< relref "diplomacy.md" >}}) | 5 [10] | Races are discovered earlier and with better standing [10]. |
 | | **Anachronomancy** | 125 [11] | Saves **Time Crystals and Chronophysics** technology across resets [11]. |
 | | **Megalomania** | 10 [9] | Unlocks late-game Unicorn mechanics (Markers and Black Pyramids) [9]. |
 | | **Adjustment Bureau** | 5 [12] | Unlocks **Challenges** [12, 13]. |

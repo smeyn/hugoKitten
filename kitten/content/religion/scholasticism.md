@@ -1,9 +1,11 @@
 +++
-date = '2025-11-29T11:46:11+11:00'
+date = 2025-11-29T20:44:33.295594+11:00
 draft = true
-title = 'Scholasticism'
+title = "Scholasticism"
+
 +++
-**Scholasticism** is a religious upgrade available within the *Kittens Game*, found under the **Order of the Sun** in the Religion tab.
+
+[Scholasticism]( {{< relref "scholasticism.md" >}}) is a religious upgrade available within the *Kittens Game*, found under the **Order of the Sun** in the Religion tab.
 
 This upgrade is crucial because, like other religious upgrades, it affects functionality outside of the Religion system.
 

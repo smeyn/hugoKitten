@@ -1,9 +1,11 @@
 +++
-date = '2025-11-29T11:47:59+11:00'
+date = 2025-12-07T20:25:28.419192+11:00
 draft = true
-title = 'Stained_Glass'
+title = "Stained_Glass"
+
 +++
-The **Stained Glass** upgrade is a religious upgrade within *Kittens Game*, part of the **Order of the Sun**.
+
+The [Stained Glass]( {{< relref "stained_glass.md" >}}) upgrade is a religious upgrade within *Kittens Game*, part of the **Order of the Sun**.
 
 Here is a detailed explanation of its function, costs, and requirements:
 
@@ -23,6 +25,6 @@ Stained Glass becomes available for purchase relatively early in the religious p
 
 ### Context
 
-Stained Glass is unlocked at the same Worship threshold (750) as the **Sun Altar** upgrade. Both of these upgrades enhance the functionality of Temples.
+Stained Glass is unlocked at the same Worship threshold (750) as the [Sun Altar]( {{< relref "sun_altar.md" >}}) upgrade. Both of these upgrades enhance the functionality of Temples.
 
-Since Temples are one of the buildings that generate Culture (along with Amphitheatres and Chapels), Stained Glass helps advance your culture production. Culture is a vital special resource used to craft **Manuscripts** from Parchment, which are required for researching advanced technologies like **Theology** and **Astronomy**.
+Since Temples are one of the buildings that generate Culture (along with Amphitheatres and Chapels), Stained Glass helps advance your culture production. Culture is a vital special resource used to craft [Manuscripts]( {{< relref "resource/manuscript.md" >}}) from Parchment, which are required for researching advanced technologies like [Theology]( {{< relref "techs/Theology.md" >}}) and [Astronomy]( {{< relref "astronomy.md" >}}).

@@ -1,9 +1,11 @@
 +++
-date = '2025-11-29T11:45:27+11:00'
+date = 2025-11-29T20:44:33.295594+11:00
 draft = true
-title = 'Solar Chant'
+title = "Solar Chant"
+
 +++
-**Solar Chant** is an essential religious upgrade available in the *Kittens Game* under the **Order of the Sun**. It specifically targets and enhances your civilization's ability to generate the special resource, Faith.
+
+[Solar Chant]( {{< relref "solar_chant.md" >}}) is an essential religious upgrade available in the *Kittens Game* under the **Order of the Sun**. It specifically targets and enhances your civilization's ability to generate the special resource, Faith.
 
 Here is a detailed explanation of Solar Chant, its prerequisites, and its strategic function:
 

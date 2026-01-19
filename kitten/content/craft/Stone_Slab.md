@@ -1,5 +1,6 @@
 +++
-date = '2025-11-29T17:31:08+11:00'
+date = 2025-11-29T20:44:33.275594+11:00
 draft = true
-title = 'Stone_Slab'
+title = "Stone_Slab"
+
 +++

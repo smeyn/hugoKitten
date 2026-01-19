@@ -1,9 +1,11 @@
 +++
-date = '2025-11-29T12:14:27+11:00'
+date = 2025-11-29T20:44:33.353594+11:00
 draft = true
-title = 'Reinforced_Barns'
+title = "Reinforced_Barns"
+
 +++
-The **Reinforced Barns** upgrade is a critical early-to-mid-game investment in the Workshop tab, designed to alleviate constraints on your resource capacity.
+
+The [Reinforced Barns]( {{< relref "reinforced_barns.md" >}}) upgrade is a critical early-to-mid-game investment in the Workshop tab, designed to alleviate constraints on your resource capacity.
 
 ### Function and Effects
 
@@ -24,8 +26,8 @@ It is part of a progression of storage capacity upgrades for Barns, and is a pre
 
 | Upgrade | Effect on Max Storage (Wood, Minerals, Iron) | Predecessor |
 | :--- | :--- | :--- |
-| **Expanded Barns** | +75% increase | N/A |
-| **Reinforced Barns** | +80% increase | N/A (listed as having no prerequisite in the table) |
-| **Titanium Barns** | +100% increase (twice as many resources) | Requires Reinforced Barns |
+| [Expanded Barns]( {{< relref "expanded_barns.md" >}}) | +75% increase | N/A |
+| [Reinforced Barns]( {{< relref "reinforced_barns.md" >}}) | +80% increase | N/A (listed as having no prerequisite in the table) |
+| [Titanium Barns]( {{< relref "titanium_barns.md" >}}) | +100% increase (twice as many resources) | Requires Reinforced Barns |
 
-Additionally, once the **Silos** upgrade is purchased, all storage upgrades containing "barns" in their name, including Reinforced Barns, apply **25% of their effect to maximum Catnip storage** as well.
+Additionally, once the [Silos]( {{< relref "silos.md" >}}) upgrade is purchased, all storage upgrades containing "barns" in their name, including Reinforced Barns, apply **25% of their effect to maximum Catnip storage** as well.

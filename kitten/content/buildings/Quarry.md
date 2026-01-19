@@ -1,46 +1,29 @@
 +++
-date = '2025-11-29T17:30:48+11:00'
+date = 2025-12-24T09:52:09.722043+11:00
 draft = true
-title = 'Quarry'
+title = "Quarry"
+
 +++
-The **Calciner** (sometimes referred to as Calcinator) is an advanced industrial building in *Kittens Game* that specializes in resource conversion, primarily producing refined Iron and Titanium. It is unlocked during the mid-game industrial phase.
 
-### Construction and Function
+The [Quarry]( {{< relref "buildings/Quarry.md" >}}) is a bonfire building unlocked by the [Geology]( {{< relref "techs/Geology.md" >}}) technology. It is a mid-to-late-game structure primarily used to enhance mineral output and automate the production of coal and uranium.
 
-The Calciner is a building used for advanced resource refinement, producing output that is categorized as "Conversion production".
+### **Construction and Base Effects**
+*   **Cost:** Initial construction requires **50 Scaffolds**, **125 Steel**, and **1,000 Slabs**.
+*   **Price Ratio:** 1.15.
+*   **Mineral Bonus:** Each Quarry provides a flat **+35% bonus** to mineral production.
+*   [Coal Production:]( {{< relref "resource/coal_production.md" >}}) It generates **+0.015 coal per tick** (0.075 per second). This makes it a significant source of passive coal alongside Smelters and Mines.
 
-*   **Technology Prerequisite:** The Calciner is unlocked by researching the **Chemistry** technology.
-*   **Cost:** Building a Calciner requires a significant investment in processed resources: **100 Steel, 15 Titanium, 1 Blueprint, and 500 Oil**.
-*   **Energy and Pollution:** It consumes **1 Energy** per tick to operate. Like other industrial buildings such as the Smelter and Steamworks, the Calciner produces **pollution**.
+### **Environmental Impact**
+Quarries are listed as industrial structures that contribute to **pollution**. High levels of pollution can eventually reduce catnip production, kitten happiness, and arrival speeds.
 
-### Resource Conversion Details
+### **Workshop Upgrades and Uranium**
+Quarries are essential for the transition into the space era through two specific workshop upgrades:
+*   [Orbital Geodesy:]( {{< relref "upgrade/Orbital_Geodesy.md" >}}) Unlocked by Satellites, this upgrade allows Quarries to produce [uranium]( {{< relref "resource/uranium.md" >}}) at a base rate of **0.0005 per tick**. This is a critical alternative for gathering uranium without trading titanium to Dragons.
+*   [Enriched Uranium:]( {{< relref "upgrade/Enriched_Uranium.md" >}}) This upgrade provides a **+25% bonus** specifically to the uranium production rate of Quarries.
 
-The Calciner converts common resources into crucial metals:
+### **Policy Interactions**
+The effectiveness of Quarries can be modified by foreign relations policies:
+*   **Naga Relations: Masons:** This policy provides a **+2.5% bonus to slab crafting** when using Quarries. This is unlocked by reaching Naga Embassy level 20 and owning the Diplomacy metaphysics upgrade.
 
-| Input (Consumption) | Output (Production) |
-| :--- | :--- |
-| **-1.5 Minerals per Tick** | **+0.15 Iron per Tick** |
-| **-0.024 Oil per Tick** | **+0.0005 Titanium per Tick** |
-
-### Upgrades and Enhancements
-
-The Calciner's efficiency can be dramatically increased through various Workshop upgrades:
-
-| Upgrade Name | Production Boost | Notes |
-| :--- | :--- | :--- |
-| **Oxidation** | +95% Iron, +285% Titanium | Unlocked by Metallurgy. |
-| **Rotary Kiln** | +75% Iron, +225% Titanium | Unlocked by Robotics. |
-| **Fluidized Reactors** | +100% Iron, +300% Titanium | Unlocked by Nanotechnology. |
-
-Additionally, the Calciner can be upgraded to integrate with Steel production:
-
-*   **Steel Plants:** This upgrade converts 10% of the Calciner's Iron output into Steel (at a 100:1 ratio), although this decreases the final Iron output by 10%.
-*   **Automated Plants:** Boosts the steel produced by Steel Plants by **25%** of the general craft ratio.
-*   **Nuclear Plants:** Provides an additional **2% boost** to Steel Plants production per active Reactor.
-*   **Griffin Relations: Metallurgists:** This policy increases the Calciner's steel production bonus by **+15%**.
-
-### Strategic Context
-
-1.  **Industrial Foundation:** Calciners are listed among the production-boosting buildings (alongside Steamworks, Magnetos, and Reactors) that cost blueprints and should be purchased provided the player has the resources, as they "help a lot in creating the base resources".
-2.  **Policy Synergy:** The **Autocracy** government policy provides a bonus (0.4% per leader rank per uncapped population building) to all Conversion production, which includes the Calciner's output.
-3.  **Challenge Alterations:** In the **Black Sky Challenge** (where astronomical events and thus Starcharts/Blueprints are disabled), the initial cost of Calciners is altered to make them obtainable, ensuring progression is still possible without relying on Starcharts.
+### **Strategic Utility**
+Quarries are considered a "supplemental production building" necessary to push past resource bottlenecks. They are particularly useful for automating materials needed for [Steel]( {{< relref "craft/Steel.md" >}}), [Gears]( {{< relref "craft/Gear.md" >}}), and **Nuclear Reactors**. In the deep endgame, maintaining high production from Quarries supports the **uranium supply** required for Lunar Outposts and Planet Crackers.

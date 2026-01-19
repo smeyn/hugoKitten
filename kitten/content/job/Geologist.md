@@ -1,5 +1,8 @@
 +++
-date = '2025-11-29T17:31:08+11:00'
+date = 2025-11-30T11:19:28.883690+11:00
 draft = true
-title = 'Geologist'
+title = "Geologist"
+
 +++
+
++0.075 coal per second (may be upgraded)

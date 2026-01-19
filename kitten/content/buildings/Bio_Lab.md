@@ -1,15 +1,17 @@
 +++
-date = '2025-11-29T17:30:47+11:00'
+date = 2025-11-30T11:21:46.869683+11:00
 draft = true
-title = 'Bio_Lab'
+title = "Bio Lab"
+
 +++
-The **Bio Lab** is an advanced mid-to-late-game science building in *Kittens Game*, primarily designed to significantly boost science capacity and production, and to introduce the ability to refine Catnip into **Oil**.
+
+The [Bio Lab]( {{< relref "bio_lab.md" >}}) is an advanced mid-to-late-game science building in *Kittens Game*, primarily designed to significantly boost science capacity and production, and to introduce the ability to refine Catnip into **Oil**.
 
 ### Unlocking and Construction
 
 The Bio Lab building is unlocked after significant investment in the Science tree:
 
-*   **Technology Prerequisite:** The Bio Lab is unlocked by researching **Biology**. Biology is unlocked by Geology.
+*   **Technology Prerequisite:** The Bio Lab is unlocked by researching [Biology]( {{< relref "biology.md" >}}). Biology is unlocked by Geology.
 *   **Base Cost:** Construction requires a combination of processed materials and science: **100 Slab, 25 Alloy, and 1,500 Science**.
 *   **Price Ratio:** The building has a price ratio of 1.1.
 
