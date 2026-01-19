@@ -1,13 +1,32 @@
-<aside id="sidebar">
-  <nav class="sidebar-nav">
-    {{ $currentPage := . }}
-    {{ range .Site.Menus.main }}
-      <a 
-        class="sidebar-nav-item{{ if or ($currentPage.IsMenuCurrent `main` .) ($currentPage.HasMenuCurrent `main` .) }} active{{ end }}" 
-        href="{{ .URL | relURL }}"
-      >
-        {{ .Name }}
-      </a>
-    {{ end }}
-  </nav>
-</aside>
+  {{/*
+        This partial generates a list of "sibling" pages from the same section.
+      */}}
+
+      {{/* Store the current section in a variable for easier access */}}
+      {{ $currentSection := .CurrentSection }}
+
+      {{/*
+        Only show the sidebar list if there are other pages in the section.
+        We check if the number of pages is greater than 1.
+      */}}
+      {{len $currentSection.Pages  }}
+      {{/* if gt (len $currentSection.Pages)  */}}
+        <aside class="sidebar">
+          <h3>In this section</h3>
+          <ul>
+            {{ $sortedPagesDesc := sort $currentSection.Pages ".Title" "asc" }}
+            {{/* Loop through all pages in the current section */}}
+            {{ range $sortedPagesDesc }}
+              <li>
+                {{/*
+                  Add a special class if the link is for the page we are currently on.
+                  'eq' means 'equals'. We compare the page in the loop to the current page.
+                */}}
+                <a href="{{ .Permalink }}" class="{{ if eq . .Page }}active{{ end }}">
+                  {{ .Title }}
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        </aside>
+      {{/* end */}}
