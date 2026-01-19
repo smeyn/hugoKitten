@@ -2,3 +2,4 @@ kitten/public
 
 kitten/public/404.html
 src/target/
+*.bak
