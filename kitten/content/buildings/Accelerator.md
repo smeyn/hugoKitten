@@ -20,7 +20,7 @@ The Accelerator building is a vital component of the late-game resource chain, p
     *   **Production:** +0.0025 Uranium per Tick.
     *   [Energy:]( {{< relref "energy.md" >}}) It consumes **-2 Energy** per tick to operate.
 
-The Accelerator is one of the buildings whose output is considered "Conversion production" and can be boosted by policies like [Autocracy]( {{< relref "autocracy.md" >}}).
+The Accelerator is one of the buildings whose output is considered "Conversion production" and can be boosted by Policy/ like [Autocracy]( {{< relref "autocracy.md" >}}).
 
 ### 2. Strategic Role and Bottleneck Mitigation
 

@@ -27,7 +27,7 @@ Titanium can be produced domestically through industrial structures that convert
 
 *   [Calciners:]( {{< relref "buildings/Calciner.md" >}}) Titanium is refined from **oil and minerals** by Calciners. A single Calciner produces **+0.0005 Titanium per Tick**. This production can be significantly boosted by upgrades like [Oxidation]( {{< relref "upgrade/Oxidation.md" >}}) (+285%) and [Fluidized Reactors]( {{< relref "upgrade/Fluidized_Reactors.md" >}}) (+300%).
 *   [Smelters:]( {{< relref "buildings/Smelter.md" >}}) After researching [Nuclear Fission]( {{< relref "techs/Nuclear_Fission.md" >}}), the **Nuclear Smelter** upgrade allows Smelters to produce Titanium at a rate of **0.0015 per tick**.
-*   **Policy Boost:** The [Communism]( {{< relref "policies/Communism.md" >}}) policy provides a straight **+25% production boost** to iron, coal, and [titanium]( {{< relref "resource/titanium.md" >}}).
+*   **Policy Boost:** The [Communism]( {{< relref "Policy/Communism.md" >}}) policy provides a straight **+25% production boost** to iron, coal, and [titanium]( {{< relref "resource/titanium.md" >}}).
 
 ### 2. Strategic Uses and Cost
 

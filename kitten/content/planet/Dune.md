@@ -18,15 +18,15 @@ Dune is described as a large, lifeless planet covered by sand and volcanic rock.
 | **Travel Time** | 356 game-days (11 minutes, 52 seconds in real-time) |
 | **Unlocks** | Helios mission |
 
-### 2. Key Structures and Policies Unlocked
+### 2. Key Structures and Policy/ Unlocked
 
 Successful completion of the mission unlocks the Dune Planet and critical infrastructure:
 
-*   **Planet Cracker:** A vessel that generates Uranium (1.5/sec). Building this structure requires a significant investment in Starcharts: 1000 Starchart to reach Dune, and 2500 Starchart to build the cracker itself.
+*   [Planet Cracker:]( {{< relref "space/planet_cracker.md" >}}) A vessel that generates Uranium (1.5/sec). Building this structure requires a significant investment in Starcharts: 1000 Starchart to reach Dune, and 2500 Starchart to build the cracker itself.
 *   **Hydraulic Fracturer:** A structure that produces Oil (2.5/sec). Hydraulic Fracturers are generally not particularly effective until the [Space Manufacturing]( {{< relref "upgrade/Space_Manufacturing.md" >}}) upgrade is secured.
-*   **Spice Refinery:** Refines Dune sand into 'Spice' at a rate of 0.125/sec.
+*   [Spice Refinery:]( {{< relref "space/spice_refinery.md" >}}) Refines Dune sand into 'Spice' at a rate of 0.125/sec.
 
-Reaching Dune is also a prerequisite for unlocking several high-level Government policies, including [Technocracy]( {{< relref "policies/Technocracy.md" >}}), [Cosmological Libertarianism]( {{< relref "policies/Cosmological_Libertarianism.md" >}}), and [Order of the Stars]( {{< relref "policies/Order_of_the_Stars.md" >}}).
+Reaching Dune is also a prerequisite for unlocking several high-level Government Policy/, including [Technocracy]( {{< relref "Policy/Technocracy.md" >}}), [Cosmological Libertarianism]( {{< relref "Policy/Cosmological_Libertarianism.md" >}}), and [Order of the Stars]( {{< relref "Policy/Order_of_the_Stars.md" >}}).
 
 ### 3. Dune Astrological Cycle
 

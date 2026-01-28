@@ -38,7 +38,7 @@ Time Crystals are essential for advanced technological and religious progression
 
 Time Crystals play a unique role in game persistence and efficiency:
 
-*   **Reset Retention:** The Metaphysics upgrade **Anachronomancy** (Cost: 125 Paragon) ensures that **Time Crystals and the Chronophysics technology are saved across resets** [2, 14, 24, 25]. This capability is critical for accelerating future runs ("quick paragon farming runs") [26].
+*   **Reset Retention:** The Metaphysics upgrade [Anachronomancy]( {{< relref "metaphysics/Anachronomancy.md" >}}) (Cost: 125 Paragon) ensures that **Time Crystals and the Chronophysics technology are saved across resets** [2, 14, 24, 25]. This capability is critical for accelerating future runs ("quick paragon farming runs") [26].
 *   **Engine Goal:** Due to their importance in resets and late-game systems (Relics/Void), players aim to build up a large stockpile (20-30K TCs) to acquire upgrades like Resource Retrieval immediately after a reset, eliminating the slow initial grind for them [27].
 *   **Challenging Use:** The **1000 Years Challenge** is unlocked by shattering a Time Crystal and requires constant shattering (and associated TC costs) to advance the game's calendar to Year 1000 [20, 28].
 

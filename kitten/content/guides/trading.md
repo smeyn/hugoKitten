@@ -11,7 +11,7 @@ Here is a comprehensive breakdown of trading timelines and strategic considerati
 
 ### Early Game Trading (After Year 20)
 
-You can begin trading early, as the **Trade tab unlocks after 20 years of gameplay** when a Lizard arrives, offering to trade Wood for Minerals. This can be decreased to **Year 5** if you have more than 0 Karma, and even to **Year 1** with the [Diplomacy]( {{< relref "policies/Diplomacy.md" >}}) Metaphysics upgrade.
+You can begin trading early, as the **Trade tab unlocks after 20 years of gameplay** when a Lizard arrives, offering to trade Wood for Minerals. This can be decreased to **Year 5** if you have more than 0 Karma, and even to **Year 1** with the [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) Metaphysics upgrade.
 
 Trading is immediately useful for:
 
@@ -54,8 +54,8 @@ Trade rates are affected by seasons, making it optimal to trade certain resource
 In the end-game, trading remains the fastest way to acquire large amounts of [Blueprints]( {{< relref "resource/Blueprint.md" >}}) and facilitates rapid resets:
 
 *   **Fastest Reset Method:** Trading becomes the **fastest reset possible** once you have a massive Catpower stockpile. You can trade, acquire necessary Blueprints (which are needed for Chronospheres), and reset rapidly.
-*   **Leviathans (Relics and Time Crystals):** Once you acquire a [Black Pyramid]( {{< relref "ziggurat/Black_Pyramid.md" >}}), [Leviathans]( {{< relref "trade/Leviathans.md" >}}) appear and trade **Unobtainium** for advanced resources like **Time Crystals, Relics, and Sorrow**. This trade has no seasonal adjustment.
+*   **Leviathans (Relics and Time Crystals):** Once you acquire a [Black Pyramid]( {{< relref "ziggurat/Black_Pyramid.md" >}}), [Leviathans]( {{< relref "trade/Leviathans.md" >}}) appear and trade [Unobtainium]( {{< relref "resource/unobtainium.md" >}}) for advanced resources like **Time Crystals, Relics, and Sorrow**. This trade has no seasonal adjustment.
 
-In summary, you should start trading as soon as you meet the prerequisites (Gold and [Currency]( {{< relref "techs/Currency.md" >}}) technology), prioritize it in the **Titanium era** to secure Blueprints and Titanium from Zebras, and time your trades with Nagas, Griffins, and Sharks according to the **seasons** to maximize resource returns.
+In summary, you should start trading as soon as you meet the prerequisites (Gold and [Currency]( {{< relref "techs/Currency.md" >}}) technology), prioritize it in the **Titanium era** to secure Blueprints and Titanium from Zebras, and time your trades with Nagas, Griffins, and Sharks according to the [seasons]( {{< relref "guides/seasons.md" >}}) to maximize resource returns.
 
 Trading often acts as a supply chain bridge, like using a freight train to move large quantities of bulk goods needed for heavy industry, rather than trying to hand-carry every component.

@@ -14,7 +14,7 @@ Here are the specific actions and costs that reduce your Catpower:
 The primary and initial use of Catpower is for hunting:
 
 *   Each time you initiate a hunt (after researching [Archery]( {{< relref "archery.md" >}}) [1]), it costs **100 Catpower** [2, 3].
-*   Hunting allows you the chance to gather rare resources like **Furs** and **Ivory** [3, 4].
+*   Hunting allows you the chance to gather rare resources like [Furs]( {{< relref "resource/Fur.md" >}}) and [Ivory]( {{< relref "resource/ivory.md" >}}) [3, 4].
 
 ### 2. Consumption for Trade and Exploration
 

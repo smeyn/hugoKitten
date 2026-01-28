@@ -39,10 +39,10 @@ Catnip Fields are highly susceptible to the game's weather system, especially du
 
 ### Challenge and Policy Interactions
 
-Catnip Fields are affected by specific late-game policies and challenges:
+Catnip Fields are affected by specific late-game Policy/ and challenges:
 
 *   **Communism Policy:** This policy causes [Catnip Field]( {{< relref "catnip_field.md" >}}) production to become **-100% in cold winters**.
 *   **Winter Has Come Challenge:** When this challenge (which imposes endless winter) is active, Catnip production from fields **will not benefit from the paragon production bonus**. The increasing reward for completing this challenge increases the effect of Spring on Catnip Fields by 5% per run.
-*   **Post Apocalypse Challenge:** In this high-pollution scenario, [Catnip Fields]( {{< relref "buildings/Catnip_Field.md" >}}) may cost **unobtainium** at high pollution levels or with high numbers of broken cryochambers.
+*   **Post Apocalypse Challenge:** In this high-pollution scenario, [Catnip Fields]( {{< relref "buildings/Catnip_Field.md" >}}) may cost [unobtainium]( {{< relref "resource/unobtainium.md" >}}) at high pollution levels or with high numbers of broken cryochambers.
 
 In the early game, managing Catnip production from these fields is like stocking a simple pantry: you have to gather enough food during the bounty of spring and summer to ensure you have reserves large enough to survive the consumption during winter's famine.

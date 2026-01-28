@@ -33,7 +33,7 @@ def get_existing_files (source_dir:str)->set:
 
 
 
-def upgrade_file(path: str, source_dir, overwrite:bool, destination:str|None)->None:    
+def upgrade_file(path: str, source_dir, overwrite:bool, destination:str|None, backup:bool=False)->None:    
     """parse markdown file and replace bolded words with links to appropriate md file"""
     global nr_changes 
     nr_changes = 0
@@ -71,7 +71,7 @@ def upgrade_file(path: str, source_dir, overwrite:bool, destination:str|None)->N
     
     new_content = bold_regex.sub(replace_bold_with_link, content)
     if nr_changes == 0:
-        print (f"No changes made to {path}")
+        # print (f"No changes made to {path}")
         return
     if destination:
         if destination.endswith('.md'):
@@ -81,10 +81,11 @@ def upgrade_file(path: str, source_dir, overwrite:bool, destination:str|None)->N
     elif overwrite:
         target_file_path = full_path
         # rename existing
-        bak_path = full_path+'.bak'
-        while os.path.exists(bak_path):
-            bak_path = bak_path+'.bak'
-        os.rename(full_path, bak_path)
+        if backup:
+            bak_path = full_path+'.bak'
+            while os.path.exists(bak_path):
+                bak_path = bak_path+'.bak'
+            os.rename(full_path, bak_path)
     else:
         target_file_path = full_path + '.new'
     with open(target_file_path, 'w', encoding='utf-8') as f:
@@ -94,8 +95,8 @@ def upgrade_file(path: str, source_dir, overwrite:bool, destination:str|None)->N
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description="Process files for Hugo pages.")
-    parser.add_argument('file_pattern', type=str,
+    parser = argparse.ArgumentParser(description="Process files for Hugo pages. invoke like: `python3  src/upgrade.py guides/*.md  --overwrite`")
+    parser.add_argument('file_pattern', type=str, default='*.md',
                         help='Path to the file to process (relative to source dir).')
     parser.add_argument('--source_dir', type=str, default=SOURCE_DIR,
                         help='content directory.')
@@ -103,11 +104,17 @@ if __name__ == '__main__':
                         help='Overwrite existing files without prompting.')
     parser.add_argument('--dest', type=str,
                         help='destination for output')
+    parser.add_argument('--recursive',  action='store_true',
+                        help='destination for output')
+    parser.add_argument('--backup', type=str,
+                        help='backup original file')
     args = parser.parse_args()
-    
-    search_path = os.path.join(args.source_dir, args.file_pattern)
-    files_to_process = glob.glob(search_path, recursive=True)
-
+    print(args)
+    print(f"Source directory: {args.source_dir}")
+    print(f'path pattern: {os.path.join(args.source_dir, args.file_pattern)}')
+    search_path = os.path.join(args.source_dir,'**', args.file_pattern)
+    files_to_process = [path for path in glob.glob(search_path, recursive=True ) if not os.path.isdir(path)]
+    # files_to_process = [path for path in glob.glob(args.file_pattern, root_dir=args.source_dir, recursive=True ) if not os.path.isdir(path)]
     if not files_to_process:
         print(f'No files found matching "{args.file_pattern}" in {args.source_dir}')
     else:
@@ -115,4 +122,4 @@ if __name__ == '__main__':
         print(f"Overwrite mode: {args.overwrite}")
         for file_path in files_to_process:
             relative_path = os.path.relpath(file_path, args.source_dir)
-            upgrade_file(relative_path, args.source_dir, args.overwrite, args.dest)
+            upgrade_file(relative_path, args.source_dir, args.overwrite, args.dest, args.backup)

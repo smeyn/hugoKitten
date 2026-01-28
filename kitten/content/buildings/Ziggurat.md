@@ -37,7 +37,7 @@ The Ziggurat is the entry point to the "Unicorn/Time Crystal Era".
 
 ### 4. Upgrades and Synergies
 
-The Ziggurat interacts with other buildings and policies:
+The Ziggurat interacts with other buildings and Policy/:
 
 *   **Religious Synergy (Nagas):** The **Naga Relations: Cultists** policy (a Foreign policy) allows Ziggurats to **gain 10% of the bonuses The Order of the Sun grants to temples**.
 *   **Culture Capacity (Unicorn Graveyard):** The [Unicorn Graveyard]( {{< relref "unicorn_graveyard.md" >}}) building (unlocked by Megalomania/Black Codex) increases your culture maximum by **+1% per Ziggurat**.

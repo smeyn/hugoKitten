@@ -5,7 +5,7 @@ title = "T Minus"
 
 +++
 
-**T-minus** ($\text{⍝}$) refers to both a significant deep space mission destination and a recurring astronomical cycle in *Kittens Game*.
+[T-minus]( {{< relref "planet/T_Minus.md" >}}) (⍝) refers to both a significant deep space mission destination and a recurring astronomical cycle in *Kittens Game*.
 
 ### 1. T-Minus Space Mission and Structures
 
@@ -26,7 +26,7 @@ The Cryostation, unlocked by this mission, is a vast storage facility complex th
 T-minus ($\text{⍝}$) is one of the ten planetary cycles in the game's time system, lasting five years.
 
 *   **With Numerology:** When the **Numerology** upgrade is researched, the T-minus cycle affects space structures:
-    *   **Sunlifter** energy output is decreased by **$-50\%$**.
+    *   [Sunlifter]( {{< relref "space/sunlifter.md" >}}) energy output is decreased by **$-50\%$**.
     *   **Cryostation Storage** is increased by **$+20\%$**.
 *   **Festival Effect with Numeromancy:** Holding a festival during the T-minus cycle grants a $\times 2$ multiplier to **Oil income**.
 

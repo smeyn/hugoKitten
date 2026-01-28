@@ -23,7 +23,7 @@ Smelters are vital in the early-to-mid game because they provide the necessary r
     *   [Lumber Mills]( {{< relref "buildings/Lumber_Mill.md" >}}), which significantly boost Wood output.
     *   **Observatories**, required for Starchart generation.
 *   **Gold Production for Trade:** You must begin creating [Gold]( {{< relref "resource/Gold.md" >}}) before you can trade with other civilizations. Smelters enable Gold production once the [Gold Ore]( {{< relref "gold_ore.md" >}}) upgrade is researched in the Workshop.
-*   **Conversion Production:** Smelters are categorized as buildings that contribute to "Conversion production". Policies like [Autocracy]( {{< relref "autocracy.md" >}}) can boost the output of conversion production based on leader ranks and uncapped housing buildings.
+*   **Conversion Production:** Smelters are categorized as buildings that contribute to "Conversion production". Policy/ like [Autocracy]( {{< relref "autocracy.md" >}}) can boost the output of conversion production based on leader ranks and uncapped housing buildings.
 
 ### 3. Key Upgrades (Expanding Output)
 

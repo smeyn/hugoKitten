@@ -1,7 +1,7 @@
 +++
 date = 2025-12-07T22:47:58.307719+11:00
 draft = true
-title = "Lunar_outpost"
+title = "Lunar Outpost"
 
 +++
 

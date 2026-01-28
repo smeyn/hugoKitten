@@ -29,7 +29,7 @@ The AI Core is central to the very late-game progression involving high-level te
 
 ### 3. Upgrades and Policy Synergies
 
-The effectiveness of AI Cores can be enhanced through specific Workshop upgrades and Government policies:
+The effectiveness of AI Cores can be enhanced through specific Workshop upgrades and Government Policy/:
 
 *   [Machine Learning:]( {{< relref "machine_learning.md" >}}) This Workshop upgrade makes [Data Center]( {{< relref "data_center.md" >}}) effectiveness increase by **+10% per AI Core**. The effect is based on the *number* of AI Cores built, not the AI level.
 *   [AI Bases:]( {{< relref "ai_bases.md" >}}) This Workshop upgrade increases **Moon Base storage by +10% per AI Core**. The effect is also based on the number of AI Cores.

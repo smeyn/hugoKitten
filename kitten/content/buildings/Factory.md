@@ -17,7 +17,7 @@ Here is a comprehensive breakdown of the Factory:
     *   [Plate:]( {{< relref "resource/plate.md" >}}) 2500 units
     *   [Concrete:]( {{< relref "craft/Concrete.md" >}}) 15 units
 *   **Price Ratio:** The Factory has a price ratio of 1.15.
-*   **Policy Reduction:** The [Communism]( {{< relref "policies/Communism.md" >}}) policy makes factories **30% cheaper**.
+*   **Policy Reduction:** The [Communism]( {{< relref "Policy/Communism.md" >}}) policy makes factories **30% cheaper**.
 
 ### 2. Effects and Function
 
@@ -31,11 +31,11 @@ The Factory's primary effect is boosting crafting efficiency and consuming energ
 
 Factories are central to several mid-to-late-game scaling mechanics:
 
-*   **Policy Prerequisite:** Factories are required to unlock high-tier Government policies such as [Liberalism]( {{< relref "policies/Liberalism.md" >}}), [Communism]( {{< relref "policies/Communism.md" >}}), and [Fascism]( {{< relref "policies/Fascism.md" >}}).
-    *   If you choose the [Full Industrialization]( {{< relref "policies/Full_Industrialization.md" >}}) policy (which follows Strip Mining or Clear Cutting), the crafting bonus from Factories is further improved by **5%** (e.g., from +5% to +5.25%, or from +6% to +6.3% depending on upgrades). This policy is recommended from the second run onward, as players will be building many Factories.
+*   **Policy Prerequisite:** Factories are required to unlock high-tier Government Policy/ such as [Liberalism]( {{< relref "Policy/Liberalism.md" >}}), [Communism]( {{< relref "Policy/Communism.md" >}}), and [Fascism]( {{< relref "Policy/Fascism.md" >}}).
+    *   If you choose the [Full Industrialization]( {{< relref "Policy/Full_Industrialization.md" >}}) policy (which follows Strip Mining or Clear Cutting), the crafting bonus from Factories is further improved by **5%** (e.g., from +5% to +5.25%, or from +6% to +6.3% depending on upgrades). This policy is recommended from the second run onward, as players will be building many Factories.
 *   **Crafting Boost Upgrades:**
     *   The [Factory Logistics]( {{< relref "upgrade/Factory_Logistics.md" >}}) Workshop upgrade increases the craft bonus of Factories by an additional **+1%**.
-*   [Space Manufacturing:]( {{< relref "upgrade/Space_Manufacturing.md" >}}) The [Space Manufacturing]( {{< relref "upgrade/Space_Manufacturing.md" >}}) upgrade enables Factories to improve **Space Elevators** and **Orbital Arrays** by **3.75% per factory** (4.5% with Factory Logistics). This bonus is crucial because most production bonuses (like Paragon and Magnetos) do not apply to space structures, making Factories one of the few ways to increase space building production efficiency.
+*   [Space Manufacturing:]( {{< relref "upgrade/Space_Manufacturing.md" >}}) The [Space Manufacturing]( {{< relref "upgrade/Space_Manufacturing.md" >}}) upgrade enables Factories to improve [Space Elevators]( {{< relref "space/space_elevator.md" >}}) and [Orbital Arrays]( {{< relref "space/orbital_array.md" >}}) by **3.75% per factory** (4.5% with Factory Logistics). This bonus is crucial because most production bonuses (like Paragon and Magnetos) do not apply to space structures, making Factories one of the few ways to increase space building production efficiency.
 *   **Oil and Refinement:** The [Factory Processing]( {{< relref "upgrade/Factory_Processing.md" >}}) upgrade, unlocked by Oil Processing Science, causes every Factory to increase oil refinement effectiveness by **5%**. Factories also help oil production once the **Hydraulic Fracturers** are employed (unlocked by the Dune Mission).
 *   **Pollution Mitigation:** The [Carbon Sequestration]( {{< relref "upgrade/Carbon_Sequestration.md" >}}) upgrade allows Factories to capture pollution from the atmosphere instead of creating it by consuming 4Wt of energy per Factory, reducing pollution by 2 points per tick.
 

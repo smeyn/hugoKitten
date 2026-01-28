@@ -30,15 +30,15 @@ Civilizations have fixed starting attitudes once discovered:
 
 ### Modifying and Mitigating Attitude
 
-You can improve your relations (often referred to as standing or mitigating hostility) through various upgrades and policies:
+You can improve your relations (often referred to as standing or mitigating hostility) through various upgrades and Policy/:
 
 *   **Trade Depots and Caravanserai:** Purchasing **Trade Depots** allows you to unlock the [Caravanserai]( {{< relref "upgrade/Caravanserai.md" >}}) upgrade, which directly improves race relations. Each Tradepost improves standing by giving a flat **0.35% chance decrease to the hostile event probability** and a **0.175% increase to the friendly event probability**. For example, 85 Tradeposts are required to negate the chance that Zebras will hate you.
-*   **Diplomacy Metaphysics Upgrade:** The [Diplomacy]( {{< relref "policies/Diplomacy.md" >}}) upgrade (costing 5 Paragon) improves standing ratio by 10 and causes races to be discovered earlier (unlock year reduced from 5 to 1). With this upgrade, only **58 Tradeposts** are required to negate the Zebras' hostility chance.
-*   **Policies:**
+*   **Diplomacy Metaphysics Upgrade:** The [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) upgrade (costing 5 Paragon) improves standing ratio by 10 and causes races to be discovered earlier (unlock year reduced from 5 to 1). With this upgrade, only **58 Tradeposts** are required to negate the Zebras' hostility chance.
+*   **Policy/:**
     *   **Zebra Relations: Appeasement** (5,000 Culture) is often highly recommended as it improves relations with Zebras, equivalent to **15 extra tradeposts**, specifically because players are often desperate for titanium acquired through this trade.
     *   **Zebra Relations: Bellicosity** (5,000 Culture) worsens relations with Zebras (equivalent to -10 tradeposts) but grants better relations with everyone else (equivalent to +5 tradeposts).
-    *   [Diplomacy]( {{< relref "policies/Diplomacy.md" >}}) (Foreign Policy) makes trades cheaper in terms of catpower, which is generally preferred over [Isolationism]( {{< relref "policies/Isolationism.md" >}}) for accessing better future policies, even though Isolationism reduces gold cost.
-    *   [Outer Space Treaty]( {{< relref "policies/Outer_Space_Treaty.md" >}}) improves relations with all trading partners, equivalent to 10 tradeposts.
+    *   [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) (Foreign Policy) makes trades cheaper in terms of catpower, which is generally preferred over [Isolationism]( {{< relref "Policy/Isolationism.md" >}}) for accessing better future Policy/, even though Isolationism reduces gold cost.
+    *   [Outer Space Treaty]( {{< relref "Policy/Outer_Space_Treaty.md" >}}) improves relations with all trading partners, equivalent to 10 tradeposts.
 *   **Embassies:** Building embassies with neutral races (like Nagas) will have a small effect on their attitude, potentially causing them to become Friendly. They also increase the chance to receive Spice, with no diminishing returns.
 
 A hostile civilization, such as the Zebras, can be compared to negotiating a necessary but high-risk trade deal. You accept the initial negative attitude and must spend significant resources (like building Tradeposts) to ensure they reliably deliver the crucial resources (like Titanium) instead of running off with your materials.

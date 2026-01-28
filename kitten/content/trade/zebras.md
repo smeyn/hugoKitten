@@ -24,11 +24,11 @@ Zebras are primarily sought after for their critical resource exports:
 *   **Seasonal Optimization:** Trades are best conducted during **Summer** for Iron (+15% amount modifier) and **Winter** for Plate (+25% amount modifier).
 *   **Strategic Goal:** In the Titanium era, the focus often becomes **trading with Zebras non stop** to acquire **Titanium and Iron**. This trade is crucial for unlocking titanium-heavy technologies and buildings.
 
-### Policies and Upgrades
+### Policy/ and Upgrades
 
-Zebras are associated with several policies and specialized upgrades:
+Zebras are associated with several Policy/ and specialized upgrades:
 
-*    After meeting the Zebras, you must choose between two foreign policies:
+*    After meeting the Zebras, you must choose between two foreign Policy/:
     *   **Zebra Relations: Appeasement** (5000 Culture): This policy is generally preferred because it improves relations (equivalent to 15 extra tradeposts) and provides a multiplicative boost to the titanium trade ratio (equivalent to 15 tradeposts). It is highly recommended because players are often **desperate for titanium**.
     *   **Zebra Relations: Bellicosity** (5000 Culture): This policy worsens relations with Zebras but slightly improves relations with other races.
 *    There are several buildings associated with this race, including the [Zebra Outpost]( {{< relref "buildings/Zebra_Outpost.md" >}}), [Zebra Workshop]( {{< relref "buildings/Zebra_Workshop.md" >}}), and [Zebra Forge]( {{< relref "buildings/Zebra_Forge.md" >}}). Additionally, the workshop upgrade [Minerology Department]( {{< relref "zebraUpgrades/Minerology_department.md" >}}) is a Zebra upgrade for Academies.
@@ -37,7 +37,7 @@ Zebras are associated with several policies and specialized upgrades:
 
 In the specialized **Iron Will** challenge (a mode played without kittens or housing), Zebras adopt a unique and critical function:
 
-*   **Job Replacement:** In IW mode, [Zebras]( {{< relref "trade/zebras.md" >}}) are categorized as a **Special Resource** that acts as [hunters]( {{< relref "job/Hunter.md" >}}) to replace the absent kitten population, generating **Catpower**. Catpower is essential for hunting, which yields [Gold]( {{< relref "resource/Gold.md" >}}) (due to the Gold Ore upgrade effect in IW mode) and **Ivory**.
+*   **Job Replacement:** In IW mode, [Zebras]( {{< relref "trade/zebras.md" >}}) are categorized as a **Special Resource** that acts as [hunters]( {{< relref "job/Hunter.md" >}}) to replace the absent kitten population, generating **Catpower**. Catpower is essential for hunting, which yields [Gold]( {{< relref "resource/Gold.md" >}}) (due to the Gold Ore upgrade effect in IW mode) and [Ivory]( {{< relref "resource/ivory.md" >}}).
 *   **Acquisition:** You gain one zebra after researching [Archery]( {{< relref "techs/Archery.md" >}}). Players often perform **short reset runs (6 to 10 runs)** solely to rush Archery and accumulate .
 *   **Zebra Limit:** The maximum zebra limit can be increased by **1** every time you research [Archery]( {{< relref "techs/Archery.md" >}}) and reset (up to 10 or 11 initially). The limit also increases based on the amount of science spent in the previous run.
 *    While a higher zebra count is desired to speed up hunting and catpower generation, diminishing returns on catpower production start to set in .

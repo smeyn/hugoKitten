@@ -33,11 +33,11 @@ The Nagas primarily trade minerals in exchange for Ivory:
 2.  **Trade Loop:** The minerals acquired from Nagas in exchange for Ivory can be immediately reinvested. These minerals can be put back into your [Smelters]( {{< relref "buildings/Smelter.md" >}}) to produce more **Gold**, which is required to cover trade costs and build other structures.
 3.  **Blueprint Acquisition:** Like all trades, a successful trade with Nagas has a **10% chance of including one Blueprint** as an extra resource. This is a fixed rate unaffected by general trade bonuses.
 
-### Related Policies and Upgrades (Naga Relations)
+### Related Policy/ and Upgrades (Naga Relations)
 
-The **Naga Relations** foreign policies become available after reaching Embassy Level 20 and researching the [Diplomacy]( {{< relref "policies/Diplomacy.md" >}}) metaphysics upgrade.
+The **Naga Relations** foreign Policy/ become available after reaching Embassy Level 20 and researching the [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) metaphysics upgrade.
 
 *   **Naga Relations: Architects:** This policy increases the chance to get **blueprints from Nagas by 0.25%** per embassy, capping at **10% at 40 embassies**. Once the maximum bonus is reached, additional embassies improve the blueprint crafting ratio by +2% instead.
 *   **Naga Relations: Masons:** This policy grants a **+2.5% Quarry slab crafting bonus**.
 *   **Naga Relations: Cultists:** This policy causes [Ziggurat]( {{< relref "buildings/Ziggurat.md" >}}) to gain **10% of the bonuses** that the **Order of the Sun** grants to temples.
-*   **Isolationism Path:** The policy choice [Isolationism]( {{< relref "policies/Isolationism.md" >}}) over Diplomacy may be preferred for the **additional naga exchanges**.
+*   **Isolationism Path:** The policy choice [Isolationism]( {{< relref "Policy/Isolationism.md" >}}) over Diplomacy may be preferred for the **additional naga exchanges**.

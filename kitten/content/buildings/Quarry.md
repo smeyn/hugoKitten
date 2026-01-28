@@ -22,7 +22,7 @@ Quarries are essential for the transition into the space era through two specifi
 *   [Enriched Uranium:]( {{< relref "upgrade/Enriched_Uranium.md" >}}) This upgrade provides a **+25% bonus** specifically to the uranium production rate of Quarries.
 
 ### **Policy Interactions**
-The effectiveness of Quarries can be modified by foreign relations policies:
+The effectiveness of Quarries can be modified by foreign relations Policy/:
 *   **Naga Relations: Masons:** This policy provides a **+2.5% bonus to slab crafting** when using Quarries. This is unlocked by reaching Naga Embassy level 20 and owning the Diplomacy metaphysics upgrade.
 
 ### **Strategic Utility**

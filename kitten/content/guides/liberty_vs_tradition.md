@@ -5,9 +5,9 @@ title = "Liberty_vs_tradition"
 
 +++
 
-The choice between the [Liberty]( {{< relref "liberty.md" >}}) and [Tradition]( {{< relref "tradition.md" >}}) policies in *Kittens Game* represents an early decision regarding how your civilization addresses population growth, resource management, and scientific advancement. Both policies become available once you have researched [Writing]( {{< relref "writing.md" >}}) and both cost **150 Culture**.
+The choice between the [Liberty]( {{< relref "liberty.md" >}}) and [Tradition]( {{< relref "tradition.md" >}}) Policy/ in *Kittens Game* represents an early decision regarding how your civilization addresses population growth, resource management, and scientific advancement. Both Policy/ become available once you have researched [Writing]( {{< relref "writing.md" >}}) and both cost **150 Culture**.
 
-This choice is particularly important because once one is selected, the other is locked out, and this initial decision influences the subsequent **Government policies** you can pursue.
+This choice is particularly important because once one is selected, the other is locked out, and this initial decision influences the subsequent **Government Policy/** you can pursue.
 
 Here is a comparison of their purpose, effects, and strategic recommendations:
 

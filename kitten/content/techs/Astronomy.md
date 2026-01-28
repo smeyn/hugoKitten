@@ -22,7 +22,7 @@ The research of Astronomy unlocks essential buildings and the resources needed f
     *   They also improve the chance of getting science and starcharts from external events, increasing the **Astronomical Event Chance** by +0.2% and the **Automatic Event Observation Chance** by +1%.
 2.  **Starcharts:** Astronomy enables [starcharts]( {{< relref "resource/star_charts.md" >}}) . Starcharts are categorized as an Uncommon Resource, found by observing rare astronomical events.
 3.  [Navigation:]( {{< relref "techs/Navigation.md" >}}) Astronomy unlocks the next key technology, [Navigation]( {{< relref "techs/Navigation.md" >}}). Navigation subsequently unlocks other crucial techs like Architecture, Physics, and Geology.
-4.  **Policies:** Astronomy, in conjunction with the Diplomacy policy, unlocks foreign policies such as [Knowledge Sharing]( {{< relref "policies/Knowledge_Sharing.md" >}}) and [Cultural Exchange]( {{< relref "policies/Cultural_Exchange.md" >}}).
+4.  **Policy/:** Astronomy, in conjunction with the Diplomacy policy, unlocks foreign Policy/ such as [Knowledge Sharing]( {{< relref "Policy/Knowledge_Sharing.md" >}}) and [Cultural Exchange]( {{< relref "Policy/Cultural_Exchange.md" >}}).
 
 ### Strategic Importance
 

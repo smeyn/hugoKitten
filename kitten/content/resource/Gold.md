@@ -47,7 +47,7 @@ Late-game advanced production and prestige mechanics also influence Gold capacit
 
 Increasing Gold storage is necessary because Gold is used extensively:
 
-*   [Trading:]( {{< relref "guides/trading.md" >}}) Gold is required for trading with civilizations [14], and the [Isolationism]( {{< relref "policies/Isolationism.md" >}}) policy reduces the Gold cost per trade by 1 [15].
+*   [Trading:]( {{< relref "guides/trading.md" >}}) Gold is required for trading with civilizations [14], and the [Isolationism]( {{< relref "Policy/Isolationism.md" >}}) policy reduces the Gold cost per trade by 1 [15].
 *   **Building:** Gold is needed to construct high-tier buildings like [Temples]( {{< relref "buildings/Temple.md" >}}) [16, 17], [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}) [2, 18], and [Mints]( {{< relref "buildings/Mint.md" >}}) [2].
 *   **Upgrades:** Gold is a component cost for several religious upgrades, such as [Golden Spire]( {{< relref "religion/Golden_Spire.md" >}}), [Sun Altar]( {{< relref "religion/Sun_Altar.md" >}}), [Stained Glass]( {{< relref "religion/Stained_Glass.md" >}}), [Solar Revolution]( {{< relref "religion/Solar_Revolution.md" >}}), [Basilica]( {{< relref "religion/Basilica.md" >}}), [Templars]( {{< relref "religion/Templars.md" >}}), **Apocrypha**, and [Transcendence]( {{< relref "religion/Transcendence.md" >}}) [19-22].
 

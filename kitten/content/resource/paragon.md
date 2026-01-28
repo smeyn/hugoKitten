@@ -26,15 +26,15 @@ Key Metaphysics upgrades and their Paragon costs include:
 
 | Upgrade Category | Upgrade Name | Paragon Cost | Purpose/Effect |
 | :--- | :--- | :--- | :--- |
-| **Price Ratio Reduction** | **Enlightenment** | 5 [6] | Reduces all price ratios by 1% [6]. |
-| | **Golden Ratio** | 50 [9] | Reduces price ratios by approximately 1.618% [9]. |
+| **Price Ratio Reduction** | [Enlightenment]( {{< relref "metaphysics/Enlightenment.md" >}}) | 5 [6] | Reduces all price ratios by 1% [6]. |
+| | [Golden Ratio]( {{< relref "metaphysics/Golden_Ratio.md" >}}) | 50 [9] | Reduces price ratios by approximately 1.618% [9]. |
 | | **Divine Proportion** | 100 [10] | Reduces price ratios by approximately 1.777% [10]. |
 | | **Vitruvian Feline** | 250 [10] | Reduces price ratios by 2% [10]. |
 | | **Renaissance** | 750 [10] | Reduces price ratios by 2.25% [10]. |
-| **QoL/Progression** | [Diplomacy]( {{< relref "diplomacy.md" >}}) | 5 [10] | Races are discovered earlier and with better standing [10]. |
-| | **Anachronomancy** | 125 [11] | Saves **Time Crystals and Chronophysics** technology across resets [11]. |
-| | **Megalomania** | 10 [9] | Unlocks late-game Unicorn mechanics (Markers and Black Pyramids) [9]. |
-| | **Adjustment Bureau** | 5 [12] | Unlocks **Challenges** [12, 13]. |
+| **QoL/Progression** | [Diplomacy]( {{< relref "metaphysics/diplomacy.md" >}}) | 5 [10] | Races are discovered earlier and with better standing [10]. |
+| | [Anachronomancy]( {{< relref "metaphysics/Anachronomancy.md" >}}) | 125 [11] | Saves **Time Crystals and Chronophysics** technology across resets [11]. |
+| | [Megalomania]( {{< relref "metaphysics/Megalomania.md" >}}) | 10 [9] | Unlocks late-game Unicorn mechanics (Markers and Black Pyramids) [9]. |
+| | [Adjustment Bureau]( {{< relref "metaphysics/Adjustment_Bureau.md" >}}) | 5 [12] | Unlocks **Challenges** [12, 13]. |
 
 ### Effects on Production and Storage
 

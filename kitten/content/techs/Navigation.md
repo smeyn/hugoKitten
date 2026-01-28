@@ -11,7 +11,7 @@ title = "Navigation"
 
 *   **Prerequisite and Cost:** Navigation is unlocked by researching [Astronomy]( {{< relref "techs/Astronomy.md" >}}). Researching it requires **35,000 Science** and **100 Manuscript**.
 *   **Scientific Path:** Successfully researching Navigation unlocks the next three critical technology branches: **Architecture, Physics, and Geology**.
-*   **Strategic Timing:** Players are advised to research **Navigation Science** once they have accumulated **25 Starcharts**. The policy [Clear Cutting]( {{< relref "policies/Clear_Cutting.md" >}}) is often recommended beforehand to provide the necessary **Wood** for the buildings and ships unlocked by Navigation.
+*   **Strategic Timing:** Players are advised to research **Navigation Science** once they have accumulated **25 Starcharts**. The policy [Clear Cutting]( {{< relref "Policy/Clear_Cutting.md" >}}) is often recommended beforehand to provide the necessary **Wood** for the buildings and ships unlocked by Navigation.
 
 ### Key Unlocks
 

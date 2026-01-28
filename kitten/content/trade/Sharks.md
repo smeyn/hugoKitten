@@ -10,7 +10,7 @@ The [Sharks]( {{< relref "trade/Sharks.md" >}}) are a pivotal trading civilizati
 ### Trading Profile and Unlocking
 
 *   [Attitude:]( {{< relref "trade/Attitude.md" >}}) Sharks are a **Neutral (0%)** civilization.
-*   **Discovery:** They can be discovered after **20 years of game play**, though this is reduced to **Year 5** if you have Karma, or **Year 1** with the [Diplomacy]( {{< relref "policies/Diplomacy.md" >}}) Metaphysics upgrade.
+*   **Discovery:** They can be discovered after **20 years of game play**, though this is reduced to **Year 5** if you have Karma, or **Year 1** with the [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) Metaphysics upgrade.
 *   **Trade Currency:** Like all civilizations, trading requires you to first develop the [Gold Ore]( {{< relref "upgrade/Gold_Ore.md" >}}) upgrade in the Workshop.
 
 ### Primary Trade and Seasonal Optimization
@@ -39,9 +39,9 @@ Sharks are essential in a powerful industrial trade loop, often paired with the 
 
 This trading loop is a "great way to start collecting wood, [steel]( {{< relref "craft/Steel.md" >}}), [gears]( {{< relref "craft/Gear.md" >}}), and [blueprints]( {{< relref "resource/Blueprint.md" >}}) for [Steamworks]( {{< relref "buildings/Steamworks.md" >}})".
 
-### Advanced Policies
+### Advanced Policy/
 
-If you reach Embassy Level 20 and have the [Diplomacy]( {{< relref "policies/Diplomacy.md" >}}) Metaphysics upgrade, you unlock specific Shark Relations policies that further enhance resource production and trade efficiency:
+If you reach Embassy Level 20 and have the [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) Metaphysics upgrade, you unlock specific Shark Relations Policy/ that further enhance resource production and trade efficiency:
 
 *    Increases Parchment and Manuscript trade chance, but raises the Iron cost per trade by 50%.
 *    Boosts trade ratio, starting at +3% and scaling multiplicatively up to +30% based on the total trades completed.

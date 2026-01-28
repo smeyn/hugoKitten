@@ -1,0 +1,43 @@
++++
+date = '2025-11-29T17:30:56+11:00'
+draft = true
+title = 'Machinery vs Steel'
++++
+The choice between researching **Machinery** versus **Steel** in *Kittens Game* involves prioritizing different aspects of technological advancement and economic development during the mid-game phase, after researching **Writing**.
+
+Machinery and Steel are considered "specialist Techs that won’t help you much right now" when Philosophy is the immediate priority to continue down the path of new science Techs like Theology. However, both are important for long-term growth.
+
+Here is a comparison of the two technologies based on the sources:
+
+### Steel Technology
+
+*   **Cost and Prerequisite:** Steel costs **12,000 Science** and is unlocked by **Writing**.
+*   **Effect/Unlocks:**
+    *   It **enables the resource Steel**, which is crafted from 100 Iron and 100 Coal.
+    *   It unlocks several key **Workshop Upgrades**, including:
+        *   **Steel Axe** (50% more effective Woodcutters).
+        *   **Reinforced Warehouses** (25% more storage for various resources).
+        *   **Coal Furnace** (Smelters produce 0.005 coal/tick while burning wood).
+        *   **Deep Mining** (Mines produce 0.003 coal/tick).
+        *   **High Pressure Engine** (reduces Steamworks coal consumption by 20%).
+        *   **Steel Armour** (Hunting bonus +0.5).
+*   **Strategic Importance:** A general strategy suggests starting with **Steel** to get some useful upgrades that make your economy stronger. Acquiring Steel allows you to craft **Steel**, a composite part needed for Gears and complex machinery. You will need Steel later for construction, such as building Lumber Mills (which require Iron, and are needed to increase Wood output).
+
+### Machinery Technology
+
+*   **Cost and Prerequisite:** Machinery costs **15,000 Science** and is unlocked by **Writing**.
+*   **Effect/Unlocks:**
+    *   It **unlocks the Steamworks building**.
+    *   It unlocks Workshop Upgrades, including:
+        *   **Printing Press** (Steamworks automatically prints manuscripts).
+        *   **Workshop Automation** (Steamworks converts small quantities of wood/minerals to beams/slabs annually if resource is near cap).
+        *   **Crossbow** (25% boost to catpower production from Hunters).
+*   **Strategic Importance:** Machinery is valuable because it unlocks **Steamworks**. Steamworks consumes Coal to produce various handy items, including Manuscripts via the **Printing Press** upgrade. Acquiring Machinery allows for a way to automatically make manuscripts, and provides a hunting upgrade.
+
+### Strategic Takeaways
+
+1.  **Prioritization:** It is suggested to research **Steel** first to boost economic efficiency via storage and production upgrades, then **Machinery** for automation and manuscript generation, before finally tackling **Philosophy** for Temples and Theology.
+2.  **Manufacturing:** Steel is a necessary material for creating **Gears**. Gears, along with Steel and a Blueprint, are required to build a **Steamworks**, which is unlocked by Machinery.
+3.  **Manuscripts:** While Philosophy leads to Theology (which requires Manuscripts), Steamworks (unlocked by Machinery) can automate manuscript production via the Printing Press upgrade.
+
+In essence, **Steel** provides necessary structural components and early resource bonuses, while **Machinery** unlocks advanced automation and specialized buildings (Steamworks).

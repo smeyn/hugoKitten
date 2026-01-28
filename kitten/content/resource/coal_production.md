@@ -1,11 +1,11 @@
 +++
 date = 2025-12-02T06:42:37.770719+11:00
-draft = true
-title = "Coal_production"
+draft = false
+title = "Coal Production"
 
 +++
 
-Increasing [coal production]( {{< relref "coal_production.md" >}}) in *Kittens Game* involves advancing your technology to unlock specialized buildings, employing Geologists, and utilizing late-game upgrades and policies.
+Increasing [coal production]( {{< relref "coal_production.md" >}}) in *Kittens Game* involves advancing your technology to unlock specialized buildings, employing Geologists, and utilizing late-game upgrades and Policy/.
 
 Here are the primary methods for boosting coal production, drawing upon the available sources:
 
@@ -33,12 +33,12 @@ The [Geologist]( {{< relref "geologist.md" >}}) job is a dedicated profession fo
 
 In the late game, once [Geodesy]( {{< relref "geodesy.md" >}}) is researched, your kittens working as Geologists become the main source of coal, iron, and titanium (via trades) [11].
 
-### 3. Policies and Cycles (Multipliers)
+### 3. Policy/ and Cycles (Multipliers)
 
-Specific late-game policies and timing mechanisms can provide percentage bonuses to coal income:
+Specific late-game Policy/ and timing mechanisms can provide percentage bonuses to coal income:
 
 *   **Communism Policy:** Choosing the [Communism]( {{< relref "communism.md" >}}) policy (unlocked by building a Factory and having Autocracy or Republic [12]) grants a **+25% iron, coal, and titanium production** bonus [12].
-*   **Umbra Cycle Festival:** If you have researched **Numeromancy**, holding a festival during the **Umbra cycle** (which lasts 5 years) multiplies **coal, iron, titanium, and gold income by 1.5** [13].
+*   **Umbra Cycle Festival:** If you have researched [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}), holding a festival during the [Umbra cycle]( {{< relref "Cycles/Umbra_Cycle.md" >}}) (which lasts 5 years) multiplies **coal, iron, titanium, and gold income by 1.5** [13].
 
 ### 4. External Acquisition
 

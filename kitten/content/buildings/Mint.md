@@ -5,7 +5,7 @@ title = "Mint"
 
 +++
 
-The [Mint]( {{< relref "buildings/Mint.md" >}}) is a crucial mid-to-late-game building in *Kittens Game*, primarily focused on increasing gold storage and generating rare resources, specifically **Furs** and **Ivory**.
+The [Mint]( {{< relref "buildings/Mint.md" >}}) is a crucial mid-to-late-game building in *Kittens Game*, primarily focused on increasing gold storage and generating rare resources, specifically [Furs]( {{< relref "resource/Fur.md" >}}) and [Ivory]( {{< relref "resource/ivory.md" >}}).
 
 Here is a comprehensive breakdown of the Mint, including its prerequisites, costs, effects, and strategic usage:
 
@@ -42,5 +42,5 @@ Mints play a key role in the mid-to-late game, especially for automation and pre
 *   **Catpower Scaling:** Since Mint production scales with **maximum Catpower capacity**, continued investment in structures that boost Catpower (like [Temples]( {{< relref "buildings/Temple.md" >}}) and [Templars]( {{< relref "religion/Templars.md" >}})) and cheap housing is mandated to maintain maximum output.
 *   **Blueprint Generation:** In the hyper-speed "quick chrono-reset" endgame phase, the focus shifts to **Mints for blueprint generation**. Mints generate Furs, which can be crafted into Parchment, and subsequently into Manuscripts, Compendiums, and finally Blueprints. This method is preferred over hunting/crafting because Mints do not spend catpower, allowing it to grow for later use.
 *   **Gold Acquisition:** Mints are production-boosting buildings that increase gold storage capacity. Gold is a necessary input for building [Temples]( {{< relref "buildings/Temple.md" >}}) (for Faith/Culture) and [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}) (for trade effectiveness).
-*   **Policy Interaction:** The [Frugality]( {{< relref "policies/Frugality.md" >}}) policy (part of the Stoicism philosophy tree) directly impacts Mints by making them **10% more effective at producing resources**.
+*   **Policy Interaction:** The [Frugality]( {{< relref "Policy/Frugality.md" >}}) policy (part of the Stoicism philosophy tree) directly impacts Mints by making them **10% more effective at producing resources**.
 *   **Usage Advice:** Experts advise running Mints when you are idling to stockpile Furs, but to **turn them off when you are active** to manage resource consumption. Furthermore, Mints, like Steamworks, are generally structures you should only use when away from your computer in the mid-game, as they can limit coal production.

@@ -32,7 +32,7 @@ Leviathans are unique traders because their trade amounts are not affected by se
 The amount of resources the Leviathans provide is influenced by their **energy level**:
 
 *   The amount of resources they give is increased by **2% for each energy** they have. This bonus stacks **multiplicatively** with other trading bonuses.
-*   **Leviathan Energy Cap Boost:** The [Necrocracy]( {{< relref "policies/Necrocracy.md" >}}) policy increases the Leviathan Energy Cap Boost by 5%.
+*   **Leviathan Energy Cap Boost:** The [Necrocracy]( {{< relref "Policy/Necrocracy.md" >}}) policy increases the Leviathan Energy Cap Boost by 5%.
 *   **Boosting Energy:** Leviathan energy increases when they are fed Necrocorns. The [Black Radiance]( {{< relref "transcendence/Black_Radiance.md" >}}) Cryptotheology upgrade increases the alicorn corruption rate, which is based on the number of Black Radiances and the amount of Sorrow, thereby accelerating the production of Necrocorns needed to feed the Leviathans.
 *   **Strategic Optimization:** Maximizing Leviathan energy is key to maximizing the **Time Crystals per trade**. Getting several hundred Leviathan energy can boost the Time Crystals per trade well above 10.
 
@@ -40,6 +40,6 @@ The amount of resources the Leviathans provide is influenced by their **energy l
 
 *   **Time Crystal Farming:** Trading with Leviathans is, by far, the fastest way to get Time Crystals (roughly **30 times faster** than accumulating Alicorns in the late game).
 *   **Relic Acquisition:** They provide [Relics]( {{< relref "resource/relic.md" >}}), which are needed for later technologies, buildings, and antimatter production.
-*    Making a single trade with the Leviathans is a prerequisite for unlocking major late-game Government policies, including [Necrocracy]( {{< relref "policies/Necrocracy.md" >}}), [Transkittenism]( {{< relref "policies/Transkittenism.md" >}}), and [Radical Xenophobia]( {{< relref "policies/Radical_Xenophobia.md" >}}).
+*    Making a single trade with the Leviathans is a prerequisite for unlocking major late-game Government Policy/, including [Necrocracy]( {{< relref "Policy/Necrocracy.md" >}}), [Transkittenism]( {{< relref "Policy/Transkittenism.md" >}}), and [Radical Xenophobia]( {{< relref "Policy/Radical_Xenophobia.md" >}}).
 *    Leviathan trades are part of the process for establishing the quickest reset possible. The ability to quickly trade Unobtainium for Time Crystals accelerates the paragon farming loop.
 *   **Black Sky Challenge:** The **Black Sky Challenge** (a difficult end-game challenge) is unlocked when Leviathans appear. If you complete this challenge, the Elders come early, acting as a free Black Pyramid.

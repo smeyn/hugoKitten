@@ -32,4 +32,4 @@ When the Cath cycle is active, it provides several bonuses and a specific penalt
 
 **Festival Effect with Numeromancy:**
 
-If the advanced **Numeromancy** upgrade is researched, holding a festival during the Cath cycle grants a significant $\times 2$ multiplier to **Catpower income**.
+If the advanced [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) upgrade is researched, holding a festival during the Cath cycle grants a significant $\times 2$ multiplier to **Catpower income**.

@@ -34,4 +34,4 @@ Kairo is one of the ten planetary cycles in the game's time system, lasting five
     *   **Space Beacon starchart production** is boosted by **+400%**.
     *   Space Elevator transfer production bonus (oil only) is decreased by $-50\%$.
     *   Satellite starchart production, Satellite observatory’s science bonus, and Space Station science bonus are all decreased by $-25\%$.
-*   **Festival Effect with Numeromancy:** If the **Numeromancy** upgrade is researched, holding a festival during the Kairo cycle provides a powerful **$\times 5$ multiplier to Starchart income**.
+*   **Festival Effect with Numeromancy:** If the [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) upgrade is researched, holding a festival during the Kairo cycle provides a powerful **$\times 5$ multiplier to Starchart income**.

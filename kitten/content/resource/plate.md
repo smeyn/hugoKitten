@@ -27,7 +27,7 @@ Since Plate production is capped by your Iron supply, effective production requi
     *   [Fluidized Reactors]( {{< relref "upgrade/Fluidized_Reactors.md" >}}) boost Calciner output by +100% more iron.
     *   [Oxidation]( {{< relref "upgrade/Oxidation.md" >}}) increases Calciner iron production by +95%.
     *   The [Rotary Kiln]( {{< relref "upgrade/Rotary_Kiln.md" >}}) also provides a +75% increase to Calciner iron output.
-*   **Policies:** The [Communism]( {{< relref "policies/Communism.md" >}}) policy grants a +25% increase to iron production. The [Rationality]( {{< relref "policies/Rationality.md" >}}) policy grants a +5% iron production bonus.
+*   **Policy/:** The [Communism]( {{< relref "Policy/Communism.md" >}}) policy grants a +25% increase to iron production. The [Rationality]( {{< relref "Policy/Rationality.md" >}}) policy grants a +5% iron production bonus.
 *   **Trade:** Iron can be acquired directly by trading with other races. For example, [Griffins]( {{< relref "trade/Griffins.md" >}}) sell Iron for Wood, and [Zebras]( {{< relref "trade/zebras.md" >}}) sell Iron for Slab.
 
 ### 3. Automated Conversion and Trade Acquisition

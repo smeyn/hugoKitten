@@ -34,7 +34,7 @@ Piscine ($\text{⎈}$) is one of the ten planetary cycles in the time system, ea
 *   **Numerology Effect:** With the **Numerology** upgrade, the Piscine cycle offers contrasting effects on space production:
     *   **Research Vessel starchart production** is boosted by **+50%**.
     *   **Hydroponics Catnip Production** is decreased by **-50%**.
-*   **Festival Effect (Numeromancy):** If the **Numeromancy** upgrade is researched, holding a festival during the Piscine cycle grants a powerful $\times 2$ multiplier to **Science income**.
+*   **Festival Effect (Numeromancy):** If the [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) upgrade is researched, holding a festival during the Piscine cycle grants a powerful $\times 2$ multiplier to **Science income**.
 
 ***
 The Piscine Mission unlocks Research Vessels, which are essential for boosting science maximums and generating Starcharts efficiently, setting the stage for the next deep space ventures like the T-minus Mission. This allows you to convert high-cost materials into a sustained, high-volume flow of Starcharts needed for future space exploration.

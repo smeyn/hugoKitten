@@ -19,7 +19,7 @@
             "request": "launch",
             "program": "src/upgrade.py",
             "console": "integratedTerminal",
-            "args": ["trade/*.md",
+            "args": ["*.md",
         "--source_dir", "kitten/content", "--overwrite"]
         },
          {

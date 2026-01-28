@@ -27,9 +27,9 @@ Griffins play a key role in overcoming bottlenecks in Iron production, particula
 2.   Griffins are central to a strategic trade loop involving Sharks. This loop starts in **Autumn** by trading **Wood to the Griffins to gather Iron**. This acquired Iron can then be traded to Sharks for Catnip in **Winter**, which can be refined into Wood to repeat the cycle. This loop is effective for collecting Wood, [Steel]( {{< relref "craft/Steel.md" >}}), [Gears]( {{< relref "craft/Gear.md" >}}), and [Blueprints]( {{< relref "resource/Blueprint.md" >}}) for Steamworks.
 3.   The steel acquired from Griffins is required for crafting [Gears]( {{< relref "craft/Gear.md" >}}).
 
-### Related Policies
+### Related Policy/
 
-Once you reach Embassy Level 20 and research the Diplomacy metaphysics upgrade, you can choose one of three specialized  policies (all costing 16,000 Culture):
+Once you reach Embassy Level 20 and research the Diplomacy metaphysics upgrade, you can choose one of three specialized  Policy/ (all costing 16,000 Culture):
 
 *    Improves the Calciner's steel production bonus by **+15%**.
 *    Boosts hunting effectiveness by **+50%**.

@@ -17,7 +17,7 @@ Here is a detailed breakdown of the Ivory Temple:
 
 ### Primary Function and Effects
 
-The main function of the Ivory Temple is to convert large amounts of the rare resource **Ivory** into **Minerals**.
+The main function of the Ivory Temple is to convert large amounts of the rare resource [Ivory]( {{< relref "resource/ivory.md" >}}) into **Minerals**.
 
 *   **Conversion:** It **converts ivory to minerals**.
 *   **Resource Rates:** It consumes **100 Ivory per tick** and produces **1 Mineral per tick**.

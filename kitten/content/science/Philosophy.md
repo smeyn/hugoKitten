@@ -5,9 +5,9 @@ title = "Philosophy"
 
 +++
 
-The term [Philosophy]( {{< relref "philosophy.md" >}}) in *Kittens Game* refers to a critical mid-early game technology that unlocks essential progression paths, as well as a subsequent category of policies that govern societal beliefs regarding luxury and endurance.
+The term [Philosophy]( {{< relref "philosophy.md" >}}) in *Kittens Game* refers to a critical mid-early game technology that unlocks essential progression paths, as well as a subsequent category of Policy/ that govern societal beliefs regarding luxury and endurance.
 
-Here is a detailed breakdown of the Philosophy technology and its associated policies:
+Here is a detailed breakdown of the Philosophy technology and its associated Policy/:
 
 ## 1. Philosophy as a Technology
 
@@ -38,17 +38,17 @@ After researching Philosophy, you will immediately face a "fair bump" because th
 
 ## 2. Philosophy as a Policy Category
 
-Philosophy is one of the four categories of policies (along with Government, Foreign, and Environment) that defines your society's path in certain areas.
+Philosophy is one of the four categories of Policy/ (along with Government, Foreign, and Environment) that defines your society's path in certain areas.
 
 The main policy choices unlocked once the [Philosophy]( {{< relref "philosophy.md" >}}) technology has been researched are [Stoicism]( {{< relref "stoicism.md" >}}) and **Epicureanism**.
 
 ### Stoicism vs. Epicureanism
 
-Both policies cost **2,500 Culture** and lock out the other choice.
+Both Policy/ cost **2,500 Culture** and lock out the other choice.
 
 | Policy | Description & Effect | Prerequisite & Progression |
 | :--- | :--- | :--- |
 | [Stoicism]( {{< relref "stoicism.md" >}}) | Teaches endurance without complaint. **Effect:** Halves the consumption of luxury resources (Fur, Ivory, and Spice are consumed 50% slower), and reduces Brewery consumption by 25%. | This policy unlocks the choice between [Frugality]( {{< relref "frugality.md" >}}) and [Rationing]( {{< relref "rationing.md" >}}) later on. |
-| **Epicureanism** | Believes pleasure is the highest good. **Effect:** Luxury resources provide **11% happiness each** (instead of the base 10%). | This policy unlocks the choice between [Carnivale]( {{< relref "carnivale.md" >}}) and [Extravagance]( {{< relref "extravagance.md" >}}) later on. |
+| **Epicureanism** | Believes pleasure is the highest good. **Effect:** Luxury resources provide **11% happiness each** (instead of the base 10%). | This policy unlocks the choice between [Carnivale]( {{< relref "Policy/carnivale.md" >}}) and [Extravagance]( {{< relref "extravagance.md" >}}) later on. |
 
 Expert advice suggests preferring **Epicureanism** for the extra happiness boost, noting that Stoicism addresses a problem (managing luxury consumption) that should ideally be manageable by the time the policy is available through hunting and trade upgrades. Choosing either Epicureanism or Stoicism is a prerequisite for subsequent philosophical choices like [Rationality]( {{< relref "rationality.md" >}}) or [Mysticism]( {{< relref "mysticism.md" >}}).

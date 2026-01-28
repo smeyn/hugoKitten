@@ -38,7 +38,7 @@ Log Houses are the second tier of housing, following Huts, and preceding Mansion
 
 ### Policy Influence
 
-The [Fascism]( {{< relref "policies/Fascism.md" >}}) policy, unlocked later in the game (Phase 3), specifically benefits Log Houses:
+The [Fascism]( {{< relref "Policy/Fascism.md" >}}) policy, unlocked later in the game (Phase 3), specifically benefits Log Houses:
 
 *   **Fascism Policy Effect:** If you select Fascism (which requires building a Factory and having chosen Autocracy or Monarchy), **Log Houses cost half as much** (50% cheaper). Fascism also eliminates population penalties to happiness. This policy might be chosen on a first run to help reach 130+ kittens before the first reset, aided by the reduced Log House cost.
 

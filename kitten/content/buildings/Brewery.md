@@ -29,7 +29,7 @@ The Brewery provides passive benefits related to festivals, and consumes two res
 
 ### Strategic Context and Synergies
 
-1.  **Festival Enhancement:** The Brewery's effect on the "Festival Cycle Bonus" is important in the late game. If the **Numeromancy** Metaphysics upgrade is researched, the cycle-based bonuses granted by holding a festival are boosted, and Breweries further enhance these effects.
+1.  **Festival Enhancement:** The Brewery's effect on the "Festival Cycle Bonus" is important in the late game. If the [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) Metaphysics upgrade is researched, the cycle-based bonuses granted by holding a festival are boosted, and Breweries further enhance these effects.
 2.  **Policy Interaction:**
     *   The [Stoicism]( {{< relref "stoicism.md" >}}) philosophy policy, which aims to reduce the consumption of luxury resources, provides a reduction of **-25% to brewery consumption**.
     *   The foreign policy **Shark Relations: Botanists** grants a **1% Brewery catpower bonus**.

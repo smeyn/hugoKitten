@@ -43,9 +43,9 @@ Lizard trades for Wood are subject to seasonal adjustments, making it most effic
 *   **Exploration:** Trading with the Lizards unlocks the **Trade tab**, which allows you to **Send Explorers** to find additional civilizations.
 *   **Rare Resources:** Any successful trade, including those with Lizards, has a fixed **10% chance of receiving one Blueprint** and a **35% chance of receiving Spice** as extra resources.
 
-### Advanced Relations Policies
+### Advanced Relations Policy/
 
-Once you reach Lizard Embassy Level 20 and research the [Diplomacy]( {{< relref "policies/Diplomacy.md" >}}) Metaphysics upgrade, you unlock specialized foreign policies related to the Lizard civilization:
+Once you reach Lizard Embassy Level 20 and research the [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) Metaphysics upgrade, you unlock specialized foreign Policy/ related to the Lizard civilization:
 
 1.  **Lizard Relations: Ecologists:** Reduces pollution by 5%.
 2.  **Lizard Relations: Priests:** Causes Manuscripts to grant maximum faith equal to the maximum culture they grant (though this reduces maximum culture by 25%).

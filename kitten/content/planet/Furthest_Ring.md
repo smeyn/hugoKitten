@@ -1,7 +1,7 @@
 +++
 date = 2025-12-07T22:47:58.300719+11:00
 draft = true
-title = "Furthest_Ring"
+title = "Furthest Ring"
 
 +++
 

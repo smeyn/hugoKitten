@@ -9,7 +9,7 @@ The [Black Pyramid]( {{< relref "ziggurat/Black_Pyramid.md" >}}) is a significan
 
 ### 1. Requirements and Acquisition
 
-The Black Pyramid is a high-cost structure unlocked via the **Megalomania** metaphysics upgrade.
+The Black Pyramid is a high-cost structure unlocked via the [Megalomania]( {{< relref "metaphysics/Megalomania.md" >}}) metaphysics upgrade.
 
 *   **Cost:** Building one Black Pyramid requires **5 Sorrow** (also known as Black Liquid Sorrow or BLS), **2500 Megalith**, **150,000 Spice**, and **5000 Unobtainium**.
 *   **Unlock Path:** To obtain the necessary resource, the player must first build a [Ziggurat]( {{< relref "buildings/Ziggurat.md" >}}), sacrifice 2500 Unicorns for Unicorn Tears, and then refine 10,000 Tears into 1 Sorrow. After collecting 5 Sorrow, the Black Pyramid can be constructed.

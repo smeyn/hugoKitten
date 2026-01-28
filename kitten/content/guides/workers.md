@@ -43,6 +43,6 @@ A promoted leader can be unassigned and reassigned to whatever job needs the mos
 
 **Policy Interaction:**
 
-*   If the [Monarchy]( {{< relref "policies/Monarchy.md" >}}) policy is researched, the leader's **trait** is twice as powerful.
-*   If the [Autocracy]( {{< relref "policies/Autocracy.md" >}}) policy is researched, the leader's **production bonus** (based on rank) is doubled (x2).
-*   If the [Republic]( {{< relref "policies/Republic.md" >}}) policy is researched, all non-leader kittens get a bonus to their jobs equal to $1\%$ of the leader's bonus.
+*   If the [Monarchy]( {{< relref "Policy/Monarchy.md" >}}) policy is researched, the leader's **trait** is twice as powerful.
+*   If the [Autocracy]( {{< relref "Policy/Autocracy.md" >}}) policy is researched, the leader's **production bonus** (based on rank) is doubled (x2).
+*   If the [Republic]( {{< relref "Policy/Republic.md" >}}) policy is researched, all non-leader kittens get a bonus to their jobs equal to $1\%$ of the leader's bonus.

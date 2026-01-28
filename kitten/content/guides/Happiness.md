@@ -20,7 +20,7 @@ However, happiness can become a hindrance, as it is considered a production kill
     *   The religious upgrade [Sun Altar]( {{< relref "sun_altar.md" >}}) (unlocked via the Order of the Sun) provides +0.5% happiness from Temples, with additional levels available through Transcendence.
     *   Sacrificing unicorns for a unicorn tear grants a happiness/production bonus.
     *   A single [Broadcast Tower]( {{< relref "broadcast_tower.md" >}}) can replace your entire stock of Amphitheaters for happiness purposes.
-4.  Policies and Policy Effects:
+4.  Policy/ and Policy Effects:
     *   The [Liberty]( {{< relref "liberty" >}}) policy increases the production effect of happiness by 10% and grants free housing for one kitten.
     *   The [Environmentalism]( {{< relref "environmentalism" >}}) policy provides a +3% happiness effect.
     *   The [Conservation]( {{< relref "conservation" >}}) policy increases happiness by +5%.
@@ -30,7 +30,7 @@ However, happiness can become a hindrance, as it is considered a production kill
 
 1.  Population Growth: As population rises, kittens become unhappy.
 2.  Pollution: A high level of pollution in the atmosphere negatively affects your kittens and reduces your happiness.
-3.  [Policies:]( {{< relref "policies" >}}) Certain policies increase happiness penalties, such as [Strip Mining]( {{< relref "strip_mining.md" >}}) and [Clear Cutting]( {{< relref "clear_cutting.md" >}}), which both incur a -2% happiness penalty. The [Sustainability]( {{< relref "sustainability" >}}) policy can be used later to remove this happiness penalty.
+3.  [Policy/:]( {{< relref "Policy/" >}}) Certain Policy/ increase happiness penalties, such as [Strip Mining]( {{< relref "strip_mining.md" >}}) and [Clear Cutting]( {{< relref "clear_cutting.md" >}}), which both incur a -2% happiness penalty. The [Sustainability]( {{< relref "sustainability" >}}) policy can be used later to remove this happiness penalty.
 4.  Challenges:Running the Atheism challenge decreases happiness by 0.5 for each run completed after the first.
 
 ### Management

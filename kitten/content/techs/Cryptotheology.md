@@ -33,7 +33,7 @@ Cryptotheology buildings purchased persist across resets and are unlocked sequen
 | **Event Horizon** | 25,000 Relics | TT 7 | Increases **global resource storage ratio** by **+10%**. This stacks additively with Void Rifts and multiplicatively with other storage bonuses [6, 8]. |
 | [Black Library]( {{< relref "black_library.md" >}}) | 30,000 Relics | TT 9 | Improves **Codex Leviathanianus** scaling by +2% per library, further boosted by Unicorn Graveyards [6]. |
 | [Black Radiance]( {{< relref "black_radiance.md" >}}) | 37,500 Relics | TT 12 | Increases the **alicorn corruption rate** based on the amount of Sorrow (BLS) and the number of Black Radiances [6]. |
-| [Blazar]( {{< relref "blazar.md" >}}) | 50,000 Relics | TT 15 | Improves **Chronomancy** and **Unicornmancy** by 2.5%, **Time Impedance** by 10%, and **Resource Retrieval** effectiveness by 2% [9]. Blazars are vital to a Time Crystal engine [10]. |
+| [Blazar]( {{< relref "blazar.md" >}}) | 50,000 Relics | TT 15 | Improves [Chronomancy]( {{< relref "metaphysics/Chronomancy.md" >}}) and [Unicornmancy]( {{< relref "metaphysics/Unicornmancy.md" >}}) by 2.5%, **Time Impedance** by 10%, and **Resource Retrieval** effectiveness by 2% [9]. Blazars are vital to a Time Crystal engine [10]. |
 | [Dark Nova]( {{< relref "dark_nova.md" >}}) | 75,000 Relics, 7,500 Void | TT 20 | Provides a **+2% global energy production** bonus [9]. |
 | [Mausoleum]( {{< relref "mausoleum.md" >}}) | 50,000 Relics, 12,500 Void, 10 Necrocorn | TT 23 | Unlocks the ability to purchase **Pacts** [9, 11]. |
 | [Holy Genocide]( {{< relref "holy_genocide.md" >}}) | 100,000 Relics, 25,000 Void | TT 25 | Unlocks the **Post Apocalypse** challenge upon reset [9]. |

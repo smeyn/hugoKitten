@@ -1,10 +1,8 @@
 +++
-date = 2025-12-07T22:47:58.295719+11:00
+date = '2025-11-29T17:31:07+11:00'
 draft = true
-title = "Centaurus System"
-
+title = 'Centaurus System'
 +++
-
 **Centaurus** refers to a significant, late-game deep space mission destination—a warm, faraway star system—and the mission required to reach it in *Kittens Game*.
 
 ### 1. Centaurus Space Mission Details

@@ -11,7 +11,7 @@ The term [Planet Busters]( {{< relref "upgrade/Planet_Busters.md" >}}) refers to
 
 | Category | Specification | Citation |
 | :--- | :--- | :--- |
-| **Target Structure** | **Planet Cracker** (a vessel known as the USS Mining Vessel Hissmeowra) |, |
+| **Target Structure** | [Planet Cracker]( {{< relref "space/planet_cracker.md" >}}) (a vessel known as the USS Mining Vessel Hissmeowra) |, |
 | **Prerequisite Technology** | **Exometallurgy** (previously known as Advanced Exogeology), |,, |
 | **Effect** | The upgrade makes the Planet Cracker's output **twice as effective**, providing a bonus of **+100\% Uranium Production**. |, |
 

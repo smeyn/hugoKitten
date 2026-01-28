@@ -38,7 +38,7 @@ Eludium is required for constructing the highest tier of housing and for high-le
 
 The process of acquiring Eludium defines a major phase of the game progression, known as the **Eludium Era** [4].
 
-*   This era requires increasing the Unobtainium Production Rate to a reasonable level, primarily through **Planet Crackers** (to generate Uranium) and [Lunar Outposts]( {{< relref "planet/lunar_outpost.md" >}}) (to convert Uranium to Unobtainium) [11].
+*   This era requires increasing the Unobtainium Production Rate to a reasonable level, primarily through [Planet Crackers]( {{< relref "space/planet_cracker.md" >}}) (to generate Uranium) and [Lunar Outposts]( {{< relref "planet/lunar_outpost.md" >}}) (to convert Uranium to Unobtainium) [11].
 *   Achieving Eludium Huts is considered the next major checkpoint after [Concrete Huts]( {{< relref "concrete_huts.md" >}}) [12, 13]. Once Eludium Huts are built, the player is considered ready for the subsequent **Unicorn/Time Crystal Era**, provided the Unobtainium generation rate is high enough (around 1 Unobtainium per second or 1,100 Paragon plus the Renaissance upgrade) [14].
 
 **Analogy:** If Alloy is the steel frame of a skyscraper, and Unobtainium is the unique, high-strength glass that allows it to reach impossible heights, then [Eludium]( {{< relref "eludium.md" >}}) is the final, specialized rivet that binds them together, enabling construction of structures (like Eludium Huts) that define the architectural apex of the kitten civilization.

@@ -14,7 +14,7 @@ Umbra is one of the ten cycles featured in the game's time system, identified by
 When the appropriate technologies are researched, the Umbra cycle provides specific bonuses and penalties:
 
 *   **With Numerology:** The cycle affects production from specific space structures:
-    *   The uranium output of the **Planet Cracker** is decreased by $-10\%$.
+    *   The uranium output of the [Planet Cracker]( {{< relref "space/planet_cracker.md" >}}) is decreased by $-10\%$.
     *   The oil output of the **Hydraulic Fracturer** is decreased by $-25\%$.
     *   The **HR Harvester** Energy Production is increased by $+50\%$.
 *   **With Numeromancy (Festival Bonus):** Holding a festival during the Umbra cycle grants a $1.5\times$ income multiplier for Coal, Iron, Titanium, and Gold.

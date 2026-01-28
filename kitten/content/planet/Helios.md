@@ -18,7 +18,7 @@ The Helios mission is a significant undertaking that occurs in the mid-to-late g
 | **Prerequisite** | Unlocked after the Dune Mission (also unlocked by the T-minus Mission). |
 | **Cost** | 3,000 Starchart, 15,000 Titanium, 250k Science, and 1,250 Kerosene. |
 | **Travel Time** | 1,200 game-days, which is 40 minutes in real-time. |
-| **Structures Unlocked** | Successful completion unlocks high-tier structures needed for antimatter and storage capacity: **Sunlifter**, **Containment Chamber**, **Heatsink**, and **Sunforge**. |
+| **Structures Unlocked** | Successful completion unlocks high-tier structures needed for antimatter and storage capacity: [Sunlifter]( {{< relref "space/sunlifter.md" >}}), **Containment Chamber**, **Heatsink**, and **Sunforge**. |
 | **Next Mission** | The Helios Mission unlocks the [Yarn Mission]( {{< relref "space/Yarn_Mission.md" >}}). |
 
 ### 2. Helios Astrological Cycle

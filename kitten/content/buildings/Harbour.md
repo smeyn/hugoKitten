@@ -48,5 +48,5 @@ The effectiveness of Harbours can be enhanced through various Workshop and techn
 Harbours are vital for maintaining economic momentum in the mid-game:
 
 *   **Resource Management:** They address the strategic need to increase resource storage limits (or "caps"). If progress is stalled because resource storage limits are too low, building storage buildings like Harbours is necessary.
-*   **Progression Path:** The early policy choice [Clear Cutting]( {{< relref "policies/Clear_Cutting.md" >}}) is recommended because the resulting wood production boost is crucial for constructing Harbours, Observatories, and Trade Ships.
+*   **Progression Path:** The early policy choice [Clear Cutting]( {{< relref "Policy/Clear_Cutting.md" >}}) is recommended because the resulting wood production boost is crucial for constructing Harbours, Observatories, and Trade Ships.
 *   **Titanium Buff:** Harbours are among the structures that provide an early boost to [Titanium]( {{< relref "resource/titanium.md" >}}) storage capacity, which is necessary before more advanced storage options become available.
