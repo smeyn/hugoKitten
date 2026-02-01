@@ -1,6 +1,6 @@
 +++
 date = 2025-12-04T07:50:03.677245+11:00
-draft = true
+draft = false
 title = "Frugality"
 
 +++
@@ -12,7 +12,7 @@ Here is a comprehensive breakdown of the Frugality policy:
 ### Overview and Prerequisite
 
 *   **Cost:** Frugality costs 3500 Culture.
-*   **Prerequisite:** The Frugality policy is unlocked only after first choosing [Stoicism]( {{< relref "policy/Stoicism.md" >}}). Stoicism, in turn, is a policy in the Philosophy category, which requires researching [Philosophy]( {{< relref "science/Philosophy.md" >}}).
+*   **Prerequisite:** The Frugality policy is unlocked only after first choosing [Stoicism]( {{< relref "policy/Stoicism.md" >}}). Stoicism, in turn, is a policy in the Philosophy category, which requires researching [Philosophy]( {{< relref "techs/Philosophy.md" >}}).
 *   **Context:** Frugality is an option that appears as part of the philosophical policy tree, contrasted with [Rationing]( {{< relref "policy/Rationing.md" >}}).
 
 ### Effects of Frugality

@@ -1,10 +1,10 @@
 +++
 date = 2025-11-29T20:44:33.298594+11:00
-draft = true
+draft = false
 title = "Solar_Revolution"
 
 +++
-[Solar Revolution]( {{< relref "religion/Solar_Revolution.md" >}}) is a high-impact religious upgrade within the **Order of the Sun** that provides a permanent **global production bonus** to nearly all resources in the game. To unlock this multiplier, you must first research [Theology]( {{< relref "science/Theology.md" >}}), accumulate at least **1,000 Worship**, and spend **750 Faith and 500 Gold**. 
+[Solar Revolution]( {{< relref "religion/Solar_Revolution.md" >}}) is a high-impact religious upgrade within the **Order of the Sun** that provides a permanent **global production bonus** to nearly all resources in the game. To unlock this multiplier, you must first research [Theology]( {{< relref "techs/Theology.md" >}}), accumulate at least **1,000 Worship**, and spend **750 Faith and 500 Gold**. 
 
 ### **Mechanism and Scaling**
 *   **Calculation:** The bonus is calculated based on your total accumulated worship using the formula: $(sqrt(1+8 * worship / 1000)-1)/2$.

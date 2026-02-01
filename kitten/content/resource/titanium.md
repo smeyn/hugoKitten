@@ -1,6 +1,6 @@
 +++
 date = 2025-12-06T06:37:34.320989+11:00
-draft = true
+draft = false
 title = "Titanium"
 
 +++
@@ -14,7 +14,7 @@ It is particularly difficult to acquire in large volumes early on, necessitating
 Titanium is initially acquired primarily through trade, though advanced structures provide domestic production later.
 
 #### Trading with Zebras
-The most important early source is through trading with [Zebras]( {{< relref "trade/zebras.md" >}}), who are initially a Hostile civilisation (-30% attitude).
+The most important early source is through trading with [Zebras]( {{< relref "Civilisations/zebras.md" >}}), who are initially a Hostile civilisation (-30% attitude).
 
 *   **Trade Mechanism:** Zebras sell Titanium in exchange for **Slab** (a craftable resource made from Minerals).
 *   **Scaling:** The amount of titanium sold by Zebras is **not** affected by typical trading bonuses like those from Tradeposts. Instead, the amount of titanium they give is calculated as **(0.03 * Trade Ships) + 1.5**.

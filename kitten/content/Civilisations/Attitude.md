@@ -1,6 +1,6 @@
 +++
 date = 2025-12-01T09:27:12.803508+11:00
-draft = true
+draft = false
 title = "Attitude"
 
 +++
@@ -21,12 +21,12 @@ Civilizations have fixed starting attitudes once discovered:
 
 | Race | Initial Attitude | Strategic Note |
 | :--- | :--- | :--- |
-| [Lizards]( {{< relref "trade/Lizards.md" >}}) | Friendly (**+25%**) | They have the highest initial friendly bonus. |
-| [Spiders]( {{< relref "trade/spiders.md" >}}) | Friendly (**+15%**) | They are considered a Friendly civilization. |
-| [Sharks]( {{< relref "trade/Sharks.md" >}}) | Neutral (**0%**) | |
-| [Nagas]( {{< relref "trade/Nagas.md" >}}) | Neutral (**0%**) | |
-| [Griffins]( {{< relref "trade/Griffins.md" >}}) | Hostile (**-15%**) | |
-| [Zebras]( {{< relref "trade/zebras.md" >}}) | Hostile (**-30%**) | They are the most hostile civilization. |
+| [Lizards]( {{< relref "Civilisations/Lizards.md" >}}) | Friendly (**+25%**) | They have the highest initial friendly bonus. |
+| [Spiders]( {{< relref "Civilisations/spiders.md" >}}) | Friendly (**+15%**) | They are considered a Friendly civilization. |
+| [Sharks]( {{< relref "Civilisations/Sharks.md" >}}) | Neutral (**0%**) | |
+| [Nagas]( {{< relref "Civilisations/Nagas.md" >}}) | Neutral (**0%**) | |
+| [Griffins]( {{< relref "Civilisations/Griffins.md" >}}) | Hostile (**-15%**) | |
+| [Zebras]( {{< relref "Civilisations/zebras.md" >}}) | Hostile (**-30%**) | They are the most hostile civilization. |
 
 ### Modifying and Mitigating Attitude
 

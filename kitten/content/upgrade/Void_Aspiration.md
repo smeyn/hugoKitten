@@ -1,6 +1,6 @@
 +++
 date = 2025-12-24T08:42:40.614274+11:00
-draft = true
+draft = false
 title = "Void Aspiration"
 
 +++

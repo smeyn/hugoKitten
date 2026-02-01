@@ -1,11 +1,11 @@
 +++
 date = 2025-12-24T09:54:40.638034+11:00
-draft = true
+draft = false
 title = "Zebra"
 
 +++
 
-The [Zebras]( {{< relref "trade/zebras.md" >}}) are a crucial civilization in *Kittens Game*, primarily known as  who provide essential industrial resources during the mid-game, particularly in the Titanium era.
+The [Zebras]( {{< relref "Civilisations/zebras.md" >}}) are a crucial civilization in *Kittens Game*, primarily known as  who provide essential industrial resources during the mid-game, particularly in the Titanium era.
 
 Here is a comprehensive breakdown of the Zebras, their role in trade, and their unique function in the Iron Will challenge:
 
@@ -37,7 +37,7 @@ Zebras are associated with several Policy/ and specialized upgrades:
 
 In the specialized **Iron Will** challenge (a mode played without kittens or housing), Zebras adopt a unique and critical function:
 
-*   **Job Replacement:** In IW mode, [Zebras]( {{< relref "trade/zebras.md" >}}) are categorized as a **Special Resource** that acts as [hunters]( {{< relref "job/Hunter.md" >}}) to replace the absent kitten population, generating **Catpower**. Catpower is essential for hunting, which yields [Gold]( {{< relref "resource/Gold.md" >}}) (due to the Gold Ore upgrade effect in IW mode) and [Ivory]( {{< relref "resource/ivory.md" >}}).
+*   **Job Replacement:** In IW mode, [Zebras]( {{< relref "Civilisations/zebras.md" >}}) are categorized as a **Special Resource** that acts as [hunters]( {{< relref "job/Hunter.md" >}}) to replace the absent kitten population, generating **Catpower**. Catpower is essential for hunting, which yields [Gold]( {{< relref "resource/Gold.md" >}}) (due to the Gold Ore upgrade effect in IW mode) and [Ivory]( {{< relref "resource/ivory.md" >}}).
 *   **Acquisition:** You gain one zebra after researching [Archery]( {{< relref "techs/Archery.md" >}}). Players often perform **short reset runs (6 to 10 runs)** solely to rush Archery and accumulate .
 *   **Zebra Limit:** The maximum zebra limit can be increased by **1** every time you research [Archery]( {{< relref "techs/Archery.md" >}}) and reset (up to 10 or 11 initially). The limit also increases based on the amount of science spent in the previous run.
 *    While a higher zebra count is desired to speed up hunting and catpower generation, diminishing returns on catpower production start to set in .

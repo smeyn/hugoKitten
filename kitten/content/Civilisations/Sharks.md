@@ -1,15 +1,15 @@
 +++
 date = 2025-12-24T09:54:40.639035+11:00
-draft = true
+draft = false
 title = "Sharks"
 
 +++
 
-The [Sharks]( {{< relref "trade/Sharks.md" >}}) are a pivotal trading civilization in *Kittens Game*, primarily valued for their large supply of Catnip in exchange for Iron, often playing a role in crucial resource trade loops.
+The [Sharks]( {{< relref "Civilisations/Sharks.md" >}}) are a pivotal trading civilization in *Kittens Game*, primarily valued for their large supply of Catnip in exchange for Iron, often playing a role in crucial resource trade loops.
 
 ### Trading Profile and Unlocking
 
-*   [Attitude:]( {{< relref "trade/Attitude.md" >}}) Sharks are a **Neutral (0%)** civilization.
+*   [Attitude:]( {{< relref "Civilisations/Attitude.md" >}}) Sharks are a **Neutral (0%)** civilization.
 *   **Discovery:** They can be discovered after **20 years of game play**, though this is reduced to **Year 5** if you have Karma, or **Year 1** with the [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) Metaphysics upgrade.
 *   **Trade Currency:** Like all civilizations, trading requires you to first develop the [Gold Ore]( {{< relref "upgrade/Gold_Ore.md" >}}) upgrade in the Workshop.
 
@@ -26,7 +26,7 @@ Sharks specialize in the exchange of Iron for Catnip:
 
 As you build Embassies with the Sharks, they unlock more sophisticated trade items:
 
-*   **Crafted Paper:** At Embassy Level 5, they may sell [Parchment]( {{< relref "craft/Parchment.md" >}}) (5 units, 25% chance); at Level 10, [Manuscript]( {{< relref "craft/Manuscript.md" >}}) (3 units, 15% chance); and at Level 15, [Compendium]( {{< relref "compendium.md" >}}) (1 unit, 10% chance).
+*   **Crafted Paper:** At Embassy Level 5, they may sell [Parchment]( {{< relref "craft/Parchment.md" >}}) (5 units, 25% chance); at Level 10, [Manuscript]( {{< relref "craft/Manuscript.md" >}}) (3 units, 15% chance); and at Level 15, [Compendium]( {{< relref "craft/compendium.md" >}}) (1 unit, 10% chance).
 *    Any successful trade with Sharks has a fixed **10% chance of yielding one Blueprint** and a **35% chance of yielding Spice** as an extra resource.
 
 ### Strategic Role (The Trade Loop)

@@ -1,6 +1,6 @@
 +++
 date = 2025-12-24T08:45:24.992264+11:00
-draft = true
+draft = false
 title = "Rotary_Kiln"
 
 +++

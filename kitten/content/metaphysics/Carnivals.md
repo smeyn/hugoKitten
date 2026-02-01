@@ -1,6 +1,6 @@
 +++
 date = '2026-01-24T20:56:29+11:00'
-draft = true
+draft = false
 title = 'Carnivals'
 +++
  a mid-game Metaphysics upgrade that allows festivals to stack in duration, though there is also a similarly named Carnivale policy that modifies festival effects.

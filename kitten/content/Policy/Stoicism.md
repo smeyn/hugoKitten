@@ -1,6 +1,6 @@
 +++
 date = 2025-11-29T20:44:33.289594+11:00
-draft = true
+draft = false
 title = "Stoicism"
 
 +++
@@ -8,7 +8,7 @@ title = "Stoicism"
 
 ### **Core Mechanics**
 *   **Cost:** 2,500 Culture.
-*   **Prerequisites:** You must have researched the [Philosophy]( {{< relref "science/Philosophy.md" >}}) technology.
+*   **Prerequisites:** You must have researched the [Philosophy]( {{< relref "techs/Philosophy.md" >}}) technology.
 *   **Mutual Exclusivity:** Enacting Stoicism permanently locks you out of the **Epicureanism** policy for the remainder of the run.
 
 ### **Primary Effects**

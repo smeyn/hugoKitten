@@ -1,6 +1,6 @@
 +++
 date = 2025-12-22T18:05:38.302888+11:00
-draft = true
+draft = false
 title = "Silos"
 
 +++

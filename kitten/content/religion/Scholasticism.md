@@ -1,13 +1,13 @@
 +++
 date = 2025-11-29T20:44:33.295594+11:00
-draft = true
+draft = false
 title = "Scholasticism"
 
 +++
 [Scholasticism]( {{< relref "religion/Scholasticism.md" >}}) is a religious upgrade within the **Order of the Sun** that repurposes your Temples to serve as scientific infrastructure. By investing in this upgrade, your colony can significantly increase its maximum science capacity through religious devotion.
 
 ### **Acquisition and Costs**
-*   **Unlocking:** You must first research [Theology]( {{< relref "science/Theology.md" >}}) to access the upgrade in the Religion tab.
+*   **Unlocking:** You must first research [Theology]( {{< relref "techs/Theology.md" >}}) to access the upgrade in the Religion tab.
 *   **Prerequisites:** Scholasticism only appears once you have accumulated a minimum of **300 Worship** (formerly known as "praised faith").
 *   **Cost:** The initial level of the upgrade costs **250 Faith**.
 *   **Price Scaling:** It features a **price ratio of 2.5**, meaning if you unlock the ability to purchase it multiple times, each subsequent level will cost 2.5 times more than the last.

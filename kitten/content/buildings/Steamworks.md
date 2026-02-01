@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T08:15:29.436671+11:00
-draft = true
+draft = false
 title = "Steamworks"
 
 +++
@@ -23,7 +23,7 @@ The Steamworks building is unlocked by researching the [Machinery]( {{< relref "
 
 The primary strategic role of the Steamworks is to introduce automation and overcome resource bottlenecks:
 
-1.  **Manuscript Automation:** Steamworks consume Coal to create a variety of handy items. Critically, once the [Printing Press]( {{< relref "printing_press.md" >}}) upgrade is researched, Steamworks automatically print [Manuscripts]( {{< relref "craft/Manuscript.md" >}}) at a base rate of 0.0025 manuscripts/sec. Manuscript production can be further boosted by the [Offset Press]( {{< relref "offset_press.md" >}}) and [Photolithography]( {{< relref "photolithography.md" >}}) upgrades, which each multiply production by a factor of 4. This automation is necessary for overcoming the steep requirements of the later [Theology]( {{< relref "science/theology.md" >}}) and [Astronomy]( {{< relref "astronomy.md" >}}) sciences.
+1.  **Manuscript Automation:** Steamworks consume Coal to create a variety of handy items. Critically, once the [Printing Press]( {{< relref "printing_press.md" >}}) upgrade is researched, Steamworks automatically print [Manuscripts]( {{< relref "craft/Manuscript.md" >}}) at a base rate of 0.0025 manuscripts/sec. Manuscript production can be further boosted by the [Offset Press]( {{< relref "offset_press.md" >}}) and [Photolithography]( {{< relref "photolithography.md" >}}) upgrades, which each multiply production by a factor of 4. This automation is necessary for overcoming the steep requirements of the later [Theology]( {{< relref "techs/theology.md" >}}) and [Astronomy]( {{< relref "astronomy.md" >}}) sciences.
  
 2.  **Resource Conversion:** The [Workshop Automation]( {{< relref "workshop_automation.md" >}}) upgrade allows Steamworks to automatically convert a percentage of wood into beams and minerals into slabs once per year when those resources are nearly capped (at 98% of capacity). The [Advanced Automation]( {{< relref "advanced_automation.md" >}}) upgrade makes this process activate twice per year, and [Pneumatic Press]( {{< relref "pneumatic_press.md" >}}) adds the conversion of iron to plates.
 3.  **Industrial Foundation:** Steamworks are listed among the supplemental production-boosting buildings (alongside Magnetos, Reactors, Calciners, and Quarrys) that cost blueprints and help create base resources.

@@ -1,6 +1,6 @@
 +++
 date = 2025-11-29T20:44:33.276594+11:00
-draft = true
+draft = false
 title = "Scaffold"
 
 +++
@@ -9,7 +9,7 @@ title = "Scaffold"
 ### **Core Utility: Naval and Trade Expansion**
 The most significant strategic milestone involving scaffolds is the transition into the **Titanium Era**.
 *   [Trade Ships:]( {{< relref "craft/Trade_Ship.md" >}}) Crafting a set of trade ships requires **100 scaffolds** each.
-*   **Discovery:** Possessing at least one trade ship is the prerequisite for exploring and discovering the [Zebras]( {{< relref "trade/zebras.md" >}}), the primary source of titanium through trade.
+*   **Discovery:** Possessing at least one trade ship is the prerequisite for exploring and discovering the [Zebras]( {{< relref "Civilisations/zebras.md" >}}), the primary source of titanium through trade.
 *   [Harbours:]( {{< relref "buildings/Harbour.md" >}}) Scaffolds are required to build **Harbours (5 scaffolds each)**, which provide a massive boost to the storage capacity of multiple resources.
 
 ### **Industrial and Scientific Infrastructure**
@@ -19,7 +19,7 @@ Scaffolds serve as a foundational material for several critical bonfire structur
 *   **Unicorn Religion:** Building [Ziggurats]( {{< relref "buildings/Ziggurat.md" >}}) requires **50 scaffolds** each. This is the gateway structure for sacrificing unicorns to obtain **Unicorn Tears**.
 
 ### **Trade and High-Tier Upgrades**
-*   **Trading with Spiders:** Scaffolds are the primary trade currency for the [Spiders]( {{< relref "trade/spiders.md" >}}). They will buy **50 scaffolds** in exchange for a large amount of **Coal and Oil**.
+*   **Trading with Spiders:** Scaffolds are the primary trade currency for the [Spiders]( {{< relref "Civilisations/spiders.md" >}}). They will buy **50 scaffolds** in exchange for a large amount of **Coal and Oil**.
 *   **Advanced Workshop Upgrades:** Later in the game, scaffolds are required for expensive upgrades such as **Titanium Warehouses (500)** and **Logistics (1,000)**.
 
 ### **Persistence and Resets**

@@ -1,6 +1,6 @@
 +++
 date = 2025-12-24T08:45:25.013264+11:00
-draft = true
+draft = false
 title = "Pneumatic Press"
 
 +++
@@ -15,7 +15,7 @@ The upgrade functions as an extension of the [Workshop Automation]( {{< relref "
 
 ### **Prerequisites and Context**
 To access the Pneumatic Press, you must first navigate the mid-game technology tree:
-1.  [Machinery:]( {{< relref "science/machinery.md" >}}) Required to build Steamworks and unlock the initial [Workshop Automation]( {{< relref "upgrade/Workshop_Automation.md" >}}) upgrade.
+1.  [Machinery:]( {{< relref "techs/machinery.md" >}}) Required to build Steamworks and unlock the initial [Workshop Automation]( {{< relref "upgrade/Workshop_Automation.md" >}}) upgrade.
 2.  [Physics:]( {{< relref "techs/Physics.md" >}}) The direct prerequisite technology for the Pneumatic Press.
 3.  [Workshop Automation:]( {{< relref "upgrade/Workshop_Automation.md" >}}) The Pneumatic Press is a secondary upgrade in this chain; the base upgrade must be purchased first to enable the conversion of wood to beams and minerals to slabs.
 

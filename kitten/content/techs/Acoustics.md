@@ -1,6 +1,6 @@
 +++
 date = 2025-12-24T09:54:31.441035+11:00
-draft = true
+draft = false
 title = "Acoustics"
 
 +++
@@ -26,4 +26,4 @@ The primary function of Acoustics is to unlock the [Chapel]( {{< relref "buildin
 Acoustics is strategically important because it addresses two major resource bottlenecks in the mid-game:
 
 *   **Faith and Culture:** Acoustics improves **faith and culture production**, which are resources that accumulate slowly. Chapels provide a substantial increase to faith generation compared to the prior Temple building.
-*   **Mid-Game Choices:** When facing the choice between advanced sciences unlocked after Navigation (Chemistry, Acoustics, Geology, Electricity), experts generally recommend pursuing Acoustics to boost the crucial, slower-generating faith and culture resources. This is key for advancing through technologies like [Theology]( {{< relref "science/theology.md" >}}) and later, the **Religion** tab upgrades.
+*   **Mid-Game Choices:** When facing the choice between advanced sciences unlocked after Navigation (Chemistry, Acoustics, Geology, Electricity), experts generally recommend pursuing Acoustics to boost the crucial, slower-generating faith and culture resources. This is key for advancing through technologies like [Theology]( {{< relref "techs/theology.md" >}}) and later, the **Religion** tab upgrades.

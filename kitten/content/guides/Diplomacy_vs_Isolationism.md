@@ -1,6 +1,6 @@
 +++
 date = 2025-11-30T18:47:05.711205+11:00
-draft = true
+draft = false
 title = "Diplomacy vs isolationism"
 
 +++

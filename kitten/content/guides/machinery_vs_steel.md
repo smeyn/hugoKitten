@@ -1,6 +1,6 @@
 +++
 date = 2025-12-03T07:31:04.779976+11:00
-draft = true
+draft = false
 title = "Machinery vs Steel"
 
 +++
@@ -38,7 +38,7 @@ Here is a comparison of the two technologies based on the sources:
 
 ### Strategic Takeaways
 
-1.  **Prioritization:** It is suggested to research [Steel]( {{< relref "techs/steel.md" >}}) first to boost economic efficiency via storage and production upgrades, then [Machinery]( {{< relref "techs/machinery.md" >}}) for automation and manuscript generation, before finally tackling [Philosophy]( {{< relref "science/Philosophy.md" >}}) for Temples and Theology.
+1.  **Prioritization:** It is suggested to research [Steel]( {{< relref "techs/steel.md" >}}) first to boost economic efficiency via storage and production upgrades, then [Machinery]( {{< relref "techs/machinery.md" >}}) for automation and manuscript generation, before finally tackling [Philosophy]( {{< relref "techs/Philosophy.md" >}}) for Temples and Theology.
 2.  **Manufacturing:** Steel is a necessary material for creating [Gears]( {{< relref "craft/Gear.md" >}}). Gears, along with Steel and a Blueprint, are required to build a [Steamworks]( {{< relref "buildings/Steamworks.md" >}}), which is unlocked by Machinery.
 3.  [Manuscripts:]( {{< relref "craft/Manuscript.md" >}}) While Philosophy leads to Theology (which requires Manuscripts), Steamworks (unlocked by Machinery) can automate manuscript production via the Printing Press upgrade.
 

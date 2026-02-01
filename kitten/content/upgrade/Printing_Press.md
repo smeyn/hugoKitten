@@ -1,6 +1,6 @@
 +++
 date = 2025-12-22T18:05:38.457889+11:00
-draft = true
+draft = false
 title = "Printing_Press"
 
 +++
@@ -9,7 +9,7 @@ The [Printing Press]( {{< relref "upgrade/Printing_Press.md" >}}) is a vital Wor
 
 ### Unlocking and Functionality
 
-1.  **Prerequisite:** The Printing Press upgrade is tied to the [Machinery]( {{< relref "science/machinery.md" >}}) technology. Machinery is unlocked after researching Writing, and costs 15,000 Science.
+1.  **Prerequisite:** The Printing Press upgrade is tied to the [Machinery]( {{< relref "techs/machinery.md" >}}) technology. Machinery is unlocked after researching Writing, and costs 15,000 Science.
 2.  **Building Integration:** The Printing Press is specifically used in conjunction with the [Steamworks]( {{< relref "buildings/Steamworks.md" >}}) building. Steamworks, which consume Coal and provide Energy, can automatically print Manuscripts after this upgrade is acquired.
 3.  **Production Rate:** The Steamworks start producing Manuscripts at a rate of **0.0025 manuscripts/sec** with the Printing Press upgrade.
 

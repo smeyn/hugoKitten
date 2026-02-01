@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T16:27:02.819039+11:00
-draft = true
+draft = false
 title = "Architecture"
 
 +++

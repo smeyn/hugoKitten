@@ -1,6 +1,6 @@
 +++
 date = '2026-01-26T17:52:31+11:00'
-draft = true
+draft = false
 title = 'Technocracy vs Order of the Stars vs Cosmological Libertarianism'
 +++
 [Technocracy]( {{< relref "Policy/Technocracy.md" >}}), [Order of the Stars]( {{< relref "Policy/Order_of_the_Stars.md" >}}), and [Cosmological Libertarianism]( {{< relref "Policy/Cosmological_Libertarianism.md" >}}) are mutually exclusive high-tier government Policy/ unlocked in the Science tab once you reach [Dune]( {{< relref "planet/Dune.md" >}}). Each costs **150,000 Culture** and forces you to choose between prioritising science capacity, faith production, or the generation of the critical late-game resource, unobtainium.

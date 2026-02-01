@@ -1,6 +1,6 @@
 +++
 date = 2025-12-04T07:37:58.031286+11:00
-draft = true
+draft = false
 title = "Plate"
 
 +++
@@ -28,12 +28,12 @@ Since Plate production is capped by your Iron supply, effective production requi
     *   [Oxidation]( {{< relref "upgrade/Oxidation.md" >}}) increases Calciner iron production by +95%.
     *   The [Rotary Kiln]( {{< relref "upgrade/Rotary_Kiln.md" >}}) also provides a +75% increase to Calciner iron output.
 *   **Policy/:** The [Communism]( {{< relref "Policy/Communism.md" >}}) policy grants a +25% increase to iron production. The [Rationality]( {{< relref "Policy/Rationality.md" >}}) policy grants a +5% iron production bonus.
-*   **Trade:** Iron can be acquired directly by trading with other races. For example, [Griffins]( {{< relref "trade/Griffins.md" >}}) sell Iron for Wood, and [Zebras]( {{< relref "trade/zebras.md" >}}) sell Iron for Slab.
+*   **Trade:** Iron can be acquired directly by trading with other races. For example, [Griffins]( {{< relref "Civilisations/Griffins.md" >}}) sell Iron for Wood, and [Zebras]( {{< relref "Civilisations/zebras.md" >}}) sell Iron for Slab.
 
 ### 3. Automated Conversion and Trade Acquisition
 
 *   **Automation:** The [Pneumatic Press]( {{< relref "upgrade/Pneumatic_Press.md" >}}) Workshop upgrade, unlocked via Physics, allows [Workshop Automation]( {{< relref "upgrade/Workshop_Automation.md" >}}) to automatically convert iron to plates when iron resources are near their capacity limit.
-*   **Trade Acquisition:** Plate can be acquired through trade with [Zebras]( {{< relref "trade/zebras.md" >}}). Zebras sell Plate (2 units per trade, with a 65% chance) in exchange for 50 Slab. Building **Embassies** increases the chance of receiving plates from Zebras, reaching **100% chance at Embassy level 54**.
+*   **Trade Acquisition:** Plate can be acquired through trade with [Zebras]( {{< relref "Civilisations/zebras.md" >}}). Zebras sell Plate (2 units per trade, with a 65% chance) in exchange for 50 Slab. Building **Embassies** increases the chance of receiving plates from Zebras, reaching **100% chance at Embassy level 54**.
 
 ### 4. Uses of Plate
 

@@ -1,11 +1,11 @@
 +++
 date = 2025-12-07T16:27:02.805039+11:00
-draft = true
+draft = false
 title = "Machinery"
 
 +++
 
-[Machinery]( {{< relref "science/machinery.md" >}}) is a crucial mid-game technology research in *Kittens Game*, enabling automated production and unlocking the specialized [Steamworks]( {{< relref "buildings/Steamworks.md" >}}) building.
+[Machinery]( {{< relref "techs/machinery.md" >}}) is a crucial mid-game technology research in *Kittens Game*, enabling automated production and unlocking the specialized [Steamworks]( {{< relref "buildings/Steamworks.md" >}}) building.
 
 ### Unlocking and Cost
 

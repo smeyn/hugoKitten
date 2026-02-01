@@ -1,6 +1,6 @@
 +++
 date = 2025-12-24T09:52:22.734042+11:00
-draft = true
+draft = false
 title = "Alloy"
 
 +++
@@ -35,7 +35,7 @@ Alloy is necessary for constructing advanced buildings, structures, and various 
 The point where Alloy becomes readily available signals a major checkpoint in the game's progression.
 
 *   **Technology Path:** Getting to the Alloy era requires a specific scientific path: Navigation $\to$ Physics $\to$ [Chemistry]( {{< relref "techs/Chemistry.md" >}}).
-*   **Resource Bottlenecks:** Alloy requires substantial amounts of [Titanium]( {{< relref "resource/titanium.md" >}}), which must be acquired primarily through trading slabs with [Zebras]( {{< relref "trade/zebras.md" >}}). This titanium requirement mandates ongoing construction of Trade Ships and Observatories (to acquire Starcharts).
+*   **Resource Bottlenecks:** Alloy requires substantial amounts of [Titanium]( {{< relref "resource/titanium.md" >}}), which must be acquired primarily through trading slabs with [Zebras]( {{< relref "Civilisations/zebras.md" >}}). This titanium requirement mandates ongoing construction of Trade Ships and Observatories (to acquire Starcharts).
 *   **Strategic Focus:** Once Alloy is unlocked, strategic focus shifts to purchasing **Alloy buildings** and the associated upgrades to boost storage and production. The next major goal after the Alloy era is typically achieving [Concrete Huts]( {{< relref "upgrade/Concrete_Huts.md" >}}).
 *   **Trait Bonus:** Kittens with the **Metallurgist** trait, when assigned as a leader, provide a specific bonus to metal crafting efficiency, increasing the craft ratio for resources including Alloy by $+0.1$.
 

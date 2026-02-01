@@ -1,16 +1,16 @@
 ---
 date: 2025-12-01 08:58:31.947603+11:00
-draft: true
+draft: false
 title: Spiders
 ---
 
-The [Spiders]( {{< relref "trade/spiders.md" >}}) are a **Friendly** civilization (+15% attitude) in *Kittens Game* who primarily function as a trading partner for industrial resources, particularly [Coal]( {{< relref "resource/coal.md" >}}).
+The [Spiders]( {{< relref "Civilisations/spiders.md" >}}) are a **Friendly** civilization (+15% attitude) in *Kittens Game* who primarily function as a trading partner for industrial resources, particularly [Coal]( {{< relref "resource/coal.md" >}}).
 
 Here is a detailed breakdown of the Spiders:
 
 ### Unlocking and Attitude
 
-*   [Attitude:]( {{< relref "trade/Attitude.md" >}}) Spiders are designated as a **Friendly** civilization, meaning they have an initial positive attitude of **+15%**. Friendly civilizations have a chance of giving you **15–25% extra resources** during a trade.
+*   [Attitude:]( {{< relref "Civilisations/Attitude.md" >}}) Spiders are designated as a **Friendly** civilization, meaning they have an initial positive attitude of **+15%**. Friendly civilizations have a chance of giving you **15–25% extra resources** during a trade.
 *   **Prerequisites:** Discovering the Spiders requires reaching significant progress in space and technology, specifically needing **100 Trade Ships** and a maximum [Science]( {{< relref "resource/science.md" >}}) limit of **125,000**.
     *   Due to the high maximum science requirement, Spiders are considered "waayyyy off" for players in the early to mid-game stages.
 

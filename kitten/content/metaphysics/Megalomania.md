@@ -1,13 +1,13 @@
 +++
 date = '2026-01-26T17:48:48+11:00'
-draft = true
+draft = false
 title = 'Megalomania'
 +++
 [Megalomania]( {{< relref "metaphysics/Megalomania.md" >}}) is a mid-game **Metaphysics upgrade** that serves as the essential gateway to advanced religious structures and the "Unicorn Era". It costs **10 Paragon** to purchase.
 
 ### **Unlocks and Benefits**
 By purchasing Megalomania, you gain access to high-tier structures and mechanics that are otherwise hidden:
-*   [Black Pyramids]( {{< relref "ziggurat/Black_Pyramid.md" >}}): These are necessary to attract [Leviathans]( {{< relref "trade/Leviathans.md" >}}), allowing you to trade Unobtainium for [Time Crystals]( {{< relref "resource/Time_Crystals.md" >}}) and [Relics]( {{< relref "resource/relic.md" >}}).
+*   [Black Pyramids]( {{< relref "ziggurat/Black_Pyramid.md" >}}): These are necessary to attract [Leviathans]( {{< relref "Civilisations/Leviathans.md" >}}), allowing you to trade Unobtainium for [Time Crystals]( {{< relref "resource/Time_Crystals.md" >}}) and [Relics]( {{< relref "resource/relic.md" >}}).
 *   [Markers]( {{< relref "ziggurat/Marker.md" >}}): These strange structures initiate the **corruption** process, which slowly transforms Alicorns into **Necrocorns**.
 *   **Black Codex**: Unlocks further religious upgrades, such as the [Unicorn Graveyard]( {{< relref "ziggurat/Unicorn_Graveyard.md" >}}), which boosts your maximum culture based on the number of Ziggurats you possess.
 

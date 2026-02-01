@@ -1,6 +1,6 @@
 +++
 date = '2026-01-28T07:43:49+11:00'
-draft = true
+draft = false
 title = 'Shark_relations'
 +++
 In **Kittens Game**, [Shark Relations]( {{< relref "Policy/shark_relations.md" >}}) refers to the trade mechanics and specialized policies associated with the Sharks, a neutral trade race discovered in the early-to-mid game. They are primarily used to acquire **Catnip** and cultural resources like [Parchment]( {{< relref "craft/Parchment.md" >}}) and [Manuscripts]( {{< relref "resource/manuscript.md" >}}) in exchange for **Iron**.
@@ -25,11 +25,11 @@ Once you reach **Shark Embassy Level 20** and possess the [Diplomacy]( {{< relre
 ### **Strategic Synergies**
 The Sharks are a core component of the **"Winter Trade Loop,"** which players use to bypass resource bottlenecks.
 
-1.  **The Loop:** In **Winter**, trade Iron to the Sharks for massive amounts of **Catnip**. Refine that catnip into **Wood**, then trade the wood to the [Griffins]( {{< relref "trade/Griffins.md" >}}) for **Iron**.
+1.  **The Loop:** In **Winter**, trade Iron to the Sharks for massive amounts of **Catnip**. Refine that catnip into **Wood**, then trade the wood to the [Griffins]( {{< relref "Civilisations/Griffins.md" >}}) for **Iron**.
 2.  **Culture Grind:** In challenges like **Pacifism**, where hunting for furs (to make parchment) is disabled, Sharks are the primary source of early cultural resources. Investing in **Shark Embassies** speeds up manuscript gains significantly.
 3.  **Pollution Mitigation:** While not a direct trade benefit, the **Lizard Relations: Ecologists** policy reduces pollution, which helps preserve the high catnip production levels that the Sharks can supplement.
 
 ### **Hostility and Standing**
-While the Sharks are neutral, other races like the [Griffins]( {{< relref "trade/Griffins.md" >}}) and [Zebras]( {{< relref "trade/zebras.md" >}}) are hostile. Using [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}) and the [Caravanserai]( {{< relref "upgrade/Caravanserai.md" >}}) upgrade improves your standing with all races, but the Sharks' neutral starting point makes them a reliable trade partner even before these upgrades are maxed out.
+While the Sharks are neutral, other races like the [Griffins]( {{< relref "Civilisations/Griffins.md" >}}) and [Zebras]( {{< relref "Civilisations/zebras.md" >}}) are hostile. Using [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}) and the [Caravanserai]( {{< relref "upgrade/Caravanserai.md" >}}) upgrade improves your standing with all races, but the Sharks' neutral starting point makes them a reliable trade partner even before these upgrades are maxed out.
 
 Are you currently using the Sharks to push through a cultural resource bottleneck, or are you looking to optimize your energy consumption with the Botanists policy?

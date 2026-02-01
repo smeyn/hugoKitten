@@ -1,6 +1,6 @@
 +++
 date = '2026-01-22T16:40:36+11:00'
-draft = true
+draft = false
 title = 'Orbital Array'
 +++
 An [Orbital Array]( {{< relref "space/orbital_array.md" >}}) is a high-tier space structure in the Cath solar system that provides a **2% bonus to all space structures**. While powerful, it is an energy-intensive building, consuming **20 Watts** of power per unit.

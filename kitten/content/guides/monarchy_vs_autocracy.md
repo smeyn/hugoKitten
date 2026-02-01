@@ -1,6 +1,6 @@
 +++
 date = 2025-11-30T17:51:20.733390+11:00
-draft = true
+draft = false
 title = "Monarchy vs Autocracy"
 
 +++
@@ -31,7 +31,7 @@ The Autocracy policy is primarily focused on doubling the leader's raw productio
 | **Cost** | Culture 1500 | |
 | **Prerequisites** | Must have researched [Writing]( {{< relref "techs/Writing.md" >}}) and chosen either the [Liberty]( {{< relref "Policy/Liberty.md" >}}) or [Tradition]( {{< relref "Policy/Tradition.md" >}}) policy. | |
 | **Core Effect (Production)** | Makes the **leader twice as good at their job**, doubling their production bonus. | |
-| **Secondary Effect** | The leader's bonus also increases **conversion production** (resources produced by Smelters, Calciners, and Accelerators) based on leader rank and the count of uncapped housing buildings, specifically during the **Cath cycle**. | |
+| **Secondary Effect** | The leader's bonus also increases **conversion production** (resources produced by Smelters, Calciners, and Accelerators) based on leader rank and the count of uncapped housing buildings, specifically during the [Cath cycle]( {{< relref "Cycles/Cath_Cycle.md" >}}). | |
 | **Strategic Value** | Monarchy's doubling of the leader's trait is highly favoured, and Autocracy's benefits are sometimes characterized as "tiny bonuses that are dwarfed by pretty much everything else". However, it is part of the path (Autocracy -> Communism) that can be aimed for to achieve **better time crystal results** in advanced, highly specialized runs. | |
 | **Next Tier Policy/**| Leads to a choice between [Socialism]( {{< relref "Policy/Socialism.md" >}}) (which has no effect) and the next tier of Policy/ (Liberalism, Communism, or Fascism). | |
 

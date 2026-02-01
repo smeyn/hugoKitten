@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T20:28:11.769182+11:00
-draft = true
+draft = false
 title = "Praise the sun"
 
 +++

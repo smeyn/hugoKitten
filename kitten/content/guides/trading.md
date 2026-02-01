@@ -1,6 +1,6 @@
 +++
 date = 2025-12-03T07:31:04.782976+11:00
-draft = true
+draft = false
 title = "Trading"
 
 +++
@@ -26,13 +26,13 @@ You must first create [Gold]( {{< relref "resource/Gold.md" >}}) before you can 
 Trading becomes central during the mid-game, particularly in the **Titanium era** (after researching Astronomy and Navigation).
 
 *   **Trading for Titanium and Iron (Zebras):**
-    *   Once you learn Navigation and build [Trade Ships]( {{< relref "craft/Trade_Ship.md" >}}) (which require Starcharts), you can **Send Explorers** to discover additional civilizations, including the hostile [Zebras]( {{< relref "trade/zebras.md" >}}).
+    *   Once you learn Navigation and build [Trade Ships]( {{< relref "craft/Trade_Ship.md" >}}) (which require Starcharts), you can **Send Explorers** to discover additional civilizations, including the hostile [Zebras]( {{< relref "Civilisations/zebras.md" >}}).
     *   Zebras trade Slabs for **Titanium and Iron**.
     *   The focus becomes **trading with Zebras non-stop** to acquire Titanium and Iron.
     *   This is especially important in the **Concrete era**, where Blueprint requirements for sciences start becoming a bottleneck. Trading allows you to **stockpile blueprints** while also acquiring titanium and steel.
 
 *   **Trading for Minerals/Automation (Nagas and Griffins):**
-    *   [Nagas]( {{< relref "trade/Nagas.md" >}}) are discovered once you achieve **1500 Culture Cap**. They sell **Minerals** for Ivory. This trade can be used in a loop: trading Ivory for Minerals, then putting Minerals back into Smelters to produce Gold, which is needed for trade costs and other buildings.
+    *   [Nagas]( {{< relref "Civilisations/Nagas.md" >}}) are discovered once you achieve **1500 Culture Cap**. They sell **Minerals** for Ivory. This trade can be used in a loop: trading Ivory for Minerals, then putting Minerals back into Smelters to produce Gold, which is needed for trade costs and other buildings.
     *   The sources also suggest a trading loop involving **Sharks and Griffins** to collect Wood, Steel, Gears, and Blueprints for [Steamworks]( {{< relref "buildings/Steamworks.md" >}}).
 
 ### Seasonal Considerations (Optimizing Trade Timing)
@@ -54,7 +54,7 @@ Trade rates are affected by seasons, making it optimal to trade certain resource
 In the end-game, trading remains the fastest way to acquire large amounts of [Blueprints]( {{< relref "resource/Blueprint.md" >}}) and facilitates rapid resets:
 
 *   **Fastest Reset Method:** Trading becomes the **fastest reset possible** once you have a massive Catpower stockpile. You can trade, acquire necessary Blueprints (which are needed for Chronospheres), and reset rapidly.
-*   **Leviathans (Relics and Time Crystals):** Once you acquire a [Black Pyramid]( {{< relref "ziggurat/Black_Pyramid.md" >}}), [Leviathans]( {{< relref "trade/Leviathans.md" >}}) appear and trade [Unobtainium]( {{< relref "resource/unobtainium.md" >}}) for advanced resources like **Time Crystals, Relics, and Sorrow**. This trade has no seasonal adjustment.
+*   **Leviathans (Relics and Time Crystals):** Once you acquire a [Black Pyramid]( {{< relref "ziggurat/Black_Pyramid.md" >}}), [Leviathans]( {{< relref "Civilisations/Leviathans.md" >}}) appear and trade [Unobtainium]( {{< relref "resource/unobtainium.md" >}}) for advanced resources like **Time Crystals, Relics, and Sorrow**. This trade has no seasonal adjustment.
 
 In summary, you should start trading as soon as you meet the prerequisites (Gold and [Currency]( {{< relref "techs/Currency.md" >}}) technology), prioritize it in the **Titanium era** to secure Blueprints and Titanium from Zebras, and time your trades with Nagas, Griffins, and Sharks according to the [seasons]( {{< relref "guides/seasons.md" >}}) to maximize resource returns.
 

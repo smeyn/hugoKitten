@@ -1,6 +1,6 @@
 +++
 date = 2025-11-29T20:44:33.289594+11:00
-draft = true
+draft = false
 title = "Mysticism"
 
 +++
@@ -9,7 +9,7 @@ title = "Mysticism"
 ### **Key Statistics**
 *   **Cost:** 3,000 Culture.
 *   **Primary Effects:** **+5% Culture production** and **+5% Faith production**.
-*   **Prerequisites:** Researching the [Philosophy]( {{< relref "science/Philosophy.md" >}}) technology and enacting either the [Stoicism]( {{< relref "Policy/Stoicism.md" >}}) or **Epicureanism** policy.
+*   **Prerequisites:** Researching the [Philosophy]( {{< relref "techs/Philosophy.md" >}}) technology and enacting either the [Stoicism]( {{< relref "Policy/Stoicism.md" >}}) or **Epicureanism** policy.
 *   **Mutually Exclusive:** Choosing Mysticism permanently locks you out of the [Rationality]( {{< relref "Policy/Rationality.md" >}}) policy for the remainder of the run.
 
 ### **Strategic Utility**

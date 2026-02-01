@@ -1,6 +1,6 @@
 +++
 date = 2025-11-29T20:44:33.275594+11:00
-draft = true
+draft = false
 title = "Stone_Slab"
 
 +++

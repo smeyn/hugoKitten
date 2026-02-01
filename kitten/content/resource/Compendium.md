@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T20:36:04.730156+11:00
-draft = true
+draft = false
 title = "Compendium"
 
 +++
@@ -9,7 +9,7 @@ title = "Compendium"
 
 ### Crafting and Unlocking
 
-*   **Prerequisite:** Compendiums are enabled for crafting after researching [Philosophy]( {{< relref "science/Philosophy.md" >}}) (9,500 Science).
+*   **Prerequisite:** Compendiums are enabled for crafting after researching [Philosophy]( {{< relref "techs/Philosophy.md" >}}) (9,500 Science).
 *   **Cost to Craft:** Creating one Compendium requires **50 Manuscripts** and **10,000 Science**.
 
 ### Strategic Importance and Usage

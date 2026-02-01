@@ -1,6 +1,6 @@
 +++
 date = 2025-11-29T20:44:33.283594+11:00
-draft = true
+draft = false
 title = "Liberty"
 
 +++
@@ -35,4 +35,4 @@ Choosing Liberty sets you on a specific "Liberal" branch of government policies:
 2.  **Socialism (7,500 Culture):** A follow-up to Republic that is noted in the records as having **no actual effect** on gameplay.
 3.  **Liberalism (15,000 Culture):** A powerful late-game choice that improves trade relations and **reduces all gold costs by 20%**.
 
-Are you currently finding it difficult to keep your kittens happy as your population grows, or are you preparing to grind for the [Theology]( {{< relref "science/Theology.md" >}}) science which requires a high volume of manuscripts?
+Are you currently finding it difficult to keep your kittens happy as your population grows, or are you preparing to grind for the [Theology]( {{< relref "techs/Theology.md" >}}) science which requires a high volume of manuscripts?

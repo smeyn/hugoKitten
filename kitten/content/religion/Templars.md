@@ -1,13 +1,13 @@
 +++
 date = 2025-11-29T20:44:33.298594+11:00
-draft = true
+draft = false
 title = "Templars"
 
 +++
 [Templars]( {{< relref "religion/Templars.md" >}}) is a high-tier religious upgrade available under the **Order of the Sun** in the Religion tab. It specifically enhances the utility of [Temples]( {{< relref "buildings/Temple.md" >}}) by increasing the colony’s maximum **Catpower** capacity.
 
 ### **Acquisition and Costs**
-To unlock the Templars upgrade, you must first research [Theology]( {{< relref "science/Theology.md" >}}) and accumulate a significant amount of religious capital.
+To unlock the Templars upgrade, you must first research [Theology]( {{< relref "techs/Theology.md" >}}) and accumulate a significant amount of religious capital.
 *   **Prerequisites:** You must have at least **75,000 Worship** accumulated through "Praising the Sun".
 *   **Cost:** The initial upgrade costs **3,500 Faith** and **3,000 Gold**.
 *   **Price Ratio:** Like most religious upgrades, it has a price ratio of **2.5**, meaning subsequent levels (if unlocked via Transcendence) become significantly more expensive.

@@ -1,6 +1,6 @@
 +++
 date = 2025-12-24T08:42:39.708273+11:00
-draft = true
+draft = false
 title = "Storage Bunkers"
 
 +++

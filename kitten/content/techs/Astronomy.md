@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T16:27:03.120039+11:00
-draft = true
+draft = false
 title = "Astronomy"
 
 +++
@@ -9,7 +9,7 @@ title = "Astronomy"
 
 ### Technical Details and Placement
 
-*   **Prerequisite:** Astronomy is unlocked by researching [Theology]( {{< relref "science/theology.md" >}}).
+*   **Prerequisite:** Astronomy is unlocked by researching [Theology]( {{< relref "techs/theology.md" >}}).
 *   **Cost:** Researching Astronomy requires **28,000 Science** and **65 Manuscripts**.
 *   **Placement in Progression:** After overcoming the hurdle of acquiring Theology (which also requires Manuscripts), the next technology, Astronomy, is considered "much easier to acquire," especially if you have a [Steamworks]( {{< relref "buildings/Steamworks.md" >}}) operational to generate Manuscripts via the Printing Press upgrade.
 
@@ -26,7 +26,7 @@ The research of Astronomy unlocks essential buildings and the resources needed f
 
 ### Strategic Importance
 
-Astronomy is strategically important because it unlocks the mechanism to acquire **starcharts**, a resource necessary for building [Trade Ships]( {{< relref "craft/Trade_Ship.md" >}}) and ultimately leading to the discovery of the [Zebras]( {{< relref "trade/zebras.md" >}}), who trade essential resources like [Titanium]( {{< relref "resource/titanium.md" >}}) and **Iron**.
+Astronomy is strategically important because it unlocks the mechanism to acquire **starcharts**, a resource necessary for building [Trade Ships]( {{< relref "craft/Trade_Ship.md" >}}) and ultimately leading to the discovery of the [Zebras]( {{< relref "Civilisations/zebras.md" >}}), who trade essential resources like [Titanium]( {{< relref "resource/titanium.md" >}}) and **Iron**.
 
 Before researching Astronomy, you may occasionally see a message about "astronomical events" in your log, which allows you to click a button to earn Science. However, once you research Astronomy, observing these events will yield **starcharts**. Because starcharts are a major bottleneck for trade expansion, building many Observatories is prioritized to increase the rate of seeing and automatically clicking on these meteors.
 

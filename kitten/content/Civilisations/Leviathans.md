@@ -1,11 +1,11 @@
 +++
 date = 2025-12-01T09:36:58.124475+11:00
-draft = true
+draft = false
 title = "Leviathans"
 
 +++
 
-The [Leviathans]( {{< relref "trade/Leviathans.md" >}}) are an end-game trading civilization in *Kittens Game*, defined as a **Neutral (0%)** race whose appearance is crucial for acquiring the advanced resources necessary for temporal and cosmic progression.
+The [Leviathans]( {{< relref "Civilisations/Leviathans.md" >}}) are an end-game trading civilization in *Kittens Game*, defined as a **Neutral (0%)** race whose appearance is crucial for acquiring the advanced resources necessary for temporal and cosmic progression.
 
 Here is a comprehensive breakdown of the Leviathans:
 

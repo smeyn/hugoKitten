@@ -37,7 +37,7 @@
             "request": "launch",
             "program": "src/upgrade.py",
             "console": "integratedTerminal",
-            "args": ["trade/Nagas.md",
+            "args": ["Civilisations/Nagas.md",
         "--source_dir", "kitten/content", "--dest", "."]
         }
     ]

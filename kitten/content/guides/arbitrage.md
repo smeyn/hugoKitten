@@ -1,6 +1,6 @@
 +++
 date = '2026-01-28T11:09:49+11:00'
-draft = true
+draft = false
 title = 'Arbitrage'
 +++
 In *Kittens Game*, [arbitrage]( {{< relref "guides/arbitrage.md" >}}) refers to the strategic manipulation of resource conversion and trading cycles to generate a net profit or bypass severe production bottlenecks. Rather than relying on linear accumulation, players use arbitrage to transform high-volume, low-value resources into restricted, high-value capital.
@@ -9,8 +9,8 @@ In *Kittens Game*, [arbitrage]( {{< relref "guides/arbitrage.md" >}}) refers to 
 
 | Strategy | Mechanism | Goal |
 | :--- | :--- | :--- |
-| **Trade Arbitrage** | Refining **Catnip** into **Wood** and immediately trading it to [Griffins]( {{< relref "trade/Griffins.md" >}}). | Resolving the mid-game **Iron** bottleneck by bypassing slow smelters. |
-| **Iron Will (IW) Loop** | Trading **Iron** to [Sharks]( {{< relref "trade/Sharks.md" >}}) for **Catnip**, refining it to **Wood**, and trading that back to [Griffins]( {{< relref "trade/Griffins.md" >}}) for **Iron**. | Generating a net profit of Iron and Wood in resource-constrained IW runs. |
+| **Trade Arbitrage** | Refining **Catnip** into **Wood** and immediately trading it to [Griffins]( {{< relref "Civilisations/Griffins.md" >}}). | Resolving the mid-game **Iron** bottleneck by bypassing slow smelters. |
+| **Iron Will (IW) Loop** | Trading **Iron** to [Sharks]( {{< relref "Civilisations/Sharks.md" >}}) for **Catnip**, refining it to **Wood**, and trading that back to [Griffins]( {{< relref "Civilisations/Griffins.md" >}}) for **Iron**. | Generating a net profit of Iron and Wood in resource-constrained IW runs. |
 | **Temporal Arbitrage** | Shattering [Time Crystals]( {{< relref "resource/Time_Crystals.md" >}}) to skip less productive years and land on the [Redmoon]( {{< relref "planet/Redmoon.md" >}}) cycle. | Converting temporal capital into a $2.5\times$ spike in [Unobtainium]( {{< relref "resource/unobtainium.md" >}}) production. |
 | **Positive Resets** | Building enough [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}) to carry over more resources than were spent during the run. | Establishing a self-sustaining engine of exponential growth. |
 

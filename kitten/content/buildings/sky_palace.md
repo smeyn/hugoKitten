@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T20:13:26.610231+11:00
-draft = true
+draft = false
 title = "Sky_palace"
 
 +++

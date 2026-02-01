@@ -1,6 +1,6 @@
 +++
 date = 2025-12-05T10:15:48.993073+11:00
-draft = true
+draft = false
 title = "Workshop"
 
 +++
@@ -28,7 +28,7 @@ This section allows players to purchase upgrades that are essential for improvin
 This section allows for the creation of composite materials necessary for advanced buildings and subsequent technological progression.
 
 *   **Purpose:** Crafted items are generally composite parts for buildings, and advanced structures require a fair amount of crafting to complete.
-*   **Craftable Resources:** The Workshop is used to convert basic resources into crucial craftable resources like **Beam**, **Slab**, [Plate]( {{< relref "resource/plate.md" >}}), [Steel]( {{< relref "craft/steel.md" >}}), and later, [Manuscript]( {{< relref "resource/manuscript.md" >}}), [Compendium]( {{< relref "compendium.md" >}}), and [Blueprint]( {{< relref "resource/Blueprint.md" >}}).
+*   **Craftable Resources:** The Workshop is used to convert basic resources into crucial craftable resources like **Beam**, **Slab**, [Plate]( {{< relref "resource/plate.md" >}}), [Steel]( {{< relref "craft/steel.md" >}}), and later, [Manuscript]( {{< relref "resource/manuscript.md" >}}), [Compendium]( {{< relref "resource/compendium.md" >}}), and [Blueprint]( {{< relref "resource/Blueprint.md" >}}).
 *   **Exchange:** The Workshop also allows you to exchange Catnip directly for basic resources.
 *   **Automation:** The [Engineer]( {{< relref "engineer.md" >}}) job, enabled by [Mechanization]( {{< relref "mechanization.md" >}}) technology, allows kittens to automate crafting within the Workshop.
 

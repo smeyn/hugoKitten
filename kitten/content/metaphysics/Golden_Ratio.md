@@ -1,6 +1,6 @@
 +++
 date = '2026-01-24T21:08:23+11:00'
-draft = true
+draft = false
 title = 'Golden_Ratio'
 +++
 [Golden Ratio]( {{< relref "metaphysics/Golden_Ratio.md" >}}) is an early-to-mid-game **Metaphysics upgrade** that reduces the price ratio of buildings on the **Bonfire tab**. By slowing down how quickly construction costs increase, it allows you to build significantly more structures before hitting your resource caps, which directly boosts your production and maximum kitten population.

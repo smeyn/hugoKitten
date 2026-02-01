@@ -1,6 +1,6 @@
 +++
 date = '2026-01-22T16:04:51+11:00'
-draft = true
+draft = false
 title = 'Spice refinery'
 +++
 A [Spice Refinery]( {{< relref "space/spice_refinery.md" >}}) is a space-based industrial structure located on the planet [Dune]( {{< relref "planet/Dune.md" >}}). It is designed to refine the planet's sand into [Spice]( {{< relref "resource/spice.md" >}}), a rare and psychoactive luxury resource.

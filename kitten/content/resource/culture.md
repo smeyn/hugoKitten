@@ -1,6 +1,6 @@
 +++
 date = 2025-12-04T06:49:37.577445+11:00
-draft = true
+draft = false
 title = "Culture"
 
 +++

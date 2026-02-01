@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T16:27:03.008039+11:00
-draft = true
+draft = false
 title = "Nuclear_Fission"
 
 +++
@@ -34,7 +34,7 @@ Nuclear Fission provides both industrial capacity and scientific progression:
 
 This technology is a mandatory gateway for the Uranium and space exploration phases:
 
-*   **Unlocking Dragons:** Nuclear Fission is the prerequisite for establishing trade relations with the [Dragons]( {{< relref "trade/Dragons.md" >}}). Dragons are essential because they **sell Uranium** in exchange for Titanium (250 units). Uranium is a vital resource for advanced structures and technologies.
+*   **Unlocking Dragons:** Nuclear Fission is the prerequisite for establishing trade relations with the [Dragons]( {{< relref "Civilisations/Dragons.md" >}}). Dragons are essential because they **sell Uranium** in exchange for Titanium (250 units). Uranium is a vital resource for advanced structures and technologies.
 *   **Uranium Management:** The Reactor, unlocked here, helps manage the newly introduced [Uranium]( {{< relref "resource/uranium.md" >}}) resource by increasing its storage capacity.
 *   **Global Production:** The Reactor's +5% Global Production bonus makes it an attractive investment, helping to boost all resource outputs.
 

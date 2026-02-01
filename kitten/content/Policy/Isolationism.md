@@ -1,6 +1,6 @@
 +++
 date = 2025-11-29T20:44:33.288594+11:00
-draft = true
+draft = false
 title = "Isolationism"
 
 +++
@@ -23,7 +23,7 @@ Choosing Isolationism unlocks a specific path of follow-up policies available af
 ### **Strategic Utility**
 The choice between Isolationism and Diplomacy is often a significant decision for early-to-mid-game trade management.
 
-*   **Gold Management:** Isolationism is primarily useful if [gold]( {{< relref "resource/Gold.md" >}}) is your main bottleneck for trading. Some players find it preferable for facilitating high-volume exchanges with the [Nagas]( {{< relref "trade/Nagas.md" >}}), which are critical for mineral supplies.
+*   **Gold Management:** Isolationism is primarily useful if [gold]( {{< relref "resource/Gold.md" >}}) is your main bottleneck for trading. Some players find it preferable for facilitating high-volume exchanges with the [Nagas]( {{< relref "Civilisations/Nagas.md" >}}), which are critical for mineral supplies.
 *   **Comparison to Diplomacy:** While the gold discount "might feel good," many experienced players consider the Isolationism branch to be weaker than the Diplomacy branch. Diplomacy reduces the **catpower** cost of trades (by 5) and leads to [Cultural Exchange]( {{< relref "Policy/Cultural_Exchange.md" >}}) (+5% culture income), which addresses a much more persistent bottleneck in the mid-game.
 *   **Policy Efficiency:** The follow-up policies in this branch are often described as suboptimal. [Big Stick Policy]( {{< relref "Policy/Big_Stick_Policy.md" >}}) and [City On A Hill]( {{< relref "Policy/City_On_A_Hill.md" >}}) are noted for being relatively "weak" compared to the bonuses offered by the Diplomacy-based alternatives.
 

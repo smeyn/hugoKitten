@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T22:47:58.307719+11:00
-draft = true
+draft = false
 title = "Lunar Outpost"
 
 +++
@@ -29,7 +29,7 @@ The Lunar Outpost is unlocked and built through the Space tab [5]:
 The Lunar Outpost's production of unobtainium is noted for its inefficiency relative to its resource consumption, which heavily bottlenecks early unobtainium production:
 
 *   **Production Slowdown:** If your main source of uranium is a single [Accelerator]( {{< relref "accelerator.md" >}}) (which produces $0.0125$ uranium per second), the Lunar Outpost will run **140 times slower** than its maximum speed [9]. This means it could take 5.3 hours to produce 5 unobtainium, rather than 2.3 minutes [4, 9].
-*   **Trade Solution:** Production can be sped up by trading with [Dragons]( {{< relref "trade/Dragons.md" >}}) for uranium [9].
+*   **Trade Solution:** Production can be sped up by trading with [Dragons]( {{< relref "Civilisations/Dragons.md" >}}) for uranium [9].
 *   **Redshift Advantage (Offline):** The source notes that the "Redshift" mechanic, which prevents resources from being deliberately reduced during offline progression, effectively allows Lunar Outposts to run **as if you have infinite uranium** while offline. This **significantly speeds up** unobtainium gain during offline progress because the outpost runs at full speed [10].
 *   **Upgrades:** The [Microwarp Reactors]( {{< relref "microwarp_reactors.md" >}}) Workshop upgrade, unlocked by **Exometallurgy**, makes unobtainium production **75% more effective** [11].
 

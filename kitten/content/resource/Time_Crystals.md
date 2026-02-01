@@ -1,6 +1,6 @@
 +++
 date = 2025-12-05T10:12:40.266083+11:00
-draft = true
+draft = false
 title = "Time_Chrystals"
 
 +++
@@ -13,7 +13,7 @@ Time Crystals cannot be produced by standard buildings or jobs; they must be acq
 
 1.  **Sacrificing Alicorns:** You receive **1 Time Crystal** by sacrificing 25 [Alicorns]( {{<relref "resource/alicorn.md">}}) [3, 4]. This conversion ratio is improved by Unicorn Utopia (+5%) and Sunspire (+10%) [5].
 2.  **Trading with Leviathans:** Leviathans sell Time Crystals (minimum amount 0.25) with a 98% chance of success [6]. They require **5,000 Unobtainium** in exchange [6]. The amount received per trade is increased by the Leviathan's energy level (which is maintained by feeding them Necrocorns) and by the number of Tradeposts you have [7, 8].
-3.  **Shatter Engine:** In the late game, Time Crystals can become self-sustaining through the Type 2 Relic Engine (Shatter Engine). This involves purchasing **Resource Retrieval** upgrades (unlocked by Paradox Theory) high enough that shattering a Time Crystal yields enough Unobtainium and Alicorns to trade/sacrifice for more Time Crystals [9-11].
+3.  **Shatter Engine:** In the late game, Time Crystals can become self-sustaining through the Type 2 Relic Engine (Shatter Engine). This involves purchasing **Resource Retrieval** upgrades (unlocked by Paradox Theory) high enough that shattering a Time Crystal yields enough Unobtainium and Alicorns to Civilisations/sacrifice for more Time Crystals [9-11].
 
 ### Primary Uses
 

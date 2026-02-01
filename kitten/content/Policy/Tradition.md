@@ -1,6 +1,6 @@
 +++
 date = 2025-12-04T07:50:03.512245+11:00
-draft = true
+draft = false
 title = "Tradition"
 
 +++
@@ -24,6 +24,6 @@ Here is a detailed breakdown of the Tradition policy:
 Tradition is highly relevant in the early-to-mid game as players struggle to overcome the **manuscript grind**, which is necessary for advancing the science tree (leading toward Theology and Astronomy).
 
 *   **Preference over Liberty:** Strategic advice generally recommends choosing **Tradition all the way** over its alternative, Liberty. This is because the core objective at this stage is to produce lots of manuscripts cheaply to unlock essential science, and Tradition directly supports this goal. The Liberty policy is sometimes deemed a "noob trap".
-*   **Scientific Velocity:** By accelerating cultural resource generation, Tradition directly expedites the scientific path towards advanced technologies like [Theology]( {{< relref "science/theology.md" >}}) and [Astronomy]( {{< relref "techs/Astronomy.md" >}}).
+*   **Scientific Velocity:** By accelerating cultural resource generation, Tradition directly expedites the scientific path towards advanced technologies like [Theology]( {{< relref "techs/theology.md" >}}) and [Astronomy]( {{< relref "techs/Astronomy.md" >}}).
 *   **First Run Nuance:** Although Tradition is generally preferred, experts note that in very early runs, a player might consider choosing [Liberty]( {{< relref "Policy/Liberty.md" >}}) to help offset the large production hit caused by unhappiness. However, once a player has accumulated sufficient **Karma** from resets (which increases overall happiness), it is advisable to switch to the [Tradition]( {{< relref "Policy/Tradition.md" >}}) policy.
 *   **Subsequent Policy Path:** Choosing Tradition allows progression toward [Autocracy]( {{< relref "Policy/Autocracy.md" >}}) or [Monarchy]( {{< relref "Policy/Monarchy.md" >}}). The path of Tradition $\to$ Autocracy $\to$ Communism is recommended in late-game Iron Will runs for achieving better time crystal results.

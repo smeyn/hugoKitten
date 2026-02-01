@@ -1,6 +1,6 @@
 +++
 date = 2025-12-11T21:34:29.204096+11:00
-draft = true
+draft = false
 title = "Steel"
 
 +++
@@ -23,7 +23,7 @@ Steel is a **Craftable Resource**.
 
 *   **Composition:** Steel is made by combining **100 Iron** and **100 Coal**.
 *   **Acquisition:** The research of the Steel technology **enables the resource Steel**.
-*   [Trading:]( {{< relref "guides/trading.md" >}}) Steel can also be acquired through trade, notably from [Griffins]( {{< relref "trade/Griffins.md" >}}), who sell 25 Steel per trade once you reach Embassy Level 5. Griffins buy Wood.
+*   [Trading:]( {{< relref "guides/trading.md" >}}) Steel can also be acquired through trade, notably from [Griffins]( {{< relref "Civilisations/Griffins.md" >}}), who sell 25 Steel per trade once you reach Embassy Level 5. Griffins buy Wood.
 
 ### Key Unlocks and Upgrades
 

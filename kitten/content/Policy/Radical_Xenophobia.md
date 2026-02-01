@@ -1,6 +1,6 @@
 +++
 date = 2025-11-29T20:44:33.288594+11:00
-draft = true
+draft = false
 title = "Radical_Xenophobia"
 
 +++
@@ -11,7 +11,7 @@ title = "Radical_Xenophobia"
 | Attribute | Details |
 | :--- | :--- |
 | **Cost** | 1,500,000 Culture |
-| **Prerequisite** | At least one successful trade with the [Leviathans]( {{< relref "trade/Leviathans.md" >}}) |
+| **Prerequisite** | At least one successful trade with the [Leviathans]( {{< relref "Civilisations/Leviathans.md" >}}) |
 | **Mutual Exclusivity** | Selecting this locks out [Transkittenism]( {{< relref "Policy/Transkittenism.md" >}}) and [Necrocracy]( {{< relref "Policy/Necrocracy.md" >}}) for the current run |
 
 ### **Core Effects and Benefits**

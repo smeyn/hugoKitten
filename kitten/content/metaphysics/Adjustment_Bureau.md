@@ -1,6 +1,6 @@
 +++
 date = '2026-01-24T20:56:40+11:00'
-draft = true
+draft = false
 title = 'Adjustment_Bureau'
 +++
 The [Adjustment Bureau]( {{< relref "metaphysics/Adjustment_Bureau.md" >}}) is a low-cost Metaphysics upgrade that serves as the gateway to the **Challenges** system in *Kittens Game*. Once purchased, it unlocks a dedicated **Challenges tab** (separate from the Science tab), where you can activate specific game-altering restrictions in exchange for permanent global rewards.

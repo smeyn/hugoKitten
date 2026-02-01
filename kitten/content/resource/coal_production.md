@@ -44,6 +44,6 @@ Specific late-game Policy/ and timing mechanisms can provide percentage bonuses 
 
 If production is insufficient, you can acquire coal through trade:
 
-*   [Spiders:]( {{< relref "trade/spiders.md" >}}) Coal is a **common resource** that can be **bought from the Spiders** in exchange for [Scaffold]( {{< relref "scaffold.md" >}}) [3, 14].
+*   [Spiders:]( {{< relref "Civilisations/spiders.md" >}}) Coal is a **common resource** that can be **bought from the Spiders** in exchange for [Scaffold]( {{< relref "scaffold.md" >}}) [3, 14].
 *   **Seasonal Trade:** Coal trading with Spiders is most favorable during the **Autumn** season, which provides a **+15% Amount Modifier** [15].
 *   **Storage:** Coal, like many basic resources, has a default maximum storage capacity, which starts at **60** [16]. This can be increased by storage buildings like [Barns]( {{< relref "buildings/Barn.md" >}}) and [Warehouses]( {{< relref "buildings/Warehouse.md" >}}) [17]. The [Barges]( {{< relref "barges.md" >}}) upgrade for Harbors specifically increases coal storage by **50%** (multiplies with other effects) [18].

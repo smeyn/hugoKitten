@@ -1,6 +1,6 @@
 +++
 date = '2026-01-22T16:34:47+11:00'
-draft = true
+draft = false
 title = 'Unobtainium'
 +++
 [Unobtainium]( {{< relref "resource/unobtainium.md" >}}) is a rare, high-tier resource that marks the transition into the late game (Phase 4). It is primarily refined from uranium and is essential for space exploration, time manipulation, and advanced engineering.

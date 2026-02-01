@@ -1,6 +1,6 @@
 +++
 date = '2026-01-22T16:33:26+11:00'
-draft = true
+draft = false
 title = 'Cryo Station'
 +++
 A **Cryostation** is a vast, high-tier space storage facility located on the ice giant **Terminus**. It is a critical structure for mid-to-late-game progression, specifically for overcoming the storage bottlenecks required to enter the Eludium era and establish Chronosphere resets.

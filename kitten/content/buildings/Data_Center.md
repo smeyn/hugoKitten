@@ -1,6 +1,6 @@
 +++
 date = 2026-01-20T11:21:46.862683+11:00
-draft = true
+draft = false
 title = "Data Center"
 
 +++

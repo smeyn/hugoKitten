@@ -1,9 +1,9 @@
 +++
 date = '2026-01-28T10:16:54+11:00'
-draft = true
+draft = false
 title = 'Spider Relations'
 +++
-[Spiders]( {{< relref "trade/spiders.md" >}}) are a friendly trade partner in *Kittens Game* that players typically encounter in the mid-to-late game. They are a valuable source for acquiring [Coal]( {{< relref "resource/coal.md" >}}) and **Oil**, which can help resolve industrial bottlenecks when production from Smelters or Geologists is insufficient.
+[Spiders]( {{< relref "Civilisations/spiders.md" >}}) are a friendly trade partner in *Kittens Game* that players typically encounter in the mid-to-late game. They are a valuable source for acquiring [Coal]( {{< relref "resource/coal.md" >}}) and **Oil**, which can help resolve industrial bottlenecks when production from Smelters or Geologists is insufficient.
 
 ### **Discovery and Unlock Requirements**
 Because of their steep requirements, Spiders are considered "waayyyy off" for early-game players. You can discover them by **Sending Explorers** (costing 1,000 catpower) only once you have achieved the following:

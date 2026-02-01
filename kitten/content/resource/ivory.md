@@ -1,6 +1,6 @@
 +++
 date = '2026-01-24T21:12:13+11:00'
-draft = true
+draft = false
 title = 'Ivory'
 +++
 [Ivory]( {{< relref "resource/ivory.md" >}}) is a rare luxury resource in *Kittens Game* that is primarily used to increase colony [happiness]( {{< relref "guides/Happiness.md" >}}) and facilitate progression through the religious "Unicorn Era". Unlike standard building materials, ivory is a consumable resource; as long as you have it in your inventory, it provides a **+10% happiness bonus** to your kittens, which in turn boosts their overall production efficiency.

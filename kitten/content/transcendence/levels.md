@@ -1,6 +1,6 @@
 +++
 date = 2025-12-24T12:53:15.239442+11:00
-draft = true
+draft = false
 title = "Levels.md"
 
 +++
@@ -24,7 +24,7 @@ Uranium can be produced directly using advanced buildings and upgrades:
 
 The most straightforward way to initially acquire Uranium is through trade:
 
-*   [Dragons:]( {{< relref "trade/Dragons.md" >}}) Uranium can be **bought** from the [Dragons]( {{< relref "trade/Dragons.md" >}}) civilization, in exchange for Titanium [1].
+*   [Dragons:]( {{< relref "Civilisations/Dragons.md" >}}) Uranium can be **bought** from the [Dragons]( {{< relref "Civilisations/Dragons.md" >}}) civilization, in exchange for Titanium [1].
     *   Dragons sell **1 Uranium** and the trade has a 95% chance of success (reaching 100% chance with 6 Embassy levels) [10, 11].
     *   Dragons are unlocked after researching [Nuclear Fission]( {{< relref "nuclear_fission.md" >}}) [12].
 

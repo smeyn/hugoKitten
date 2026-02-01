@@ -1,6 +1,6 @@
 +++
 date = '2026-01-28T11:12:21+11:00'
-draft = true
+draft = false
 title = 'Numeromancy'
 +++
 [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is a late-game **Metaphysics upgrade** that grants your civilisation unique production bonuses during **Festivals** based on the current active **Cycle** of the Cath solar system. 

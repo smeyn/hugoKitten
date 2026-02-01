@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T20:35:04.686160+11:00
-draft = true
+draft = false
 title = "Blueprint"
 
 +++
@@ -23,7 +23,7 @@ Blueprints can be acquired through crafting or trade:
 2.  [Trading:]( {{< relref "guides/trading.md" >}})
     *   Any successful trade with other civilizations has a **10% chance** of including one [blueprint]( {{< relref "resource/Blueprint.md" >}}) as an extra resource. This is a fixed rate that cannot be increased by other trade bonuses.
     *   Trading is often the preferred initial method, as players are advised to "keep Trading with other civilizations until you luck out and get a Blueprints for free" due to their steep production cost.
-    *   Trading with [Nagas]( {{< relref "trade/Nagas.md" >}}) can specifically boost Blueprint acquisition: Building Naga embassies increases the chance to get blueprints from Nagas by **0.25%**, capping at **10%** at 40 embassies. Once the maximum bonus is achieved, embassies over 40 improve the blueprint crafting ratio instead.
+    *   Trading with [Nagas]( {{< relref "Civilisations/Nagas.md" >}}) can specifically boost Blueprint acquisition: Building Naga embassies increases the chance to get blueprints from Nagas by **0.25%**, capping at **10%** at 40 embassies. Once the maximum bonus is achieved, embassies over 40 improve the blueprint crafting ratio instead.
 
 ### Uses and Costs
 

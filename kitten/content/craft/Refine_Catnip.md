@@ -1,6 +1,6 @@
 +++
 date = 2025-11-29T20:44:33.275594+11:00
-draft = true
+draft = false
 title = "Refine_Catnip"
 
 +++
@@ -22,4 +22,4 @@ In **Iron Will** mode, where kitten housing is forbidden, refining catnip is the
 ### **Strategic Utility**
 *   **Early Game:** Players are encouraged to refine catnip five times to reach the **5 wood** required to build their first [Hut]( {{< relref "buildings/Hut.md" >}}), which unlocks the village system.
 *   **Production Balancing:** Because Catnip Fields suffer a **-75% production penalty during Winter**, players must ensure their food supply is stable before aggressively refining their stores into wood. 
-*   **Trade Loops:** In some mid-game strategies, players trade **Iron to the Sharks** for massive amounts of catnip, which is then refined into wood to be traded to [Griffins]( {{< relref "trade/Griffins.md" >}}) for more Iron.
+*   **Trade Loops:** In some mid-game strategies, players trade **Iron to the Sharks** for massive amounts of catnip, which is then refined into wood to be traded to [Griffins]( {{< relref "Civilisations/Griffins.md" >}}) for more Iron.

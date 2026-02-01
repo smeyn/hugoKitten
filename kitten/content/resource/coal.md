@@ -1,6 +1,6 @@
 +++
 date = 2025-12-02T06:42:37.764719+11:00
-draft = true
+draft = false
 title = "Coal"
 
 +++
@@ -27,7 +27,7 @@ Coal production is unlocked after researching the [Steel]( {{< relref "craft/Ste
 
 4.  **Quarries:** The [Quarry]( {{< relref "buildings/Quarry.md" >}}) building, unlocked by [Geology]( {{< relref "techs/Geology.md" >}}), automatically produces Coal at a rate of **0.015 Coal per tick**.
 
-5.  **Trading (Spiders):** Coal can be acquired by trading [Scaffolds]( {{< relref "craft/Scaffold.md" >}}) with [Spiders]( {{< relref "trade/spiders.md" >}}).
+5.  **Trading (Spiders):** Coal can be acquired by trading [Scaffolds]( {{< relref "craft/Scaffold.md" >}}) with [Spiders]( {{< relref "Civilisations/spiders.md" >}}).
     *   Spiders sell **350 Coal** per trade.
     *   Spiders are a Friendly civilization (+15% trade bonus) and are unlocked once you have **100 Trade Ships** and **125k Max Science**.
     *   Trade with Spiders for Coal is optimally performed during **Autumn** (+15% amount modifier).

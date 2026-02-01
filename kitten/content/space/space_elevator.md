@@ -1,6 +1,6 @@
 +++
 date = '2026-01-22T16:05:25+11:00'
-draft = true
+draft = false
 title = 'Space Elevator'
 +++
 The [Space Elevator]( {{< relref "space/space_elevator.md" >}}) is a foundational space structure in the sources, situated on the planet Cath, that serves as a critical bridge between terrestrial industry and orbital expansion. It is unlocked following a successful [Orbital Launch]( {{< relref "space/Orbital_Launch.md" >}}) and requires the research of both **Orbital Engineering and Nanotechnology**.
@@ -14,7 +14,7 @@ The structure requires **6,000 Titanium, 75,000 Science, and 50 Unobtainium** to
 ### **Strategic Synergies and Scaling**
 The true utility of Space Elevators depends heavily on late-game technological integration. The sources emphasize that Space Elevators are **not particularly worth their cost** until the [Space Manufacturing]( {{< relref "upgrade/Space_Manufacturing.md" >}}) workshop upgrade is researched. 
 *   **Space Manufacturing Interaction:** Once unlocked, each [Factory]( {{< relref "buildings/Factory.md" >}}) provides a bonus to space production (3.75% per factory, or 4.5% with [Factory Logistics]( {{< relref "upgrade/Factory_Logistics.md" >}})) that amplifies the base bonus provided by Space Elevators.
-*   **Cycle Modifiers:** If **Numerology** is researched, the **Cath cycle** doubles the transferred production bonus for oil, while the [Kairo cycle]( {{< relref "Cycles/Kairo_Cycle.md" >}}) reduces the overall transferred production bonus by **50%**.
+*   **Cycle Modifiers:** If **Numerology** is researched, the [Cath cycle]( {{< relref "Cycles/Cath_Cycle.md" >}}) doubles the transferred production bonus for oil, while the [Kairo cycle]( {{< relref "Cycles/Kairo_Cycle.md" >}}) reduces the overall transferred production bonus by **50%**.
 
 ### **Endgame Utility and Management**
 In the late game, Space Elevators become a primary driver for [Unobtainium]( {{< relref "resource/unobtainium.md" >}}) and **Time Crystal** farming.

@@ -1,7 +1,7 @@
 +++
 date = 2025-11-29T20:44:33.342594+11:00
-draft = true
-title = "Space_Manufacturing"
+draft = false
+title = "Space Manufacturing"
 
 +++
 [Space Manufacturing]( {{< relref "upgrade/Space_Manufacturing.md" >}}) is a critical late-game Workshop upgrade that serves as the primary multiplier for space-based resource production. It fundamentally shifts the economy by allowing terrestrial **Factories** to enhance the effectiveness of orbital infrastructure.

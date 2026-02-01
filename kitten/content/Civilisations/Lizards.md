@@ -1,11 +1,11 @@
 +++
 date = 2025-12-24T09:54:40.630034+11:00
-draft = true
+draft = false
 title = "Lizards"
 
 +++
 
-The [Lizards]( {{< relref "trade/Lizards.md" >}}) are the **first trade partner** you encounter in *Kittens Game*, and they are crucial for unlocking the **Trade tab** and establishing early access to resources you may struggle to produce initially.
+The [Lizards]( {{< relref "Civilisations/Lizards.md" >}}) are the **first trade partner** you encounter in *Kittens Game*, and they are crucial for unlocking the **Trade tab** and establishing early access to resources you may struggle to produce initially.
 
 Here is a detailed breakdown of the Lizards:
 
@@ -13,7 +13,7 @@ Here is a detailed breakdown of the Lizards:
 
 *   **Discovery:** A Lizard arrives at your Village after **20 years of game play**, offering to trade Wood for Minerals, which immediately unlocks the Trade tab.
 *   **Prerequisite Reduction:** This initial unlock time of Year 20 can be reduced to **Year 5** if you have more than 0 Karma, and can be further reduced to **Year 1** with the **Diplomacy Metaphysics** upgrade.
-*   [Attitude:]( {{< relref "trade/Attitude.md" >}}) Lizards are categorized as a **Friendly** civilization, starting with a high attitude bonus of **+25%**. As a Friendly civilization, they have a chance of giving you **15–25% extra resources** during a successful trade.
+*   [Attitude:]( {{< relref "Civilisations/Attitude.md" >}}) Lizards are categorized as a **Friendly** civilization, starting with a high attitude bonus of **+25%**. As a Friendly civilization, they have a chance of giving you **15–25% extra resources** during a successful trade.
 *   **Currency Requirement:** Before you can trade with the Lizards, you must first develop the [Gold Ore]( {{< relref "upgrade/Gold_Ore.md" >}}) upgrade in the Workshop, enabling you to create [Gold]( {{< relref "resource/Gold.md" >}}).
 
 ### Trade Details

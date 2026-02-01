@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T16:27:02.758039+11:00
-draft = true
+draft = false
 title = "Mathematics"
 
 +++
@@ -31,5 +31,5 @@ The Academy is the key building unlocked by this research, offering significant 
 Mathematics is considered "especially useful" because of the Academy's ability to boost science accumulation and support the cultural infrastructure.
 
 1.  **Accelerating Science:** Academies directly increase science output and significantly boost maximum science capacity,. Along with Libraries, Academies are key buildings for increasing the culture cap, which is necessary for crafting Manuscripts.
-2.  **Trade Prerequisite:** Academies contribute to increasing your culture cap, which is a requirement for unlocking the [Nagas]( {{< relref "trade/Nagas.md" >}}) trade partner (requiring 1500 culture cap),,.
+2.  **Trade Prerequisite:** Academies contribute to increasing your culture cap, which is a requirement for unlocking the [Nagas]( {{< relref "Civilisations/Nagas.md" >}}) trade partner (requiring 1500 culture cap),,.
 3.  **Iron Will Mode:** In the resource-constrained Iron Will mode, [Mathematics]( {{< relref "techs/Mathematics.md" >}}) is a crucial early research. It unlocks the [Celestial Mechanics]( {{< relref "upgrade/Celestial_Mechanics.md" >}}) upgrade (costing 250 Science), which increases the science gained from celestial events and meteors by **60%**,. Since astronomical events and meteors are the *only* initial sources of Science and Minerals, respectively, in Iron Will mode, this boost is essential for early progression,,.

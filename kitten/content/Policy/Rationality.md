@@ -1,6 +1,6 @@
 +++
 date = 2025-11-29T20:44:33.289594+11:00
-draft = true
+draft = false
 title = "Rationality"
 
 +++
@@ -9,13 +9,13 @@ title = "Rationality"
 ### **Core Effects and Costs**
 *   **Effect**: Increases both **Science and Iron production by 5%**.
 *   **Cost**: 3000 Science.
-*   **Prerequisites**: You must have researched the [Philosophy]( {{< relref "science/Philosophy.md" >}}) technology and enacted either the [Stoicism]( {{< relref "Policy/Stoicism.md" >}}) or **Epicureanism** policy.
+*   **Prerequisites**: You must have researched the [Philosophy]( {{< relref "techs/Philosophy.md" >}}) technology and enacted either the [Stoicism]( {{< relref "Policy/Stoicism.md" >}}) or **Epicureanism** policy.
 *   **Mutual Exclusivity**: Choosing Rationality permanently locks you out of the [Mysticism]( {{< relref "Policy/Mysticism.md" >}}) policy for the remainder of the run.
 
 ---
 
 ### **Strategic Comparison: Rationality vs. Mysticism**
-Because these policies are mutually exclusive, you must choose between boosting Science/Iron or Culture/Faith.
+Because these policies are mutually exclusive, you must choose between boosting techs/Iron or Culture/Faith.
 
 | Policy | Production Bonuses | Strategic Context |
 | :--- | :--- | :--- |

@@ -1,6 +1,6 @@
 +++
 date = 2025-12-24T09:53:27.207038+11:00
-draft = true
+draft = false
 title = "Fascism"
 
 +++

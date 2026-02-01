@@ -1,6 +1,6 @@
 +++
 date = '2025-11-29T11:53:36+11:00'
-draft = true
+draft = false
 title = 'Liberty_vs_tradition'
 +++
 The choice between the [Liberty]( {{< relref "Policy/Liberty.md" >}}) and [Tradition]( {{< relref "Policy/Tradition.md" >}}) Policy/ in *Kittens Game* represents an early decision regarding how your civilization addresses population growth, resource management, and scientific advancement. Both Policy/ become available once you have researched [Writing]( {{< relref "techs/Writing.md" >}}) and both cost **150 Culture**.

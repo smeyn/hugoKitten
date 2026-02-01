@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T20:36:04.657156+11:00
-draft = true
+draft = false
 title = "Faith"
 
 +++

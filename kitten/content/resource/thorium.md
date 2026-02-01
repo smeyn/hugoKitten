@@ -1,6 +1,6 @@
 +++
 date = 2025-12-02T06:42:37.745719+11:00
-draft = true
+draft = false
 title = "Thorium"
 
 +++
@@ -16,7 +16,7 @@ Thorium is a **Craftable Resource** [1]:
 *   **Crafting Cost:** **250 Uranium** are required to craft one unit of Thorium [1].
 *   **Unlocking:** The ability to craft Thorium is unlocked by researching the [Thorium]( {{< relref "thorium.md" >}}) science [1, 2].
     *   The [Thorium]( {{< relref "thorium.md" >}}) science costs **375K Science** and **375 Blueprints**, and is unlocked by [Orbital Engineering]( {{< relref "orbital_engineering.md" >}}) [2].
-*   **Trade:** Thorium can also be acquired through trade with [Dragons]( {{< relref "trade/Dragons.md" >}}). Dragons sell Thorium (minimum amount 1) with a **50% chance** of success, provided you have at least Embassy Level 5 with them [3].
+*   **Trade:** Thorium can also be acquired through trade with [Dragons]( {{< relref "Civilisations/Dragons.md" >}}). Dragons sell Thorium (minimum amount 1) with a **50% chance** of success, provided you have at least Embassy Level 5 with them [3].
 
 ### Uses and Upgrades
 

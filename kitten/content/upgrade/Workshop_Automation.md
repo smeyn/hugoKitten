@@ -1,6 +1,6 @@
 +++
 date = 2025-11-30T15:17:02.770902+11:00
-draft = true
+draft = false
 title = "Workshop_Automation"
 
 +++
@@ -9,7 +9,7 @@ The term "Workshop Automation" refers to a specific **Workshop upgrade** associa
 
 Here is a detailed breakdown of the Workshop Automation upgrade:
 
-*   **Prerequisite Technology:** This upgrade is unlocked by researching the [Machinery]( {{< relref "science/machinery.md" >}}) technology.
+*   **Prerequisite Technology:** This upgrade is unlocked by researching the [Machinery]( {{< relref "techs/machinery.md" >}}) technology.
 *   **Cost:** To acquire Workshop Automation, you must spend **10,000 Science** and **25 Gears**.
 *   **Effect/Function:** Once purchased, the upgrade converts small quantities of craftable resources into materials when they are near their storage limit.
     *   Specifically, [Workshop Automation]( {{< relref "upgrade/Workshop_Automation.md" >}}) converts **2% plus 2% times the number of Steamworks** of wood into **beams** and minerals into **slabs** when that resource is at **98% of its storage cap**.

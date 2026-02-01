@@ -1,6 +1,6 @@
 +++
 date = 2026-01-20T20:44:33.322594+11:00
-draft = true
+draft = false
 title = "Antimatter"
 +++
 [Antimatter]( {{< relref "resource/Antimatter.md" >}}) is a high-tier late-game resource in *Kittens Game* that serves as the primary currency for the **Relic Era** and advanced space engineering. It is a non-crafted resource, meaning a portion of it can be preserved across resets if you possess [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}).

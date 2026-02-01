@@ -1,6 +1,6 @@
 +++
 date = 2025-12-02T06:42:37.724719+11:00
-draft = true
+draft = false
 title = "Alicorn"
 
 +++
@@ -30,7 +30,7 @@ Alicorns are primarily consumed to generate [Time Crystals]( {{< relref "time_cr
 *   **Sacrifice for Time Crystals:** You can **Sacrifice 25 Alicorns** to receive **1 Time Crystal** [6].
     *   The conversion ratio is improved by the religious upgrades [Unicorn Utopia]( {{< relref "unicorn_utopia.md" >}}) (+5\%) and [Sunspire]( {{< relref "sunspire.md" >}}) (+10\%) [4, 6].
     *   The act is described as "Banish the alicorns to the Bloodmoon" [6].
-*   **Resource Retrieval Strategy:** In the end game, acquiring enough levels of the **Resource Retrieval** upgrade means shattering a Time Crystal will yield enough unobtainium and [alicorns]( {{< relref "resource/alicorn.md" >}}) to allow the player to trade/sacrifice immediately for new Time Crystals, sustaining the flow of this resource [7].
+*   **Resource Retrieval Strategy:** In the end game, acquiring enough levels of the **Resource Retrieval** upgrade means shattering a Time Crystal will yield enough unobtainium and [alicorns]( {{< relref "resource/alicorn.md" >}}) to allow the player to Civilisations/sacrifice immediately for new Time Crystals, sustaining the flow of this resource [7].
 
 ### 4. Consumption and Corruption
 

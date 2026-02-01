@@ -1,6 +1,6 @@
 +++
 date = 2025-11-29T20:44:33.289594+11:00
-draft = true
+draft = false
 title = "Epicurianism"
 
 +++
@@ -8,7 +8,7 @@ title = "Epicurianism"
 
 ### **Core Mechanics**
 *   **Cost:** 2,500 Culture.
-*   **Prerequisite:** Researching the [Philosophy]( {{< relref "science/Philosophy.md" >}}) technology.
+*   **Prerequisite:** Researching the [Philosophy]( {{< relref "techs/Philosophy.md" >}}) technology.
 *   **Primary Effect:** Rare luxury resources (such as Furs, Ivory, and Spice) provide **11% happiness each**, rather than the base 10%.
 *   **Mutual Exclusivity:** Choosing Epicureanism permanently locks out the [Stoicism]( {{< relref "Policy/Stoicism.md" >}}) policy for the remainder of the run.
 
@@ -26,7 +26,7 @@ Enacting Epicureanism is the gateway to the "pleasure-focused" branch of the phi
 ### **Comparison Table**
 | Feature | **Epicureanism** | [Stoicism]( {{< relref "Policy/Stoicism.md" >}}) |
 | :--- | :--- | :--- |
-| [Philosophy]( {{< relref "science/Philosophy.md" >}}) | "Pleasure is the highest good." | "Endure hardship without complaint." |
+| [Philosophy]( {{< relref "techs/Philosophy.md" >}}) | "Pleasure is the highest good." | "Endure hardship without complaint." |
 | **Main Bonus** | **+11% happiness** per luxury. | **-50% consumption** of luxuries. |
 | **Secondary Effect** | Unlocks Extravagance/Carnivale. | Unlocks Rationing/Frugality. |
 | **Expert Verdict** | Often the **standard choice** for the "happy%" bonus. | Situational; used if luxuries are scarce. |

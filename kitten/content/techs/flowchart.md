@@ -1,6 +1,6 @@
 +++
 date = 2025-12-24T09:54:31.502035+11:00
-draft = true
+draft = false
 title = "Flowchart"
 
 +++
@@ -27,10 +27,10 @@ flowchart TD
     engineering["`[Engineering]( {{< relref "techs/Engineering.md" >}})<br> 1500 science`"]
     writing["`[Writing]( {{< relref "techs/Writing.md" >}})<br>1500 science`"]
     steel["`[Steel]( {{< relref "craft/Steel.md" >}})<br> 1500 science`"]
-    machinery["`[Machinery]( {{< relref "science/machinery.md" >}}) <br>00 science`"]
+    machinery["`[Machinery]( {{< relref "techs/machinery.md" >}}) <br>00 science`"]
   
-    Philosophy["`[Philosophy]( {{< relref "science/Philosophy.md" >}})<br> 00 science`"]
-    Theology["`[Theology]( {{< relref "science/theology.md" >}})<br> 00 science`"]
+    Philosophy["`[Philosophy]( {{< relref "techs/Philosophy.md" >}})<br> 00 science`"]
+    Theology["`[Theology]( {{< relref "techs/theology.md" >}})<br> 00 science`"]
     CryptoTheology["`[CryptoTheology]( {{< relref "techs/Cryptotheology.md" >}})<br> 00 science`"]
     Astronomy["`[Astronomy]( {{< relref "techs/Astronomy.md" >}})<br> 00 science`"]
     Navigation["`[Navigation]( {{< relref "techs/Navigation.md" >}})<br> 00 science`"]

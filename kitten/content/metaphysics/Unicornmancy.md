@@ -1,6 +1,6 @@
 +++
 date = '2026-01-24T20:56:01+11:00'
-draft = true
+draft = false
 title = 'Unicornmancy'
 +++
 [Unicornmancy]( {{< relref "metaphysics/Unicornmancy.md" >}}) is a mid-to-late-game **Metaphysics upgrade** that increases the frequency of rare unicorn-related astronomical events. It is a critical component for players entering the "Unicorn Era", as it accelerates the acquisition of **Unicorns** and [Ivory]( {{< relref "resource/ivory.md" >}}), which are the foundational resources for generating [Time Crystals]( {{< relref "resource/Time_Crystals.md" >}}) and [Relics]( {{< relref "resource/relic.md" >}}).
@@ -22,4 +22,4 @@ The benefits of Unicornmancy can be significantly amplified by late-game infrast
 *   [Solar Revolution:]( {{< relref "religion/Solar_Revolution.md" >}}) While Unicornmancy increases the frequency of events, the [Solar Revolution]( {{< relref "religion/Solar_Revolution.md" >}}) bonus is one of the only multipliers that boosts the actual production of unicorn resources.
 
 ### **Strategic Importance**
-In the late game, [Ivory]( {{< relref "resource/ivory.md" >}}) often becomes a major bottleneck because its production does not benefit from standard paragon or building bonuses. By increasing the frequency of **Ivory Meteors**, Unicornmancy provides a necessary "AFK" source of ivory. This allows you to build the vast numbers of [Ziggurats]( {{< relref "buildings/Ziggurat.md" >}}) required to refine **Unicorn Tears** and eventually trade with [Leviathans]( {{< relref "trade/Leviathans.md" >}}) for the resources needed to reach the "Infinity" stage of the game.
+In the late game, [Ivory]( {{< relref "resource/ivory.md" >}}) often becomes a major bottleneck because its production does not benefit from standard paragon or building bonuses. By increasing the frequency of **Ivory Meteors**, Unicornmancy provides a necessary "AFK" source of ivory. This allows you to build the vast numbers of [Ziggurats]( {{< relref "buildings/Ziggurat.md" >}}) required to refine **Unicorn Tears** and eventually trade with [Leviathans]( {{< relref "Civilisations/Leviathans.md" >}}) for the resources needed to reach the "Infinity" stage of the game.

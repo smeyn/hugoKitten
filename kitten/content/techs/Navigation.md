@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T16:27:03.124039+11:00
-draft = true
+draft = false
 title = "Navigation"
 
 +++
@@ -21,7 +21,7 @@ Navigation introduces the ability to build advanced transportation and storage s
 Navigation enables the crafting of [Trade Ships]( {{< relref "craft/Trade_Ship.md" >}}).
 
 *   [Trade Ships]( {{< relref "craft/Trade_Ship.md" >}}) are essential for discovering new civilizations through the "Explore" function.
-*   Trade Ships are critical for reaching the **Titanium era**, as they are the major upgrade for obtaining more [Titanium]( {{< relref "resource/titanium.md" >}}) through trading with [Zebras]( {{< relref "trade/zebras.md" >}}).
+*   Trade Ships are critical for reaching the **Titanium era**, as they are the major upgrade for obtaining more [Titanium]( {{< relref "resource/titanium.md" >}}) through trading with [Zebras]( {{< relref "Civilisations/zebras.md" >}}).
 *   Crafting a Trade Ship initially requires **100 Scaffold**, **150 Plate**, and **25 Starchart**.
 
 #### 2. Building Unlocks

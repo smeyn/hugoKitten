@@ -1,6 +1,6 @@
 +++
 date = 2025-11-30T11:24:28.536674+11:00
-draft = true
+draft = false
 title = "Zebra Outpost"
 
 +++

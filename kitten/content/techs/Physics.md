@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T16:27:02.824039+11:00
-draft = true
+draft = false
 title = "Physics"
 
 +++
@@ -35,4 +35,4 @@ Physics is a key stepping stone in the scientific progression, particularly beca
 
 ### Context in the Progression Loop
 
-The decision to research Physics is part of the move past the [Theology]( {{< relref "science/theology.md" >}}) and [Astronomy]( {{< relref "techs/Astronomy.md" >}}) hurdle. Once unlocked, Physics leads into a phase where the player focuses on generating the titanium needed for construction and acquiring [Blueprints]( {{< relref "resource/Blueprint.md" >}}) (which are convertible from Compendiums after Physics is researched) for technology advancements. Players focused on paragon farming often prioritize this research path to accelerate technological development.
+The decision to research Physics is part of the move past the [Theology]( {{< relref "techs/theology.md" >}}) and [Astronomy]( {{< relref "techs/Astronomy.md" >}}) hurdle. Once unlocked, Physics leads into a phase where the player focuses on generating the titanium needed for construction and acquiring [Blueprints]( {{< relref "resource/Blueprint.md" >}}) (which are convertible from Compendiums after Physics is researched) for technology advancements. Players focused on paragon farming often prioritize this research path to accelerate technological development.

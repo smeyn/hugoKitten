@@ -1,6 +1,6 @@
 +++
 date = 2025-12-04T08:07:50.210186+11:00
-draft = true
+draft = false
 title = "Relic"
 
 +++
@@ -16,7 +16,7 @@ Here is a detailed breakdown of how Relics are acquired and what they are used f
 Relics are not produced by buildings or jobs but must be acquired through late-game conversion, trade, or specialized structures:
 
 1.  **Refining Time Crystals (Crafting):** You can refine 25 [Time Crystals]( {{< relref "resource/Time_Crystals.md" >}}) to receive **1 Relic** [3]. This action requires having at least 25 Time Crystals [3].
-2.  **Trade (Leviathans):** Relics can be bought from the [Leviathans]( {{< relref "trade/Leviathans.md" >}}) [4]. Leviathans buy 5,000 Unobtainium and sell 1 Relic with a $5\%$ chance of success [5]. Leviathans are unlocked after building a [Black Pyramid]( {{< relref "black_pyramid.md" >}}) [6].
+2.  **Trade (Leviathans):** Relics can be bought from the [Leviathans]( {{< relref "Civilisations/Leviathans.md" >}}) [4]. Leviathans buy 5,000 Unobtainium and sell 1 Relic with a $5\%$ chance of success [5]. Leviathans are unlocked after building a [Black Pyramid]( {{< relref "black_pyramid.md" >}}) [6].
 3.  **Relic Station (Production):** The [Relic Station]( {{< relref "relic_station.md" >}}) building (unlocked by the Cryptotheology science and purchased with 5,000 Antimatter and 100 Eludium) generates **$0.01$ relic per day** [7, 8]. Relic production from the Relic Station scales based on Antimatter storage, meaning production is reduced proportionally if maximum Antimatter storage is less than 5,000 [7, 9].
 4.  **Black Nexus Boost:** The production from Space Beacons upgraded with Relic Station is improved by the [Black Nexus]( {{< relref "black_nexus.md" >}}) Cryptotheology upgrade, which produces $0.01 \times (1 + (\text{Black Pyramid} \times \text{Black Nexus}/10))$ relics per day [10].
 

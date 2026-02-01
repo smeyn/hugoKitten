@@ -1,6 +1,6 @@
 +++
 date = '2026-01-28T08:42:01+11:00'
-draft = true
+draft = false
 title = 'Seasons'
 +++
 In *Kittens Game*, [Seasons]( {{< relref "guides/seasons.md" >}}) are a core cyclical mechanic that dictates the efficiency of your resource production, particularly **catnip**, and influences the success of trade with other civilisations.
@@ -38,10 +38,10 @@ The [Communism]( {{< relref "Policy/Communism.md" >}}) policy makes cold winters
 ### **Seasonal Trade Strategy**
 Different races offer better deals or different resource amounts depending on the time of year.
 
-*   **Spring:** The best time to trade with [Nagas]( {{< relref "trade/Nagas.md" >}}) for Minerals (+25%).
-*   **Summer:** [Lizards]( {{< relref "trade/Lizards.md" >}}) provide a +35% bonus to Wood.
-*   **Autumn:** [Griffins]( {{< relref "trade/Griffins.md" >}}) are most efficient, providing +35% Iron.
-*   **Winter:** [Sharks]( {{< relref "trade/Sharks.md" >}}) are the MVP of Winter, providing a **+45% bonus** to Catnip, which can be refined into Wood to survive the season.
+*   **Spring:** The best time to trade with [Nagas]( {{< relref "Civilisations/Nagas.md" >}}) for Minerals (+25%).
+*   **Summer:** [Lizards]( {{< relref "Civilisations/Lizards.md" >}}) provide a +35% bonus to Wood.
+*   **Autumn:** [Griffins]( {{< relref "Civilisations/Griffins.md" >}}) are most efficient, providing +35% Iron.
+*   **Winter:** [Sharks]( {{< relref "Civilisations/Sharks.md" >}}) are the MVP of Winter, providing a **+45% bonus** to Catnip, which can be refined into Wood to survive the season.
 
 ---
 

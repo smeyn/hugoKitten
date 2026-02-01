@@ -1,6 +1,6 @@
 +++
 date = '2026-01-24T20:56:18+11:00'
-draft = true
+draft = false
 title = 'Anachronomancy'
 +++
 [Anachronomancy]( {{< relref "metaphysics/Anachronomancy.md" >}})  is a pivotal mid-game **Metaphysics upgrade** that allows your civilisation to preserve its most advanced temporal assets across resets. 

@@ -1,6 +1,6 @@
 +++
 date = '2026-01-22T16:01:37+11:00'
-draft = true
+draft = false
 title = 'Planet Cracker'
 +++
 A [Planet Cracker]( {{< relref "space/planet_cracker.md" >}}) (specifically the USS Mining Vessel *Hissmeowra*) is a massive space-based mining structure used to extract large quantities of [Uranium]( {{< relref "resource/uranium.md" >}}) from the planet Dune. It is a critical component for transitioning into the **Eludium Era**, as it provides the steady Uranium supply required for [Lunar Outposts]( {{< relref "planet/lunar_outpost.md" >}}) to refine into [Unobtainium]( {{< relref "resource/unobtainium.md" >}}).

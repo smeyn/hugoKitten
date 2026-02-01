@@ -1,10 +1,10 @@
 +++
 date = '2025-11-29T11:52:10+11:00'
-draft = true
+draft = false
 title = 'Naga'
 +++
 
-The [Nagas]( {{< relref "trade/Nagas.md" >}}) are a neutral trading partner (0% attitude) in *Kittens Game*, specializing in **Minerals** and mineral-based materials. They are crucial for accelerating your supply of building materials and advanced resources.
+The [Nagas]( {{< relref "Civilisations/Nagas.md" >}}) are a neutral trading partner (0% attitude) in *Kittens Game*, specializing in **Minerals** and mineral-based materials. They are crucial for accelerating your supply of building materials and advanced resources.
 
 Here is a comprehensive overview of Nagas:
 

@@ -1,6 +1,6 @@
 +++
 date = 2025-12-24T09:47:20.079059+11:00
-draft = true
+draft = false
 title = "Black_Pyramid"
 
 +++

@@ -1,6 +1,6 @@
 +++
 date = 2025-12-04T07:50:03.522245+11:00
-draft = true
+draft = false
 title = "Autocracy"
 
 +++

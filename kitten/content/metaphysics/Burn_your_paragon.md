@@ -1,6 +1,6 @@
 +++
 date = '2026-01-24T20:56:55+11:00'
-draft = true
+draft = false
 title = 'Burn_your_paragon'
 +++
 **Burning paragon** is a mechanic that converts your standard unspent paragon into "burned" paragon. While burned paragon is less effective than regular paragon for production in the early game, it provides unique stacking bonuses and becomes significantly more powerful during the late-game "Dark Future" period.

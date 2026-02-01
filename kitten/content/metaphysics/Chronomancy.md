@@ -1,6 +1,6 @@
 +++
 date = '2026-01-24T20:55:44+11:00'
-draft = true
+draft = false
 title = 'Chronomancy'
 +++
 [Chronomancy]( {{< relref "metaphysics/Chronomancy.md" >}}) is a mid-game **Metaphysics upgrade** that serves as a vital bridge toward advanced temporal and astronomical technologies. It costs **25 Paragon** to purchase and is primarily used to increase the frequency of celestial phenomena.

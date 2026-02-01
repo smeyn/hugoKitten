@@ -1,6 +1,6 @@
 +++
 date = '2026-01-21T08:23:13+11:00'
-draft = true
+draft = false
 title = 'IronWill'
 +++
 **Iron Will (IW)** is a specialised gameplay mode in *Kittens Game* where the colony operates without any kitten housing or population. Entering this mode requires resetting the game with **zero Chronospheres** and avoiding the construction of Huts, Log Houses, or Mansions; building any housing immediately exits the mode.
@@ -19,7 +19,7 @@ Without kittens to assign as Scholars or Farmers, resource acquisition and resea
 
 ### **Mid-Game Progression and Bottlenecks**
 The transition to space and high-tier industry is gated by specific IW constraints:
-*   **The Culture Cap:** To progress, you must discover the [Nagas]( {{< relref "trade/Nagas.md" >}}) to trade for minerals. This requires a **1,500 culture cap**, which is achieved by building Amphitheatres, Academies, and crafting Manuscripts.
+*   **The Culture Cap:** To progress, you must discover the [Nagas]( {{< relref "Civilisations/Nagas.md" >}}) to trade for minerals. This requires a **1,500 culture cap**, which is achieved by building Amphitheatres, Academies, and crafting Manuscripts.
 *   **Gold and Ivory:** Gold is obtained solely through **hunting** until Geodesy is researched. Ivory is also sourced from hunting and is essential for building the "Unicorn Tree".
 *   **Trade Arbitrage:** Use the **Shark and Griffin loop** to bypass early production limits. Trade iron to Sharks for Catnip, refine it into Wood, and trade Wood to Griffins for more Iron.
 *   **Policy Selection:** In IW, [Clear Cutting]( {{< relref "Policy/Clear_Cutting.md" >}}) (+10% catnip refinement) and [Strip Mining]( {{< relref "Policy/Strip_Mining.md" >}}) (+10% meteor minerals) provide specialised benefits.

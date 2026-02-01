@@ -1,6 +1,6 @@
 +++
 date = 2025-12-04T06:46:59.029454+11:00
-draft = true
+draft = false
 title = "Tradepost"
 
 +++
@@ -30,7 +30,7 @@ The Tradepost is essential for unlocking an important upgrade that manages race 
 *   **Caravanserai Upgrade:** Researching [Navigation]( {{< relref "navigation.md" >}}) technology allows you to purchase the [Caravanserai]( {{< relref "caravanserai.md" >}}) upgrade.
     *   This upgrade costs **25,000 Science, 10,000 Ivory, and 250 Gold**.
     *   It gives Tradeposts a minor effect on race standing. Specifically, each Tradepost decreases the hostile event probability by **0.35%** and increases the friendly event probability by **0.175%**.
-    *   For example, 85 Tradeposts can negate the chance that the hostile [Zebras]( {{< relref "trade/zebras.md" >}}) will give you nothing during a trade (or 58 if you have the Diplomacy Metaphysics upgrade).
+    *   For example, 85 Tradeposts can negate the chance that the hostile [Zebras]( {{< relref "Civilisations/zebras.md" >}}) will give you nothing during a trade (or 58 if you have the Diplomacy Metaphysics upgrade).
 
 ### 4. Strategic Role and Context
 

@@ -1,6 +1,6 @@
 +++
 date = 2025-11-29T20:44:33.283594+11:00
-draft = true
+draft = false
 title = "Monarchy"
 
 +++
@@ -32,5 +32,5 @@ As discussed previously with other policies, choosing between the government bra
 ### **Advanced Synergy: The "11 Kitten" Bonus**
 The strength of Monarchy scales with your leader's rank. You can use gold and experience to **promote your leader** up to five times. A high-ranking Artisan leader under a Monarchy is so efficient that it provides a crafting boost equivalent to having **11 extra kittens** assigned to that resource.
 
-Because you can swap leaders at any time without a penalty, Monarchy allows you to adapt to your current bottleneck—switching to a Scientist when researching expensive tech like [Theology]( {{< relref "science/Theology.md" >}}), or an Artisan when mass-producing [Manuscripts]( {{< relref "resource/manuscript.md" >}}) or [Compendiums]( {{< relref "resource/Compendium.md" >}}).
+Because you can swap leaders at any time without a penalty, Monarchy allows you to adapt to your current bottleneck—switching to a Scientist when researching expensive tech like [Theology]( {{< relref "techs/Theology.md" >}}), or an Artisan when mass-producing [Manuscripts]( {{< relref "resource/manuscript.md" >}}) or [Compendiums]( {{< relref "resource/Compendium.md" >}}).
  

@@ -1,6 +1,6 @@
 +++
 date = 2025-12-22T18:05:38.462888+11:00
-draft = true
+draft = false
 title = "Photolithography"
 
 +++
@@ -25,4 +25,4 @@ Photolithography represents the final stage of automated manuscript production, 
 *   The Offset Press increases this rate by a factor of four, up to $0.01$ manuscripts/sec.
 *   Photolithography applies another fourfold multiplier, boosting the output to **$0.04$ manuscripts/sec**,.
 
-This upgrade is crucial for maintaining rapid scientific and religious progression in the late game, where Manuscripts are required for high-tier research (like [Astronomy]( {{< relref "techs/Astronomy.md" >}}) and [Theology]( {{< relref "science/theology.md" >}})) and building [Temples]( {{< relref "buildings/Temple.md" >}}),. Automated manuscript production ensures that the flow of this vital cultural resource keeps pace with the increasing demands of high-level technology,.
+This upgrade is crucial for maintaining rapid scientific and religious progression in the late game, where Manuscripts are required for high-tier research (like [Astronomy]( {{< relref "techs/Astronomy.md" >}}) and [Theology]( {{< relref "techs/theology.md" >}})) and building [Temples]( {{< relref "buildings/Temple.md" >}}),. Automated manuscript production ensures that the flow of this vital cultural resource keeps pace with the increasing demands of high-level technology,.

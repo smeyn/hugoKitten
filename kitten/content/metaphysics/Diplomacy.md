@@ -1,6 +1,6 @@
 +++
 date = '2026-01-24T20:55:31+11:00'
-draft = true
+draft = false
 title = 'Diplomacy'
 +++
 [Diplomacy]( {{< relref "metaphysics/Diplomacy.md" >}}) is a low-cost entry-level Metaphysics upgrade that significantly accelerates your early-game trade and exploration by allowing you to discover other civilisations much sooner. It is widely considered one of the **essential first purchases** when you begin spending Paragon.

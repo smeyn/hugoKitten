@@ -1,6 +1,6 @@
 +++
 date = 2025-11-29T20:44:33.276594+11:00
-draft = true
+draft = false
 title = "Parchment"
 
 +++
@@ -9,7 +9,7 @@ title = "Parchment"
 ### **Acquisition and Crafting**
 *   **Unlocking:** You gain the ability to craft parchment after researching the [Writing]( {{< relref "techs/Writing.md" >}}) technology (3,600 Science).
 *   **Workshop Crafting:** A single unit of parchment is crafted from **175 Furs** in the Workshop. 
-*   [Trading:]( {{< relref "guides/trading.md" >}}) Once you reach **Embassy level 5** with the [Sharks]( {{< relref "trade/Sharks.md" >}}), they have a 25% chance of selling you parchment in exchange for iron. This chance can be increased by **+25%** if you enact the **Shark Relations: Scribes** policy.
+*   [Trading:]( {{< relref "guides/trading.md" >}}) Once you reach **Embassy level 5** with the [Sharks]( {{< relref "Civilisations/Sharks.md" >}}), they have a 25% chance of selling you parchment in exchange for iron. This chance can be increased by **+25%** if you enact the **Shark Relations: Scribes** policy.
 *   **Automation:** While there is no direct early-game automation for parchment itself, maximizing your [Workshops]( {{< relref "buildings/Workshop.md" >}}) provides a multiplicative boost to the number of parchments produced per craft.
 
 ### **Primary Uses**
@@ -28,5 +28,5 @@ Parchment is a mandatory requirement for transitioning out of the early game and
 
 ### **Special Constraints**
 *   **Pacifism Challenge:** In this challenge, hunting is disabled. You cannot obtain furs, and therefore cannot craft parchment, until you build a [Mint]( {{< relref "buildings/Mint.md" >}}) to generate a passive supply of luxury resources.
-*   **Iron Will:** Since you lack kittens for standard jobs in this mode, your parchment supply depends entirely on the furs gathered by [Zebras]( {{< relref "trade/zebras.md" >}}) acting as passive hunters.
+*   **Iron Will:** Since you lack kittens for standard jobs in this mode, your parchment supply depends entirely on the furs gathered by [Zebras]( {{< relref "Civilisations/zebras.md" >}}) acting as passive hunters.
 *   **Persistence:** As a crafted resource, parchment is **lost upon resetting** the game unless you possess [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}) and the [Flux Condensator]( {{< relref "upgrade/Flux_Condensator.md" >}}) workshop upgrade.

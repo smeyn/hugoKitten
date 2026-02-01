@@ -1,17 +1,17 @@
 +++
 date = 2025-12-24T09:54:40.614034+11:00
-draft = true
+draft = false
 title = "Dragons"
 
 +++
 
-[Dragons]( {{< relref "trade/Dragons.md" >}}) are a neutral trading civilization in *Kittens Game* that are crucial for acquiring Uranium and Thorium, essential resources for progressing into the space and atomic phases of the game.
+[Dragons]( {{< relref "Civilisations/Dragons.md" >}}) are a neutral trading civilization in *Kittens Game* that are crucial for acquiring Uranium and Thorium, essential resources for progressing into the space and atomic phases of the game.
 
 Here is a detailed breakdown of the Dragons and their strategic importance:
 
 ### Prerequisites and Attitude
 
-*   [Attitude:]( {{< relref "trade/Attitude.md" >}}) Dragons are a **Neutral** civilization, starting with a 0% attitude towards your kittens.
+*   [Attitude:]( {{< relref "Civilisations/Attitude.md" >}}) Dragons are a **Neutral** civilization, starting with a 0% attitude towards your kittens.
 *   **Unlocking:** Dragons are unlocked once you have researched the [Nuclear Fission]( {{< relref "techs/Nuclear_Fission.md" >}}) technology.
 *   **Trade Requirements:** To trade with Dragons, you must **buy** Uranium or Thorium by offering [Titanium]( {{< relref "resource/titanium.md" >}}). The minimum cost they require is 250 Titanium.
 

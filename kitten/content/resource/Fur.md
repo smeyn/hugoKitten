@@ -1,6 +1,6 @@
 +++
 date = '2025-12-24T13:54:58+11:00'
-draft = true
+draft = false
 title = 'Fur'
 +++
 [Fur]( {{< relref "resource/Fur.md" >}}) is a rare luxury resource in *Kittens Game* that serves two primary functions: providing a **happiness boost** to your workforce and acting as the foundational material for **crafting parchment**.

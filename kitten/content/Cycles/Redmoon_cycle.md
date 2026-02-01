@@ -1,6 +1,6 @@
 +++
 date = '2026-01-28T11:08:28+11:00'
-draft = true
+draft = false
 title = 'Redmoon Cycle'
 +++
 The [Redmoon cycle]( {{< relref "Cycles/Redmoon_cycle.md" >}}) is the sixth phase in the ten-cycle system of *Kittens Game* and is widely considered the most strategically important period for late-game resource farming. Its primary purpose is to provide a massive multiplier to **Unobtainium production**, which is the critical bottleneck for space exploration and time manipulation.

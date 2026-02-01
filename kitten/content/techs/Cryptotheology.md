@@ -1,6 +1,6 @@
 +++
 date = 2025-12-24T09:54:31.499035+11:00
-draft = true
+draft = false
 title = "Cryptotheology"
 
 +++

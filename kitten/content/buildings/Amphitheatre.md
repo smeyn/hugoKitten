@@ -1,6 +1,6 @@
 +++
 date = 2025-12-04T06:48:50.256449+11:00
-draft = true
+draft = false
 title = "Amphitheatre"
 
 +++
@@ -30,7 +30,7 @@ The Amphitheatre serves two critical functions for societal development: culture
 
 The decision to build Amphitheatres is a major early-game strategic step, as it addresses a key bottleneck in the technology tree:
 
-*   **Culture Grind:** Amphitheatres are one of the earliest buildings to generate [Culture]( {{< relref "resource/culture.md" >}}). Culture is required to craft [Manuscripts]( {{< relref "craft/Manuscript.md" >}}), which are necessary to research [Theology]( {{< relref "science/theology.md" >}}) and subsequent high-tier sciences like [Astronomy]( {{< relref "techs/Astronomy.md" >}}). This resource requirement creates a significant hurdle, forcing players to focus on culture generation.
+*   **Culture Grind:** Amphitheatres are one of the earliest buildings to generate [Culture]( {{< relref "resource/culture.md" >}}). Culture is required to craft [Manuscripts]( {{< relref "craft/Manuscript.md" >}}), which are necessary to research [Theology]( {{< relref "techs/theology.md" >}}) and subsequent high-tier sciences like [Astronomy]( {{< relref "techs/Astronomy.md" >}}). This resource requirement creates a significant hurdle, forcing players to focus on culture generation.
 *   **Managing Population Happiness:** As your kitten population grows (by building Huts and Log Houses, which you should keep maxed out), they become unhappy. Since **Happiness dictates the overall efficiency** of your Kittens in their work, Amphitheatres are extremely important in the early game to reduce unhappiness and maintain high production levels.
     *   It is advised to build Amphitheatres until they stop noticeably improving Happiness, which can be monitored via the 'population penalty' percentage on the top bar of the game.
 *   **Preparation for Temples:** Amphitheatres help make obtaining [Temples]( {{< relref "buildings/Temple.md" >}}) easier, as Temples are another structure that generates Culture.

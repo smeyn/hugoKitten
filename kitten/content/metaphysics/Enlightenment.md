@@ -1,6 +1,6 @@
 +++
 date = '2026-01-24T20:55:17+11:00'
-draft = true
+draft = false
 title = 'Enlightenment'
 +++
 [Enlightenment]( {{< relref "metaphysics/Enlightenment.md" >}}) is an entry-level Metaphysics upgrade that provides a permanent global reduction in building costs on the **Bonfire tab**., It is considered a foundational purchase because it slows the rate at which building prices increase, allowing you to build more structures before hitting resource caps.

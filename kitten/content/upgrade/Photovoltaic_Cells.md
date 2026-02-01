@@ -1,6 +1,6 @@
 +++
 date = 2025-12-24T09:04:17.338202+11:00
-draft = true
+draft = false
 title = "Photovoltaic Cells"
 
 +++

@@ -1,11 +1,11 @@
 +++
 date = 2025-12-03T07:52:48.559904+11:00
-draft = true
+draft = false
 title = "Stoicism vs Epicurianism"
 
 +++
 
-The Policy/ of Stoicism and Epicureanism represent two distinct philosophical approaches available to your kittens' civilization, primarily impacting the management of **luxury resources** and [Happiness]( {{< relref "guides/Happiness.md" >}}). These choices, unlocked after researching [Philosophy]( {{< relref "science/Philosophy.md" >}}), determine subsequent policy options in the Philosophy category.
+The Policy/ of Stoicism and Epicureanism represent two distinct philosophical approaches available to your kittens' civilization, primarily impacting the management of **luxury resources** and [Happiness]( {{< relref "guides/Happiness.md" >}}). These choices, unlocked after researching [Philosophy]( {{< relref "techs/Philosophy.md" >}}), determine subsequent policy options in the Philosophy category.
 
 Here is a comparison of the two Policy/ based on the source material:
 

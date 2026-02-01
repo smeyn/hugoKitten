@@ -1,6 +1,6 @@
 +++
 date = 2025-12-06T06:37:34.308989+11:00
-draft = true
+draft = false
 title = "Star Charts"
 
 +++
@@ -19,7 +19,7 @@ Starcharts are unlocked after researching [Astronomy]( {{< relref "techs/Astrono
 | **Automation** | [SETI]( {{< relref "upgrade/SETI.md" >}}) Workshop Upgrade (unlocked by Electronics). | This upgrade causes all astronomical events to succeed automatically and silently, instantly granting associated science and starcharts. |
 | **Buildings** | **Observatories**, [Satellites]( {{< relref "techs/Satellites.md" >}}), **Research Vessels**, and **Space Beacons**. | Research Vessels produce **0.05 starcharts/sec**, and Space Beacons produce **0.125 starcharts/sec**. Satellites produce **0.005 starcharts/sec**. |
 | **Kitten Jobs** | [Scholar]( {{< relref "job/Scholar.md" >}}) profession. | The [Astrophysicists]( {{< relref "upgrade/Astrophysicists.md" >}}) Workshop upgrade allows Scholar kittens to produce **+0.0005 starcharts/sec**. |
-| **Trade** | [Leviathans]( {{< relref "trade/Leviathans.md" >}}). | Leviathans trade **250 Starchart** (with a 50% chance) in exchange for 5000 Unobtainium. |
+| **Trade** | [Leviathans]( {{< relref "Civilisations/Leviathans.md" >}}). | Leviathans trade **250 Starchart** (with a 50% chance) in exchange for 5000 Unobtainium. |
 | **Cycles** | **Numerology** and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) Metaphysics. | Certain cycles (Kairo, Cath, Piscine) boost the production of starcharts from space structures. The [Kairo Cycle]( {{< relref "Cycles/Kairo_Cycle.md" >}}) provides a large boost, increasing starchart income by 5x and increasing space beacon starchart production by +400%. |
 
 ### 2. Strategic Role and Progression Bottleneck
@@ -28,7 +28,7 @@ Starcharts are often considered a **major roadblock** in the progression towards
 
 **Key Uses:**
 
-*   [Trade Ships:]( {{< relref "craft/Trade_Ship.md" >}}) Starcharts are required for crafting [Trade Ships]( {{< relref "craft/Trade_Ship.md" >}}), which are crucial for finding and trading with the [Zebras]( {{< relref "trade/zebras.md" >}}) to acquire [Titanium]( {{< relref "resource/titanium.md" >}}). Crafting a Trade Ship costs 25 Starchart (this cost can be reduced by the [Satellite Navigation]( {{< relref "upgrade/Satellite_Navigation.md" >}}) upgrade).
+*   [Trade Ships:]( {{< relref "craft/Trade_Ship.md" >}}) Starcharts are required for crafting [Trade Ships]( {{< relref "craft/Trade_Ship.md" >}}), which are crucial for finding and trading with the [Zebras]( {{< relref "Civilisations/zebras.md" >}}) to acquire [Titanium]( {{< relref "resource/titanium.md" >}}). Crafting a Trade Ship costs 25 Starchart (this cost can be reduced by the [Satellite Navigation]( {{< relref "upgrade/Satellite_Navigation.md" >}}) upgrade).
 *   **Space Missions:** They are required for all missions in the Space tab, which is unlocked by [Rocketry]( {{< relref "techs/Rocketry.md" >}}). The costs escalate significantly: the initial [Orbital Launch]( {{< relref "space/Orbital_Launch.md" >}}) costs 250 Starchart, and the subsequent [Moon Mission]( {{< relref "space/Moon_Mission.md" >}}) costs 500 Starchart. Later missions require thousands, such as the [Kairo Mission]( {{< relref "space/Kairo_Mission.md" >}}) (5000 Starchart) and **Rorschach Mission** (15,000 Starchart).
 *   **Advanced Structures:** They are necessary for high-tier structures like the **Space Beacon** (25,000 Starchart) and the [Orbital Array]( {{< relref "space/orbital_array.md" >}}) (2000 Starchart).
 *   **Workshop Upgrades:** The [Geodesy]( {{< relref "upgrade/Geodesy.md" >}}) Workshop upgrade, which enables Geologists to find gold, requires **500 Starchart**.

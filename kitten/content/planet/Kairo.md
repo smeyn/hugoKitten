@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T22:47:58.279719+11:00
-draft = true
+draft = false
 title = "Kairo"
 
 +++

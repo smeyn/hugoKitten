@@ -1,6 +1,6 @@
 +++
 date = 2025-12-07T16:20:01.529063+11:00
-draft = true
+draft = false
 title = "Rationality vs Mysticism"
 
 +++
@@ -21,7 +21,7 @@ Both Policy/ are available after you have chosen between [Stoicism]( {{< relref 
 The choice between the two Policy/ is often straightforward, based on which resources present a greater long-term bottleneck:
 
 1.  **Mysticism (Recommended Choice):** It is generally recommended to choose [Mysticism]( {{< relref "Policy/Mysticism.md" >}}).
-    *   **Culture and Faith Bottleneck:** The primary reason is that [Faith]( {{< relref "resource/faith.md" >}}) and [Culture]( {{< relref "resource/culture.md" >}}) accumulation is notoriously slow in the game, particularly in the mid-game when these resources become necessary for advancements like [Theology]( {{< relref "science/theology.md" >}}) and Temple upgrades.
+    *   **Culture and Faith Bottleneck:** The primary reason is that [Faith]( {{< relref "resource/faith.md" >}}) and [Culture]( {{< relref "resource/culture.md" >}}) accumulation is notoriously slow in the game, particularly in the mid-game when these resources become necessary for advancements like [Theology]( {{< relref "techs/theology.md" >}}) and Temple upgrades.
     *   **Maximising Production:** The $+5\%$ bonus provided by Mysticism is useful for accelerating the rate at which you can generate these inputs, helping to overcome the cultural hurdle.
 
 2.  **Rationality (Generally Avoided):** The benefit offered by [Rationality]( {{< relref "Policy/Rationality.md" >}}) is often considered less valuable.
