@@ -1,9 +1,8 @@
-+++
-date = 2025-12-22T18:05:39.096889+11:00
-draft = false
-title = "Advanced_Automation"
-
-+++
+---
+date: '2025-12-22 18:05:39.096889+11:00'
+draft: false
+title: Advanced_Automation
+---
 
 The term [Advanced Automation]( {{< relref "upgrade/Advanced_Automation.md" >}}) refers to a crucial **Workshop upgrade** in *Kittens Game* that enhances the efficiency of your industrial production system.
 
@@ -16,4 +15,8 @@ Here are the specific details regarding this upgrade:
 *   **Timing:** The source notes the upgrade specifically triggers "Steamworks Production: Fall". Since the original Workshop Automation occurs in Spring, Advanced Automation allows this useful conversion process to run during a second season.
 
 **Context of Workshop Automation:**
-The Workshop Automation function itself (unlocked by the Machinery technology) converts small quantities of resources (Wood into Beams and Minerals into Slabs) when those resources are near 98% of their storage limit, typically occurring annually in Spring. Advanced Automation doubles the frequency of this passive resource management, making it more effective at preventing resource bottlenecks and generating necessary materials automatically.
+The Workshop Automation function itself (unlocked by the Machinery technology) converts small 
+quantities of resources (Wood into Beams and Minerals into Slabs)
+ when those resources are near 98% of their storage limit, typically occurring annually in Spring. 
+Advanced Automation doubles the frequency of this passive resource management, 
+making it more effective at preventing resource bottlenecks and generating necessary materials automatically.

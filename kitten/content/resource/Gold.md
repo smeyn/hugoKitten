@@ -1,9 +1,38 @@
 +++
 date = 2025-12-04T07:37:58.028286+11:00
 draft = false
-title = "Gold Storage"
+title = "Gold"
 
 +++
+[Gold]( {{< relref "resource/Gold.md" >}}) is a strategic metal in *Kittens Game* primarily used for international trade, religious advancement, and leadership development. It is categorized as a common resource that can be produced through industrial refinement or specialized worker roles.
+
+### **Production and Acquisition**
+Gold acquisition shifts from manual hunting in specialized modes to automated industrial production as your village advances:
+*   **Smelting:** Once the [Gold Ore]( {{< relref "upgrade/Gold_Ore.md" >}}) workshop upgrade is researched, [Smelters]( {{< relref "buildings/Smelter.md" >}}) begin producing $0.001$ gold per tick ($0.005$ per second) as a byproduct of smelting iron.
+*   [Geologists:]( {{< relref "job/Geologist.md" >}}) After researching [Geodesy]( {{< relref "upgrade/Geodesy.md" >}}), kittens assigned as [Geologists]( {{< relref "job/Geologist.md" >}}) can find gold at a rate of $0.0008$ per tick. This rate can be further enhanced by the [Mining Drill]( {{< relref "upgrade/Mining_Drill.md" >}}) and [Unobtainium Drill]( {{< relref "upgrade/Unobtainium_Drill.md" >}}) upgrades.
+*   **Hunting (Iron Will):** In **Iron Will** mode, where there are no kittens, hunting has a **25% chance** to yield gold once [Gold Ore]( {{< relref "upgrade/Gold_Ore.md" >}}) is researched.
+*   **Trade:** While most civilizations require gold *from* the player to trade, gold can be obtained through specific loops, such as trading with the [Nagas]( {{< relref "Civilisations/Nagas.md" >}}) for minerals to feed smelters.
+
+### **Strategic Uses**
+Gold is a critical bottleneck for mid-game progression due to its diverse applications:
+*   **Trade:** Each trade transaction with civilizations like the Lizards, Sharks, or Zebras typically costs **1 unit of gold**.
+*   **Religion:** Gold is a required component for building [Temples]( {{< relref "buildings/Temple.md" >}}) and purchasing many **Order of the Sun** upgrades, such as [Solar Revolution]( {{< relref "religion/Solar_Revolution.md" >}}), [Golden Spire]( {{< relref "religion/Golden_Spire.md" >}}), and [Sun Altar]( {{< relref "religion/Sun_Altar.md" >}}).
+*   **Village Infrastructure:** It is necessary for constructing [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}) (which improve trade and happiness) and [Mints]( {{< relref "buildings/Mint.md" >}}) (which automate the gathering of furs and ivory).
+*   **Leadership:** Promoting a kitten to a higher rank requires both experience and gold. Higher-ranked leaders provide significant production bonuses, especially if the [Monarchy]( {{< relref "Policy/Monarchy.md" >}}) or [Republic]( {{< relref "Policy/Republic.md" >}}) policies are enacted.
+
+### **Storage and Capacity**
+Your ability to stockpile gold is limited by various structures and permanent bonuses:
+*   **Initial Limit:** Your starting gold capacity is **10 units**.
+*   **Storage Buildings:** Capacity is increased by [Barns]( {{< relref "buildings/Barn.md" >}}) (+10), [Warehouses]( {{< relref "buildings/Warehouse.md" >}}) (+5), [Harbours]( {{< relref "buildings/Harbour.md" >}}) (+25), and notably [Mints]( {{< relref "buildings/Mint.md" >}}) (+100). 
+*   **Advanced Storage:** [Accelerators]( {{< relref "buildings/Accelerator.md" >}}) with the Energy Rifts upgrade provide **+250** max gold, while **Moon Bases** provide a massive **+3500**.
+*   **Multipliers:** The **Sunforge** space structure improves metal storage (including gold) by **1%**. Additionally, [Paragon]( {{< relref "resource/paragon.md" >}}) provides a permanent 0.1% storage capacity bonus per point.
+
+### **Policies and Efficiency**
+Several government and foreign policies directly impact your gold economy:
+*   [Liberalism:]( {{< relref "Policy/Liberalism.md" >}}) This policy is highly valued as it **reduces all gold costs by 20%** and improves trade relations.
+*   **Zebra Relations (Appeasement):** While this policy improves titanium trade, it imposes a **-5% penalty** to gold income.
+*   [Monarchy:]( {{< relref "Policy/Monarchy.md" >}}) This policy doubles the power of your leader's trait but consumes **10% of your gold production** as upkeep for the royal court.
+
 
 The initial storage limit for [Gold]( {{< relref "resource/Gold.md" >}}) is **10** units [1]. This capacity can be increased through the construction of specific storage buildings, as well as production buildings that feature storage benefits, such as the Mint [1, 2].
 
