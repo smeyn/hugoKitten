@@ -24,7 +24,7 @@ The raw production rates of base resources often become the primary bottleneck f
 #### **2. Temporal and Cycle Arbitrage**
 In the late game, the focus shifts to system [arbitrage]( {{< relref "guides/arbitrage.md" >}}). Because the [Redmoon]( {{< relref "planet/Redmoon.md" >}}) cycle provides a massive multiplier to Unobtainium production, players use [Time Crystals]( {{< relref "resource/Time_Crystals.md" >}}) as a currency to "buy" more productive time. 
 *   By skipping the "fallow" years of other cycles, players ensure their Outposts and Space Elevators are always operating at maximum efficiency.
-*   When combined with [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) and active **Festivals**, this temporal arbitrage generates the massive amounts of Unobtainium required for endgame goals.
+*   When combined with [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) and active **[Festivals]( {{< relref "guides/festivals.md" >}})**, this temporal arbitrage generates the massive amounts of Unobtainium required for endgame goals.
 
 #### **3. Positive Chrono-Reset Arbitrage**
 The ultimate goal of endgame optimization is the **positive reset**. This occurs when your storage capacity for Unobtainium is high enough (at least **8.14 billion**) to build **73 or more Chronospheres**. 

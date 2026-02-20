@@ -12,7 +12,7 @@ The impact of the Redmoon cycle depends on your researched [Metaphysics]( {{< re
 | :--- | :--- |
 | **Numerology** | **+20% Unobtainium output** from Lunar Outposts. |
 | **Numerology** | **-50% Gigaflop consumption** for Entanglement Stations. |
-| [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) | Holding a festival provides an additional **x2 Unobtainium income**. |
+| [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) | Holding a [festival]( {{< relref "guides/festivals.md" >}}) provides an additional **x2 Unobtainium income**. |
 
 ### **The "Shatter into Redmoon" Strategy**
 Because the Redmoon cycle is so much more productive than other cycles, endgame players use [Time Crystals]( {{< relref "resource/Time_Crystals.md" >}}) to skip less profitable years and land exactly on the Redmoon phase.

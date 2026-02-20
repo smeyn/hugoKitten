@@ -33,3 +33,19 @@ Spiders primarily exchange the crafted resource [Scaffold]( {{< relref "craft/Sc
 While Spiders provide a vital source of [Coal]( {{< relref "resource/coal.md" >}}), early-game advice suggests that acquiring coal from them via scaffold-trading is generally **not realistic** for players focused on lower-tier progression.
 
 For players who are actively engaging with the Spiders trade route, the coal they provide can be used to fuel industrial buildings like the Steamworks or for crafting advanced materials like [Steel]( {{< relref "craft/Steel.md" >}}) (which requires 100 Coal and 100 Iron).
+ 
+### **Trading Mechanics**
+The Spiders are a unique trade partner because they are one of the few sources for bulk coal and oil via trade.
+*   **Cost:** Each trade costs **50 Scaffolds**, **50 Catpower**, and **1 Gold** (once Currency and Gold Ore are researched).
+*   **Primary Export (Coal):** They sell a base of **350 Coal**.
+*   **Secondary Export (Oil):** There is a **25% chance** they will sell **100 Oil**, provided you have at least a **Level 5 Embassy** with them.
+*   **Seasonal Adjustments:** Their Coal output varies by season:
+    *   **Autumn:** +15% (Best time to trade).
+    *   **Summer:** +5%.
+    *   **Spring:** +0%.
+    *   **Winter:** -5%.
+
+### **Strategic Utility**
+*   **Resolving the Coal Bottleneck:** While Coal is often produced by Smelters, Mines, or Geologists, trading with Spiders provides a massive manual influx of the resource if your industrial production is lagging.
+*   **Oil Acquisition:** Before you have a robust network of Oil Wells or Bio Labs, Spiders can serve as a supplementary source for Oil needed for space missions and advanced buildings.
+*   **The "Scaffold" Barrier:** Because Scaffolds are a crafted resource requiring significant amounts of Wood (Beams), trading with Spiders is often not considered realistic until your wood production is extremely high and you can afford to "waste" scaffolds.

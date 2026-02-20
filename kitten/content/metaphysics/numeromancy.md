@@ -11,7 +11,7 @@ title = 'Numeromancy'
 *   **Unlocks:** The **Malkuth** metaphysics upgrade.
 
 ### **Festival Effects by Cycle**
-When a Festival is active, Numeromancy applies the following multipliers depending on the current 5-year cycle:
+When a [Festival]( {{< relref "guides/festivals.md" >}}) is active, Numeromancy applies the following multipliers depending on the current 5-year cycle:
 
 | Cycle | Resource Bonus (x) | Primary Focus |
 | :--- | :--- | :--- |

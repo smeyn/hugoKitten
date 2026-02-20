@@ -18,7 +18,7 @@ Parchment is a mandatory requirement for transitioning out of the early game and
 *   **Building Construction:** It is a required material for several essential structures:
     *   [Amphitheatres:]( {{< relref "buildings/Amphitheatre.md" >}}) 3 Parchment (essential for reducing unhappiness and generating early culture).
     *   [Chapels:]( {{< relref "buildings/Chapel.md" >}}) 250 Parchment (the primary structure for generating faith).
-    *   **Breweries:** 375 Parchment (required for holding festivals).
+    *   **Breweries:** 375 Parchment (required for holding [Festivals]( {{< relref "guides/festivals.md" >}})).
 *   **Scientific Research:** A massive stockpile of **5,000 parchment** is required to research [Drama and Poetry]( {{< relref "techs/Drama_and_Poetry.md" >}}), which enables the festival system.
 
 ### **Strategic Management**

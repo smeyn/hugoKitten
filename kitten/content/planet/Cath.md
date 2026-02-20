@@ -30,6 +30,6 @@ When the Cath cycle is active, it provides several bonuses and a specific penalt
 *   **Space Station science bonus:** Increased by $+50\%$.
 *   **Space Beacon starchart production:** Decreased by $-50\%$.
 
-**Festival Effect with Numeromancy:**
+**[Festival]( {{< relref "guides/festivals.md" >}}) Effect with Numeromancy:**
 
 If the advanced [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) upgrade is researched, holding a festival during the Cath cycle grants a significant $\times 2$ multiplier to **Catpower income**.

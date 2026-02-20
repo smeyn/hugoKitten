@@ -1,39 +1,54 @@
 +++
 date = 2025-12-24T12:53:15.239442+11:00
 draft = false
-title = "Levels.md"
+title = "Levels"
 
 +++
+[Transcendence]( {{< relref "religion/Transcendence.md" >}}) is a late-game religious mechanic that allows you to spend [Epiphany]( {{< relref "religion/epiphany.md" >}}) (also known as the Apocrypha bonus) to permanently increase your **Transcendence Tier**. These tiers carry over through resets and provide powerful scaling for your faith production, religious upgrades, and endgame buildings.
 
-Uranium, a critical resource in the later stages of the game, is primarily acquired through three methods: trading with the Dragons, production via upgraded Quarries, and refinement using Accelerators.
+### **Unlocking Transcendence**
+To access this system, you must first research [Theology]( {{< relref "techs/Theology.md" >}}) and then purchase the [Transcendence]( {{< relref "religion/Transcendence.md" >}}) upgrade in the Religion tab.
+*   **Cost:** 7,500 Faith and 7,500 Gold.
+*   **Requirement:** A maximum Faith capacity of at least 125,000.
+*   **Function:** Unlocking this provides the **Transcend button**, which is used to level up your tier by sacrificing a portion of your accumulated Epiphany.
 
-Here is a breakdown of what produces or provides Uranium:
+### **Core Benefits and Effects**
+Transcending is essential for transitioning into the mid-to-late game "Relic Era" due to the following effects:
+*   **Adoration Multiplier:** Each tier significantly increases the conversion multiplier when you **Adore the Galaxy**, allowing you to rebuild your Praise bonus much faster after a reset.
+*   **Multi-level Upgrades:** It allows you to purchase several religious upgrades (such as [Scholasticism]( {{< relref "religion/Scholasticism.md" >}}), [Golden Spire]( {{< relref "religion/Golden_Spire.md" >}}), and [Sun Altar]( {{< relref "religion/Sun_Altar.md" >}})) multiple times, though each additional level costs 2.5x more than the last.
+*   **Cryptotheology Gateway:** Advanced endgame structures are gated by specific Transcendence Tiers. For example, [Black Obelisks]( {{< relref "transcendence/Black_Obelisk.md" >}}) require Tier 1, while the powerful [Blazars]( {{< relref "transcendence/Blazar.md" >}}) require Tier 15.
+*   **Atheism Challenge Synergy:** If you complete the [Atheism challenge]( {{< relref "Challenges/Atheism_challenge.md" >}}), your [Solar Revolution]( {{< relref "religion/Solar_Revolution.md" >}}) cap increases by 100 percentage points for every Transcendence Tier you have attained.
 
-### 1. Production via Buildings and Upgrades
+### **Strategic Advice: The "TAP" Method**
+Experienced players use a specific sequence called **TAP** to manage their faith bonuses effectively without destroying their current production.
+1.  **Transcend:** Level up your tier when you have roughly **1.5x the required Epiphany** for that level to avoid losing too much of your bonus.
+2.  **Adore:** Immediately "Adore the Galaxy" to convert your remaining Worship into a now-stronger Epiphany bonus.
+3.  **Praise:** Praise the sun with a full store of faith to quickly regain your [Solar Revolution]( {{< relref "religion/Solar_Revolution.md" >}}) production boost.
 
-Uranium can be produced directly using advanced buildings and upgrades:
+### **Transcendence Tier Requirements**
+The cost in Epiphany scales exponentially with each tier:
 
-*   [Quarry]( {{< relref "buildings/Quarry.md" >}}) (with [Orbital Geodesy]( {{< relref "upgrade/Orbital_Geodesy.md" >}})): Quarries will provide a small amount of uranium once the [Orbital Geodesy]( {{< relref "orbital_geodesy.md" >}}) upgrade is purchased [1, 2]. Quarries produce uranium at a rate of **0.0005 per tick** [2].
-    *   [Orbital Geodesy]( {{< relref "orbital_geodesy.md" >}}) requires [Satellites]( {{< relref "satellites.md" >}}) technology and costs 150,000 Science, 1,000 Alloy, and 35,000 Oil [2].
-*   [Accelerator:]( {{< relref "accelerator.md" >}}) This building refines **titanium into uranium** [1]. Accelerators produce **0.0025 uranium per tick** (or 0.0125 per second) [3, 4].
-    *   The Accelerator building is unlocked by researching the [Particle Physics]( {{< relref "particle_physics.md" >}}) science [3, 5]. It costs 7,500 Titanium, 125 Concrete, and 25 Uranium [3].
-*   [Planet Cracker:]( {{< relref "space/planet_cracker.md" >}}) Uranium is produced by the [Planet Cracker]( {{< relref "space/planet_cracker.md" >}}) structure [1, 6]. This structure's output is affected by the [Dune]( {{< relref "dune.md" >}}) cycle, which can increase its uranium output by **+10%** [7].
-*   **Reactor (Consumption Reduction):** While Reactors consume Uranium [8], the [Enriched Uranium]( {{< relref "enriched_uranium.md" >}}) upgrade reduces this consumption by **25%** and also provides a **+25% uranium production bonus** that applies only to Quarries [9].
+| Tier | Minimum Epiphany Needed | Key Unlock / Benefit |
+| :--- | :--- | :--- |
+| **1** | ~1.97% | [Black Obelisk]( {{< relref "transcendence/Black_Obelisk.md" >}}) |
+| **3** | ~17.38% | [Black Nexus]( {{< relref "transcendence/Black_Nexus.md" >}}) |
+| **9** | ~151.34K% | [Black Library]( {{< relref "transcendence/Black_Library.md" >}}) |
+| **15** | **~3.04M%** | [Blazar]( {{< relref "transcendence/Blazar.md" >}}) (Vital for Relic production) |
+| **20** | ~451.14M% | [Dark Nova]( {{< relref "transcendence/Dark_Nova.md" >}}) |
+| **25** | ~66.96G% | [Holy Genocide]( {{< relref "transcendence/Holy_Genocide.md" >}}) (Post Apocalypse challenge) |
 
-### 2. Acquisition via Trade
+Because the Epiphany requirement for Tier 15 is over 3 million percent, it is considered a major long-term goal for the late-game **Relic and Time Crystal engine**.
 
-The most straightforward way to initially acquire Uranium is through trade:
+**Transcendence Tiers carry over permanently** through resets,. They are part of a select group of endgame achievements and prestige markers that are not lost when you restart your timeline.
 
-*   [Dragons:]( {{< relref "Civilisations/Dragons.md" >}}) Uranium can be **bought** from the [Dragons]( {{< relref "Civilisations/Dragons.md" >}}) civilization, in exchange for Titanium [1].
-    *   Dragons sell **1 Uranium** and the trade has a 95% chance of success (reaching 100% chance with 6 Embassy levels) [10, 11].
-    *   Dragons are unlocked after researching [Nuclear Fission]( {{< relref "nuclear_fission.md" >}}) [12].
+### **Carry-over Mechanics**
+*   **Permanent Progression:** Once you reach a certain Transcendence Tier, it remains active in all subsequent runs,.
+*   **Cryptotheology Visibility:** While the tiers themselves are saved, you must re-research the **Cryptotheology technology** in each new run to view your tier level or purchase/interact with the associated buildings.
+*   **Epiphany and Adoration:** Your tiers increase the **conversion multiplier** when you "Adore the Galaxy", making your future faith resets more powerful.
 
-### 3. Production Boosts
+### **Key Benefits of Retaining Tiers**
+Maintaining your tiers across resets provides several compounding advantages:
+*   **Religious Scaling:** Tiers allow you to purchase certain religious upgrades multiple times (like Solar Chant or Golden Spire) at an escalating cost.
+*   **Solar Revolution Cap:** If you have completed the [Atheism challenge]( {{< relref "Challenges/Atheism_challenge.md" >}}), your Solar Revolution production bonus cap is increased by 100% for every Transcendence Tier you have attained,.
+*   **Cryptotheology Unlocks:** Higher tiers are required to unlock advanced permanent buildings, such as [Black Obelisks]( {{< relref "transcendence/Black_Obelisk.md" >}}) (Tier 1) or [Blazars]( {{< relref "transcendence/Blazar.md" >}}) (Tier 15),.
 
-Uranium production can be boosted by:
-
-*   **Cycles (Dune):** The [Dune]( {{< relref "dune.md" >}}) cycle doubles Uranium income when the **Numerology** metaphysics upgrade is researched [7].
-*   [Enriched Uranium:]( {{< relref "enriched_uranium.md" >}}) This Workshop upgrade increases Uranium production by **+25%** (but only applies to Quarries) [9].
-*   [Planet Busters:]( {{< relref "planet_busters.md" >}}) This upgrade doubles the output of the Planet Cracker structure [13].
-
-Uranium is an important resource, particularly in the later stages of the game, as it is needed to refine [Unobtainium]( {{< relref "resource/unobtainium.md" >}}) via a Lunar Outpost [1, 4].

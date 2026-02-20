@@ -15,7 +15,7 @@ title = "Solar_Revolution"
 ### **Caps and Diminishing Returns**
 The production bonus is subject to **diminishing returns** starting at **750%** and is initially **hard-capped at 1,000%**. However, this cap can be extended through advanced late-game mechanics:
 *   [Black Obelisks:]( {{< relref "transcendence/Black_Obelisk.md" >}}) These cryptotheology buildings improve the Solar Revolution bonus cap by **+5% per transcendence tier**.
-*   **Atheism Challenge:** While this challenge disables the Solar Revolution bonus entirely during the run, completing it provides a permanent reward where the cap increases by **100 percentage points for every Transcendence tier** you possess. 
+*   [Atheism Challenge:]( {{< relref "Challenges/Atheism_challenge.md" >}}) While this challenge disables the Solar Revolution bonus entirely during the run, completing it provides a permanent reward where the cap increases by **100 percentage points for every Transcendence tier** you possess. 
 *   **Effectiveness Reward:** Successive completions of the Atheism challenge also increase the **effectiveness** of the bonus by 10% per run, multiplicative with Black Obelisks.
 
 ### **Strategic Utility and Management**

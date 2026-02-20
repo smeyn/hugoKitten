@@ -29,7 +29,7 @@ Redmoon ($\text{⍜}$) is one of the ten astronomical cycles in the game's time 
 *   **With Numerology:** When the Numerology upgrade is researched, the Redmoon cycle affects specific space production:
     *   **Lunar Outpost unobtainium output** is increased by **+20%**.
     *   **Entanglement Station gigaflops consumption** is decreased by **-50%**.
-*   **Festival Effect (With Numeromancy):** If the Numeromancy upgrade is researched, holding a festival during the Redmoon cycle grants a potent **$\times 2$ multiplier to Unobtainium income**.
+*   **Festival Effect (With Numeromancy):** If the Numeromancy upgrade is researched, holding a [festival]( {{< relref "guides/festivals.md" >}}) during the Redmoon cycle grants a potent **$\times 2$ multiplier to Unobtainium income**.
 
 ### Strategic Importance in Endgame
 

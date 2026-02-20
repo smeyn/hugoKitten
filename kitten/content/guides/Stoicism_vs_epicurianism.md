@@ -28,7 +28,7 @@ Epicureanism emphasizes pleasure as the highest good, leveraging luxury resource
 *   **Effect:** Luxury resources provide **slightly more happiness**, increasing the bonus from 10% to **11% each**.
 *   **Subsequent Policy/:** Epicureanism leads to [Carnivale]( {{< relref "Policy/Carnivale.md" >}}) and [Extravagance]( {{< relref "Policy/Extravagance.md" >}}) Policy/.
     *   [Extravagance]( {{< relref "Policy/Extravagance.md" >}}) triples luxury consumption (200% increase) but dramatically boosts happiness derived from consumable resources to 5 (instead of 11%).
-    *   [Carnivale]( {{< relref "Policy/Carnivale.md" >}}) boosts kitten arrival speed during festivals (30% increase) but also increases luxury consumption during them (30% increase).
+    *   [Carnivale]( {{< relref "Policy/Carnivale.md" >}}) boosts kitten arrival speed during [festivals]( {{< relref "guides/festivals.md" >}}) (30% increase) but also increases luxury consumption during them (30% increase).
 
 ### Strategic Considerations
 

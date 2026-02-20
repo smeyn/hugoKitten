@@ -33,4 +33,4 @@ Reaching Dune is also a prerequisite for unlocking several high-level Government
 Dune ($\text{⍫}$) is one of the ten cycles in the game's time system, with each cycle lasting five years. The effects of this cycle are leveraged by researching Metaphysics upgrades like Numerology and Numeromancy:
 
 *   **With Numerology:** The cycle provides significant production bonuses for resources generated on Dune: it increases **Planet Cracker uranium output by +10%** and **Hydraulic Fracturer oil output by +50%**. Conversely, it imposes a penalty on HR Harvester Energy Production (-25%).
-*   **With Numeromancy (Festival Bonus):** Holding a festival during the Dune cycle grants a $\times 2$ multiplier to **Uranium income**.
+*   **With Numeromancy ([Festival]( {{< relref "guides/festivals.md" >}}) Bonus):** Holding a festival during the Dune cycle grants a $\times 2$ multiplier to **Uranium income**.

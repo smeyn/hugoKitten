@@ -3,7 +3,7 @@ date = '2026-01-24T20:56:29+11:00'
 draft = false
 title = 'Carnivals'
 +++
- a mid-game Metaphysics upgrade that allows festivals to stack in duration, though there is also a similarly named Carnivale policy that modifies festival effects.
+ a mid-game Metaphysics upgrade that allows [festivals]( {{< relref "guides/festivals.md" >}}) to stack in duration, though there is also a similarly named Carnivale policy that modifies festival effects.
 Metaphysics: Carnivals
 The Carnivals upgrade is an essential step in the temporal and religious Metaphysics tree.
 • Cost: 25 Paragon.

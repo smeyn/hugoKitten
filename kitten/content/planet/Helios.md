@@ -30,7 +30,7 @@ Its effects are dependent on advanced Metaphysics research:
 *   **With Numerology:** The cycle affects key space structures:
     *   **Sunlifter energy output is increased by +50%**.
     *   **Cryostation Storage is decreased by -10%**.
-*   **With Numeromancy (Festival Bonus):** Holding a festival during the Helios cycle provides potent religious and luxury resource multipliers:
+*   **With Numeromancy (Festival Bonus):** Holding a [Festival]( {{< relref "guides/festivals.md" >}}) during the Helios cycle provides potent religious and luxury resource multipliers:
     *   **Faith income is multiplied by x2**.
     *   **Unicorn income is multiplied by x1.25**.
 
