@@ -9,7 +9,7 @@ title = "Unicorn_Utopia"
 
 ### Building and Effects
 
-The Unicorn Utopia is an upgrade for the **Unicorn Pasture** structure. It is part of the extensive unicorn religious path that culminates in the acquisition of Time Crystals.
+The Unicorn Utopia is an upgrade for the [Unicorn Pasture]( {{< relref "buildings/Unicorn_Pasture.md" >}}) structure. It is part of the extensive unicorn religious path that culminates in the acquisition of Time Crystals.
 
 | Detail | Specification | Citation |
 | :--- | :--- | :--- |

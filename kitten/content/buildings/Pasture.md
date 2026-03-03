@@ -29,7 +29,7 @@ In the early game, surviving Winter can be challenging because Catnip Field prod
 
 ### Unicorn Pastures (Related Building)
 
-The **Unicorn Pasture** is a separate, related building that also reduces Catnip Demand.
+The [Unicorn Pasture]( {{< relref "buildings/Unicorn_Pasture.md" >}}) is a separate, related building that also reduces Catnip Demand.
 
 *   **Acquisition:** You must first find two **Unicorns** (which have a 5% chance of being gathered during a Hunt) to create a Unicorn Pasture.
 *   **Effect:** A Unicorn Pasture costs 2 Unicorns and has a price ratio of 1.75. Its primary effect is reducing Catnip Demand by **0.15%** and automatically generating more Unicorns.

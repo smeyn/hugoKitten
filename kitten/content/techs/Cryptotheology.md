@@ -19,7 +19,7 @@ Here is a comprehensive overview of Cryptotheology, its purpose, and its related
 
 Cryptotheology is described as the system that provides "Insights into the mysteries of time and space" and focuses on the **Time, Relics, and Void** mechanics of the game [3, 4]. It is the defining feature of the **Phase 3** (End Game) of *Kittens Game* [4].
 
-The core purpose of the system is to purchase permanent, powerful structures using [Relics]( {{< relref "resource/relic.md" >}}) and **Void**, which often scale with the player's **Transcendence Tiers (TT)**.
+The core purpose of the system is to purchase permanent, powerful structures using [Relics]( {{< relref "resource/relic.md" >}}) and [Void]( {{< relref "resource/void.md" >}}), which often scale with the player's **Transcendence Tiers (TT)**.
 
 ### 3. Buildings and Upgrades
 

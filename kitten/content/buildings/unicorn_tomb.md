@@ -5,7 +5,7 @@ title = "Unicorn_tomb"
 
 +++
 
-The [Unicorn Tomb]( {{< relref "ziggurat/Unicorn_Tomb.md" >}}) is an early building within the Unicorn religious progression chain, serving as a direct upgrade to the **Unicorn Pasture** [1].
+The [Unicorn Tomb]( {{< relref "ziggurat/Unicorn_Tomb.md" >}}) is an early building within the Unicorn religious progression chain, serving as a direct upgrade to the [Unicorn Pasture]( {{< relref "buildings/Unicorn_Pasture.md" >}}) [1].
 
 This structure is vital for establishing the infrastructure necessary to scale luxury and temporal resources like Tears and Time Crystals in the mid-to-late game.
 
@@ -13,7 +13,7 @@ This structure is vital for establishing the infrastructure necessary to scale l
 
 | Category | Detail |
 | :--- | :--- |
-| **Prerequisite** | The Unicorn Tomb is an upgrade available after successfully building a **Unicorn Pasture** [1, 2]. |
+| **Prerequisite** | The Unicorn Tomb is an upgrade available after successfully building a [Unicorn Pasture]( {{< relref "buildings/Unicorn_Pasture.md" >}}) [1, 2]. |
 | **Cost** | Building a Unicorn Tomb requires **5 Tears** and **500 Ivory** [1, 3]. |
 | **Effect** | It provides a 5% improvement to **unicorn generation** (Unicorns per Tick +5%) [1, 3]. |
 | **Progression** | Completing at least one Unicorn Tomb is the direct prerequisite for unlocking the [Ivory Tower]( {{< relref "ziggurat/Ivory_Tower.md" >}}) [4]. |

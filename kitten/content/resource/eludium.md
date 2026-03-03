@@ -31,7 +31,7 @@ Eludium is required for constructing the highest tier of housing and for high-le
     *   [Quantum Dot Cells:]( {{< relref "quantum_dot_cells.md" >}}) Improves Solar Farm energy production by **+15% in winter** and **+30% in spring and autumn** [6].
     *   **Antimatter Fission/Reactors/Drive:** Required for various Antimatter-related upgrades [8, 9].
     *   [Chronoengineers:]( {{< relref "chronoengineers.md" >}}) Improves Engineer effectiveness and allows them to work during time skips [7].
-*   **Space Structures:** Eludium is used in the construction of the **Spaceport** [10].
+*   **Space Structures:** Eludium is used in the construction of the [Spaceport]( {{< relref "buildings/spaceport.md" >}}) [10].
 *   [Cryptotheology:]( {{< relref "cryptotheology.md" >}}) Eludium is a cost component for advanced Cryptotheology buildings such as the [Relic Station]( {{< relref "relic_station.md" >}}) [8].
 
 ### Strategic Context

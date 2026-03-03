@@ -9,7 +9,7 @@ title = "Void Aspiration"
 
 The primary function of Void Aspiration is to serve as a prerequisite for two advanced structures: **Void Hoovers and Void Rifts**. Once this upgrade is secured, the following structures can be developed to enhance resource management during the endgame:
 
-*   **Void Hoover:** These structures increase the maximum amount of **void** that may be gained during a **Temporal Paradox** day by **1 unit**.
+*   **Void Hoover:** These structures increase the maximum amount of [void]( {{< relref "resource/void.md" >}}) that may be gained during a **Temporal Paradox** day by **1 unit**.
 *   **Void Rift:** Each rift increases the **global resource storage ratio by 2%**. Additionally, they provide a **10% boost to the energy production of HR Harvesters**, which operate on Hawking Radiation from black holes.
 
 Void Aspiration is a critical step in the **Chrono-Optimization phase** of development. By unlocking Void Rifts, players can stack storage bonuses additively with **Event Horizons**, allowing them to overcome the terrestrial storage caps that otherwise bottleneck late-game progression. Accessing these structures is necessary for players aiming to establish **self-sustaining resource loops** through high-count **Chronosphere resets**.

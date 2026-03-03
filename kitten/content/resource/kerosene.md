@@ -20,7 +20,7 @@ Here is a breakdown of Kerosene based on the provided sources:
 
 Kerosene is a resource needed to construct late-game space structures:
 
-1.  **Spaceport:** Kerosene is required to build a Spaceport, which costs **1000 Kerosene** (along with 10k Titanium, 500 Eludium, 500 Blueprint, and 400k Starchart) [4]. The Spaceport is an upgrade to the Warehouse and requires the Exometallurgy prerequisite [4].
+1.  [Spaceport:]( {{< relref "buildings/spaceport.md" >}}) Kerosene is required to build a Spaceport, which costs **1000 Kerosene** (along with 10k Titanium, 500 Eludium, 500 Blueprint, and 400k Starchart) [4]. The Spaceport is an upgrade to the Warehouse and requires the Exometallurgy prerequisite [4].
 2.  **Research Vessels:** Kerosene is also required for Research Vessels [5]. The Research Vessels, which are part of the process to increase Starchart production, require **500 Kerosene** [6].
 3.  In general, players will need a bunch of oil and/or Kerosene to build these advanced structures [5].
 

@@ -3,7 +3,7 @@ date = '2026-01-28T11:12:21+11:00'
 draft = false
 title = 'Numeromancy'
 +++
-[Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is a late-game **Metaphysics upgrade** that grants your civilisation unique production bonuses during **Festivals** based on the current active **Cycle** of the Cath solar system. 
+[Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is a late-game **Metaphysics upgrade** that grants your civilisation unique production bonuses during [Festivals]( {{< relref "guides/festivals.md" >}}) based on the current active **Cycle** of the Cath solar system. 
 
 ### **Key Statistics and Requirements**
 *   **Cost:** 250 Paragon.

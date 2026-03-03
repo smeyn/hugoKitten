@@ -9,7 +9,7 @@ title = "Animal_Husbandry"
 ### **Core Buildings and Effects**
 Researching Animal Husbandry unlocks two primary structures focused on managing the colony's food economy and rare resources:
 *   [Pastures:]( {{< relref "buildings/Pasture.md" >}}) These buildings cost **100 Catnip and 10 Wood**. Each Pasture provides a **-0.5% reduction in catnip demand** per kitten.
-*   **Unicorn Pastures:** These structures cost **2 Unicorns** and provide a smaller **-0.15% reduction in catnip demand**. Additionally, they automatically generate **0.001 unicorns per tick**.
+*   [Unicorn Pastures:]( {{< relref "buildings/Unicorn_Pasture.md" >}}) These structures cost **2 Unicorns** and provide a smaller **-0.15% reduction in catnip demand**. Additionally, they automatically generate **0.001 unicorns per tick**.
 
 The demand reduction from both building types is vital for surviving **Winter**, as it decreases the constant food burden imposed by the kitten population. However, this reduction is subject to **strict diminishing returns** and is hard-capped at **50%**.
 

@@ -23,7 +23,7 @@ The Chronosphere has several critical, interrelated functions that affect resour
 
 *   **Resource Preservation on Reset:** Its main purpose is to preserve a percentage of your non-crafted, non-luxury resources upon resetting the game. Each Chronosphere preserves **1.5%** of these resources (Catnip, Wood, Minerals, Oil, Uranium, etc.).
     *   If the total preservation percentage exceeds 100%, you receive multiple units of those resources upon reset.
-*   **Void Generation:** Chronospheres are necessary for generating **Void**. Void is a unique resource that is generated randomly every year change if you have Chronospheres.
+*   **Void Generation:** Chronospheres are necessary for generating [Void]( {{< relref "resource/void.md" >}}). Void is a unique resource that is generated randomly every year change if you have Chronospheres.
 *   **Energy Consumption:** It consumes **-20 Energy** per tick to operate.
 *   **Temporal Flux Generation (Upgrade):** While the base function generates Temporal Flux at a rate of 5 units per minute when the game is not active, the [Chronosurge]( {{< relref "chronosurge.md" >}}) upgrade causes each Chronosphere to generate **1 flux per year**.
 *   **Temporal Paradox:** It has an associated risk: "Occasional Temporal Paradox".

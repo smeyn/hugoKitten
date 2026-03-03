@@ -21,7 +21,7 @@ Researching Construction unlocks four key buildings that help expand your villag
 
 1.  [Log House:]( {{< relref "buildings/Log_House.md" >}}) This is a tier-up housing structure that costs 200 Wood and 250 Minerals. It provides **+1 maximum kitten** and **+50 maximum catpower**. Log Houses are often prioritised early to continue maximizing population.
 2.  [Lumber Mill:]( {{< relref "buildings/Lumber_Mill.md" >}}) This industrial structure costs 100 Wood, 50 Iron, and 250 Minerals. It increases **Wood production by +10%**.
-3.  [Warehouse:]( {{< relref "buildings/Warehouse.md" >}}) This is an important storage building costing 1.5 Beam and 2 Slab. Warehouses initially do not store Catnip but increase the maximum limits of Wood, Minerals, Iron, Coal, Gold, and Titanium. They eventually upgrade to **Spaceports**.
+3.  [Warehouse:]( {{< relref "buildings/Warehouse.md" >}}) This is an important storage building costing 1.5 Beam and 2 Slab. Warehouses initially do not store Catnip but increase the maximum limits of Wood, Minerals, Iron, Coal, Gold, and Titanium. They eventually upgrade to [Spaceports]( {{< relref "buildings/spaceport.md" >}}).
 4.  [Ziggurat:]( {{< relref "buildings/Ziggurat.md" >}}) This is a mega-structure building that serves as a prerequisite for the **Unicorn/Time Crystal Era**. It costs 50 Megalith, 50 Scaffold, and 1 Blueprint and increases **Max Culture by +8%**.
 
 ### Effects and Strategic Importance

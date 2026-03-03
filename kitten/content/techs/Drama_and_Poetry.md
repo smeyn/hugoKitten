@@ -13,7 +13,7 @@ Because of its high requirement for a specific crafted resource, it is often see
 *   **Prerequisite:** Researching [Acoustics]( {{< relref "techs/Acoustics.md" >}}).
 
 ### **Unlocked Mechanics**
-*   **Festivals:** Once researched, you can spend resources to hold a festival that lasts for one game year (400 days, or 800 real-time seconds). 
+*   [Festivals:]( {{< relref "guides/festivals.md" >}}) Once researched, you can spend resources to hold a festival that lasts for one game year (400 days, or 800 real-time seconds). 
     *   **Kitten Growth:** Festivals are the primary way to **double the arrival speed of kittens** (from ~0.16 to 0.32 kittens per second), which is essential for reaching the population thresholds needed for Paragon.
     *   **Numeromancy Synergies:** If the [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) Metaphysics upgrade is researched, holding a festival grants massive global production multipliers based on the current **Cycle** (e.g., x2 Unobtainium in Redmoon, x2 Science in Piscine, or x2 Catpower in Cath).
 *   [Brewery:]( {{< relref "buildings/Brewery.md" >}}) A building that enhances the effectiveness of your festivals.

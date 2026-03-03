@@ -13,7 +13,7 @@ Here is a detailed summary of the Warehouse, based on the sources:
 
 *   **Technology Prerequisite:** The Warehouse building is unlocked by researching the [Construction]( {{< relref "construction.md" >}}) technology. Construction costs 1,300 Science.
 *   **Cost:** The base cost to construct a Warehouse is **1.5 Beam** and **2 Slab**. These materials are crafted resources, requiring Wood and Minerals.
-*   **Upgrade Path:** The Warehouse is an upgradeable building, designed to eventually be replaced by the **Spaceport**.
+*   **Upgrade Path:** The Warehouse is an upgradeable building, designed to eventually be replaced by the [Spaceport]( {{< relref "buildings/spaceport.md" >}}).
 
 ### 2. Purpose and Storage Effects
 

@@ -14,7 +14,7 @@ The structure is found in the Space tab once the player has successfully landed 
 ### **Core Effects**
 *   **Uranium Production:** Generates **1.5 Uranium per second**.
 *   **Uranium Storage:** Increases your maximum Uranium capacity by **1,750**.
-*   **Capacity Boost:** Upgrading a Warehouse to a **Spaceport** increases the capacity of Planet Crackers by **0.85%**.
+*   **Capacity Boost:** Upgrading a Warehouse to a [Spaceport]( {{< relref "buildings/spaceport.md" >}}) increases the capacity of Planet Crackers by **0.85%**.
 
 ### **Upgrades and Scaling**
 The effectiveness of a Planet Cracker can be significantly enhanced through various technological and industrial milestones:

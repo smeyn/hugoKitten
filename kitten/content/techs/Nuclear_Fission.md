@@ -1,7 +1,7 @@
 +++
 date = 2025-12-07T16:27:03.008039+11:00
 draft = false
-title = "Nuclear_Fission"
+title = "Nuclear Fission"
 
 +++
 

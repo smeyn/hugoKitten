@@ -3,7 +3,7 @@ date = '2026-01-28T11:09:49+11:00'
 draft = false
 title = 'Festivals'
 +++
-In *Kittens Game*, **Festivals** are temporary global events that provide significant growth and production bonuses. They are unlocked via the [Drama and Poetry]( {{< relref "techs/Drama_and_Poetry.md" >}}) technology, which requires 90,000 Science and 5,000 Parchment.
+In *Kittens Game*, [Festivals]( {{< relref "guides/festivals.md" >}}) are temporary global events that provide significant growth and production bonuses. They are unlocked via the [Drama and Poetry]( {{< relref "techs/Drama_and_Poetry.md" >}}) technology, which requires 90,000 Science and 5,000 Parchment.
 
 ### **Base Effects and Duration**
 A standard festival lasts for **one game year** (400 days, which is approximately 13 minutes and 20 seconds of real-time).

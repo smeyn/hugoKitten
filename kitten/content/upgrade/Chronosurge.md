@@ -17,7 +17,7 @@ Chronosurge is a significant investment, particularly regarding the initial Temp
 *   **Prerequisite:** You must have built at least **1 Chronocontrol** (which in turn requires the [Paradox Theory]( {{< relref "techs/Paradox_Theory.md" >}}) technology).
 *   **Cost:**
     *   **Temporal Flux:** 6,500
-    *   **Void:** 750
+    *   [Void:]( {{< relref "resource/void.md" >}}) 750
     *   [Unobtainium:]( {{< relref "resource/unobtainium.md" >}}) 100,000
     *   [Time Crystals:]( {{< relref "resource/Time_Crystals.md" >}}) 25
 

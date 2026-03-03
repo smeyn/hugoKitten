@@ -35,7 +35,7 @@ Blueprints are necessary for mid-to-late-game progression, being required for bo
     *   The [Magneto]( {{< relref "buildings/Magneto.md" >}}) building requires **1 Blueprint**, 10 Alloy, and 5 Gears.
     *   Other important structures like the [Calciner]( {{< relref "buildings/Calciner.md" >}}) and [Ziggurat]( {{< relref "buildings/Ziggurat.md" >}}) also require **1 Blueprint**.
     *   Mega Structures, such as the [Reactor]( {{< relref "buildings/Reactor.md" >}}), require **25 Blueprints**.
-    *   The final upgrade to the Warehouse, the **Spaceport**, requires **500 Blueprints**.
+    *   The final upgrade to the Warehouse, the [Spaceport]( {{< relref "buildings/spaceport.md" >}}), requires **500 Blueprints**.
 
 2.  **Technologies (Techs):**
     *   Blueprints become required resources for researching technologies starting with [Industrialization]( {{< relref "techs/Industrialization.md" >}}) (25 Blueprints).

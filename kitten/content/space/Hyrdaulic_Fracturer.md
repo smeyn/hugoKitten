@@ -22,7 +22,7 @@ The base effect of a Hydraulic Fracturer is the production of **2.5 oil per seco
 If you have researched **Numerology**, the current celestial cycle will drastically alter the efficiency of your oil production on Dune:
 *   [Dune Cycle:]( {{< relref "Cycles/Dune_Cycle.md" >}}) Provides a massive **+50% boost** to oil output.
 *   [Umbra Cycle:]( {{< relref "Cycles/Umbra_Cycle.md" >}}) Imposes a **-25% penalty** to production.
-*   **Festivals:** Under the [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) upgrade, holding a festival during the **T-minus cycle** provides a **2x multiplier to oil income**, which further synergises with your Fracturer infrastructure.
+*   [Festivals:]( {{< relref "guides/festivals.md" >}}) Under the [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) upgrade, holding a festival during the **T-minus cycle** provides a **2x multiplier to oil income**, which further synergises with your Fracturer infrastructure.
 
 ### **Strategic Utility**
 As you transition into the late game, oil becomes a significant bottleneck for producing [Kerosene]( {{< relref "resource/kerosene.md" >}}) and maintaining **Research Vessels**. While early-game oil management relies on Oil Wells and Bio Labs, the Hydraulic Fracturer is the primary method for scaling oil production to the levels required for deep-space exploration and [Antimatter]( {{< relref "resource/Antimatter.md" >}}) generation. Strategic advice suggests that if your oil is constantly hitting its cap, you should consider using [Engineers]( {{< relref "job/Engineer.md" >}}) to automate the conversion of oil into Kerosene to ensure your Fracturers never halt production.
