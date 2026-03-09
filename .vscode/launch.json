@@ -40,5 +40,15 @@
             "args": ["Civilisations/Nagas.md",
         "--source_dir", "kitten/content", "--dest", "."]
         }
+        ,
+         {
+            "name": "hugoEditor",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "src/hugo_editor.py",
+            "console": "integratedTerminal",
+            "args": ["--root", "kitten/content"]
+        }
+    ]
     ]
 }

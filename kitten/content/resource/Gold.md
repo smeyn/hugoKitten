@@ -20,12 +20,13 @@ Gold is a critical bottleneck for mid-game progression due to its diverse applic
 *   **Village Infrastructure:** It is necessary for constructing [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}) (which improve trade and happiness) and [Mints]( {{< relref "buildings/Mint.md" >}}) (which automate the gathering of furs and ivory).
 *   **Leadership:** Promoting a kitten to a higher rank requires both experience and gold. Higher-ranked leaders provide significant production bonuses, especially if the [Monarchy]( {{< relref "Policy/Monarchy.md" >}}) or [Republic]( {{< relref "Policy/Republic.md" >}}) policies are enacted.
 
-### **Storage and Capacity**
-Your ability to stockpile gold is limited by various structures and permanent bonuses:
-*   **Initial Limit:** Your starting gold capacity is **10 units**.
-*   **Storage Buildings:** Capacity is increased by [Barns]( {{< relref "buildings/Barn.md" >}}) (+10), [Warehouses]( {{< relref "buildings/Warehouse.md" >}}) (+5), [Harbours]( {{< relref "buildings/Harbour.md" >}}) (+25), and notably [Mints]( {{< relref "buildings/Mint.md" >}}) (+100). 
-*   **Advanced Storage:** [Accelerators]( {{< relref "buildings/Accelerator.md" >}}) with the Energy Rifts upgrade provide **+250** max gold, while **Moon Bases** provide a massive **+3500**.
-*   **Multipliers:** The **Sunforge** space structure improves metal storage (including gold) by **1%**. Additionally, [Paragon]( {{< relref "resource/paragon.md" >}}) provides a permanent 0.1% storage capacity bonus per point.
+
+#### **Strategic Gold Cap Benchmarks**
+Expanding gold storage is critical for scientific and religious progression:
+*   **Solar Revolution:** Requires a gold cap of **500**.
+*   **Apocrypha:** Requires a gold cap of **5,000**.
+*   **Transcendence:** Requires a gold cap of **7,500**.
+*   **Leadership Promotions:** Higher ranks for your kitten leaders require significant gold amounts, ranging from **25 to 200+ gold**.
 
 ### **Policies and Efficiency**
 Several government and foreign policies directly impact your gold economy:
