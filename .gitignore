@@ -3,3 +3,4 @@ kitten/public
 kitten/public/404.html
 src/target/
 *.bak
+src/__pycache__/date_picker.cpython-313.pyc
