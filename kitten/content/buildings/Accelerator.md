@@ -37,8 +37,8 @@ The most notable feature of the Accelerator is its ability to unlock substantial
 | Upgrade Name | Technology Prerequisite | Effect (Storage Boost per Accelerator) |
 | :--- | :--- | :--- |
 | [Energy Rifts]( {{< relref "energy_rifts.md" >}}) | Dimensional Physics | Unlocks substantial storage capacity for Catnip, Wood, Minerals, Iron, Coal, Gold, and Titanium. |
-| [Stasis Chambers]( {{< relref "stasis_chambers.md" >}}) | Chronophysics | Increases the storage gain from Energy Rifts by **+95%**. |
-| [Void Energy]( {{< relref "void_energy.md" >}}) | Stasis Chambers | Increases the storage gain from Energy Rifts by **+75%**. |
+| [Stasis Chambers]( {{< relref "Stasis_Chambers.md" >}}) | Chronophysics | Increases the storage gain from Energy Rifts by **+95%**. |
+| [Void Energy]( {{< relref "Void_Energy.md" >}}) | Stasis Chambers | Increases the storage gain from Energy Rifts by **+75%**. |
 | [Dark Energy]( {{< relref "dark_energy.md" >}}) | Void Energy | Increases the storage gain from Energy Rifts by **+250%**. |
 | [Tachyon Accelerators]( {{< relref "tachyon_accelerators.md" >}}) | Tachyon Theory | Increases the storage gain from Energy Rifts by **+500%**. |
 

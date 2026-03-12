@@ -31,7 +31,7 @@ Uranium is essential for progressing into the space and atomic eras of the game:
 *   **Workshop Upgrades:** Uranium is required for several high-tier upgrades, such as:
     *   [Energy Rifts]( {{< relref "energy_rifts.md" >}}) (from Accelerators) [16].
     *   [Stasis Chambers]( {{< relref "stasis_chambers.md" >}}) [16].
-    *   [Void Energy]( {{< relref "void_energy.md" >}}) [16].
+    *   [Void Energy]( {{< relref "Void_Energy.md" >}}) [16].
     *   [Nuclear Plants]( {{< relref "nuclear_plants.md" >}}) [8].
     *   [Augmentations]( {{< relref "augmentations.md" >}}) [9].
 

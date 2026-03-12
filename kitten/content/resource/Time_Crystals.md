@@ -31,7 +31,7 @@ Time Crystals are essential for advanced technological and religious progression
 *   **Advanced Structures and Upgrades:** TCs are components for various high-tier structures and workshop upgrades:
     *   [Chronosphere:]( {{< relref "chronosphere.md" >}}) Costs **1 Time Crystal**, among other resources, and is a prerequisite for generating [Void]( {{< relref "resource/void.md" >}}) and **Temporal Flux** [14, 21].
     *   [Flux Condensator:]( {{< relref "flux_condensator.md" >}}) Requires **5 Time Crystals** and is crucial for preserving a fraction of crafted resources across resets via Chronospheres [7, 16].
-    *   [Stasis Chambers]( {{< relref "stasis_chambers.md" >}}) (1 TC) and [Void Energy]( {{< relref "void_energy.md" >}}) (2 TCs) are upgrades for Accelerators [16].
+    *   [Stasis Chambers]( {{< relref "stasis_chambers.md" >}}) (1 TC) and [Void Energy]( {{< relref "Void_Energy.md" >}}) (2 TCs) are upgrades for Accelerators [16].
 *   **Zebra Crafting:** Time Crystals are also needed to craft [Bloodstone]( {{< relref "bloodstone.md" >}}) (5K TCs and 10K Relics), which is used to craft [T-Mythril]( {{< relref "t-mythril.md" >}}) [22, 23].
 
 ### Strategic Significance

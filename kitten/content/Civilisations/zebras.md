@@ -31,7 +31,7 @@ Zebras are associated with several Policy/ and specialized upgrades:
 *    After meeting the Zebras, you must choose between two foreign Policy/:
     *   **Zebra Relations: Appeasement** (5000 Culture): This policy is generally preferred because it improves relations (equivalent to 15 extra tradeposts) and provides a multiplicative boost to the titanium trade ratio (equivalent to 15 tradeposts). It is highly recommended because players are often **desperate for titanium**.
     *   **Zebra Relations: Bellicosity** (5000 Culture): This policy worsens relations with Zebras but slightly improves relations with other races.
-*    There are several buildings associated with this race, including the [Zebra Outpost]( {{< relref "buildings/Zebra_Outpost.md" >}}), [Zebra Workshop]( {{< relref "buildings/Zebra_Workshop.md" >}}), and [Zebra Forge]( {{< relref "buildings/Zebra_Forge.md" >}}). Additionally, the workshop upgrade [Minerology Department]( {{< relref "zebraUpgrades/Minerology_department.md" >}}) is a Zebra upgrade for Academies.
+*    There are several buildings associated with this race, including the [Zebra Outpost]( {{< relref "buildings/Zebra_Outpost.md" >}}), [Zebra Workshop]( {{< relref "buildings/Zebra_Workshop.md" >}}), and [Zebra Forge]( {{< relref "buildings/Zebra_Forge.md" >}}). Additionally, the workshop upgrade [Mineralogy Department]( {{< relref "zebraUpgrades/Mineralogy_department.md" >}}) is a Zebra upgrade for Academies.
 
 ### Role in Iron Will (IW) Mode
 

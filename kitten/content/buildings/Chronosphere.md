@@ -26,7 +26,7 @@ The Chronosphere has several critical, interrelated functions that affect resour
 *   **Void Generation:** Chronospheres are necessary for generating [Void]( {{< relref "resource/void.md" >}}). Void is a unique resource that is generated randomly every year change if you have Chronospheres.
 *   **Energy Consumption:** It consumes **-20 Energy** per tick to operate.
 *   **Temporal Flux Generation (Upgrade):** While the base function generates Temporal Flux at a rate of 5 units per minute when the game is not active, the [Chronosurge]( {{< relref "chronosurge.md" >}}) upgrade causes each Chronosphere to generate **1 flux per year**.
-*   **Temporal Paradox:** It has an associated risk: "Occasional Temporal Paradox".
+*   [Temporal Paradox:]( {{< relref "guides/temporal_paradox.md" >}}) It has an associated risk: "Occasional Temporal Paradox".
 
 ### 3. Strategic Importance and Progression
 

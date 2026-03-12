@@ -24,7 +24,7 @@ Geology introduces new ways to gather important base resources, accelerating ind
 | [Geologist]( {{< relref "job/Geologist.md" >}}) | Job | **Coal per Tick +0.015** | This kitten job is enabled by Geology. | |
 | [Quarry]( {{< relref "buildings/Quarry.md" >}}) | Building | **Minerals +35%**, **Coal per Tick +0.015** | This building is unlocked by Geology. | |
 | [Geodesy]( {{< relref "upgrade/Geodesy.md" >}}) | Upgrade | Geologists gain **+0.0075 coal/tick** and **+0.0008 gold/tick** | This workshop upgrade makes **Geologists more effective** and allows them to find gold. | |
-| [Minerology Department]( {{< relref "zebraUpgrades/Minerology_department.md" >}}) | Upgrade | Not detailed, but listed as a **Zebra Upgrade** associated with Geology | This is an upgrade for the [Academy]( {{< relref "buildings/Academy.md" >}}) building. | |
+| [Mineralogy Department]( {{< relref "zebraUpgrades/Mineralogy_department.md" >}}) | Upgrade | Not detailed, but listed as a **Zebra Upgrade** associated with Geology | This is an upgrade for the [Academy]( {{< relref "buildings/Academy.md" >}}) building. | |
 
 The Quarry building requires **50 Scaffold**, **125 Steel**, and **1,000 Slab** to construct.
 

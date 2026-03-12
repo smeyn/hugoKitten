@@ -23,9 +23,9 @@ Gold is a critical bottleneck for mid-game progression due to its diverse applic
 
 #### **Strategic Gold Cap Benchmarks**
 Expanding gold storage is critical for scientific and religious progression:
-*   **Solar Revolution:** Requires a gold cap of **500**.
+*   [Solar Revolution:]( {{< relref "religion/Solar_Revolution.md" >}}) Requires a gold cap of **500**.
 *   **Apocrypha:** Requires a gold cap of **5,000**.
-*   **Transcendence:** Requires a gold cap of **7,500**.
+*   [Transcendence:]( {{< relref "religion/Transcendence.md" >}}) Requires a gold cap of **7,500**.
 *   **Leadership Promotions:** Higher ranks for your kitten leaders require significant gold amounts, ranging from **25 to 200+ gold**.
 
 ### **Policies and Efficiency**

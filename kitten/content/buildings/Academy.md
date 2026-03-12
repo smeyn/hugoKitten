@@ -36,6 +36,6 @@ Academies play an important role in the game progression, particularly in scalin
 
 The Academy has a dedicated upgrade that enhances its functionality: 
 
-*   [Minerology Department]( {{< relref "minerology_department.md" >}}): This upgrade provides a **+1% bonus to production from meteors**.
+*   [Mineralogy Department]( {{< relref "mineralogy_department.md" >}}): This upgrade provides a **+1% bonus to production from meteors**.
 
 Academies are one of the core buildings (along with Libraries, Observatories, and Bio Labs) whose effectiveness can be boosted by the [CAD System]({{< relref "CAD_System.md" >}}) workshop upgrade, which improves blueprint crafting ratio.

@@ -1,7 +1,7 @@
 ---
 date: 2026-01-28 00:00:00
 draft: false
-title: Cath_Cycle
+title: Cath Cycle
 ---
 
 The [Cath cycle]( {{< relref "Cycles/Cath_Cycle.md" >}}) is the fifth of ten cycles in the *Kittens Game* temporal system, following the Helios cycle and preceding the Redmoon cycle. Each cycle lasts for **five game years** (20,000 ticks), which translates to approximately **1 hour, 6 minutes, and 40 seconds** of real-time.

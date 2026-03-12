@@ -1,6 +1,6 @@
 +++
 date = 2025-11-29T20:44:33.342594+11:00
-draft = false
-title = "Nuclear_Plants"
+draft = true
+title = "Nuclear Plants"
 
 +++

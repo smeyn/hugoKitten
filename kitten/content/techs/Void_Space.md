@@ -17,7 +17,7 @@ Void Space is the mandatory requirement to attempt the [Atheism Challenge]( {{< 
 ### **Void Space Structures (Time Tab)**
 Once the technology is researched, several advanced structures become available in the Void Space section of the Time tab:
 *   **Cryochambers:** Each chamber houses one kitten and allows you to carry that kitten (and its experience) over to your next game. You cannot build more cryochambers than your current number of active [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}).
-*   **Void Hoover:** Unlocked via Void Aspiration; increases the maximum amount of void you can gain during a **Temporal Paradox** day by 1.
+*   **Void Hoover:** Unlocked via Void Aspiration; increases the maximum amount of void you can gain during a [Temporal Paradox]( {{< relref "guides/temporal_paradox.md" >}}) day by 1.
 *   **Void Rift:** Unlocked via Void Aspiration; each rift increases your **global resource storage ratio by 2%** and boosts **HR Harvester** energy production by 10%.
 *   **Chronocontrol:** Unlocked via Paradox Theory; increases the number of days a Temporal Paradox lasts.
 *   **Void Resonator:** Unlocked via Paradox Theory; improves faith production and allows **Order of the Void** to trigger during a time skip.

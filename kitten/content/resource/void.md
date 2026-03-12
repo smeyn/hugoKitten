@@ -1,8 +1,8 @@
 +++
-date = 2026-03-02T20:44:33.322594+11:00
+date = 2026-03-02T09:44:33.322Z
 draft = false
 title = "Void"
-
+description = ""
 +++
 [Void]( {{< relref "resource/void.md" >}}) is a specialized, late-game resource in *Kittens Game* primarily used to unlock advanced temporal and scientific mechanics. Unlike common resources, it cannot be produced by kittens or buildings; instead, it is **randomly generated during "temporal paradoxes"** that occur if you have constructed [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}).
 
