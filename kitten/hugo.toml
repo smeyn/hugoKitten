@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Kittens Overview'
 theme = "hugo-simple" 
 sectionPagesMenu = 'main'
-Copyright = "stephan meyn 2025"
+Copyright = "stephan meyn 2026"
 
 hideRSSLink = true
 toc = true

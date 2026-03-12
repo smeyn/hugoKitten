@@ -5,8 +5,10 @@ import os
 import re
 import shutil
 import argparse
-
+import logging
 import glob
+
+logging.basicConfig(level=logging.INFO)
 
 
 SOURCE_DIR = 'kitten/content'
@@ -122,4 +124,7 @@ if __name__ == '__main__':
         print(f"Overwrite mode: {args.overwrite}")
         for file_path in files_to_process:
             relative_path = os.path.relpath(file_path, args.source_dir)
-            upgrade_file(relative_path, args.source_dir, args.overwrite, args.dest, args.backup)
+            try:
+                upgrade_file(relative_path, args.source_dir, args.overwrite, args.dest, args.backup)
+            except Exception as ex:
+                logging.exception(ex)
