@@ -5,7 +5,7 @@ title = "Bio Lab"
 
 +++
 
-The [Bio Lab]( {{< relref "bio_lab.md" >}}) is an advanced mid-to-late-game science building in *Kittens Game*, primarily designed to significantly boost science capacity and production, and to introduce the ability to refine Catnip into **Oil**.
+The [Bio Lab]( {{< relref "bio_lab.md" >}}) is an advanced mid-to-late-game science building in *Kittens Game*, primarily designed to significantly boost science capacity and production, and to introduce the ability to refine Catnip into [Oil]( {{< relref "resource/oil.md" >}}).
 
 ### Unlocking and Construction
 
@@ -30,7 +30,7 @@ The Bio Lab is strategically important but carries a heavy upfront cost:
 *   **Science Scaling:** Bio Labs are listed as buildings that increase science cap, helping players reach high science limits needed for advanced technology.
 *   **Late-Game Utility:** To reach the 125K science limit required for Concrete Huts, players are advised to consider researching Biology to unlock Bio Labs, as they increase science and help "reduce the need to build so many observatories/temples (which start getting very costly)".
 *   **Expense:** However, Bio Labs are noted to be "really expensive on your first couple runs," and new players may want to "feel free to skip it first time around". In later runs, they may still be skipped if high Paragon levels already provide a sufficient storage boost.
-*   **Pollution:** Bio Labs are one of the many industrial buildings that produce **Pollution**.
+*   [Pollution:]( {{< relref "guides/Pollution.md" >}}) Bio Labs are one of the many industrial buildings that produce [Pollution]( {{< relref "guides/Pollution.md" >}}).
 
 ### Key Upgrades and Synergies
 

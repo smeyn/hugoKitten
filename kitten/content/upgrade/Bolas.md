@@ -10,5 +10,5 @@ The primary effect of Bolas is to provide a flat **+1.0 hunting bonus**. This bo
 
 These bonuses are **additive** with other hunting upgrades. For example, if you have researched both Bolas (+1.0) and Hunting Armour (+2.0), your total hunting bonus will be 3.0. This increased bonus expands the range of random integers the game uses to calculate your total resources per hunt.
 
-In **Iron Will** mode, Bolas also helps with gold acquisition. Once [Gold Ore]( {{< relref "upgrade/Gold_Ore.md" >}}) is researched in this mode, each hunt has a 25% chance of yielding gold, and the amount produced is partially determined by your current hunting bonus
+In [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) mode, Bolas also helps with gold acquisition. Once [Gold Ore]( {{< relref "upgrade/Gold_Ore.md" >}}) is researched in this mode, each hunt has a 25% chance of yielding gold, and the amount produced is partially determined by your current hunting bonus
 .

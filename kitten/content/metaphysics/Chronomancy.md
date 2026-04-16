@@ -18,7 +18,7 @@ The value of Chronomancy depends on your current stage of progression:
 
 ### **Advanced Synergies**
 The effectiveness of the Chronomancy bonus can be further amplified through late-game structures and upgrades:
-*   **Temporal Accelerators:** These items in the Time tab improve Chronomancy’s time-related effects by **1.25%**.
+*   [Temporal Accelerators:]( {{< relref "time/temporal-accelerator.md" >}}) These items in the Time tab improve Chronomancy’s time-related effects by **1.25%**.
 *   [Blazars:]( {{< relref "transcendence/Blazar.md" >}}) As a Cryptotheology building, each Blazar improves Chronomancy effectiveness by **2.5%**.
 *   **Observatory Integration:** Within the Bonfire tab, Chronomancy is listed as an upgrade for the [Observatory]( {{< relref "buildings/Observatory.md" >}}), specifically increasing the Astronomical Event Chance by the 1.1x multiplier.
 

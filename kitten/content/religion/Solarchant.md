@@ -17,6 +17,6 @@ title = "Solarchant"
 *   **Incremental Growth:** For every additional level of Solar Chant purchased using Transcendence, the faith production bonus increases by an **additional +10%**.
 
 ### **Strategic Utility**
-*   **Late-Game "Priest Strategy":** As players enter the late game and find themselves waiting for slow-moving resources like Unobtainium or Eludium, a common strategy is to reassign the majority of the kitten workforce to the **Priest job**. Solar Chant is critical here, as multiple levels of the upgrade significantly amplify the output of these priests.
+*   **Late-Game "Priest Strategy":** As players enter the late game and find themselves waiting for slow-moving resources like Unobtainium or Eludium, a common strategy is to reassign the majority of the kitten workforce to the **Priest job**. Solar Chant is critical here, as multiple levels of the upgrade significantly amplify the output of these [Priests] ( {{<relref "priest.md" >}}).
 *   **Faith Reset Loops:** High levels of Solar Chant facilitate a **positive feedback loop**. By dramatically increasing faith production, players can more rapidly rebuild their [Solar Revolution]( {{< relref "religion/Solar_Revolution.md" >}}) production bonus (which caps at 1000%) after performing a faith reset or "Adoring the Galaxy". 
 *   **Transcendence Progression:** Accelerating faith production via Solar Chant is essential for reaching the extremely high epiphany requirements of later **Transcendence Tiers**, such as Tier 15, which requires approximately 3.04 million percent epiphany.

@@ -20,8 +20,8 @@ The Mine is the key structure for accessing and increasing your Minerals supply:
 
 *   **Mineral Production Bonus:** Each Mine built provides a **+20% Minerals** bonus.
 *   **Unlocks Job:** Building a Mine unlocks the [Miner]( {{< relref "job/Miner.md" >}}) job, allowing you to employ Kittens to accumulate resources. Kittens assigned as Miners produce **0.05 Minerals per Tick**.
-*   **Meteors:** Researching Mining also enables **Meteors**, which automatically grant a small boost to Minerals when they fall near your village. In the challenging **Iron Will** mode (playing without kittens/housing), Meteors are the **only initial source of Minerals**, and building more Mines increases the amount of minerals gained from these events.
-*   **Pollution:** Mines are listed among the structures that produce pollution, which negatively impacts catnip production, happiness, and kitten arrival speed.
+*   **Meteors:** Researching Mining also enables **Meteors**, which automatically grant a small boost to Minerals when they fall near your village. In the challenging [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) mode (playing without kittens/housing), Meteors are the **only initial source of Minerals**, and building more Mines increases the amount of minerals gained from these events.
+*   [Pollution:]( {{< relref "guides/Pollution.md" >}}) Mines are listed among the structures that produce pollution, which negatively impacts catnip production, happiness, and kitten arrival speed.
 
 ### 3. Upgrades and Strategic Role
 

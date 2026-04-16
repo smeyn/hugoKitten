@@ -17,7 +17,7 @@ Like other cycles, Dune’s effects are activated only after researching specifi
 ### **Relationship to Planet Dune**
 The cycle is tied to the [Dune Mission]( {{< relref "space/Dune_Mission.md" >}}), which is unlocked after the Moon Mission. Reaching Dune requires **1,000 starcharts, 7,000 titanium, 175,000 science, and 75 kerosene**. Once reached, you can construct the structures affected by the cycle’s modifiers:
 *   [Planet Cracker:]( {{< relref "space/planet_cracker.md" >}}) The primary source of automated [Uranium]( {{< relref "resource/uranium.md" >}}) production.
-*   **Hydraulic Fracturer:** Provides a high-pressure stream of **Oil**.
+*   **Hydraulic Fracturer:** Provides a high-pressure stream of [Oil]( {{< relref "resource/oil.md" >}}).
 *   [Spice Refinery:]( {{< relref "space/spice_refinery.md" >}}) Refines sand into [Spice]( {{< relref "resource/spice.md" >}}), a rare resource that improves happiness.
 
 ### **Strategic Importance**

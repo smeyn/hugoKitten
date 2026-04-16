@@ -28,4 +28,4 @@ Manuscripts are mandatory for transitioning into the religious and celestial era
 ### **Strategic Advice**
 *   **Grinding Tactic:** Before automation is available, the most efficient way to acquire manuscripts is to assign all kittens to the [Hunter]( {{< relref "job/Hunter.md" >}}) job to mass-produce parchment, then wait for culture to max out before using the "craft all" manuscript button.
 *   **Metaphysics Synergy:** The **Codex Vox** upgrade adds a **+25% bonus to your craft ratio** for manuscripts and provides a **1.05x multiplier** to all manuscript crafting.
-*   **Religious Pivot:** If you enact the **Lizard Relations: Priests** policy, manuscripts will grant **maximum faith** instead of a portion of the maximum culture they usually provide.
+*   **Religious Pivot:** If you enact the **Lizard Relations: [Priests] ( {{<relref "priest.md" >}})** policy, manuscripts will grant **maximum faith** instead of a portion of the maximum culture they usually provide.

@@ -3,7 +3,7 @@ date = '2026-01-28T07:43:49+11:00'
 draft = false
 title = 'Shark_relations'
 +++
-In **Kittens Game**, [Shark Relations]( {{< relref "Policy/shark_relations.md" >}}) refers to the trade mechanics and specialized policies associated with the Sharks, a neutral trade race discovered in the early-to-mid game. They are primarily used to acquire **Catnip** and cultural resources like [Parchment]( {{< relref "craft/Parchment.md" >}}) and [Manuscripts]( {{< relref "resource/manuscript.md" >}}) in exchange for **Iron**.
+In **Kittens Game**, [Shark Relations]( {{< relref "Policy/shark_relations.md" >}}) refers to the trade mechanics and specialized policies associated with the Sharks, a neutral trade race discovered in the early-to-mid game. They are primarily used to acquire **Catnip** and cultural resources like [Parchment]( {{< relref "craft/Parchment.md" >}}) and [Manuscripts]( {{< relref "resource/manuscript.md" >}}) in exchange for [Iron]( {{< relref "resource/iron.md" >}}).
 
 ### **Trade Mechanics**
 Sharks are discovered around **Year 20** (or **Year 1** if you have the [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) metaphysics upgrade). Their attitude is **Neutral**, meaning they provide no baseline bonus or penalty to trade.
@@ -25,7 +25,7 @@ Once you reach **Shark Embassy Level 20** and possess the [Diplomacy]( {{< relre
 ### **Strategic Synergies**
 The Sharks are a core component of the **"Winter Trade Loop,"** which players use to bypass resource bottlenecks.
 
-1.  **The Loop:** In **Winter**, trade Iron to the Sharks for massive amounts of **Catnip**. Refine that catnip into **Wood**, then trade the wood to the [Griffins]( {{< relref "Civilisations/Griffins.md" >}}) for **Iron**.
+1.  **The Loop:** In **Winter**, trade Iron to the Sharks for massive amounts of **Catnip**. Refine that catnip into **Wood**, then trade the wood to the [Griffins]( {{< relref "Civilisations/Griffins.md" >}}) for [Iron]( {{< relref "resource/iron.md" >}}).
 2.  **Culture Grind:** In challenges like **Pacifism**, where hunting for furs (to make parchment) is disabled, Sharks are the primary source of early cultural resources. Investing in **Shark Embassies** speeds up manuscript gains significantly.
 3.  **Pollution Mitigation:** While not a direct trade benefit, the **Lizard Relations: Ecologists** policy reduces pollution, which helps preserve the high catnip production levels that the Sharks can supplement.
 

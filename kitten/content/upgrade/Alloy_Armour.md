@@ -1,7 +1,7 @@
 ---
 date: '2025-11-29 20:44:33.332594+11:00'
 draft: false
-title: Alloy_Armour
+title: Alloy Armour
 ---
 
 [Alloy Armour]( {{< relref "upgrade/Alloy_Armour.md" >}}) is a mid-to-late game **Workshop upgrade** that further improves the efficiency of your [Hunters]( {{< relref "job/Hunter.md" >}}), serving as the fourth tier of weapon technology.

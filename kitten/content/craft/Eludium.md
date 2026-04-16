@@ -14,7 +14,7 @@ title = "Eludium"
 ### **Strategic Infrastructure and Buildings**
 Eludium is a critical component for late-game population scaling and advanced industrial structures:
 *   [Eludium Huts:]( {{< relref "upgrade/Eludium_Huts.md" >}}) This bonfire upgrade reduces the price ratio of [Huts]( {{< relref "buildings/Hut.md" >}}) by 10%, allowing for much higher populations. While powerful, some strategic guides note that the 125 eludium cost may only provide a marginal (~1%) increase in paragon-per-hour efficiency in very short runs.
-*   **Cryostation:** These supermassive storage facilities cost 25 eludium and are essential for reaching the high resource caps required for the deep endgame.
+*   [Cryostation:]( {{< relref "space/cryo_station.md" >}}) These supermassive storage facilities cost 25 eludium and are essential for reaching the high resource caps required for the deep endgame.
 *   [Spaceport:]( {{< relref "buildings/spaceport.md" >}}) Eludium is required to build Spaceports, which enhance the capacity of other space structures like Moon Bases and Cryostations.
 *   [Sunlifter:]( {{< relref "space/sunlifter.md" >}}) Each Sunlifter costs 225 eludium and is the primary structure used to generate [Antimatter]( {{< relref "resource/Antimatter.md" >}}).
 *   **Entanglement Station:** These late-game structures require 5,000 eludium each and are used for quantum computing and reverse-engineering relics.
@@ -27,6 +27,6 @@ Many high-tier upgrades are gated by eludium costs:
 
 ### **Preservation and Reset Strategy**
 *   **Preservation:** Eludium is a crafted resource and can be carried over through game resets if you have [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}) and the [Flux Condensator]( {{< relref "upgrade/Flux_Condensator.md" >}}) upgrade.
-*   **Diminishing Returns:** The amount preserved follows a square root formula: $1.5 \times \text{number of Chronospheres} \times \sqrt{\text{current eludium amount}}$.
+*   **Diminishing Returns:** The amount preserved follows a square root formula: $1.5* {number of Chronospheres}* sqrt(current eludium amount)$.
 *   **Efficiency Tipping Point:** A common strategy for rapid resets is to stockpile **1,111 eludium** before resetting with one Chronosphere. This ensures you start the next run with the 50 eludium needed to immediately purchase [Microwarp Reactors]( {{< relref "upgrade/Microwarp_Reactors.md" >}}) and accelerate your Unobtainium production.
  

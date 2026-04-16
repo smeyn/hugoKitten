@@ -1,7 +1,7 @@
 +++
 date = 2025-11-29T20:44:33.347594+11:00
 draft = false
-title = "Antimatter_Reactors"
+title = "Antimatter Reactors"
 
 +++
 [Antimatter Reactors]( {{< relref "upgrade/Antimatter_Reactors.md" >}}) is a late-game Workshop upgrade that significantly expands your science storage capacity by enhancing your space-based research infrastructure.

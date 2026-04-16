@@ -5,7 +5,7 @@ title = "Tears"
 
 +++
 
-[Tears]( {{< relref "resource/tears.md" >}}) are a critical resource associated with the Unicorn progression pathway, categorizing as a **Unique Resource** and a **Luxury Resource** in *Kittens Game* [1, 2]. They are essential inputs for escalating the religious infrastructure and advancing toward the mid-to-late-game economy, particularly by leading to the highly valuable **Black Liquid Sorrow** (BLS) [3-5].
+[Tears]( {{< relref "resource/tears.md" >}}) are a critical resource associated with the Unicorn progression pathway, categorizing as a **Unique Resource** and a **Luxury Resource** in *Kittens Game* [1, 2]. They are essential inputs for escalating the religious infrastructure and advancing toward the mid-to-late-game economy, particularly by leading to the highly valuable [Black Liquid Sorrow]( {{< relref "ziggurat/black-liquid-sorrow.md" >}}) (BLS) [3-5].
 
 ### Acquisition and Persistence
 

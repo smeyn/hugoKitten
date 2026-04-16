@@ -27,7 +27,7 @@ Researching this technology unlocks the basic structure necessary for converting
 
 Metal Working is a critical early-game step for expanding resource production and moving toward industrialisation:
 
-*   **Iron Production:** This technology is essential because **Minerals become increasingly important** for advanced buildings. Metal Working allows you to put your minerals to work by building Smelters to create **Iron**.
+*   **Iron Production:** This technology is essential because **Minerals become increasingly important** for advanced buildings. Metal Working allows you to put your minerals to work by building Smelters to create [Iron]( {{< relref "resource/iron.md" >}}).
 *   **Production Trade-off:** While beneficial for accessing Iron and Gold, building Smelters requires converting minerals and wood, so players must bear in mind that creating Iron will **reduce your Wood and Mineral stores**.
 *   **Lumber Mill Prerequisite:** The subsequent technology that boosts wood production, the [Lumber Mill]( {{< relref "buildings/Lumber_Mill.md" >}}), requires Iron for construction, meaning Metal Working must be researched first.
 *   **Iron Will Mode:** In Iron Will mode, after Gold Ore is researched, Hunting produces Gold, which is important since kittens cannot be employed as Geologists for gold production in this mode.

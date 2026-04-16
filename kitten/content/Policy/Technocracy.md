@@ -20,7 +20,7 @@ In the late game, science storage is rarely the primary bottleneck. Players have
 ### **Superior Alternatives**
 Because you can only choose one policy at this tier, the community generally recommends the other two options depending on your current goals:
 *   [Cosmological Libertarianism:]( {{< relref "Policy/Cosmological_Libertarianism.md" >}}) Provides **+15% Unobtainium production**. Unobtainium is a much harder bottleneck to clear than science storage, making this the "meta" choice for most players.
-*   [Order of the Stars:]( {{< relref "Policy/Order_of_the_Stars.md" >}}) Provides **+20% Faith production**. This is ideal for long runs focused on grinding Transcendence tiers and religious bonuses.
+*   [Order of the Stars:]( {{< relref "Policy/Order_of_the_Stars.md" >}}) Provides **+20% Faith production**. This is ideal for long runs focused on grinding [Transcendence]( {{< relref "religion/Transcendence.md" >}}) tiers and religious bonuses.
 
 ### **When to Consider Technocracy**
 Technocracy is only truly useful if you are attempting to reach a specific, massive science threshold for an endgame technology (like [Blackchain]( {{< relref "techs/Blackchain.md" >}}) or [Exophysics]( {{< relref "techs/Exophysics.md" >}})) and have already maxed out all other science storage options without reaching the required amount.

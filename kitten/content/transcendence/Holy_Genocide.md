@@ -27,7 +27,7 @@ The most significant utility of Holy Genocide is that it serves as the unlock re
 
 *   **The Challenge:** You enter a timeline with **10M ppm of pollution** where kittens arrive 10 times slower and natural pollution dissipation is disabled.
 *   **The Goal:** You must clear all pollution within the broken timeline.
-*   **The Rewards:** Successful completion increases the number of **cryochambers** that can be operational in future runs and unlocks special policies. Each subsequent completion adds +1 to the cryochamber support cap.
+*   **The Rewards:** Successful completion increases the number of [cryochambers]( {{< relref "time/cryochamber.md" >}}) that can be operational in future runs and unlocks special policies. Each subsequent completion adds +1 to the cryochamber support cap.
 
 ### **Strategic Context**
 Holy Genocide is considered a "Phase 3" or **Endgame** structure. Because the building and your Transcendence Tier carry over through resets, it is used by advanced players to "chase infinity" by overcapping resources and maximizing the efficiency of **Paragon farming**. By the time you can afford this building, you are likely using a **Type 2 Relic Engine** or a **Shatter Engine** to generate the necessary thousands of relics and void units required for construction.

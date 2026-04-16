@@ -24,15 +24,15 @@ Once the Chronoforge is unlocked, you can purchase several sub-structures in the
 
 | Structure | Cost | Function |
 | :--- | :--- | :--- |
-| **Chrono Furnace** | 25 TCs, 5 Relics | Increases max heat capacity by **100**. It also automatically converts accumulated heat into "fuel" to trigger free time skips. |
-| **Time Boiler** | 25k TCs | Expands the heat capacity of Chrono Furnaces by 10 per boiler. |
-| **Temporal Accelerator** | 10 TCs, 1k Relics | Improves time-related effects (like **Time Impedance** and [Unicornmancy]( {{< relref "metaphysics/Unicornmancy.md" >}})) by 5%. It also reduces the "lag" associated with mass-shattering. |
-| **Resource Retrieval** | 1k TCs | **Crucial for the Endgame.** Requires [Paradox Theory]( {{< relref "techs/Paradox_Theory.md" >}}). It allows you to gain 1% of your yearly resource production per level every time you shatter a Time Crystal. |
+| [Chrono Furnace]( {{< relref "time/chrono-furnace.md" >}}) | 25 TCs, 5 Relics | Increases max heat capacity by **100**. It also automatically converts accumulated heat into "fuel" to trigger free time skips. |
+| [Time Boiler]( {{< relref "time/time-boiler.md" >}}) | 25k TCs | Expands the heat capacity of Chrono Furnaces by 10 per boiler. |
+| [Temporal Accelerator]( {{< relref "time/temporal-accelerator.md" >}}) | 10 TCs, 1k Relics | Improves time-related effects (like [Time Impedance]( {{< relref "upgrade/time-impedance.md" >}}) and [Unicornmancy]( {{< relref "metaphysics/Unicornmancy.md" >}})) by 5%. It also reduces the "lag" associated with mass-shattering. |
+| [Resource Retrieval]( {{< relref "upgrade/resource-retrieval.md" >}}) | 1k TCs | **Crucial for the Endgame.** Requires [Paradox Theory]( {{< relref "techs/Paradox_Theory.md" >}}). It allows you to gain 1% of your yearly resource production per level every time you shatter a Time Crystal. |
 
 ### **Strategic Utility: The Shatter Engine**
 The Chronoforge is the engine of the late-game economy (Phase 3/4).
 1.  **Antimatter Generation:** By building [Sunlifters]( {{< relref "space/sunlifter.md" >}}) and shattering Time Crystals, you can cycle through years rapidly, generating massive amounts of Antimatter (which is produced annually) without waiting for real-time days to pass.
 2.  **Void Generation:** If you have [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}), skipping years forces "Temporal Paradoxes" (Void spawns) to occur more frequently in real-time.
 3.  **Redmoon Cycling:** Players use the Chronoforge to skip "weak" planetary cycles (like Charon) and land specifically on [Redmoon]( {{< relref "planet/Redmoon.md" >}}) or [Dune]( {{< relref "planet/Dune.md" >}}) cycles to maximize Unobtainium production for trading.
-4.  **Infinite Loop:** With enough **Resource Retrieval** levels, a single shatter yields enough Unobtainium/Alicorns to trade or sacrifice for *more* than 1 Time Crystal. This creates a self-sustaining loop where you can skip time indefinitely.
+4.  **Infinite Loop:** With enough [Resource Retrieval]( {{< relref "upgrade/resource-retrieval.md" >}}) levels, a single shatter yields enough Unobtainium/Alicorns to trade or sacrifice for *more* than 1 Time Crystal. This creates a self-sustaining loop where you can skip time indefinitely.
  

@@ -8,7 +8,7 @@ The [Dune Mission]( {{< relref "space/Dune_Mission.md" >}}) is a mid-to-late gam
 
 ### **Mission Requirements and Logistics**
 To access the Dune mission, you must have first successfully completed the [Moon mission]( {{< relref "space/Moon_Mission.md" >}}). The specific resource costs for the launch include:
-*   **Starcharts:** 1,000.
+*   [Starcharts:]( {{< relref "resource/star_charts.md" >}}) 1,000.
 *   [Titanium:]( {{< relref "resource/titanium.md" >}}) 7,000.
 *   [Science:]( {{< relref "resource/science.md" >}}) 175,000.
 *   [Kerosene:]( {{< relref "resource/kerosene.md" >}}) 75.

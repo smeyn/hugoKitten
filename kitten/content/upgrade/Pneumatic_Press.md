@@ -9,7 +9,7 @@ title = "Pneumatic Press"
 
 ### **Mechanical Effects**
 The upgrade functions as an extension of the [Workshop Automation]( {{< relref "upgrade/Workshop_Automation.md" >}}) system. Once enacted, it provides the following benefits:
-*   **Plate Automation:** Steamworks will automatically convert a portion of your **iron** into [plates]( {{< relref "resource/plate.md" >}}) whenever iron reaches **98% of its maximum storage capacity**.
+*   **Plate Automation:** Steamworks will automatically convert a portion of your [iron]( {{< relref "resource/iron.md" >}}) into [plates]( {{< relref "resource/plate.md" >}}) whenever iron reaches **98% of its maximum storage capacity**.
 *   **Conversion Rate:** The amount of iron converted into plates is determined by the number of active Steamworks, following the formula: **(2 + 2 * [Number of Steamworks])%** of the total resource.
 *   **Operational Requirements:** This automation only triggers when Steamworks are active and powered. 
 

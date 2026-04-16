@@ -25,7 +25,7 @@ Spiders primarily exchange the crafted resource [Scaffold]( {{< relref "craft/Sc
 | **Sell** | Oil | 100 | Gain (25% chance, Embassy Level 5) | N/A |
 
 *   [Coal:]( {{< relref "resource/coal.md" >}}) They sell a minimum amount of **350 Coal** per trade, with a 100% chance of delivery and a 15% range bonus.
-*   **Oil:** Once you reach Embassy Level 5, Spiders also sell **100 Oil** per trade, though there is only a **25% chance** of receiving this resource.
+*   [Oil:]( {{< relref "resource/oil.md" >}}) Once you reach Embassy Level 5, Spiders also sell **100 Oil** per trade, though there is only a **25% chance** of receiving this resource.
 *   **Seasonal Bonus:** Trading for Coal is most efficient during **Autumn**, which provides an additional **+15% Amount Modifier**.
 
 ### Strategic Context

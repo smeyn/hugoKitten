@@ -8,7 +8,7 @@ The [Furthest Ring]( {{< relref "planet/Furthest_Ring.md" >}}) is the final spac
 
 ### **Mission Costs and Prerequisites**
 Launching a rocket to the Furthest Ring requires an astronomical amount of high-tier resources, far exceeding any previous mission:
-*   **Starcharts:** 500,000
+*   [Starcharts:]( {{< relref "resource/star_charts.md" >}}) 500,000
 *   [Science:]( {{< relref "resource/science.md" >}}) 1.25 Million
 *   [Kerosene:]( {{< relref "resource/kerosene.md" >}}) 75,000
 *   [Thorium:]( {{< relref "resource/thorium.md" >}}) 75,000

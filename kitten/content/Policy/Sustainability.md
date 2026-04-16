@@ -18,7 +18,7 @@ Sustainability is part of a mutually exclusive pair; once you choose it, you are
 | Feature | Sustainability | Full Industrialization |
 | :--- | :--- | :--- |
 | **Main Benefit** | Removes happiness penalties from mining/logging. | Improves **Factory crafting bonus** by 5%. |
-| **Pollution** | Reduces pollution by 5%. | **Increases** pollution by 5%. |
+| [Pollution]( {{< relref "guides/Pollution.md" >}}) | Reduces pollution by 5%. | **Increases** pollution by 5%. |
 | **Kitten Morale** | Better for keeping kittens happy. | Focuses on raw industrial output. |
 
 ### **Strategic Utility**

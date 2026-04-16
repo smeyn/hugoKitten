@@ -1,7 +1,7 @@
 +++
 date = 2025-11-29T20:44:33.342594+11:00
 draft = false
-title = "Celestial_Mechanics"
+title = "Celestial Mechanics"
 
 +++
 [Celestial Mechanics]( {{< relref "upgrade/Celestial_Mechanics.md" >}}) is an early-game Workshop upgrade that improves the rewards gained from observing the heavens.
@@ -17,4 +17,4 @@ The primary function of Celestial Mechanics is to increase the yield of [Science
 *   **Mathematical Impact:** The game calculates science from astronomical events using the formula: `(25 + Celestial Bonus) * (1 + Science Bonus) Science`. Researching this upgrade sets the "Celestial Bonus" value to **5** (or **15** in Iron Will mode).
 
 ### **Strategic Importance**
-In the early game, particularly before you have a large population of Scholars, manual observation of **astronomical events** is a vital way to accumulate science. Celestial Mechanics makes each click more valuable, accelerating your path through the mid-game technology tree. For players in **Iron Will** mode, this upgrade is considered essential because astronomical events and meteors are the only initial ways to gain science and minerals.
+In the early game, particularly before you have a large population of Scholars, manual observation of **astronomical events** is a vital way to accumulate science. Celestial Mechanics makes each click more valuable, accelerating your path through the mid-game technology tree. For players in [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) mode, this upgrade is considered essential because astronomical events and meteors are the only initial ways to gain science and minerals.

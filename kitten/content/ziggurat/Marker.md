@@ -5,17 +5,16 @@ title = "Marker"
 
 +++
 
-Marker
-The Marker is a much later, extremely expensive religious structure that marks the transition into the Necrocorn/Leviathan resource loop.
-Detail
-Specification
-Citation
-Prerequisite Metaphysics
-Unlocked by the Megalomania Metaphysics upgrade (Cost: 10 Paragon).
-Building Cost
-5,000 Tears, 750 Megalith, 50,000 Spice, and 2,500 Unobtainium.
-Primary Function
-Markers start a ticking corruption countdown that slowly changes alicorns into necrocorns.
-Strategic Function
-Each Marker increases the elder energy cap by 5. Necrocorns generated via Markers are used to feed the Leviathans, which permanently prolongs their duration and improves the Time Crystal trading ratio. Markers are acquired as part of the strategic objective to maximise Relic and Time Crystal income.
-The Ziggurat represents the initial investment phase (Phase 2/3) in the unicorn resource line, while the Marker is a critical structure in the hyper-advanced phase (Phase 3/4) required to stabilize the crucial Time Crystal engine and interact with the Leviathans for maximum efficiency.
+ 
+### **Acquisition and Costs**
+*   **Prerequisite:** To unlock the ability to build a Marker, you must first purchase the [Megalomania]( {{< relref "metaphysics/Megalomania.md" >}}) metaphysics upgrade.
+*   **Base Cost:** Building your first Marker requires a substantial investment of **5,000 Tears, 750 Megaliths, 50,000 Spice, and 2,500 Unobtainium**. 
+*   **Price Ratio:** The cost scales with a 1.15 price ratio for each subsequent Marker you build.
+
+### **Core Effects**
+*   **Alicorn Corruption (Necrocorns):** Building a Marker starts a ticking corruption countdown that slowly converts your accumulated Alicorns into **Necrocorns**. Having multiple Markers will reduce the amount of time it takes to produce a Necrocorn.
+*   **Leviathan Energy Cap:** Each Marker increases the maximum energy capacity of the Leviathans (Elders) by **5**. This allows you to feed them more Necrocorns, which permanently improves your trade yields with them.
+*   **Summoning Leviathans:** Markers multiply the probability of Leviathans arriving to trade with your civilization. However, it is crucial to note that you **must have at least one Black Pyramid** constructed; having Markers alone will never cause the Leviathans to appear. 
+
+### **Challenges and Upgrades**
+*   **Black Sky Challenge:** Completing the **Black Sky** challenge directly enhances your Markers. For each run completed, the Marker's corruption factor and its Leviathan energy cap increase are both improved by **10%** (this is capped at 200% with diminishing returns setting in at 150%).

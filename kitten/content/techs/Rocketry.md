@@ -22,7 +22,7 @@ Researching Rocketry provides several critical features and further technologica
 Rocketry is the mandatory starting point for the "Space Race." Its primary strategic functions include:
 *   **The Path to Unobtainium:** Completing the missions unlocked by Rocketry leads to the [Moon Mission]( {{< relref "space/Moon_Mission.md" >}}), which is the only way to build [Lunar Outposts]( {{< relref "planet/lunar_outpost.md" >}}) and begin generating [Unobtainium]( {{< relref "resource/unobtainium.md" >}}).
 *   **Oil Economy Scaling:** The [Oil Distillation]( {{< relref "upgrade/Oil_Distillation.md" >}}) upgrade is vital for meeting the massive oil demands of subsequent space missions, such as the Moon Mission (45k Oil) and Moon Bases (70k Oil).
-*   **Starchart Automation:** By unlocking the Satellites technology, it allows you to begin automating the production of **Starcharts**, which are required in large quantities for all further space exploration.
+*   **Starchart Automation:** By unlocking the Satellites technology, it allows you to begin automating the production of [Starcharts]( {{< relref "resource/star_charts.md" >}}), which are required in large quantities for all further space exploration.
 
 ### **Special Challenge Effects**
 In the **Black Sky challenge**, where astronomical events do not occur, the initial costs for missions and buildings unlocked by Rocketry are significantly altered. For example, the [Orbital Launch]( {{< relref "space/Orbital_Launch.md" >}}) mission removes the starchart requirement entirely but increases the Science, Catpower, and Oil costs by **11x**.

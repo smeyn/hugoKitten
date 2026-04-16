@@ -9,7 +9,7 @@ title = "Artificial Intelligence"
 ### **The AI Core and Gigaflops**
 Researching this technology unlocks the [AI Core]( {{< relref "buildings/AI_Core.md" >}}) building, a megastructure that produces **Gigaflops**.
 *   **Production:** Each AI Core generates **+0.02 Gigaflops per tick**.
-*   **Energy Consumption:** AI Cores are power-intensive, consuming energy according to the formula: $2 + (1.5 \times \text{number of AI Cores})$.
+*   **Energy Consumption:** AI Cores are power-intensive, consuming energy according to the formula: $2 + (1.5* number of AI Cores)$.
 *   **Risks (The AI Apocalypse):** Gigaflops represent raw processing power that increases your "AI Level." If your AI Level reaches **15**, an **AI Apocalypse** occurs, causing you to start losing resources. Resetting the game is the only way to end an active AI Apocalypse and clear accumulated Gigaflops.
 
 ### **Workshop Upgrades and Synergies**

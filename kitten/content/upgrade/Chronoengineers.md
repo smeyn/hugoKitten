@@ -19,7 +19,7 @@ The upgrade provides two primary benefits to your automated workforce:
 2.  **Work During Time Skips:** This is the upgrade's most unique feature. It enables Engineers to continue their automated crafting tasks even when you are **combusting Time Crystals** to skip years. 
 
 ### **Synergy with Resource Retrieval**
-When a time skip occurs, the amount of crafting performed by Chronoengineers is dictated by your **Resource Retrieval** level. 
+When a time skip occurs, the amount of crafting performed by Chronoengineers is dictated by your [Resource Retrieval]( {{< relref "upgrade/resource-retrieval.md" >}}) level. 
 *   **Automated Conversion:** Just as Resource Retrieval allows you to collect a percentage of your annual production during a skip, Chronoengineers allow your Engineers to "catch up" on their work for that skipped period.
 *   **Material Consumption:** It is important to note that this automated crafting **consumes the required materials** just like standard crafting; it does not produce resources "for free" during the skip.
 

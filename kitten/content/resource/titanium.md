@@ -20,7 +20,7 @@ The most important early source is through trading with [Zebras]( {{< relref "Ci
 *   **Scaling:** The amount of titanium sold by Zebras is **not** affected by typical trading bonuses like those from Tradeposts. Instead, the amount of titanium they give is calculated as **(0.03 * Trade Ships) + 1.5**.
 *   **Prerequisite:** To unlock Zebras for trade, you must first build at least one [Trade Ship]( {{< relref "craft/Trade_Ship.md" >}}).
 *   **Policy Boost:** The policy **Zebra Relations: Appeasement** improves relations with Zebras (as 15 extra Tradeposts) and grants a **+15 tradeposts worth of trade ratio titanium sold** (multiplicative).
-*   **Strategic Focus:** The strategic goal in the mid-game is to build **Observatories** to generate **Starcharts**, which allow you to craft more Trade Ships, thereby accelerating the rate of titanium flow.
+*   **Strategic Focus:** The strategic goal in the mid-game is to build **Observatories** to generate [Starcharts]( {{< relref "resource/star_charts.md" >}}), which allow you to craft more Trade Ships, thereby accelerating the rate of titanium flow.
 
 #### Domestic Production (Conversion)
 Titanium can be produced domestically through industrial structures that convert other resources:
@@ -43,7 +43,7 @@ Titanium is required for constructing advanced infrastructure and housing:
 | [Hydro Plant]( {{< relref "buildings/Hydro_Plant.md" >}}) | 2500 | Upgrade from Aqueduct; transition should wait until Titanium production is good |
 | [Accelerator]( {{< relref "buildings/Accelerator.md" >}}) | 7500 | Unlocked by Particle Physics |
 | [Mansion]( {{< relref "buildings/Mansion.md" >}}) | 25 | High-tier housing |
-| **Cryostation** | 7500 (in cost of Cryostation) | Advanced storage facility |
+| [Cryostation]( {{< relref "space/cryo_station.md" >}}) | 7500 (in cost of Cryostation) | Advanced storage facility |
 
 #### Upgrades and Progression
 Titanium is needed to progress through the housing and crafting technology tree:
@@ -59,8 +59,8 @@ Titanium has a default initial storage capacity of **2** units. This limit must 
 
 *   [Harbours]( {{< relref "buildings/Harbour.md" >}}) increase storage by **+50** Titanium.
 *   **Moon Bases** increase storage by **+1250** Titanium.
-*   **Cryostations** increase storage by **+7500** Titanium.
+*   [Cryostations]( {{< relref "space/cryo_station.md" >}}) increase storage by **+7500** Titanium.
 *   [Accelerators]( {{< relref "buildings/Accelerator.md" >}}) with the [Energy Rifts]( {{< relref "upgrade/Energy_Rifts.md" >}}) upgrade provide a substantial storage boost, including **+750** Titanium.
-*   **Sunforges** also improve storage capacity for base metals, including titanium, by **+1%** each.
+*   [Sunforges]( {{< relref "space/Sun_Forge.md" >}}) also improve storage capacity for base metals, including titanium, by **+1%** each.
 
 In the mid-game, Titanium storage may become capped quickly due to high rates of trade, requiring players to continuously build more storage structures and trade with Dragons to convert excess Titanium into Uranium.

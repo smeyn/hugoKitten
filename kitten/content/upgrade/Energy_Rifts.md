@@ -16,7 +16,7 @@ Once the upgrade is active, every Accelerator built provides a substantial boost
 *   **Catnip:** +30,000
 *   **Wood:** +20,000
 *   **Minerals:** +25,000
-*   **Iron:** +7,500
+*   [Iron:]( {{< relref "resource/iron.md" >}}) +7,500
 *   [Coal:]( {{< relref "resource/coal.md" >}}) +2,500
 *   [Gold:]( {{< relref "resource/Gold.md" >}}) +250
 *   [Titanium:]( {{< relref "resource/titanium.md" >}}) +750

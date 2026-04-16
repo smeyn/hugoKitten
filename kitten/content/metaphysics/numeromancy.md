@@ -34,5 +34,5 @@ The most powerful application of Numeromancy is during the [Redmoon cycle]( {{< 
 *   **Temporal Arbitrage:** Experienced players use a [Chronoforge]( {{< relref "upgrade/Chronoforge.md" >}}) to "shatter" Time Crystals, skipping less profitable years to land precisely on the Redmoon cycle and maximise the Numeromancy festival bonus.
 
 ### **Why It Matters**
-Numeromancy is essential for the **mid-to-late game** transition (Phase 3 and 4). It transforms Festivals from simple happiness-boosting events into high-leverage tools for resource generation. This is particularly vital for reaching **Transcendence Tier 15**, as the faith income bonus in the [Helios cycle]( {{< relref "Cycles/Helios_Cycle.md" >}}) and the Unobtainium boost in [Redmoon]( {{< relref "planet/Redmoon.md" >}}) accelerate the accumulation of Time Crystals and Relics.
+Numeromancy is essential for the **mid-to-late game** transition (Phase 3 and 4). It transforms Festivals from simple happiness-boosting events into high-leverage tools for resource generation. This is particularly vital for reaching **[Transcendence]( {{< relref "religion/Transcendence.md" >}}) Tier 15**, as the faith income bonus in the [Helios cycle]( {{< relref "Cycles/Helios_Cycle.md" >}}) and the Unobtainium boost in [Redmoon]( {{< relref "planet/Redmoon.md" >}}) accelerate the accumulation of Time Crystals and Relics.
 

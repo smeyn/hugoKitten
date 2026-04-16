@@ -5,7 +5,7 @@ title = "Observatory"
 
 +++
 
-The [Observatory]( {{< relref "observatory.md" >}}) is a key mid-game science building in *Kittens Game*, primarily designed to boost science accumulation, increase science capacity, and, most importantly, enable and enhance the discovery of **Starcharts**.
+The [Observatory]( {{< relref "observatory.md" >}}) is a key mid-game science building in *Kittens Game*, primarily designed to boost science accumulation, increase science capacity, and, most importantly, enable and enhance the discovery of [Starcharts]( {{< relref "resource/star_charts.md" >}}).
 
 Here is a detailed breakdown of the Observatory:
 
@@ -32,7 +32,7 @@ The Observatory is a high-priority building during the mid-game (referred to as 
 *   **Starchart Production:** Observatories are necessary for producing Starcharts. Starcharts are required to craft [Trade Ships]( {{< relref "craft/Trade_Ship.md" >}}), which are needed to discover Zebras.
 *   **Iron Priority:** In the Titanium era, players are advised that **all Iron should be going towards Observatories**.
 *   **Automation:** The increase in **Automatic Event Observation Chance** is crucial because it reduces the player's need to manually click the "Observe" button whenever an astronomical event occurs. The game suggests paying attention and clicking every meteor until you have 25 Starcharts, after which the Observatory's automatic observation chance helps significantly.
-*   **Alternative Science Generation:** In the early stages of the **Iron Will** challenge, where housing cannot be built and kitten jobs are unavailable, the science gained from astronomical events (which are boosted by Observatories) is the *only* initial source of Science.
+*   **Alternative Science Generation:** In the early stages of the [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) challenge, where housing cannot be built and kitten jobs are unavailable, the science gained from astronomical events (which are boosted by Observatories) is the *only* initial source of Science.
 
 ### 4. Upgrades and Synergies
 

@@ -11,7 +11,7 @@ The [Smelter]( {{< relref "smelter.md" >}}) is a foundational industrial buildin
 
 *   **Prerequisite:** The Smelter building is unlocked once you research the [Metal Working]( {{< relref "metal_working.md" >}}) technology. Metal Working costs 900 Science.
 *   **Cost:** The base cost to build one Smelter is **200 Minerals**, with a price ratio of 1.15.
-*   **Base Conversion:** The Smelter converts Wood and Minerals into **Iron**.
+*   **Base Conversion:** The Smelter converts Wood and Minerals into [Iron]( {{< relref "resource/iron.md" >}}).
     *   It consumes **0.05 Wood per Tick** and **0.1 Minerals per Tick**.
     *   It produces **0.02 Iron per Tick**.
 
@@ -38,6 +38,6 @@ Through Workshop upgrades, the Smelter's function can be greatly enhanced to pro
 
 ### 4. Context and Drawbacks
 
-Smelters are considered "Industry" buildings, and they are a source of **Pollution**. Along with other industrial buildings like Mines, Steamworks, Calciners, and Oil Wells, they contribute to the high level of CO2 in the atmosphere that negatively affects kitten happiness and resource production.
+Smelters are considered "Industry" buildings, and they are a source of [Pollution]( {{< relref "guides/Pollution.md" >}}). Along with other industrial buildings like Mines, Steamworks, Calciners, and Oil Wells, they contribute to the high level of CO2 in the atmosphere that negatively affects kitten happiness and resource production.
 
-In the **Iron Will** challenge, where kittens are unavailable, players on a long run are advised that Smelters operate at a loss until they reach a "smelt-positive point" where they have enough Magnetos and Steamworks (and potentially Solar Revolution bonus) to make Gold production positive. For early runs generally, Smelters are initially recommended as a way to convert Minerals into Iron.
+In the [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) challenge, where kittens are unavailable, players on a long run are advised that Smelters operate at a loss until they reach a "smelt-positive point" where they have enough Magnetos and Steamworks (and potentially Solar Revolution bonus) to make Gold production positive. For early runs generally, Smelters are initially recommended as a way to convert Minerals into Iron.

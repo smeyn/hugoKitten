@@ -27,9 +27,9 @@ The recommended sequence for these early upgrades is:
 
 1.  [Enlightenment]( {{< relref "metaphysics/Enlightenment.md" >}}) (5 Paragon): Reduces all price ratios by 1%.
 2.  [Golden Ratio]( {{< relref "metaphysics/Golden_Ratio.md" >}}) (50 Paragon): Reduces price ratios by approximately 1.618%.
-3.  **Divine Proportion** (100 Paragon): Reduces price ratios by approximately 1.777%.
-4.  **Vitruvian Feline** (250 Paragon): Reduces price ratios by 2%.
-5.  **Renaissance** (750 Paragon): Reduces price ratios by 2.25%.
+3.  [Divine Proportion]( {{< relref "metaphysics/divine_proportion.md" >}}) (100 Paragon): Reduces price ratios by approximately 1.777%.
+4.  [Vitruvian Feline]( {{< relref "metaphysics/vitruvian_feline.md" >}}) (250 Paragon): Reduces price ratios by 2%.
+5.  [Renaissance]( {{< relref "metaphysics/renaissance.md" >}}) (750 Paragon): Reduces price ratios by 2.25%.
 
 #### B. Progression and Quality of Life (QoL) Upgrades
 
@@ -44,7 +44,7 @@ These upgrades accelerate key production bottlenecks and progression hurdles:
 
 These upgrades enable or significantly boost endgame systems related to time, religion, and unicorns:
 
-*   [Megalomania]( {{< relref "metaphysics/Megalomania.md" >}}) (10 Paragon): Unlocks [Markers]( {{< relref "ziggurat/Marker.md" >}}) and [Black Pyramids]( {{< relref "ziggurat/Black_Pyramid.md" >}}), which are key to starting the **Unicorn/Time crystal Era** and engaging the **Leviathan** trade partner. Megalomania is necessary for refining **Unicorn Tears** into **Black Liquid Sorrow** (BLS).
+*   [Megalomania]( {{< relref "metaphysics/Megalomania.md" >}}) (10 Paragon): Unlocks [Markers]( {{< relref "ziggurat/Marker.md" >}}) and [Black Pyramids]( {{< relref "ziggurat/Black_Pyramid.md" >}}), which are key to starting the **Unicorn/Time crystal Era** and engaging the **Leviathan** trade partner. Megalomania is necessary for refining **Unicorn Tears** into [Black Liquid Sorrow]( {{< relref "ziggurat/black-liquid-sorrow.md" >}}) (BLS).
 *   **Numerology** (50 Paragon) and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) (250 Paragon): These enable **Cycles** to affect space production (Numerology) and grant bonuses during festivals based on the current cycle (Numeromancy). The [Redmoon cycle]( {{< relref "Cycles/Redmoon_cycle.md" >}}), when combined with Numeromancy, provides a significant boost to Unobtainium production.
 *   **Order of the Void** (75 Paragon): Causes all faith production to also produce 10% of that amount in **Worship**.
 *   **Codex** Upgrades (**Vox, Logos, Agrum**): These increase the crafting ratio for manuscripts, compendiums, and blueprints, respectively. Although they are costly, they are not recommended for newer players as their bonuses are minimal compared to the price ratio reductions.

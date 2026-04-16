@@ -10,7 +10,7 @@ title = "Gold"
 Gold acquisition shifts from manual hunting in specialized modes to automated industrial production as your village advances:
 *   **Smelting:** Once the [Gold Ore]( {{< relref "upgrade/Gold_Ore.md" >}}) workshop upgrade is researched, [Smelters]( {{< relref "buildings/Smelter.md" >}}) begin producing $0.001$ gold per tick ($0.005$ per second) as a byproduct of smelting iron.
 *   [Geologists:]( {{< relref "job/Geologist.md" >}}) After researching [Geodesy]( {{< relref "upgrade/Geodesy.md" >}}), kittens assigned as [Geologists]( {{< relref "job/Geologist.md" >}}) can find gold at a rate of $0.0008$ per tick. This rate can be further enhanced by the [Mining Drill]( {{< relref "upgrade/Mining_Drill.md" >}}) and [Unobtainium Drill]( {{< relref "upgrade/Unobtainium_Drill.md" >}}) upgrades.
-*   **Hunting (Iron Will):** In **Iron Will** mode, where there are no kittens, hunting has a **25% chance** to yield gold once [Gold Ore]( {{< relref "upgrade/Gold_Ore.md" >}}) is researched.
+*   **Hunting (Iron Will):** In [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) mode, where there are no kittens, hunting has a **25% chance** to yield gold once [Gold Ore]( {{< relref "upgrade/Gold_Ore.md" >}}) is researched.
 *   **Trade:** While most civilizations require gold *from* the player to trade, gold can be obtained through specific loops, such as trading with the [Nagas]( {{< relref "Civilisations/Nagas.md" >}}) for minerals to feed smelters.
 
 ### **Strategic Uses**

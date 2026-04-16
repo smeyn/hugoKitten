@@ -1,7 +1,7 @@
 +++
 date = 2025-11-29T20:44:33.347594+11:00
 draft = false
-title = "Biofuel_Processing"
+title = "Biofuel Processing"
 
 +++
 [Biofuel Processing]( {{< relref "upgrade/Biofuel_Processing.md" >}}) is a mid-game Workshop upgrade that transforms your [Bio Labs]( {{< relref "buildings/Bio_Lab.md" >}}) into automated oil production facilities, providing a vital passive source of fuel at the cost of catnip and energy.
@@ -22,4 +22,4 @@ Researching Biofuel Processing significantly changes the resource profile of eve
 *   **Passive Oil Generation:** This upgrade is essential for maintaining a steady oil income without relying solely on [Oil Wells]( {{< relref "buildings/Oil_Well.md" >}}). It is particularly effective if you have a massive surplus of catnip and can afford the food cost.
 *   **Synergy with GM Catnip:** The oil yield from Bio Labs can be further enhanced by the [GM Catnip]( {{< relref "upgrade/GM_Catnip.md" >}}) upgrade (unlocked via Genetics), which increases their oil production by **60%** without increasing the catnip cost.
 *   **Late-Game Automation:** In the late game, players often use [Engineers]( {{< relref "job/Engineer.md" >}}) to auto-convert this oil into [Kerosene]( {{< relref "resource/kerosene.md" >}}), ensuring that oil production never halts due to reaching storage caps.
-*   **Pollution Note:** Bio Labs are listed as buildings that contribute to **pollution**, and Biofuel Processing increases their industrial activity.
+*   **Pollution Note:** Bio Labs are listed as buildings that contribute to [pollution]( {{< relref "guides/Pollution.md" >}}), and Biofuel Processing increases their industrial activity.

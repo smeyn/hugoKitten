@@ -47,7 +47,7 @@ The efficiency of Calciners can be significantly boosted through Workshop upgrad
 
 Calciners are a type of building that boosts general production but costs hard-to-acquire blueprints.
 
-*   **Resource Focus:** They are one of the main ways to produce **Iron** and [Titanium]( {{< relref "resource/titanium.md" >}}).
+*   **Resource Focus:** They are one of the main ways to produce [Iron]( {{< relref "resource/iron.md" >}}) and [Titanium]( {{< relref "resource/titanium.md" >}}).
 *   **Mid-Game Investment:** In the *Pre Titanium era notes*, it is advised that players should consider purchasing production-boosting buildings that cost blueprints, such as Calciners, Steamworks, Magnetos, and Reactors, as this "will help a lot in creating the base resources".
 *   **Black Sky Challenge:** In the **Black Sky Challenge**, where astronomical events (a source of Starcharts/Blueprints) do not occur, the initial cost of Calciners is altered to make them possible to obtain without relying on Starcharts.
-*   **Pollution:** Calciners are among the buildings that produce pollution.
+*   [Pollution:]( {{< relref "guides/Pollution.md" >}}) Calciners are among the buildings that produce pollution.

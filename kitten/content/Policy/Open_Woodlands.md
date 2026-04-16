@@ -20,7 +20,7 @@ In most playthroughs, [Open Woodlands]( {{< relref "Policy/Open_Woodlands.md" >}
 *   **Resource Scaling:** The 12.5% boost to wood and minerals provides essential throughput for mid-game building projects, making it a "must-have" for players focused on rapid economic expansion.
 
 ### **Iron Will Specifics**
-For players engaged in an **Iron Will** run (playing without kittens), Open Woodlands provides specialized utility:
+For players engaged in an [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) run (playing without kittens), Open Woodlands provides specialized utility:
 *   **Catnip Refinement:** Grants a **4.16% bonus** to catnip-to-wood refinement.
 *   **Meteor Rewards:** Provides a **4.16% bonus** to minerals gathered from meteor events.
 

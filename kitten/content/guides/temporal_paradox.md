@@ -20,9 +20,9 @@ In *Kittens Game*, a [Temporal Paradox]( {{< relref "guides/temporal_paradox.md"
 
 ### **Associated Upgrades**
 Several structures and Workshop upgrades specifically modify the efficiency and duration of a Temporal Paradox:
-*   **Void Hoover:** A structure that increases the **maximum amount of Void** you can receive during a single paradox day.
+*   [Void Hoover:]( {{< relref "upgrade/void_hoover.md" >}}) A structure that increases the **maximum amount of Void** you can receive during a single paradox day.
 *   **Chronocontrol:** A Time-tab structure that **increases the duration** (number of days) of the paradox event.
 *   [Distortion:]( {{< relref "upgrade/Distortion.md" >}}) A late-game Workshop upgrade (unlocked by Paradox Theory) that improves the effectiveness of Chronocontrol, adding **+3 days** to the Temporal Paradox per level of Chronocontrol built.
 *   **Void Resonator:** Another upgrade unlocked by Paradox Theory that further enhances Void production and interacts with the **Order of the Void** metaphysics upgrade.
 
-Strategically, players often focus on maximizing the frequency and yield of these paradoxes in Phase 4 (Endgame) to accumulate the millions of Void units required for high-tier upgrades like **Void Rifts**, which provide permanent global storage bonuses.
+Strategically, players often focus on maximizing the frequency and yield of these paradoxes in Phase 4 (Endgame) to accumulate the millions of Void units required for high-tier upgrades like [Void Rifts]( {{< relref "buildings/void_rift.md" >}}), which provide permanent global storage bonuses.

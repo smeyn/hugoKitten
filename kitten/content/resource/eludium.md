@@ -16,7 +16,7 @@ title = "Eludium"
 
 2.  **Prerequisites for Crafting:**
     *   **Exometallurgy Science:** Costs 325K Science and 350 Blueprints [3]. This technology is unlocked after researching [Exogeology]( {{< relref "exogeology.md" >}}) [3].
-    *   **Unobtainium Storage:** Achieving Eludium status requires substantial Unobtainium storage (1,000 Unobtainium) which means building multiple **Moon Bases** or a **Cryostation** [4].
+    *   **Unobtainium Storage:** Achieving Eludium status requires substantial Unobtainium storage (1,000 Unobtainium) which means building multiple **Moon Bases** or a [Cryostation]( {{< relref "space/cryo_station.md" >}}) [4].
 
 ### Primary Uses
 

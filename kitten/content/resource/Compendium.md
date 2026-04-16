@@ -29,7 +29,7 @@ Compendiums serve two primary, critical functions:
 
 Compendiums are a necessary input for expanding scientific throughput. To efficiently craft them, you must first secure a strong cultural base to produce the precursor resource, Manuscripts.
 
-*   **Compendium Crafting Rate:** Achieving efficient Compendium production requires maximising your [Workshops]( {{< relref "buildings/Workshop.md" >}}), as their collective effect provides a multiplicative boost to all crafting operations. For instance, if your crafting bonus is $5\times$, Compendium production would be boosted by a factor of 125 ($5 \times 5 \times 5$) compared to having no Workshops.
+*   **Compendium Crafting Rate:** Achieving efficient Compendium production requires maximising your [Workshops]( {{< relref "buildings/Workshop.md" >}}), as their collective effect provides a multiplicative boost to all crafting operations. For instance, if your crafting bonus is $5\times$, Compendium production would be boosted by a factor of 125 ($5* 5* 5$) compared to having no Workshops.
 *   **Next Tier Resource:** Once Physics is researched, Compendiums become the resource used to craft [Blueprints]( {{< relref "resource/Blueprint.md" >}}).
 
 ### Metaphysics Upgrades (Codexes)

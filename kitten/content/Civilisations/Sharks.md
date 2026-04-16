@@ -17,7 +17,7 @@ The [Sharks]( {{< relref "Civilisations/Sharks.md" >}}) are a pivotal trading ci
 
 Sharks specialize in the exchange of Iron for Catnip:
 
-*   **Sharks Buy:** **Iron** (minimum 100 units).
+*   **Sharks Buy:** [Iron]( {{< relref "resource/iron.md" >}}) (minimum 100 units).
 *   **Sharks Sell:** **Catnip** (minimum 35,000 units).
     *   This catnip can be refined into **Wood** for construction purposes.
 *    Trading for Catnip is optimally performed during **Winter**, which provides a **+45% Amount Modifier**. They also offer a good bonus in Spring (+20%) and Autumn (+15%), but the trade is worst in Summer (-5%).
@@ -49,8 +49,8 @@ If you reach Embassy Level 20 and have the [Diplomacy]( {{< relref "Policy/Diplo
 
 ### Role in Challenges
 
-In the difficult **Iron Will** challenge, especially when combined with the **Black Sky Challenge**, the Sharks' role shifts dramatically:
+In the difficult [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) challenge, especially when combined with the **Black Sky Challenge**, the Sharks' role shifts dramatically:
 
 *   **Trade Change:** Sharks trade **iron for science**.
-*   **Trade Cost:** The trade initially requires only iron, then shifts to require **catpower** after the first Zebra joins, and finally requires [gold]( {{< relref "resource/Gold.md" >}}) once Currency and Gold Ore are researched.
+*   **Trade Cost:** The trade initially requires only iron, then shifts to require [catpower]( {{< relref "resource/cat_power.md" >}}) after the first Zebra joins, and finally requires [gold]( {{< relref "resource/Gold.md" >}}) once Currency and Gold Ore are researched.
 *   **Seasonal Inversion:** The seasonal adjustments are **inverted** while Sharks are science traders.

@@ -11,7 +11,7 @@ title = "Bloodstone"
 
 Bloodstone can be acquired through hunting and crafted using advanced resources:
 
-1.  **Hunting:** Bloodstone has a chance to be found when engaging in hunting, provided you have at least **10 Zebras**,. In the **Iron Will** challenge mode, the chance to yield a bloodstone during a hunt is **0.05%** if you already have it. However, this chance increases significantly to **5% if you do not already have bloodstone**.
+1.  **Hunting:** Bloodstone has a chance to be found when engaging in hunting, provided you have at least **10 Zebras**,. In the [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) challenge mode, the chance to yield a bloodstone during a hunt is **0.05%** if you already have it. However, this chance increases significantly to **5% if you do not already have bloodstone**.
 
 2.  **Crafting:** Bloodstone is a craftable item unlocked by the [Zebra Forge]( {{< relref "buildings/Zebra_Forge.md" >}}). The crafting cost is high, requiring temporal and elder resources: **5,000 Time Crystal** and **10,000 Relic**.
 

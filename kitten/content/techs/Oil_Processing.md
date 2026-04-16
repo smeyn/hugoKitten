@@ -27,6 +27,6 @@ The ultimate goal of oil processing is the creation of [Kerosene]( {{< relref "r
 Managing processed oil is a delicate balance, as it is a major input for other systems:
 *   **Industrial Use:** [Calciners]( {{< relref "buildings/Calciner.md" >}}) consume oil (-0.024/tick) to produce Iron and Titanium. 
 *   **Energy Production:** [Magnetos]( {{< relref "buildings/Magneto.md" >}}) consume oil (-0.05/tick) to provide a global production boost.
-*   **Storage Barriers:** Oil has a default storage cap of 1,500. This limit is expanded by [Oil Wells]( {{< relref "buildings/Oil_Well.md" >}}) (+1500), [Tankers]( {{< relref "craft/Tanker.md" >}}) (+500), and large-scale structures like **Moon Bases** (+3500) and **Cryostations** (+7500). High oil storage is mandatory for the [Moon Mission]( {{< relref "space/Moon_Mission.md" >}}) (45K Oil) and building [Lunar Outposts]( {{< relref "planet/lunar_outpost.md" >}}) (55K Oil).
+*   **Storage Barriers:** Oil has a default storage cap of 1,500. This limit is expanded by [Oil Wells]( {{< relref "buildings/Oil_Well.md" >}}) (+1500), [Tankers]( {{< relref "craft/Tanker.md" >}}) (+500), and large-scale structures like **Moon Bases** (+3500) and [Cryostations]( {{< relref "space/cryo_station.md" >}}) (+7500). High oil storage is mandatory for the [Moon Mission]( {{< relref "space/Moon_Mission.md" >}}) (45K Oil) and building [Lunar Outposts]( {{< relref "planet/lunar_outpost.md" >}}) (55K Oil).
 
  

@@ -17,7 +17,7 @@ The HR Harvester is unique because its power output is not static; it provides a
 *   **Dark Future Scaling:** The energy output is primarily driven by a "year bonus" that activates once the calendar passes **Year 40,000**. 
     *   The bonus increases based on the number of years passed beyond 40,000, including years gained by **shattering Time Crystals**.
     *   While the rate of increase slows down over time (following a square root formula), there is **no upper limit** to how high the energy production can go.
-*   **Void Rift Synergy:** Each **Void Rift** (a structure in the Time tab) increases HR Harvester energy production by **10%**.
+*   **Void Rift Synergy:** Each [Void Rift]( {{< relref "buildings/void_rift.md" >}}) (a structure in the Time tab) increases HR Harvester energy production by **10%**.
 
 ### **Environmental and Cycle Modifiers**
 The effectiveness of the harvester fluctuates based on the current cosmic cycle if **Numerology** has been researched:

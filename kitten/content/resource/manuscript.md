@@ -40,7 +40,7 @@ Manuscripts represent the primary bottleneck in the early-to-mid game, transitio
 *   **Blueprint Production:** Eventually, Compendiums are crafted into [Blueprints]( {{< relref "resource/Blueprint.md" >}}), making manuscripts foundational to the late-game crafting resource chain.
 *   **Temple Building:** Manuscripts are required to construct [Temples]( {{< relref "buildings/Temple.md" >}}). A single Temple costs **10 Manuscripts**.
 *   **Culture Capacity:** Manuscripts grant a minor bonus to the maximum capacity of [Culture]( {{< relref "resource/culture.md" >}}), though this effect is subject to diminishing returns.
-*   **Lizard Relations:** The **Lizard Relations: Priests** policy allows manuscripts to grant maximum [Faith]( {{< relref "resource/faith.md" >}}) equal to the maximum culture they grant, while reducing the maximum culture they provide by 25%.
+*   **Lizard Relations:** The **Lizard Relations: [Priests] ( {{<relref "priest.md" >}})** policy allows manuscripts to grant maximum [Faith]( {{< relref "resource/faith.md" >}}) equal to the maximum culture they grant, while reducing the maximum culture they provide by 25%.
 
 ### 3. Overcoming the Manuscript Grind
 
@@ -53,6 +53,6 @@ The necessary manuscript volume creates a "fair bump" in progression. To efficie
 
 ### Persistence on Reset
 
-Manuscripts are classified as **Craftable Resources**. They are generally lost upon reset, but they can be conditionally carried over if the player has [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}) and the [Flux Condensator]( {{< relref "upgrade/Flux_Condensator.md" >}}) upgrade. Each Chronosphere preserves $1.5\% \times 100 \times \sqrt{X}$ of the resource, where $X$ is the amount before reset, meaning they carry over with diminishing returns.
+Manuscripts are classified as **Craftable Resources**. They are generally lost upon reset, but they can be conditionally carried over if the player has [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}) and the [Flux Condensator]( {{< relref "upgrade/Flux_Condensator.md" >}}) upgrade. Each Chronosphere preserves $1.5\%* 100* \sqrt{X}$ of the resource, where $X$ is the amount before reset, meaning they carry over with diminishing returns.
 
 In the accelerated, late-game reset loop, stocking up on crafted resources like manuscripts is essential for quickly getting back up to speed. For example, stocking **19.6k manuscripts** is recommended for maximizing resource carryover using one Chronosphere.

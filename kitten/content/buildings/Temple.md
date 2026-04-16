@@ -38,6 +38,6 @@ Temples benefit directly from several upgrades, primarily found within the **Ord
     *   [Stained Glass]( {{< relref "stained_glass.md" >}}) provides an additional **+0.1 Culture per tick**.
     *   [Basilica]( {{< relref "basilica.md" >}}) provides **+0.2 Culture per tick** and **+125 Max Culture** from Temples.
 *   [Happiness:]( {{< relref "happiness.md" >}}) [Sun Altar]( {{< relref "sun_altar.md" >}}) increases the overall Happiness bonus by **+0.5%**.
-*   **Catpower:** [Templars]( {{< relref "templars.md" >}}) increases the maximum catpower by **+75** per Temple.
+*   [Catpower:]( {{< relref "resource/cat_power.md" >}}) [Templars]( {{< relref "templars.md" >}}) increases the maximum catpower by **+75** per Temple.
 
 The total accumulation of Culture from Temples and Amphitheatres is necessary to eventually unlock the **Trade with Nagas**, which requires 1500 Culture Cap. Furthermore, the eventual goal for many players is the [Solar Revolution]( {{< relref "solar_revolution.md" >}}) upgrade, which relies on generating high amounts of Worship (converted from Faith via Temples and Chapels).

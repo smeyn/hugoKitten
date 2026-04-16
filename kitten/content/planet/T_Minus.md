@@ -16,7 +16,7 @@ The T-minus Mission targets **Terminus**, a supermassive ice giant at the far en
 | **Prerequisite** | The T-minus Mission is unlocked after the [Piscine Mission]( {{< relref "space/Piscine_Mission.md" >}}). |
 | **Cost** | 2,500 Starchart, 12,000 Titanium, 225,000 Science, and 750 Kerosene. |
 | **Travel Time** | 2,500 game-days (1 hour, 23 minutes, 20 seconds in real-time). |
-| **Unlocks** | Successful completion unlocks the **T-Minus Planet**, the [Helios Mission]( {{< relref "space/Helios_Mission.md" >}}), the [Kairo Mission]( {{< relref "space/Kairo_Mission.md" >}}), and the **Cryostation** building. |
+| **Unlocks** | Successful completion unlocks the **T-Minus Planet**, the [Helios Mission]( {{< relref "space/Helios_Mission.md" >}}), the [Kairo Mission]( {{< relref "space/Kairo_Mission.md" >}}), and the [Cryostation]( {{< relref "space/cryo_station.md" >}}) building. |
 
 **Cryostation Building:**
 The Cryostation, unlocked by this mission, is a vast storage facility complex that provides significant capacity increases for wood, minerals, iron, coal, uranium, titanium, oil, and unobtainium. Critically, each Cryostation provides **$+750$ maximum Unobtainium** (UO) storage. UO capacity, specifically from Cryostations and Moon Bases, defines the deep endgame progression toward positive chrono-resets.

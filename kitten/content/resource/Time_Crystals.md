@@ -1,7 +1,7 @@
 +++
 date = 2025-12-05T10:12:40.266083+11:00
 draft = false
-title = "Time_Chrystals"
+title = "Time Crystals"
 
 +++
 
@@ -13,7 +13,7 @@ Time Crystals cannot be produced by standard buildings or jobs; they must be acq
 
 1.  **Sacrificing Alicorns:** You receive **1 Time Crystal** by sacrificing 25 [Alicorns]( {{<relref "resource/alicorn.md">}}) [3, 4]. This conversion ratio is improved by Unicorn Utopia (+5%) and Sunspire (+10%) [5].
 2.  **Trading with Leviathans:** Leviathans sell Time Crystals (minimum amount 0.25) with a 98% chance of success [6]. They require **5,000 Unobtainium** in exchange [6]. The amount received per trade is increased by the Leviathan's energy level (which is maintained by feeding them Necrocorns) and by the number of Tradeposts you have [7, 8].
-3.  **Shatter Engine:** In the late game, Time Crystals can become self-sustaining through the Type 2 Relic Engine (Shatter Engine). This involves purchasing **Resource Retrieval** upgrades (unlocked by Paradox Theory) high enough that shattering a Time Crystal yields enough Unobtainium and Alicorns to Civilisations/sacrifice for more Time Crystals [9-11].
+3.  **Shatter Engine:** In the late game, Time Crystals can become self-sustaining through the Type 2 Relic Engine (Shatter Engine). This involves purchasing [Resource Retrieval]( {{< relref "upgrade/resource-retrieval.md" >}}) upgrades (unlocked by Paradox Theory) high enough that shattering a Time Crystal yields enough Unobtainium and Alicorns to Civilisations/sacrifice for more Time Crystals [9-11].
 
 ### Primary Uses
 
@@ -29,7 +29,7 @@ Time Crystals are essential for advanced technological and religious progression
     *   They are combusted in the Chrono Furnace to **advance the year** [17]. Shattering TCs is done to skip time, triggering Antimatter gain from Sunlifters faster [18, 19].
     *   Shattering TCs is also required to reach the goal of the **1000 Years Challenge** [20].
 *   **Advanced Structures and Upgrades:** TCs are components for various high-tier structures and workshop upgrades:
-    *   [Chronosphere:]( {{< relref "chronosphere.md" >}}) Costs **1 Time Crystal**, among other resources, and is a prerequisite for generating [Void]( {{< relref "resource/void.md" >}}) and **Temporal Flux** [14, 21].
+    *   [Chronosphere:]( {{< relref "chronosphere.md" >}}) Costs **1 Time Crystal**, among other resources, and is a prerequisite for generating [Void]( {{< relref "resource/void.md" >}}) and [Temporal Flux]( {{< relref "guides/temporal-flux.md" >}}) [14, 21].
     *   [Flux Condensator:]( {{< relref "flux_condensator.md" >}}) Requires **5 Time Crystals** and is crucial for preserving a fraction of crafted resources across resets via Chronospheres [7, 16].
     *   [Stasis Chambers]( {{< relref "stasis_chambers.md" >}}) (1 TC) and [Void Energy]( {{< relref "Void_Energy.md" >}}) (2 TCs) are upgrades for Accelerators [16].
 *   **Zebra Crafting:** Time Crystals are also needed to craft [Bloodstone]( {{< relref "bloodstone.md" >}}) (5K TCs and 10K Relics), which is used to craft [T-Mythril]( {{< relref "t-mythril.md" >}}) [22, 23].

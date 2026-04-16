@@ -4,7 +4,7 @@ draft = false
 title = "Astrophysicists"
 
 +++
-[Astrophysicists]( {{< relref "upgrade/Astrophysicists.md" >}}) is a late-mid-game Workshop upgrade that allows your [Scholar]( {{< relref "job/Scholar.md" >}}) kittens to produce **starcharts** passively. This is a critical milestone for transitioning from manual observation of astronomical events to automated starchart production for deep-space exploration.
+[Astrophysicists]( {{< relref "upgrade/Astrophysicists.md" >}}) is a late-mid-game Workshop upgrade that allows your [Scholar]( {{< relref "job/Scholar.md" >}}) kittens to produce [starcharts]( {{< relref "resource/star_charts.md" >}}) passively. This is a critical milestone for transitioning from manual observation of astronomical events to automated starchart production for deep-space exploration.
 
 ### **Costs and Prerequisites**
 To unlock and purchase this upgrade, you must meet the following requirements:

@@ -23,11 +23,11 @@ This structure is vital for establishing the infrastructure necessary to scale l
 The Unicorn Tomb is placed early in the sequence of unicorn buildings that scale unicorn production and eventually lead to the coveted Time Crystal economy:
 
 $$
-\text{Unicorn Pasture} \to \textbf{Unicorn Tomb} \to \text{Ivory Tower} \to \text{Ivory Citadel} \to \text{Sky Palace} \to \text{Unicorn Utopia} \to \text{Sunspire}
+[Unicorn Pasture]( {{< relref "buildings/Unicorn_Pasture.md" >}}) to [Unicorn Tomb]( {{< relref "ziggurat/Unicorn_Tomb.md" >}}) to [Ivory Tower]( {{< relref "ziggurat/Ivory_Tower.md" >}}) to [Ivory Citadel]( {{< relref "ziggurat/Ivory_Citadel.md" >}}) to [Sky Palace]( {{< relref "ziggurat/Sky_Palace.md" >}}) --> [Unicorn Utopia]( {{< relref "ziggurat/Unicorn_Utopia.md" >}}) --> [Sunspire]( {{< relref "ziggurat/Sunspire.md" >}})
 $$
 
 The entire chain is essential because the Unicorns generated are later **sacrificed in Ziggurats to produce Tears** [5], which are required to build the Unicorn Tomb itself and subsequent structures [1, 3, 4].
 
 ### Challenge Reward
 
-The Unicorn Tomb gains a special utility if you complete the **Unicorn Tears** challenge. As the base reward for completing this challenge, Unicorn Tombs receive the additional benefit of **increasing maximum faith based on Transcendence Tier** [6].
+The Unicorn Tomb gains a special utility if you complete the **Unicorn Tears** challenge. As the base reward for completing this challenge, Unicorn Tombs receive the additional benefit of **increasing maximum faith based on  [Transcendence]( {{< relref "religion/Transcendence.md" >}}) Tier** [6].

@@ -25,7 +25,7 @@ In the early game, surviving Winter can be challenging because Catnip Field prod
 ### Upgrades and Achievements
 
 *   **Upgrade Path:** The Pasture (indicated by the ∧ symbol) can be upgraded to a [Solar Farm]( {{< relref "solar_farm.md" >}}) after researching the [Ecology]( {{< relref "ecology.md" >}}) technology. This upgrade is generally performed when you need [Energy]( {{< relref "energy.md" >}}) more than you need Catnip, but it means you lose the Pasture's food bonus.
-*   **Achievements:** Building 45 Pastures is associated with an achievement, although Pastures are considered "useless" in the specific context of the **Iron Will** challenge.
+*   **Achievements:** Building 45 Pastures is associated with an achievement, although Pastures are considered "useless" in the specific context of the [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) challenge.
 
 ### Unicorn Pastures (Related Building)
 

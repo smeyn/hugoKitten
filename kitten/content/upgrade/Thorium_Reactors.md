@@ -22,4 +22,4 @@ The upgrade allows your existing Reactors to utilise Thorium as a secondary, mor
 *   **Antimatter Generation:** A common strategy is to only activate Thorium Reactors during **time skips** to ensure a positive energy state. This is vital because [Sunlifters]( {{< relref "space/sunlifter.md" >}}) only produce antimatter if your energy production is positive when the year changes.
 *   **Efficiency Upgrades:** Once Thorium Reactors are active, you should prioritise the [Enriched Thorium]( {{< relref "upgrade/Enriched_Thorium.md" >}}) upgrade. This reduces the fuel consumption of your reactors by **25%**, allowing your Thorium stockpiles to last significantly longer.
 
-In specialised challenge runs like **Iron Will**, where kittens are unavailable, the energy boost from Thorium Reactors is often a mandatory requirement for reaching the high power thresholds needed for deep-space missions.
+In specialised challenge runs like [Iron Will]( {{< relref "Challenges/ironWill.md" >}}), where kittens are unavailable, the energy boost from Thorium Reactors is often a mandatory requirement for reaching the high power thresholds needed for deep-space missions.

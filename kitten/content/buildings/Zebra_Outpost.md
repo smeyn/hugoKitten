@@ -26,12 +26,12 @@ The hunting bonus is significant, as the ability to hunt is unlocked by the same
 
 ### 3. Strategic Context (Iron Will Mode)
 
-The Zebra Outpost is particularly relevant in the **Iron Will** challenge:
+The Zebra Outpost is particularly relevant in the [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) challenge:
 
 *   **Zebra Limit:** In the Iron Will challenge, where players cannot build housing and thus cannot assign kitten jobs, Zebras act as hunters to replace the missing kitten population.
 *   **Acquisition:** If a player, while in Iron Will mode, researches Archery and their Zebra limit is less than 10, their Zebra limit increases by 1. The maximum number of Zebras obtained this way is 10 (or possibly 11, depending on other limits).
 *   **Production Cap:** The [Dark Revolution]( {{< relref "dark_revolution.md" >}}) policy increases the Zebra base catpower production cap by +1 (or +0.1 in non-Iron Will mode).
-*   **Resetting for Zebras:** The **Iron Will** procedure involves resetting the game after achieving Archery multiple times to accumulate a higher Zebra limit before embarking on a longer run. This is done to gain sufficient Catpower generation for hunting, which is essential for acquiring early resources.
+*   **Resetting for Zebras:** The [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) procedure involves resetting the game after achieving Archery multiple times to accumulate a higher Zebra limit before embarking on a longer run. This is done to gain sufficient Catpower generation for hunting, which is essential for acquiring early resources.
 
 ### Progression of Zebra Buildings
 

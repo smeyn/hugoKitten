@@ -22,7 +22,7 @@ This Manuscripts requirement involves grinding out resources, as Manuscripts mus
 Upon successful research, Theology provides several immediate unlocks crucial for advancing the civilization:
 
 1.  **New Resource and Production:** Theology unlocks the generation of [Faith]( {{< relref "resource/faith.md" >}}), a new expendable resource used primarily in the Religion tab.
-    *   It enables the [Priest]( {{< relref "job/Priest.md" >}}) profession. Kittens assigned as Priests initially produce **0.0015 faith per tick**.
+    *   It enables the [Priest]( {{< relref "job/Priest.md" >}}) profession. Kittens assigned as [Priests] ( {{<relref "priest.md" >}}) initially produce **0.0015 faith per tick**.
     *   It enables [Temples]( {{< relref "buildings/Temple.md" >}}) to generate Faith, specifically at a rate of **0.0015 faith per tick** per Temple.
 
 2.  **New Systems:**

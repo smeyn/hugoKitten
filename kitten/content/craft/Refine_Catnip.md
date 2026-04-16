@@ -14,7 +14,7 @@ title = "Refine_Catnip"
     *   **Shark Relations (Botanists):** This foreign policy provides a **+25% wood crafting bonus**.
 
 ### **Iron Will Strategies**
-In **Iron Will** mode, where kitten housing is forbidden, refining catnip is the essential source of wood for early infrastructure like **Libraries**. Several mode-specific bonuses help scale this production:
+In [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) mode, where kitten housing is forbidden, refining catnip is the essential source of wood for early infrastructure like **Libraries**. Several mode-specific bonuses help scale this production:
 *   [Lumber Mills:]( {{< relref "buildings/Lumber_Mill.md" >}}) In Iron Will, these buildings provide a **+10% bonus** to catnip refinement rather than boosting woodcutter output.
 *   **Clear Cutting Policy:** This environmental policy provides a **+10% refinement bonus**, functioning similarly to an un-upgraded Lumber Mill.
 *   **Open Woodlands Policy:** This provides a smaller **+4.16% bonus** to refinement.

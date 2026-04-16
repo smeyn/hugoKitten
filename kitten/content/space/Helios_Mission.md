@@ -1,14 +1,14 @@
 +++
 date = 2025-11-29T20:44:33.308594+11:00
 draft = false
-title = "Helios_Mission"
+title = "Helios Mission"
 
 +++
 The [Helios Mission]( {{< relref "space/Helios_Mission.md" >}}) is a significant mid-to-late game space project that involves launching a rocket to the G2V spectral type star at the centre of the Cath solar system. Completing this mission is a prerequisite for moving further into the star system, specifically unlocking the [Yarn Mission]( {{< relref "space/Yarn_Mission.md" >}}).
 
 ### **Mission Requirements and Logistics**
 To launch the Helios mission, you must have first successfully completed the [Dune Mission]( {{< relref "space/Dune_Mission.md" >}}). The specific resource requirements are:
-*   **Starcharts:** 3,000
+*   [Starcharts:]( {{< relref "resource/star_charts.md" >}}) 3,000
 *   [Titanium:]( {{< relref "resource/titanium.md" >}}) 15,000
 *   [Science:]( {{< relref "resource/science.md" >}}) 250,000
 *   [Kerosene:]( {{< relref "resource/kerosene.md" >}}) 1,250
@@ -20,7 +20,7 @@ The primary importance of the Helios mission is the gateway it provides to advan
 *   [Sunlifter:]( {{< relref "space/sunlifter.md" >}}) The primary source of antimatter, producing 1 unit per year while also generating 30 Watts of energy.
 *   **Containment Chamber:** Provides base storage for up to 100 units of antimatter, though it consumes 50 Watts of energy.
 *   **Heatsink:** Increases the antimatter storage capacity of Containment Chambers by +2%.
-*   **Sunforge:** Enhances the storage capacity of base metals (iron, titanium, gold, uranium, and unobtainium) by 1% per building.
+*   [Sunforge:]( {{< relref "space/Sun_Forge.md" >}}) Enhances the storage capacity of base metals (iron, titanium, gold, uranium, and unobtainium) by 1% per building.
 
 ### **The Helios Cycle**
 If you have researched **Numerology**, the "Helios" cycle (one of ten 5-year cycles in the game) provides specific benefits to your infrastructure. During this cycle:

@@ -1,7 +1,7 @@
 +++
 date = 2025-11-29T20:44:33.308594+11:00
 draft = false
-title = "Piscine_Mission"
+title = "Piscine Mission"
 
 +++
 The [Piscine Mission]( {{< relref "space/Piscine_Mission.md" >}}) is a mid-to-late game space project involving travel to a gigantic aquatic planet characterised by an acidic body and a methane atmosphere. It is a critical milestone for expanding your colony's scientific and astronomical infrastructure.

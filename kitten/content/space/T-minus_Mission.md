@@ -1,14 +1,14 @@
 +++
 date = 2025-11-29T20:44:33.308594+11:00
 draft = false
-title = "T Minus_Mission"
+title = "T Minus Mission"
 
 +++
 The [T-minus mission]( {{< relref "space/T-minus_Mission.md" >}}) is a significant mid-to-late-game space project in *Kittens Game* that involves travelling to **Terminus**, described as a **supermassive ice giant** located at the far end of the Helios solar system. This mission serves as a critical bridge between the mid-game industry and the advanced resource management required for late-game space exploration.
 
 ### **Mission Logistics and Costs**
 To launch a mission to Terminus, you must first successfully complete the [Piscine mission]( {{< relref "space/Piscine_Mission.md" >}}). The resource requirements for the launch are as follows:
-*   **Starcharts:** 2,500
+*   [Starcharts:]( {{< relref "resource/star_charts.md" >}}) 2,500
 *   [Titanium:]( {{< relref "resource/titanium.md" >}}) 12,000
 *   [Science:]( {{< relref "resource/science.md" >}}) 225,000
 *   [Kerosene:]( {{< relref "resource/kerosene.md" >}}) 750
@@ -16,7 +16,7 @@ To launch a mission to Terminus, you must first successfully complete the [Pisci
 The base travel time for the mission is **2,500 game-days**, which is approximately **1 hour, 23 minutes, and 20 seconds** in real-time. As with other missions, this duration can be divided by 25 with an Antimatter Drive, 50 with a Thorium Drive, or **75 if both are researched**.
 
 ### **Critical Unlocks: Cryostations**
-Successfully completing the T-minus mission unlocks the [Kairo mission]( {{< relref "space/Kairo_Mission.md" >}}) and the **T-Minus planet**, but its most strategically vital unlock is the **Cryostation**. Cryostations are massive storage facilities that provide essential boosts to your global caps:
+Successfully completing the T-minus mission unlocks the [Kairo mission]( {{< relref "space/Kairo_Mission.md" >}}) and the **T-Minus planet**, but its most strategically vital unlock is the [Cryostation]( {{< relref "space/cryo_station.md" >}}). Cryostations are massive storage facilities that provide essential boosts to your global caps:
 *   **Storage Gains:** Each station increases the maximum capacity for **Wood and Minerals (+200K)**, **Iron (+50K)**, **Titanium (+7,500)**, **Uranium (+5,000)**, **Oil (+7,500)**, **Unobtainium (+750)**, and **Coal (+25K)**.
 *   **Titanium Bottleneck:** Cryostations are identified as one of the most effective ways to increase titanium storage, which is necessary to reach the **125K cap** required for the [Space Manufacturing]( {{< relref "upgrade/Space_Manufacturing.md" >}}) upgrade.
 *   **Unobtainium Progression:** Because they provide 750 unobtainium storage each, they are also a primary method for reaching the 1,000-unit threshold required for the **Eludium Era**.

@@ -3,7 +3,7 @@ date = '2026-01-28T10:16:54+11:00'
 draft = false
 title = 'Spider Relations'
 +++
-[Spiders]( {{< relref "Civilisations/spiders.md" >}}) are a friendly trade partner in *Kittens Game* that players typically encounter in the mid-to-late game. They are a valuable source for acquiring [Coal]( {{< relref "resource/coal.md" >}}) and **Oil**, which can help resolve industrial bottlenecks when production from Smelters or Geologists is insufficient.
+[Spiders]( {{< relref "Civilisations/spiders.md" >}}) are a friendly trade partner in *Kittens Game* that players typically encounter in the mid-to-late game. They are a valuable source for acquiring [Coal]( {{< relref "resource/coal.md" >}}) and [Oil]( {{< relref "resource/oil.md" >}}), which can help resolve industrial bottlenecks when production from Smelters or Geologists is insufficient.
 
 ### **Discovery and Unlock Requirements**
 Because of their steep requirements, Spiders are considered "waayyyy off" for early-game players. You can discover them by **Sending Explorers** (costing 1,000 catpower) only once you have achieved the following:
@@ -17,7 +17,7 @@ The Spiders have a **Friendly** attitude, which grants a baseline **+15% bonus**
 | :--- | :--- | :--- | :--- | :--- |
 | **They Buy** | Scaffolds | 50 | 100% | N/A |
 | **They Sell** | [Coal]( {{< relref "resource/coal.md" >}}) | 350 | 100% | N/A |
-| **They Sell** | **Oil** | 100 | 25% | **Embassy Level 5** |
+| **They Sell** | [Oil]( {{< relref "resource/oil.md" >}}) | 100 | 25% | **Embassy Level 5** |
 
 ### **Seasonal Strategy**
 Like most trade partners, the Spiders' resource yields are affected by the current season. To maximise your [Coal]( {{< relref "resource/coal.md" >}}) returns, you should focus your trading during **Autumn**.

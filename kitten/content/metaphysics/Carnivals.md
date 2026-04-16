@@ -8,4 +8,4 @@ Metaphysics: Carnivals
 The Carnivals upgrade is an essential step in the temporal and religious Metaphysics tree.
 • Cost: 25 Paragon.
 • Primary Effect: It allows your Festivals to stack in duration. Without this, clicking "Hold a Festival" while one is already active simply wastes resources; with Carnivals, the time is added to the remaining duration.
-• Progression: It is the direct prerequisite for Numerology. It is also considered a mandatory part of the path to Order of the Void and reaching high Transcendence Tiers in the late game.
+• Progression: It is the direct prerequisite for Numerology. It is also considered a mandatory part of the path to Order of the Void and reaching high [Transcendence]( {{< relref "religion/Transcendence.md" >}}) Tiers in the late game.

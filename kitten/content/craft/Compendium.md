@@ -15,7 +15,7 @@ To craft a Compendium, you must first research the [Philosophy]( {{< relref "tec
 ### **Primary Effects**
 *   **Science Storage:** Each Compendium provides a permanent **+10 bonus to your maximum Science cap**.
 *   **Storage Cap:** By default, the maximum bonus you can receive from Compendiums is capped at 100% of your total science storage from buildings. 
-    *   In **Iron Will** mode, this cap is significantly higher (1000%).
+    *   In [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) mode, this cap is significantly higher (1000%).
     *   **Data Centres** increase the "Compendium Cap" by 1,000 each.
     *   The [Uplink]( {{< relref "upgrade/Uplink.md" >}}) and [Starlink]( {{< relref "upgrade/Starlink.md" >}}) workshop upgrades further increase this cap by +1% per [Bio Lab]( {{< relref "buildings/Bio_Lab.md" >}}).
 
@@ -33,6 +33,6 @@ Compendiums act as a bridge between the industrial era and the space era, where 
 *   **Chronosphere Resets:** When resetting with [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}), carrying over a large stockpile of Compendiums is vital. Because they preserve your science cap, you can immediately research expensive technologies in the next run without waiting to rebuild massive amounts of libraries and observatories.
 
 ### **Optimization Tip**
-To grind Compendiums efficiently, focus on maximizing your [Culture]( {{< relref "resource/culture.md" >}}) and **Catpower** production first. This allows you to mass-produce [Manuscripts]( {{< relref "resource/manuscript.md" >}}), which are the primary bottleneck for Compendium crafting. Once your Science cap is full, use the "Craft All" function in the Workshop to convert those manuscripts into Compendiums.
+To grind Compendiums efficiently, focus on maximizing your [Culture]( {{< relref "resource/culture.md" >}}) and [Catpower]( {{< relref "resource/cat_power.md" >}}) production first. This allows you to mass-produce [Manuscripts]( {{< relref "resource/manuscript.md" >}}), which are the primary bottleneck for Compendium crafting. Once your Science cap is full, use the "Craft All" function in the Workshop to convert those manuscripts into Compendiums.
 
  

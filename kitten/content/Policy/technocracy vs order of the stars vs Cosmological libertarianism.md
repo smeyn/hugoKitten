@@ -10,7 +10,7 @@ title = 'Technocracy vs Order of the Stars vs Cosmological Libertarianism'
 | Policy | Effect | Key Prerequisite | Strategic Focus |
 | :--- | :--- | :--- | :--- |
 | [Cosmological Libertarianism]( {{< relref "Policy/Cosmological_Libertarianism.md" >}}) | **+15% Unobtainium production** | Reach Dune | General progression and overcoming the **unobtainium bottleneck**. |
-| [Order of the Stars]( {{< relref "Policy/Order_of_the_Stars.md" >}}) | **+20% Faith production**; leaders must be Priests | Reach Dune + assigned Priest leader | Religious-focused runs and grinding **Transcendence tiers**. |
+| [Order of the Stars]( {{< relref "Policy/Order_of_the_Stars.md" >}}) | **+20% Faith production**; leaders must be [Priests] ( {{<relref "priest.md" >}}) | Reach Dune + assigned Priest leader | Religious-focused runs and grinding **[Transcendence]( {{< relref "religion/Transcendence.md" >}}) tiers**. |
 | [Technocracy]( {{< relref "Policy/Technocracy.md" >}}) | **+20% Science cap** | Reach Dune | Reaching massive science thresholds for high-tier technologies. |
 
 ---
@@ -25,7 +25,7 @@ This is widely considered the strongest option for most players.
 #### **2. Order of the Stars (The Religious Choice)**
 This policy shifts your government's focus to the heavens and the **Order of the Sun**.
 *   **Faith Grinding:** It is most useful during long runs where your primary goal is increasing your [epiphany]( {{< relref "religion/epiphany.md" >}}) and religion bonuses.
-*   **Leader Restriction:** Note that while it provides a 20% faith boost, it mandates that only [Priests]( {{< relref "job/Priest.md" >}}) can be assigned as leaders. However, the policy bonus itself still functions even if you do not have an active leader assigned.
+*   **Leader Restriction:** Note that while it provides a 20% faith boost, it mandates that only [[Priests] ( {{<relref "priest.md" >}})]( {{< relref "job/Priest.md" >}}) can be assigned as leaders. However, the policy bonus itself still functions even if you do not have an active leader assigned.
 
 #### **3. Technocracy (The Niche Choice)**
 Technocracy provides a flat **20% increase to your Science storage capacity**.

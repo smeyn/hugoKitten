@@ -14,7 +14,7 @@ Faith becomes available after you research the [Theology]( {{< relref "techs/The
 Faith is generated through several means:
 
 *   [Temples:]( {{< relref "buildings/Temple.md" >}}) Once Theology is researched, Temples generate **0.0015 faith per tick**.
-*   [Priests:]( {{< relref "job/Priest.md" >}}) Kittens assigned as Priests (unlocked by Theology) initially produce **0.0015 faith per tick**. In the late game, players often assign almost all kittens as priests because faith production is slow.
+*   [[Priests] ( {{<relref "priest.md" >}}):]( {{< relref "job/Priest.md" >}}) Kittens assigned as [Priests] ( {{<relref "priest.md" >}}) (unlocked by Theology) initially produce **0.0015 faith per tick**. In the late game, players often assign almost all kittens as [Priests] ( {{<relref "priest.md" >}}) because faith production is slow.
 *   [Chapels:]( {{< relref "buildings/Chapel.md" >}}) These buildings, available after researching [Acoustics]( {{< relref "acoustics.md" >}}), generate **0.005 faith per tick**.
 *   **Upgrades:** The religious upgrade [Solar Chant]( {{< relref "solar_chant.md" >}}) increases your faith generation rate by **10%**, with subsequent levels purchased via Transcendence increasing this bonus by an additional **+10%**.
 

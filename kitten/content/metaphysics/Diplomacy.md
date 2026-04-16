@@ -12,13 +12,13 @@ The basic Diplomacy upgrade costs **5 Paragon** and provides the following immed
 *   **Hostility Mitigation:** It reduces the number of [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}) required to negate Zebra hostility from 85 down to **58**.
 
 ### **The Diplomacy Metaphysics Tree**
-Buying Diplomacy opens a progression path primarily focused on the specialised **Iron Will** mode and advanced navigation:
+Buying Diplomacy opens a progression path primarily focused on the specialised [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) mode and advanced navigation:
 
 | Upgrade | Cost (Paragon) | Key Effect |
 | :--- | :--- | :--- |
 | [Diplomacy]( {{< relref "metaphysics/Diplomacy.md" >}}) | 5 | Discover races at Year 1; +10 standing ratio. |
-| **Zebra Diplomacy**| 35 | 10% of your Zebra cap stays when ending **Iron Will** mode. |
-| **Zebra Covenant** | 75 | 50% of your Zebra cap stays when ending **Iron Will** mode. |
+| **Zebra Diplomacy**| 35 | 10% of your Zebra cap stays when ending [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) mode. |
+| **Zebra Covenant** | 75 | 50% of your Zebra cap stays when ending [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) mode. |
 | **Navigation Diplomacy**| 300 | Allows civilisation discovery as soon as you have [Trade Ships]( {{< relref "craft/Trade_Ship.md" >}}). |
 
 ### **Strategic Advice**

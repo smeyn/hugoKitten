@@ -28,5 +28,5 @@ Parchment is a mandatory requirement for transitioning out of the early game and
 
 ### **Special Constraints**
 *   **Pacifism Challenge:** In this challenge, hunting is disabled. You cannot obtain furs, and therefore cannot craft parchment, until you build a [Mint]( {{< relref "buildings/Mint.md" >}}) to generate a passive supply of luxury resources.
-*   **Iron Will:** Since you lack kittens for standard jobs in this mode, your parchment supply depends entirely on the furs gathered by [Zebras]( {{< relref "Civilisations/zebras.md" >}}) acting as passive hunters.
+*   [Iron Will:]( {{< relref "Challenges/ironWill.md" >}}) Since you lack kittens for standard jobs in this mode, your parchment supply depends entirely on the furs gathered by [Zebras]( {{< relref "Civilisations/zebras.md" >}}) acting as passive hunters.
 *   **Persistence:** As a crafted resource, parchment is **lost upon resetting** the game unless you possess [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}) and the [Flux Condensator]( {{< relref "upgrade/Flux_Condensator.md" >}}) workshop upgrade.

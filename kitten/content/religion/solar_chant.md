@@ -14,7 +14,7 @@ Here is a detailed explanation of Solar Chant, its prerequisites, and its strate
 The primary purpose of Solar Chant is to increase your production of Faith.
 
 *   **Base Effect:** Solar Chant improves your base **faith generation rate by 10%**.
-*   **Scaling:** As you progress into the mid-to-late game, you can purchase **additional levels** of Solar Chant using Transcendence. Each additional level purchased increases this bonus by an **additional +10%**.
+*   **Scaling:** As you progress into the mid-to-late game, you can purchase **additional levels** of Solar Chant using [Transcendence]( {{< relref "religion/Transcendence.md" >}}). Each additional level purchased increases this bonus by an **additional +10%**.
 
 ### Cost and Prerequisites
 
@@ -29,4 +29,4 @@ Purchasing multiple levels of Solar Chant is a critical late-game strategy, espe
 
 By boosting your Faith income via multiple levels of Solar Chant (achieved through Transcendence), you can more effectively engage in the "Praise the sun!" mechanic, which converts accumulated Faith into Worship.
 
-This strategy is vital because maximizing faith generation allows you to quickly restore your **Solar Revolution bonus** (a global production boost derived from Worship) after you have "reset" your faith pool using the **Adore the galaxy** option (unlocked via Apocrypha). In the late game, many kittens are typically assigned as Priests to maximize Faith generation, making the boost provided by Solar Chant highly impactful.
+This strategy is vital because maximizing faith generation allows you to quickly restore your **Solar Revolution bonus** (a global production boost derived from Worship) after you have "reset" your faith pool using the **Adore the galaxy** option (unlocked via Apocrypha). In the late game, many kittens are typically assigned as [Priests] ( {{<relref "priest.md" >}}) to maximize Faith generation, making the boost provided by Solar Chant highly impactful.

@@ -1,7 +1,7 @@
 +++
 date = 2025-11-29T20:44:33.347594+11:00
 draft = false
-title = "CAD_System"
+title = "CAD System"
 
 +++
 The [CAD System]( {{< relref "upgrade/CAD_System.md" >}}) is a mid-game **Workshop upgrade** that enhances your ability to craft blueprints by leveraging your existing scientific infrastructure. It effectively scales your crafting efficiency based on how many research buildings you have constructed.

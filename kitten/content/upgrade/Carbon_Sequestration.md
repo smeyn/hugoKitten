@@ -1,10 +1,10 @@
 +++
 date = 2025-11-29T20:44:33.342594+11:00
 draft = false
-title = "Carbon_Sequestration"
+title = "Carbon Sequestration"
 
 +++
-[Carbon Sequestration]( {{< relref "upgrade/Carbon_Sequestration.md" >}}) is a late-game Workshop upgrade that allows your civilization to actively mitigate the negative effects of **pollution**. To unlock this upgrade, you must first research the [Ecology]( {{< relref "techs/Ecology.md" >}}) science technology.
+[Carbon Sequestration]( {{< relref "upgrade/Carbon_Sequestration.md" >}}) is a late-game Workshop upgrade that allows your civilization to actively mitigate the negative effects of [pollution]( {{< relref "guides/Pollution.md" >}}). To unlock this upgrade, you must first research the [Ecology]( {{< relref "techs/Ecology.md" >}}) science technology.
 
 ### **Costs and Prerequisites**
 *   **Science Cost:** 75,000.

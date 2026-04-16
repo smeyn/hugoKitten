@@ -38,7 +38,7 @@ This section houses upgrades that become available once the [Zebra Workshop]( {{
 ### 3. Strategic Importance of the Workshop
 
 *   **Resource Management:** The Workshop allows for quick/mass purchases of any items you have crafted at least once.
-*   **Bottleneck Breaking:** Upgrades unlocked via the Workshop are vital for efficiency. For example, some useful early upgrades require **Iron**, and expert advice recommends pushing to get a Workshop early to acquire these initial economic boosts.
+*   **Bottleneck Breaking:** Upgrades unlocked via the Workshop are vital for efficiency. For example, some useful early upgrades require [Iron]( {{< relref "resource/iron.md" >}}), and expert advice recommends pushing to get a Workshop early to acquire these initial economic boosts.
 *   **Blueprint Conversion:** The Workshop is where advanced science resources are created, such as [Blueprints]( {{< relref "resource/Blueprint.md" >}}) (crafted from Compendiums), which are required for late-game technology and structures like Steamworks.
 *   **Crafting Ratio:** The crafting bonus provided by the Workshop can be further enhanced by other buildings, such as the [Factory]( {{< relref "factory.md" >}}), which provides an additional crafting bonus. The [Full Industrialization]( {{< relref "full_industrialization.md" >}}) policy also slightly improves the crafting bonus each factory provides.
 

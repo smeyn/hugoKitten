@@ -13,8 +13,9 @@ Part of the locked space exploration tree.
 
 Staffed with science crew
 
-Prices:
-Antimatter: 50
-eludium: 500
+ 
 
+Prices:
+* [antimatter]( {{< relref "resource/Antimatter.md" >}}): 50
+* [eludium]( {{< relref "resource/eludium.md" >}}) 500
 Note: this is marked as TBD

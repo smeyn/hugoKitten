@@ -19,7 +19,7 @@ To unlock Megalomania in the Metaphysics menu, you must meet the following crite
 ### **Strategic Timing: When to Buy**
 While its cost is relatively low, strategic guides offer specific warnings regarding when to invest your Paragon:
 *   **The "Early Game Trap"**: Megalomania is often considered a **trap for new players**. Because the structures it unlocks (like Black Pyramids) are "really expensive" and belong to the endgame resource line, it is not recommended for your first few runs.
-*   **Priority Order**: You should prioritise all **price ratio reduction** upgrades—specifically [Golden Ratio]( {{< relref "metaphysics/Golden_Ratio.md" >}}), **Divine Proportion**, and **Renaissance**—before buying Megalomania. 
+*   **Priority Order**: You should prioritise all **price ratio reduction** upgrades—specifically [Golden Ratio]( {{< relref "metaphysics/Golden_Ratio.md" >}}), [Divine Proportion]( {{< relref "metaphysics/divine_proportion.md" >}}), and [Renaissance]( {{< relref "metaphysics/renaissance.md" >}})—before buying Megalomania. 
 *   **The 40k Run Exception**: If you are attempting a very long run (such as the **40k years** milestone), Megalomania is considered necessary to begin working toward Time Crystals as early as possible.
 
 ### **Role in the Unicorn Era**

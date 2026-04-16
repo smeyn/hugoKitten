@@ -15,7 +15,7 @@ title = "Strip Mining"
 ### **Trade-offs and Penalties**
 Implementing this policy comes with two primary drawbacks:
 *   **Happiness Penalty:** It imposes a **-2% penalty** to kitten happiness.
-*   **Pollution:** It increases pollution by **+5%**. High levels of pollution can eventually lead to reduced catnip production, lower happiness, and slower kitten arrival speeds.
+*   [Pollution:]( {{< relref "guides/Pollution.md" >}}) It increases pollution by **+5%**. High levels of pollution can eventually lead to reduced catnip production, lower happiness, and slower kitten arrival speeds.
 
 ### **Strategic Advice**
 *   **Early-Game Choice:** Most veteran players recommend choosing [Clear Cutting]( {{< relref "Policy/Clear_Cutting.md" >}}) over Strip Mining in early runs. This is because minerals are generally easier to accumulate than wood at that stage, and the wood boost from Clear Cutting is vital for reaching the Navigation era.

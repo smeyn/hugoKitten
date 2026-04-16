@@ -25,7 +25,7 @@ The Factory's primary effect is boosting crafting efficiency and consuming energ
 
 *   **Crafting Bonus:** Each Factory provides a **+5% Crafting** bonus. This bonus is equivalent to the effect provided by a kitten with the Artisan trait when they are selected as the leader.
 *   **Energy Consumption:** Each Factory consumes **-2 Energy**.
-*   **Pollution:** Factories are listed among the structures that produce **pollution**. However, pollution produced by factories can be reduced to zero by the [Carbon Sequestration]( {{< relref "upgrade/Carbon_Sequestration.md" >}}) upgrade.
+*   [Pollution:]( {{< relref "guides/Pollution.md" >}}) Factories are listed among the structures that produce [pollution]( {{< relref "guides/Pollution.md" >}}). However, pollution produced by factories can be reduced to zero by the [Carbon Sequestration]( {{< relref "upgrade/Carbon_Sequestration.md" >}}) upgrade.
 
 ### 3. Upgrades and Policy Interactions
 

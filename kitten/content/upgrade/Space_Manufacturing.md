@@ -11,7 +11,7 @@ To access Space Manufacturing, you must first research the [Superconductors]( {{
 *   [Science:]( {{< relref "resource/science.md" >}}) 250,000
 *   [Titanium:]( {{< relref "resource/titanium.md" >}}) 125,000
 
-Reaching the **125,000 Titanium cap** is often a significant hurdle for players. The sources recommend increasing storage capacity through [Paragon]( {{< relref "resource/paragon.md" >}}), **Cryostations**, **Moon Bases**, and [Accelerators]( {{< relref "buildings/Accelerator.md" >}}) (with the Energy Rift upgrade) to satisfy this requirement.
+Reaching the **125,000 Titanium cap** is often a significant hurdle for players. The sources recommend increasing storage capacity through [Paragon]( {{< relref "resource/paragon.md" >}}), [Cryostations]( {{< relref "space/cryo_station.md" >}}), **Moon Bases**, and [Accelerators]( {{< relref "buildings/Accelerator.md" >}}) (with the Energy Rift upgrade) to satisfy this requirement.
 
 ### **Core Mechanics and Scaling**
 The primary function of Space Manufacturing is to provide a "Space Bonus" based on your number of Factories. 

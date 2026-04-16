@@ -1,7 +1,7 @@
 +++
 date = 2026-01-20T20:44:33.317594+11:00
 draft = false
-title = "Animal_Husbandry"
+title = "Animal Husbandry"
 
 +++
 [Animal Husbandry]( {{< relref "techs/Animal_Husbandry.md" >}}) is an early-game scientific technology that is essential for transitioning from basic survival to infrastructure development and more advanced resource management. It is unlocked after researching [Archery]( {{< relref "techs/Archery.md" >}}) and costs **500 Science**.

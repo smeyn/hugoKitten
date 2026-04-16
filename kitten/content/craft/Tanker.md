@@ -4,7 +4,7 @@ draft = false
 title = "Tanker"
 
 +++
-A [Tanker]( {{< relref "craft/Tanker.md" >}}) is a high-tier craftable resource in *Kittens Game* primarily used to expand your colony's maximum **Oil** storage capacity. Each Tanker built provides a flat increase of **+500 to the oil cap**.
+A [Tanker]( {{< relref "craft/Tanker.md" >}}) is a high-tier craftable resource in *Kittens Game* primarily used to expand your colony's maximum [Oil]( {{< relref "resource/oil.md" >}}) storage capacity. Each Tanker built provides a flat increase of **+500 to the oil cap**.
 
 ### **Acquisition and Cost**
 Tankers are unlocked by researching [Robotics]( {{< relref "techs/Robotics.md" >}}). Because they require a significant amount of materials, they are considered a relatively expensive method of increasing storage. The crafting cost for a single Tanker is:

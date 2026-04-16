@@ -1,7 +1,7 @@
 +++
 date = 2025-11-29T20:44:33.308594+11:00
 draft = false
-title = "Moon_Mission"
+title = "Moon Mission"
 
 +++
 The [Moon Mission]( {{< relref "space/Moon_Mission.md" >}}) is a pivotal space project in *Kittens Game* that involves launching a rocket to [Redmoon]( {{< relref "planet/Redmoon.md" >}}), a satellite of the planet Cath. It represents the first major step into space exploration beyond orbital deployment and is the primary gateway to the **Unobtainium Era**.

@@ -1,7 +1,7 @@
 +++
 date = "2026-03-10T23:08:39.930Z"
 draft = false
-title = "Advanced_AM_Reactors"
+title = "Advanced AM Reactors"
 +++
 **Advanced Antimatter Reactors** (Advanced AM Reactors) is a high-tier Workshop upgrade that significantly expands your civilization's maximum science capacity by enhancing space-based research structures.
 

@@ -17,6 +17,6 @@ Prices:
   * Alloy: 3500
   * Tanker: 500
 
-Unlocks **Space Shuttle**  
+Unlocks [Space Shuttle]( {{< relref "space/Space_Shuttle.md" >}})  
 
 Unlocks Space Shuttle. Need to be staffed with a crew of two kittens

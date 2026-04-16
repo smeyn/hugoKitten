@@ -21,7 +21,7 @@ The main function of the Ivory Temple is to convert large amounts of the rare re
 
 *   **Conversion:** It **converts ivory to minerals**.
 *   **Resource Rates:** It consumes **100 Ivory per tick** and produces **1 Mineral per tick**.
-*   **Catpower:** It also increases maximum Catpower storage by **+10**.
+*   [Catpower:]( {{< relref "resource/cat_power.md" >}}) It also increases maximum Catpower storage by **+10**.
 
 ### Upgrades and Automation
 

@@ -4,7 +4,7 @@ draft = false
 title = "Templars"
 
 +++
-[Templars]( {{< relref "religion/Templars.md" >}}) is a high-tier religious upgrade available under the **Order of the Sun** in the Religion tab. It specifically enhances the utility of [Temples]( {{< relref "buildings/Temple.md" >}}) by increasing the colony’s maximum **Catpower** capacity.
+[Templars]( {{< relref "religion/Templars.md" >}}) is a high-tier religious upgrade available under the **Order of the Sun** in the Religion tab. It specifically enhances the utility of [Temples]( {{< relref "buildings/Temple.md" >}}) by increasing the colony’s maximum [Catpower]( {{< relref "resource/cat_power.md" >}}) capacity.
 
 ### **Acquisition and Costs**
 To unlock the Templars upgrade, you must first research [Theology]( {{< relref "techs/Theology.md" >}}) and accumulate a significant amount of religious capital.

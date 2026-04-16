@@ -1,14 +1,14 @@
 +++
 date = 2025-11-29T20:44:33.312594+11:00
 draft = false
-title = "Rorschach"
+title = "Rorschach Mission"
 
 +++
 [Rorschach]( {{< relref "space/Rorschach.md" >}})   is a late-game celestial body in the Helios star system, specifically described as the **biggest comet near Helios**. 
 
 ### **The Rorschach Mission**
 To explore Rorschach, you must first successfully complete the [Kairo Mission]( {{< relref "space/Kairo_Mission.md" >}}). The mission represents a significant investment in late-game resources:
-*   **Starcharts:** 15,000
+*   [Starcharts:]( {{< relref "resource/star_charts.md" >}}) 15,000
 *   [Titanium:]( {{< relref "resource/titanium.md" >}}) 80,000
 *   [Science:]( {{< relref "resource/science.md" >}}) 500,000
 *   [Kerosene:]( {{< relref "resource/kerosene.md" >}}) 25,000.

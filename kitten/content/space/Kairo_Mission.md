@@ -1,14 +1,14 @@
 +++
 date = 2025-11-29T20:44:33.312594+11:00
 draft = false
-title = "Kairo_Mission"
+title = "Kairo Mission"
 
 +++
 The [Kairo Mission]( {{< relref "space/Kairo_Mission.md" >}}) is a late-game space project that involves travelling to a dwarf planet located at the far end of the Cath solar system. Completing this mission is a crucial step for advancing your colony’s scientific capacity and transitioning into the relic-production phase of the game.
 
 ### **Mission Logistics and Costs**
 To launch a rocket to Kairo, you must have successfully completed the [T-minus mission]( {{< relref "space/T-minus_Mission.md" >}}). The resource requirements for the launch are substantial:
-*   **Starcharts:** 5,000
+*   [Starcharts:]( {{< relref "resource/star_charts.md" >}}) 5,000
 *   [Titanium:]( {{< relref "resource/titanium.md" >}}) 20,000
 *   [Science:]( {{< relref "resource/science.md" >}}) 300,000
 *   [Kerosene:]( {{< relref "resource/kerosene.md" >}}) 7,500

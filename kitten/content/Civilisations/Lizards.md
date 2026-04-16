@@ -48,5 +48,5 @@ Lizard trades for Wood are subject to seasonal adjustments, making it most effic
 Once you reach Lizard Embassy Level 20 and research the [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) Metaphysics upgrade, you unlock specialized foreign Policy/ related to the Lizard civilization:
 
 1.  **Lizard Relations: Ecologists:** Reduces pollution by 5%.
-2.  **Lizard Relations: Priests:** Causes Manuscripts to grant maximum faith equal to the maximum culture they grant (though this reduces maximum culture by 25%).
+2.  **Lizard Relations: [Priests] ( {{<relref "priest.md" >}} ):** Causes Manuscripts to grant maximum faith equal to the maximum culture they grant (though this reduces maximum culture by 25%).
 3.  **Lizard Relations: Diplomats:** Increases the standing ratio by +0.1% per Embassy built with neutral races, which can help those neutral races become Friendly.

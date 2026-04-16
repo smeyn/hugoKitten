@@ -13,11 +13,11 @@ Here is a comprehensive overview of the Griffins:
 
 *   [Attitude:]( {{< relref "Civilisations/Attitude.md" >}}) Griffins are a **Hostile** civilization, starting with an attitude of **-15%**. Hostile civilizations carry a risk of giving you no resources at all during a trade.
 *    Griffins **buy Wood** (minimum 500 units).
-*   **Primary Export:** They sell **Iron** (minimum 250 units, 100% chance).
+*   **Primary Export:** They sell [Iron]( {{< relref "resource/iron.md" >}}) (minimum 250 units, 100% chance).
 *   **Secondary Exports (Unlocked via Embassies):**
     *   [Steel]( {{< relref "craft/Steel.md" >}}) (25 units, 25% chance) at Embassy Level 5. The sources note that with enough embassies, Griffins are a great way to collect a lot of [steel]( {{< relref "craft/Steel.md" >}}).
     *   [Gear]( {{< relref "craft/Gear.md" >}}) (5 units, 10% chance) at Embassy Level 10.
-*   **Seasonal Optimization:** Trading for **Iron** is optimally performed during **Autumn**, which provides a **+35% Amount Modifier**. Conversely, the trade is worst during Spring (-25%) and Winter (-20%).
+*   **Seasonal Optimization:** Trading for [Iron]( {{< relref "resource/iron.md" >}}) is optimally performed during **Autumn**, which provides a **+35% Amount Modifier**. Conversely, the trade is worst during Spring (-25%) and Winter (-20%).
 
 ### Strategic Role
 

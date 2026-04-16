@@ -17,7 +17,7 @@ Here is a comprehensive breakdown of the Oil Well based on the sources:
 
 ### 2. Purpose and Production
 
-The Oil Well's primary function is to introduce and produce **Oil**, which is crucial for subsequent advanced crafting and energy production.
+The Oil Well's primary function is to introduce and produce [Oil]( {{< relref "resource/oil.md" >}}), which is crucial for subsequent advanced crafting and energy production.
 
 *   **Output:** The Oil Well produces **+0.02 Oil per Tick**.
 *   **Storage:** Each Oil Well provides **+1500 Max Oil** capacity.

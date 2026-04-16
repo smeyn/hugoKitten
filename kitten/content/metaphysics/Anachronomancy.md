@@ -22,14 +22,14 @@ Anachronomancy is the gateway to the "Mid-Game" and the **Relic/Time Crystal eco
 
 1.  **Enabling Chronospheres:** Since Chronophysics is the prerequisite for building [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}), having it available at the start of a run allows you to begin using temporal mechanics much earlier in your progression.
 2.  **Unicorn Era Progression:** It is essential for the "Unicorn Era," where players sacrifice unicorns and alicorns to generate Time Crystals. Anachronomancy ensures that this effort isn't wasted when you decide to reset for more Paragon.
-3.  **Efficiency Milestone:** Strategic guides typically suggest purchasing Anachronomancy after you have secured primary price-reduction upgrades like **Renaissance**. It allows you to "experiment with time crystals" without the risk of losing your investment.
+3.  **Efficiency Milestone:** Strategic guides typically suggest purchasing Anachronomancy after you have secured primary price-reduction upgrades like [Renaissance]( {{< relref "metaphysics/renaissance.md" >}}). It allows you to "experiment with time crystals" without the risk of losing your investment.
 
 ### **Summary of Carry-Over Mechanics**
 | Resource/Tech | Without Anachronomancy | With Anachronomancy |
 | :--- | :--- | :--- |
 | [Time Crystals]( {{< relref "resource/Time_Crystals.md" >}}) | Lost | **Saved** |
 | [Chronophysics]( {{< relref "techs/Chronophysics.md" >}}) | Must be re-researched | **Saved/Auto-Researched** |
-| **Temporal Flux** | Saved | Saved |
+| [Temporal Flux]( {{< relref "guides/temporal-flux.md" >}}) | Saved | Saved |
 | **Chronosphere Resources** | Depends on CS count | Depends on CS count |
 
 Would you like to know more about how to best use the Time Crystals that Anachronomancy helps you save?

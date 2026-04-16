@@ -13,7 +13,7 @@ Here is a comprehensive overview of the Lumber Mill, drawing on the provided sou
 
 *   **Prerequisite:** The Lumber Mill building is unlocked by researching the [Construction]( {{< relref "construction.md" >}}) technology.
 *   **Cost:** The base cost to construct a Lumber Mill is **100 Wood, 50 Iron, and 250 Minerals**.
-*   **Context:** The walkthrough notes that Wood accumulates "reeeaallyyyy slowlyyyy" until you invest in Lumber Mills. To construct them, you must first research [Metal Working]( {{< relref "metal_working.md" >}}) to gain access to [Smelters]( {{< relref "buildings/Smelter.md" >}}), which produce the necessary **Iron**.
+*   **Context:** The walkthrough notes that Wood accumulates "reeeaallyyyy slowlyyyy" until you invest in Lumber Mills. To construct them, you must first research [Metal Working]( {{< relref "metal_working.md" >}}) to gain access to [Smelters]( {{< relref "buildings/Smelter.md" >}}), which produce the necessary [Iron]( {{< relref "resource/iron.md" >}}).
 
 ### 2. Purpose and Effects
 
@@ -39,6 +39,6 @@ Lumber Mills are strategically important for several reasons in the early and mi
 
 *   **Early Iron Management:** In the early game, before later technologies are available, Lumber Mills are recommended as a way to **use up excess Iron**.
 *   **Wood Bottleneck Solution:** They are necessary to increase Wood output to a sustainable rate, which supports the construction of other early buildings like Barns, Huts, and Libraries.
-*   **Iron Will Mode:** In the **Iron Will** challenge, where you cannot build housing, the Lumber Mill's Catnip Refinement bonus is particularly important as the [Clear Cutting]( {{< relref "clear_cutting.md" >}}) policy provides a similar bonus.
+*   **Iron Will Mode:** In the [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) challenge, where you cannot build housing, the Lumber Mill's Catnip Refinement bonus is particularly important as the [Clear Cutting]( {{< relref "clear_cutting.md" >}}) policy provides a similar bonus.
 
 The priority placed on building Lumber Mills is highlighted by the advice to hold off on building steel until the Coal upgrades are secured, noting that players are going to need the Iron for [Lumber Mills]( {{< relref "buildings/Lumber_Mill.md" >}}) and Observatories.

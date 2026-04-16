@@ -18,7 +18,7 @@ In the late game, players must choose one of three mutually exclusive policies. 
 | Policy | Effect | Strategic Value |
 | :--- | :--- | :--- |
 | [Cosmological Libertarianism]( {{< relref "Policy/Cosmological_Libertarianism.md" >}}) | **+15% Unobtainium production** | **High.** Unobtainium is the primary bottleneck for advanced space missions and Chronospheres. |
-| [Order of the Stars]( {{< relref "Policy/Order_of_the_Stars.md" >}}) | **+20% Faith production** | **Situational.** Only recommended if your sole goal is grinding religion bonuses or Transcendence tiers. |
+| [Order of the Stars]( {{< relref "Policy/Order_of_the_Stars.md" >}}) | **+20% Faith production** | **Situational.** Only recommended if your sole goal is grinding religion bonuses or [Transcendence]( {{< relref "religion/Transcendence.md" >}}) tiers. |
 | [Technocracy]( {{< relref "Policy/Technocracy.md" >}}) | **+20% Science cap** | **Low.** Science storage is generally easy to manage via buildings like Data Centres and Bio Labs. |
 
 ### **The Unobtainium Bottleneck**

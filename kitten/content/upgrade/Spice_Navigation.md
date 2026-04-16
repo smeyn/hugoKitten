@@ -9,7 +9,7 @@ tags:
 categories:
     - Space
 ---
-Upgrade: Unlocks **Navigation Relay**. Enable you to staff kittens to explore space as a crew"
+Upgrade: Unlocks [Navigation Relay]( {{< relref "space/Navigation_Relay.md" >}}). Enable you to staff kittens to explore space as a crew"
 
 Cost:
 

@@ -4,7 +4,7 @@ draft = false
 title = 'Hyrdaulic Fracturer'
 +++
 
-A **Hydraulic Fracturer** is a high-tier space structure situated on the planet [Dune]( {{< relref "planet/Dune.md" >}}) that produces a high-pressure stream of **oil**. It is a critical component of late-game resource management, specifically for sustaining the heavy oil requirements of the **Eludium Era**.
+A **Hydraulic Fracturer** is a high-tier space structure situated on the planet [Dune]( {{< relref "planet/Dune.md" >}}) that produces a high-pressure stream of [oil]( {{< relref "resource/oil.md" >}}). It is a critical component of late-game resource management, specifically for sustaining the heavy oil requirements of the **Eludium Era**.
 
 ### **Acquisition and Costs**
 To access this building, you must first reach the Space tab by researching [Rocketry]( {{< relref "techs/Rocketry.md" >}}) and successfully complete the [Dune Mission]( {{< relref "space/Dune_Mission.md" >}}). 

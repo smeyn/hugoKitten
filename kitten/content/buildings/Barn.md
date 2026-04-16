@@ -26,7 +26,7 @@ A single Barn provides the following storage increases:
 | **Catnip** | **+5000** |
 | **Wood** | **+200** |
 | **Minerals** | **+250** |
-| **Iron** | **+50** |
+| [Iron]( {{< relref "resource/iron.md" >}}) | **+50** |
 | [Coal]( {{< relref "resource/coal.md" >}}) | **+60** |
 | [Gold]( {{< relref "resource/Gold.md" >}}) | **+10** |
 | [Titanium]( {{< relref "resource/titanium.md" >}}) | **+2** |

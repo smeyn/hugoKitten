@@ -14,7 +14,7 @@ Paragon is primarily acquired by reaching a certain population level before rese
 *   You gain Paragon upon reset if you have **more than 70 kittens** [3, 4].
 *   The reward is **one point per kitten over 70** [3].
 *   Paragon is also gained at a passive rate of **+1 for every 1,000 years** that pass in the game [3].
-*   Paragon, along with **burned paragon**, **carries over** after every game reset [5].
+*   Paragon, along with [burned paragon]( {{< relref "resource/burnedparagon.md" >}}), **carries over** after every game reset [5].
 
 ### Primary Purpose: The Metaphysics System
 
@@ -28,9 +28,9 @@ Key Metaphysics upgrades and their Paragon costs include:
 | :--- | :--- | :--- | :--- |
 | **Price Ratio Reduction** | [Enlightenment]( {{< relref "metaphysics/Enlightenment.md" >}}) | 5 [6] | Reduces all price ratios by 1% [6]. |
 | | [Golden Ratio]( {{< relref "metaphysics/Golden_Ratio.md" >}}) | 50 [9] | Reduces price ratios by approximately 1.618% [9]. |
-| | **Divine Proportion** | 100 [10] | Reduces price ratios by approximately 1.777% [10]. |
-| | **Vitruvian Feline** | 250 [10] | Reduces price ratios by 2% [10]. |
-| | **Renaissance** | 750 [10] | Reduces price ratios by 2.25% [10]. |
+| | [Divine Proportion]( {{< relref "metaphysics/divine_proportion.md" >}}) | 100 [10] | Reduces price ratios by approximately 1.777% [10]. |
+| | [Vitruvian Feline]( {{< relref "metaphysics/vitruvian_feline.md" >}}) | 250 [10] | Reduces price ratios by 2% [10]. |
+| | [Renaissance]( {{< relref "metaphysics/renaissance.md" >}}) | 750 [10] | Reduces price ratios by 2.25% [10]. |
 | **QoL/Progression** | [Diplomacy]( {{< relref "metaphysics/diplomacy.md" >}}) | 5 [10] | Races are discovered earlier and with better standing [10]. |
 | | [Anachronomancy]( {{< relref "metaphysics/Anachronomancy.md" >}}) | 125 [11] | Saves **Time Crystals and Chronophysics** technology across resets [11]. |
 | | [Megalomania]( {{< relref "metaphysics/Megalomania.md" >}}) | 10 [9] | Unlocks late-game Unicorn mechanics (Markers and Black Pyramids) [9]. |
@@ -44,12 +44,25 @@ Paragon provides substantial, permanent boosts to your civilization:
 *   **Storage Boost:** Paragon increases resource storage capacity, and this effect **never diminishes** [15]. High levels of Paragon are crucial for bypassing major storage bottlenecks [15]. Specifically, Paragon boosts **Moon Bases and Cryostations** storage by 0.1% per Paragon [16].
 *   **Space Production:** It is noted that Paragon has **no effect** on the production of space structures [17].
 
+
+### The Production Bonus Threshold
+The global production bonus increases linearly for your first 150 Paragon (1 point = +1% production)
+After this point, each additional point of Paragon provides progressively less production value:
+* 150 Paragon: +150% productivity bonus
+* 200 Paragon: +175% productivity bonus
+* 400 Paragon: +190% productivity bonus
+
+Plateau: Once you reach approximately 300 normal Paragon, additional points provide negligible increases to your production rates.
+
+The Exception: **Storage Capacity**
+Unlike the production bonus, the effectiveness of Paragon on storage never diminishes. Each point of Paragon provides a permanent +0.1% bonus to resource storage capacity. This makes high levels of Paragon (into the thousands or millions) essential for the late-game "Chrono-resets," where breaking through massive Unobtainium storage caps is the primary bottleneck.
+
 ### Burned Paragon
 
 Players have the option to "burn" Paragon, which is useful for specialized runs and stacking bonuses [4, 18]:
 
 *   **Effectiveness:** Burned Paragon has **half the effectiveness** of regular Paragon [4], but it stacks with regular Paragon [4]. The production gain from the first 75 burned Paragon gives a 1% production gain and is additive to the normal Paragon bonus [19].
-*   **Strategy:** It is suggested that players aiming for maximum efficiency burn Paragon once they reach around **400 regular Paragon** [19]. The boost from burned Paragon is particularly important in the **Iron Will** challenge mode, where the Metaphysics price ratio upgrades are still beneficial [18].
+*   **Strategy:** It is suggested that players aiming for maximum efficiency burn Paragon once they reach around **400 regular Paragon** [19]. The boost from burned Paragon is particularly important in the [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) challenge mode, where the Metaphysics price ratio upgrades are still beneficial [18].
 
 ### End Game Scaling
 

@@ -17,7 +17,7 @@ The Steamworks building is unlocked by researching the [Machinery]( {{< relref "
     *   [Energy:]( {{< relref "energy.md" >}}) Provides **+1 Energy**.
     *   [Coal:]( {{< relref "resource/coal.md" >}}) Reduces Coal consumption by **80%**.
     *   **Production Boost:** Provides a **Magneto Boost of +15%**.
-*   **Drawback:** Like other industrial buildings (Mines, Smelters, etc.), the Steamworks produces **Pollution**.
+*   **Drawback:** Like other industrial buildings (Mines, Smelters, etc.), the Steamworks produces [Pollution]( {{< relref "guides/Pollution.md" >}}).
 
 ### Strategic Purpose: Automation and Manuscript Production
 

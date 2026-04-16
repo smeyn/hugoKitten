@@ -13,7 +13,7 @@ title = "Epiphany"
 2.  **Primary Effect:** Epiphany drives a bonus that makes **future Praising** (converting Faith to Worship) significantly stronger. This bonus helps players quickly build up the [Solar Revolution]( {{< relref "religion/Solar_Revolution.md" >}}) production bonus after a reset.
 3.  **Persistence:** Epiphany is a special resource that **carries over** upon game reset, providing permanent acceleration for future runs. If you do not manually convert your Worship to Epiphany before resetting, the Worship will convert automatically with a slight penalty.
 
-### Role in Transcendence
+### Role in [Transcendence]( {{< relref "religion/Transcendence.md" >}})
 
 Epiphany is the currency used to gain **Transcendence Tiers** (TT), which are permanent religious upgrades.
 

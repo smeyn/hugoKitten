@@ -18,13 +18,13 @@ title = "Ecology"
 *   [Carbon Sequestration:]( {{< relref "upgrade/Carbon_Sequestration.md" >}}) This technology is a prerequisite for the [Carbon Sequestration]( {{< relref "upgrade/Carbon_Sequestration.md" >}}) workshop upgrade, which allows Factories to capture pollution rather than produce it.
 
 ### **Pollution Management and UI**
-Ecology significantly enhances your ability to monitor and manage **Pollution**:
+Ecology significantly enhances your ability to monitor and manage [Pollution]( {{< relref "guides/Pollution.md" >}}):
 *   **Detailed Information:** It adds more detailed statistics to the pollution indicator in the Science tab.
 *   **Building Controls:** It adds **+/- buttons** to buildings that produce pollution, allowing you to manually toggle them to manage your environmental impact.
 
 ### **Policy Integration**
 Ecology is a mandatory prerequisite for several late-game **Environmental policies**:
 *   [Conservation:]( {{< relref "Policy/Conservation.md" >}}) Provides **+5% happiness** and a **-5% reduction in pollution**.
-*   [Open Woodlands:]( {{< relref "Policy/Open_Woodlands.md" >}}) Increases **wood and mineral production by +12.5%** but increases pollution by **+5%**. In **Iron Will** mode, this policy instead provides a **4.16% bonus** to both catnip refinement and minerals from meteors.
+*   [Open Woodlands:]( {{< relref "Policy/Open_Woodlands.md" >}}) Increases **wood and mineral production by +12.5%** but increases pollution by **+5%**. In [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) mode, this policy instead provides a **4.16% bonus** to both catnip refinement and minerals from meteors.
 
-Would you like to know more about the [Carbon Sequestration]( {{< relref "upgrade/Carbon_Sequestration.md" >}}) upgrade unlocked by this tech, or are you interested in how **Pollution** levels specifically affect your catnip production?
+Would you like to know more about the [Carbon Sequestration]( {{< relref "upgrade/Carbon_Sequestration.md" >}}) upgrade unlocked by this tech, or are you interested in how [Pollution]( {{< relref "guides/Pollution.md" >}}) levels specifically affect your catnip production?

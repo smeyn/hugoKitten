@@ -8,7 +8,7 @@ title = 'Unicornmancy'
 ### **Acquisition and Cost**
 To access Unicornmancy, you must first research the [Metaphysics]( {{< relref "techs/Metaphysics.md" >}}) technology (requiring 5 Unobtainium) to unlock the Metaphysics purchase menu.
 *   **Paragon Cost:** 125 Paragon.
-*   **Strategic Timing:** Sources recommend purchasing Unicornmancy once you have secured your primary price-reduction upgrades (up to **Renaissance**) and are ready to begin serious progression into time manipulation.
+*   **Strategic Timing:** Sources recommend purchasing Unicornmancy once you have secured your primary price-reduction upgrades (up to [Renaissance]( {{< relref "metaphysics/renaissance.md" >}})) and are ready to begin serious progression into time manipulation.
 
 ### **Primary Effects**
 The upgrade provides a **10% increase** to the daily chance of the following phenomena:

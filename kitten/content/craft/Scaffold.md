@@ -14,7 +14,7 @@ The most significant strategic milestone involving scaffolds is the transition i
 
 ### **Industrial and Scientific Infrastructure**
 Scaffolds serve as a foundational material for several critical bonfire structures and religious buildings:
-*   **Observatories:** Each observatory requires **50 scaffolds**. These are essential for increasing the science cap and automating the collection of **Starcharts**.
+*   **Observatories:** Each observatory requires **50 scaffolds**. These are essential for increasing the science cap and automating the collection of [Starcharts]( {{< relref "resource/star_charts.md" >}}).
 *   **Production Buildings:** They are a required component for **Oil Wells (25 scaffolds)** and **Quarries (50 scaffolds)**, both of which are necessary for stabilizing energy and mineral supplies.
 *   **Unicorn Religion:** Building [Ziggurats]( {{< relref "buildings/Ziggurat.md" >}}) requires **50 scaffolds** each. This is the gateway structure for sacrificing unicorns to obtain **Unicorn Tears**.
 

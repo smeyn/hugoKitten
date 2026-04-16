@@ -14,7 +14,7 @@ To unlock this upgrade, you must first research the [Nanotechnology]( {{< relref
 
 ### **Core Effect: Skill Enhancement**
 The primary function of Augmentations is to make kitten job skills **100% more effective**.
-*   **Broad Impact:** Because it targets the skill system itself, this upgrade provides a productivity increase for **all jobs**, including Woodcutters, Farmers, Scholars, Hunters, Miners, Priests, and Geologists.
+*   **Broad Impact:** Because it targets the skill system itself, this upgrade provides a productivity increase for **all jobs**, including Woodcutters, Farmers, Scholars, Hunters, Miners, [Priests] ( {{<relref "priest.md" >}}), and Geologists.
 *   **Mechanical Scaling:** The bonus from Augmentations **multiplies** with the base skill bonus a kitten has earned through experience (such as the +18.75% bonus from a Master-level kitten).
 *   **Additive Stacking:** This 100% boost is **additive** with the [Logistics]( {{< relref "upgrade/Logistics.md" >}}) workshop upgrade, which provides a separate 15% increase to skill effectiveness. When both are researched, your kittens' total skill-based production bonuses are increased by 115%.
 

@@ -96,7 +96,7 @@ The initial default storage capacity for Culture is **100** [16]. This limit can
 | [Ziggurat]( {{< relref "ziggurat.md" >}}) | +8% Max Culture [19] | Construction [18] |
 | [Manuscripts]( {{< relref "craft/Manuscript.md" >}}) | Provides a minor bonus (subject to diminishing returns) [2]. | N/A |
 | **Data Center (Library Upgrade)** | +250 [10]. | Electronics [8] |
-| **Broadcast Tower (Amphitheatre Upgrade)** | +($300 \times$ Energy Surplus Ratio) [10]. | Electronics [8] |
+| **Broadcast Tower (Amphitheatre Upgrade)** | +($300*$ Energy Surplus Ratio) [10]. | Electronics [8] |
 | **Basilica (Temple Upgrade)** | Temples gain +125 max culture (+50 per additional level via Transcendence) [13]. | Worship 10K [13] |
 | **Policy: City On A Hill** | +5% culture cap [20]. | Isolationism [20] |
 | **Data Center/Bio Lab Synergy:** | [Uplink]( {{< relref "uplink.md" >}}) increases the max culture of Data Centers by +1% per Bio Lab [21]. | Satellites [21] |

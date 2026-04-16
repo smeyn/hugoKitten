@@ -1,7 +1,7 @@
 ---
 date: '2025-12-22 18:05:39.096889+11:00'
 draft: false
-title: Advanced_Automation
+title: Advanced Automation
 ---
 
 The term [Advanced Automation]( {{< relref "upgrade/Advanced_Automation.md" >}}) refers to a crucial **Workshop upgrade** in *Kittens Game* that enhances the efficiency of your industrial production system.

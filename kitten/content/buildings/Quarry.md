@@ -14,7 +14,7 @@ The [Quarry]( {{< relref "buildings/Quarry.md" >}}) is a bonfire building unlock
 *   [Coal Production:]( {{< relref "resource/coal_production.md" >}}) It generates **+0.015 coal per tick** (0.075 per second). This makes it a significant source of passive coal alongside Smelters and Mines.
 
 ### **Environmental Impact**
-Quarries are listed as industrial structures that contribute to **pollution**. High levels of pollution can eventually reduce catnip production, kitten happiness, and arrival speeds.
+Quarries are listed as industrial structures that contribute to [pollution]( {{< relref "guides/Pollution.md" >}}). High levels of pollution can eventually reduce catnip production, kitten happiness, and arrival speeds.
 
 ### **Workshop Upgrades and Uranium**
 Quarries are essential for the transition into the space era through two specific workshop upgrades:

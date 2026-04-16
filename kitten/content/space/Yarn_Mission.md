@@ -1,7 +1,7 @@
 +++
 date = 2025-11-29T20:44:33.312594+11:00
 draft = false
-title = "Yarn_Mission"
+title = "Yarn Mission"
 
 +++
 The [Yarn Mission]( {{< relref "space/Yarn_Mission.md" >}}) is a late-game space exploration project that involves travelling to Yarn, a **Class M planet** within the Helios star system. It is described as having a moderate climate, oxygen atmosphere, and seas.

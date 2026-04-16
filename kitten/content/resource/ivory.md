@@ -8,7 +8,7 @@ title = 'Ivory'
 ### **How to Obtain Ivory**
 There are three primary ways to accumulate ivory throughout the different phases of the game:
 
-*   **Hunting:** Once you research [Archery]( {{< relref "techs/Archery.md" >}}), you can send kittens to hunt using 100 catpower. Each hunt has a $(44 + 2 \times \text{hunting bonus})\%$ chance to yield ivory. Researching workshop upgrades like **Bolas, Hunting Armour, and Nanosuits** increases the amount of ivory retrieved per hunt.
+*   **Hunting:** Once you research [Archery]( {{< relref "techs/Archery.md" >}}), you can send kittens to hunt using 100 catpower. Each hunt has a $(44 + 2* **hunting bonus**)\%$ chance to yield ivory. Researching workshop upgrades like **Bolas, Hunting Armour, and Nanosuits** increases the amount of ivory retrieved per hunt.
 *   [Mints:]( {{< relref "buildings/Mint.md" >}}) These industrial buildings provide a way to **automate** ivory production. When active, a Mint consumes catpower and gold to produce ivory at a rate of **0.0021% of your maximum catpower** per tick.
 *   **Ivory Meteors:** In the late game, building [Ivory Citadels]( {{< relref "ziggurat/Ivory_Citadel.md" >}}) enables a random astronomical event called an "Ivory Meteor". These events have a 0.05% chance of occurring per game-day for each citadel and provide a bulk amount of ivory. This is considered an excellent "AFK" source of the resource.
 

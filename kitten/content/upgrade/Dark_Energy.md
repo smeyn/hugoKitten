@@ -1,7 +1,7 @@
 +++
 date = 2025-11-29T20:44:33.331594+11:00
 draft = false
-title = "Dark_Energy"
+title = "Dark Energy"
 
 +++
 [Dark Energy]( {{< relref "upgrade/Dark_Energy.md" >}}) is a specific **Workshop upgrade** in the late game that dramatically improves the utility of your [Accelerators]( {{< relref "buildings/Accelerator.md" >}}). It is part of the "Energy Rifts" upgrade chain, which transforms Accelerators from simple uranium producers into massive storage silos.

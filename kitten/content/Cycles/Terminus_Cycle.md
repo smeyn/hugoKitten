@@ -10,14 +10,14 @@ The effects of the Terminus cycle are activated only after researching specific 
 
 *   **Numerology Effects:** Researching **Numerology** activates production and storage modifiers for space-based structures:
     *   [Sunlifter:]( {{< relref "space/sunlifter.md" >}}) Energy output is reduced by **-50%**.
-    *   **Cryostations:** Storage capacity is increased by **+20%**.
-*   **Numeromancy (Festival) Effects:** If a festival is held during this cycle and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is researched, the village receive a **2x multiplier (doubled income)** for **Oil**.
+    *   [Cryostations:]( {{< relref "space/cryo_station.md" >}}) Storage capacity is increased by **+20%**.
+*   **Numeromancy (Festival) Effects:** If a festival is held during this cycle and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is researched, the village receive a **2x multiplier (doubled income)** for [Oil]( {{< relref "resource/oil.md" >}}).
 
 ### **Space Exploration Context**
 The cycle is named after the planet **Terminus**, which is reached through the [T-minus Mission]( {{< relref "space/T-minus_Mission.md" >}}).
 *   **Planet Description:** Terminus is described as a supermassive ice giant located at the far end of the Helios solar system.
 *   **Mission Requirements:** Reaching it requires **2,500 starcharts, 12,000 titanium, 225,000 science, and 750 kerosene**.
-*   **Unlocks:** Completing the mission unlocks the [Kairo Mission]( {{< relref "space/Kairo_Mission.md" >}}), the **Cryostation** structure, and access to the **T-Minus planet**.
+*   **Unlocks:** Completing the mission unlocks the [Kairo Mission]( {{< relref "space/Kairo_Mission.md" >}}), the [Cryostation]( {{< relref "space/cryo_station.md" >}}) structure, and access to the **T-Minus planet**.
 
 ### **Strategic Importance**
 In the late game, the Terminus cycle is highly valued for its bonus to **Unobtainium storage capacity**:

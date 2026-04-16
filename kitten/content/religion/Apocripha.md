@@ -20,7 +20,7 @@ Apocrypha unlocks the ability to **"Adore the Galaxy"**. This action converts **
 *   **Reset Carry-over:** Epiphany is a critical resource because it **carries over** upon game reset.
 *   **Worship Loss:** Although Apocrypha allows Worship to convert into Epiphany (with a slight penalty) upon a hard game reset, players are advised that it is **better to manually Adore the Galaxy** before resetting to maximise the benefit. If you forget to manually convert, you won't lose *much* of the Worship.
 
-### 3. Relationship with Transcendence
+### 3. Relationship with [Transcendence]( {{< relref "religion/Transcendence.md" >}})
 
 Apocrypha is integral to the Transcendence system, which is essential for maximizing permanent gains:
 

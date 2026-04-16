@@ -16,7 +16,7 @@ Zebras are primarily sought after for their critical resource exports:
 *   **Acquisition and Attitude:** Zebras are a **Hostile** civilization with an initial attitude of **-30%**. They are unlocked once you have **1 Trade Ship**. Since they are hostile, they have a chance of giving you no resources at all during a trade.
 *   **Trade Mitigation:** The penalty from Zebra hostility can be negated by building a sufficient number of [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}) (85 posts, or 58 with the Diplomacy Metaphysics upgrade).
 *   **Resources Traded:** Zebras **buy Slab** (50 minimum). In return, they sell three critical resources:
-    *   **Iron** (300 minimum amount).
+    *   [Iron]( {{< relref "resource/iron.md" >}}) (300 minimum amount).
     *   [Plate]( {{< relref "resource/plate.md" >}}) (2 minimum, with a 65% chance).
     *   [Titanium]( {{< relref "resource/titanium.md" >}}) (amount is calculated based on the number of Trade Ships you possess: `(0.03 * Trade Ships) + 1.5`).
     *   They also offer [Alloy]( {{< relref "craft/Alloy.md" >}}) (0.25 minimum, 5% chance) once you reach Embassy Level 5.
@@ -35,9 +35,9 @@ Zebras are associated with several Policy/ and specialized upgrades:
 
 ### Role in Iron Will (IW) Mode
 
-In the specialized **Iron Will** challenge (a mode played without kittens or housing), Zebras adopt a unique and critical function:
+In the specialized [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) challenge (a mode played without kittens or housing), Zebras adopt a unique and critical function:
 
-*   **Job Replacement:** In IW mode, [Zebras]( {{< relref "Civilisations/zebras.md" >}}) are categorized as a **Special Resource** that acts as [hunters]( {{< relref "job/Hunter.md" >}}) to replace the absent kitten population, generating **Catpower**. Catpower is essential for hunting, which yields [Gold]( {{< relref "resource/Gold.md" >}}) (due to the Gold Ore upgrade effect in IW mode) and [Ivory]( {{< relref "resource/ivory.md" >}}).
+*   **Job Replacement:** In IW mode, [Zebras]( {{< relref "Civilisations/zebras.md" >}}) are categorized as a **Special Resource** that acts as [hunters]( {{< relref "job/Hunter.md" >}}) to replace the absent kitten population, generating [Catpower]( {{< relref "resource/cat_power.md" >}}). Catpower is essential for hunting, which yields [Gold]( {{< relref "resource/Gold.md" >}}) (due to the Gold Ore upgrade effect in IW mode) and [Ivory]( {{< relref "resource/ivory.md" >}}).
 *   **Acquisition:** You gain one zebra after researching [Archery]( {{< relref "techs/Archery.md" >}}). Players often perform **short reset runs (6 to 10 runs)** solely to rush Archery and accumulate .
 *   **Zebra Limit:** The maximum zebra limit can be increased by **1** every time you research [Archery]( {{< relref "techs/Archery.md" >}}) and reset (up to 10 or 11 initially). The limit also increases based on the amount of science spent in the previous run.
 *    While a higher zebra count is desired to speed up hunting and catpower generation, diminishing returns on catpower production start to set in .

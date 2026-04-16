@@ -4,7 +4,7 @@ draft = false
 title = "Order Of The Stars"
 
 +++
-[Order of the Stars]( {{< relref "Policy/Order_of_the_Stars.md" >}}) is a late-game **Government policy** that focuses on accelerating religious progression by increasing **Faith production**. It represents a shift where priests take control of the government after the horrors of deep space are discovered.
+[Order of the Stars]( {{< relref "Policy/Order_of_the_Stars.md" >}}) is a late-game **Government policy** that focuses on accelerating religious progression by increasing **Faith production**. It represents a shift where [Priests] ( {{<relref "priest.md" >}}) take control of the government after the horrors of deep space are discovered.
 
 ### **Core Mechanics and Costs**
 *   **Cost:** 150,000 Culture.
@@ -19,7 +19,7 @@ title = "Order Of The Stars"
 Choosing Order of the Stars is a highly specific strategic decision depending on your current run goals:
 
 *   **The Religion Grind:** This policy is the ideal choice for runs where your primary objective is to work on **religious bonuses** and grind **Transcendence tiers**. Because faith production is naturally slow, the +20% boost is significant for reaching high tiers like TT15, which is a major gateway for late-game time crystal production.
-*   **Leadership Flexibility:** Although the policy restricts leaders to Priests, it is noted in endgame guides that the policy remains effective even if you choose to have **no leader assigned** at all.
+*   **Leadership Flexibility:** Although the policy restricts leaders to [Priests] ( {{<relref "priest.md" >}}), it is noted in endgame guides that the policy remains effective even if you choose to have **no leader assigned** at all.
 *   **Comparison with Alternatives:** 
     *   Most players prefer [Cosmological Libertarianism]( {{< relref "Policy/Cosmological_Libertarianism.md" >}}) because the need for Unobtainium is often more pressing than Faith in the late game.
     *   [Technocracy]( {{< relref "Policy/Technocracy.md" >}}) is generally avoided because science storage can be easily increased through other buildings and upgrades, making it less valuable than a production boost.

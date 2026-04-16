@@ -14,10 +14,10 @@ Because it is a pinnacle endgame structure, the barriers to entry are significan
 
 ### **Core Effects and Multipliers**
 Each level of Blazar provides stacking bonuses to several critical late-game mechanics:
-*   **Resource Retrieval:** Improves effectiveness by **2%**. This is vital for "shatter engines," as it increases the resources gained when you skip years using Time Crystals.
+*   [Resource Retrieval:]( {{< relref "upgrade/resource-retrieval.md" >}}) Improves effectiveness by **2%**. This is vital for "shatter engines," as it increases the resources gained when you skip years using Time Crystals.
 *   **Time Manipulation:** Improves [Chronomancy]( {{< relref "metaphysics/Chronomancy.md" >}}) by **2.5%**.
 *   **Unicorn Generation:** Improves [Unicornmancy]( {{< relref "metaphysics/Unicornmancy.md" >}}) by **2.5%**.
-*   **Dark Future Mitigation:** Improves **Time Impedance** by **10%**. This helps suppress the temporal penalties encountered once your calendar year exceeds 40,000.
+*   **Dark Future Mitigation:** Improves [Time Impedance]( {{< relref "upgrade/time-impedance.md" >}}) by **10%**. This helps suppress the temporal penalties encountered once your calendar year exceeds 40,000.
 
 ### **Strategic Utility**
 The Blazar is primarily used to transition into the **"Type 2 Relic Engine"** and beyond. 

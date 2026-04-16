@@ -4,7 +4,7 @@ draft = false
 title = "Kerosene Resource"
 
 +++
-[Kerosene]( {{< relref "resource/kerosene.md" >}}) is a high-tier craftable resource in *Kittens Game* that serves as the essential **rocket fuel** for late-game space exploration. It is produced by refining **oil** and is required to fund most space missions and construct advanced orbital infrastructure.
+[Kerosene]( {{< relref "resource/kerosene.md" >}}) is a high-tier craftable resource in *Kittens Game* that serves as the essential **rocket fuel** for late-game space exploration. It is produced by refining [oil]( {{< relref "resource/oil.md" >}}) and is required to fund most space missions and construct advanced orbital infrastructure.
 
 ### **Acquisition and Cost**
 *   **Unlocking:** You must research the [Oil Processing]( {{< relref "techs/Oil_Processing.md" >}}) technology (215k Science, 150 Blueprints), which is available only after completing [Rocketry]( {{< relref "techs/Rocketry.md" >}}).

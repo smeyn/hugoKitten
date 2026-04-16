@@ -6,7 +6,7 @@ title = 'IronWill'
 **Iron Will (IW)** is a specialised gameplay mode in *Kittens Game* where the colony operates without any kitten housing or population. Entering this mode requires resetting the game with **zero Chronospheres** and avoiding the construction of Huts, Log Houses, or Mansions; building any housing immediately exits the mode.
 
 ### **The Zebra Accumulation Loop**
-The primary engine of an Iron Will run is the **Zebra**, which replaces kittens as hunters and provides **Catpower**. 
+The primary engine of an Iron Will run is the **Zebra**, which replaces kittens as hunters and provides [Catpower]( {{< relref "resource/cat_power.md" >}}). 
 *   **Initial Discovery:** Zebras begin to appear only after researching [Archery]( {{< relref "techs/Archery.md" >}}).
 *   **Zebra Farming Strategy:** To build a viable foundation, players should research Archery and then **immediately reset**. Each reset performed after reaching Archery in IW increases the maximum Zebra limit for the next run by one.
 *   **The 50–60 Zebra Target:** Strategic guides recommend repeating this "Archery reset" loop 6 to 10 times to accumulate **50–60 Zebras**. This provides a permanent, efficient Catpower source that bypasses the need for food management, significantly accelerating mid-game economic stability.
