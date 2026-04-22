@@ -19,7 +19,7 @@ CLEAR_BEFORE = True
 bold_regex = re.compile(r'\*\*(.*?)\*\*')
 
 
-def get_existing_files (source_dir:str)->set:
+def get_existing_files (source_dir:str)->dict:
     result = {}
     offset = len(source_dir.split('/'))
     for r, _, fnames in os.walk(source_dir):
@@ -30,9 +30,8 @@ def get_existing_files (source_dir:str)->set:
                     rel_path = os.path.join(subpath, fname)
                 else:
                     rel_path =  fname
-                result[fname.lower()] = rel_path
+                result[fname.lower().replace('-','').replace('_','')] = rel_path
     return result
-
 
 
 def upgrade_file(path: str, source_dir, overwrite:bool, destination:str|None, backup:bool=False)->None:    
@@ -49,25 +48,25 @@ def upgrade_file(path: str, source_dir, overwrite:bool, destination:str|None, ba
         original_text = match.group(1)
         
         # Clean the link text to check for file existence.
-        link_text_base = original_text.lower().replace(':', '').replace(' ', '_')
+        link_text_base = original_text.lower().replace(':', '')
         
         # The filename to check for existence must match the cleaned names in the set
-        filename_to_check = link_text_base
-        if not filename_to_check.endswith('.md'):
-            filename_to_check += '.md'
+        candidate_filename = link_text_base.replace(' ','')
+        if not candidate_filename.endswith('.md'):
+            candidate_filename += '.md'
 
         # Check if the cleaned file exists in our set
-        if filename_to_check in existing_files:
+        if candidate_filename in existing_files:
             # It exists, so create the Hugo relref link.
             # The relref link itself should  contain the .md extension.
             # return f'[{original_text}]({{< relref "{link_text_base}" >}})'
             nr_changes += 1
-            return f'[{original_text}]( '+ '{{< relref "' + existing_files[filename_to_check] + '" >}})'
-        elif filename_to_check[:-3].endswith('s'):
-            filename_to_check=  filename_to_check[:-4] + '.md'
-            if filename_to_check in existing_files:
+            return f'[{original_text}]( '+ '{{< relref "' + existing_files[candidate_filename] + '" >}})'
+        elif candidate_filename[:-3].endswith('s'):
+            candidate_filename=  candidate_filename[:-4] + '.md'
+            if candidate_filename in existing_files:
                 nr_changes += 1
-                return f'[{original_text}]( '+ '{{< relref "' + existing_files[filename_to_check] + '" >}})'
+                return f'[{original_text}]( '+ '{{< relref "' + existing_files[candidate_filename] + '" >}})'
         # It doesn't exist, so return the original bolded text
         return match.group(0)
     

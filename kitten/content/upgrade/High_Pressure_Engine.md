@@ -1,19 +1,39 @@
 +++
-date = 2025-11-30T15:28:26.676864+11:00
-draft = true
+date = "2026-04-22T20:16:29.779Z"
+draft = false
 title = "High_Pressure_Engine"
-
 +++
 
 The [High Pressure Engine]( {{< relref "upgrade/High_Pressure_Engine.md" >}}) is a Workshop upgrade available in *Kittens Game*.
+ 
 
-Here are the details regarding the upgrade:
+### How to Unlock and Craft
+To see this upgrade in your [Workshop]( {{< relref "buildings/Workshop.md" >}}), you must first meet the technical prerequisites:
 
-*   **Prerequisite Technology:** This upgrade is unlocked by researching the [Steel]( {{< relref "craft/Steel.md" >}}) technology.
-*   **Cost:** To purchase the High Pressure Engine, you need **20,000 Science**, **25 Gears**, and **5 Blueprints**.
-*   **Effect:** The purpose of the High Pressure Engine is to **reduce the coal consumption of Steamworks by 20%**.
-*   **Building Context:** It is one of the upgrades associated with the [Steamworks]( {{< relref "buildings/Steamworks.md" >}}) building, which itself is unlocked by the [Machinery]( {{< relref "techs/machinery.md" >}}) technology.
+* **Prerequisite Tech:** You must research [Chemistry]( {{< relref "techs/Chemistry.md" >}}).
+* **Prerequisite Building:** You need to have at least one [Steamworks]( {{< relref "buildings/Steamworks.md" >}}) built.
+* **Cost:** * **25,000 Gear**
+    * **20,000 Steel**
+    * **5,000 Blueprint**
 
-This upgrade is crucial for improving the efficiency of your Steamworks, as Steamworks inherently consume Coal to operate and produce handy items. Reducing their coal usage by 20% helps mitigate the consumption penalty associated with industrial buildings.
+### Key Benefits
+The High Pressure Engine is a "quality of life" upgrade that fundamentally changes how your Steamworks function:
 
-For context, the High Pressure Engine is one of two upgrades specifically designed to reduce the Coal Production Penalty of Steamworks; the other is the **Fuel Injector**.
+* **Steamworks Efficiency:** It increases the effectiveness of your Steamworks' automated tasks.
+* **Coal Consumption:** Most importantly, it **reduces the coal consumption** of your Steamworks by **20%**. This is vital for maintaining a positive coal balance as you scale up your steel production.
+* [Logistics:]( {{< relref "upgrade/Logistics.md" >}}) It provides a **+20% bonus** to the effectiveness of your [Magnetos]( {{< relref "buildings/Magneto.md" >}}) when Steamworks are active. Since Magnetos provide a global production boost, this upgrade effectively raises your entire civilization's resource output.
+
+---
+
+### Strategic Impact
+By the time you are looking at Enriched Uranium and dealing with Temporal Distortion, the High Pressure Engine should be a core part of your infrastructure.
+
+1.  **Steel Production:** Because it lowers coal costs, you can run more Steamworks, which in turn automates more [Steel]( {{< relref "craft/Steel.md" >}}) production via the "Advanced Automation" upgrade.
+2.  **Power Synergy:** When combined with Magnetos, this upgrade is one of the most efficient ways to boost production without needing extra kittens. 
+3.  **Late Game Utility:** Even in the "Dark Future," the efficiency gained here helps keep your basic resource floor high while you focus your kittens on specialized jobs like [Engineers]( {{< relref "job/Engineer.md" >}}) or **Scientists**.
+
+
+
+Since you've been asking about high-level resources like [Enriched Uranium]( {{< relref "upgrade/Enriched_Uranium.md" >}}), are you finding that your [Coal]( {{< relref "resource/coal.md" >}}) or [Steel]( {{< relref "craft/Steel.md" >}}) production is currently a bottleneck for building more [Reactors]( {{< relref "buildings/Reactor.md" >}})?
+
+If you like, I can help you calculate how many more [Magnetos]( {{< relref "buildings/Magneto.md" >}}) you should build to maximize the production bonus from this upgrade. Do you want me to do that?

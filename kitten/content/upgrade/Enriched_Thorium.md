@@ -1,8 +1,7 @@
 +++
-date = 2025-11-29T20:44:33.347594+11:00
-draft = true
+date = "2026-04-22T20:12:43.654Z"
+draft = false
 title = "Enriched Thorium"
-
 +++
 [Enriched Thorium]( {{< relref "upgrade/Enriched_Thorium.md" >}}) is a late-game Workshop upgrade that improves the efficiency of your [Reactors]( {{< relref "buildings/Reactor.md" >}}) when they are running on thorium fuel.
 

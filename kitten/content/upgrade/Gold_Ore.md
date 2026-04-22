@@ -1,8 +1,7 @@
 +++
-date = 2025-11-29T20:44:33.338594+11:00
-draft = true
+date = "2026-04-22T20:15:33.246Z"
+draft = false
 title = "Gold Ore"
-
 +++
 [Gold Ore]( {{< relref "upgrade/Gold_Ore.md" >}}) is a crucial Workshop upgrade that enables your civilization to generate gold, which is a mandatory step before you can begin trading with other civilizations. 
 
