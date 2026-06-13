@@ -32,8 +32,3 @@ By the time you are looking at Enriched Uranium and dealing with Temporal Distor
 2.  **Power Synergy:** When combined with Magnetos, this upgrade is one of the most efficient ways to boost production without needing extra kittens. 
 3.  **Late Game Utility:** Even in the "Dark Future," the efficiency gained here helps keep your basic resource floor high while you focus your kittens on specialized jobs like [Engineers]( {{< relref "job/Engineer.md" >}}) or **Scientists**.
 
-
-
-Since you've been asking about high-level resources like [Enriched Uranium]( {{< relref "upgrade/Enriched_Uranium.md" >}}), are you finding that your [Coal]( {{< relref "resource/coal.md" >}}) or [Steel]( {{< relref "craft/Steel.md" >}}) production is currently a bottleneck for building more [Reactors]( {{< relref "buildings/Reactor.md" >}})?
-
-If you like, I can help you calculate how many more [Magnetos]( {{< relref "buildings/Magneto.md" >}}) you should build to maximize the production bonus from this upgrade. Do you want me to do that?

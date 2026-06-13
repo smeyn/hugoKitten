@@ -33,4 +33,3 @@ Given your current focus on [Enriched Uranium]( {{< relref "upgrade/Enriched_Ura
 
 > **Pro Tip:** Before you buy this, ensure your [Uranium]( {{< relref "resource/uranium.md" >}}) production is stable. While the upgrade itself doesn't use Uranium, the increased Unobtainium output will likely lead you to build more [Lunar Outposts]( {{< relref "planet/lunar_outpost.md" >}}), which *do* consume a large amount of Uranium over time.
 
-Are you finding that your [Uranium]( {{< relref "resource/uranium.md" >}}) stocks are keeping up with your [Lunar Outpost]( {{< relref "planet/lunar_outpost.md" >}}) consumption, or are you needing to trade with [Griffins]( {{< relref "Civilisations/Griffins.md" >}}) more frequently to stay afloat?

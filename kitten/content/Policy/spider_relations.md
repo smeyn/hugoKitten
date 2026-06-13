@@ -33,4 +33,3 @@ While trading Scaffolds for Coal is not always realistic in the early game due t
 *   **Oil Acquisition:** For players who have reached the **Titanium/Space eras**, Spiders offer a way to supplement Oil production alongside Oil Wells and Bio Labs.
 *   **Diplomacy Synergy:** If you have the [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) Metaphysics upgrade, you can further improve your standing and trade efficiency with the Spiders, though they are already friendly by default.
 
-Are you currently working toward the 125,000 science cap to unlock them, or are you looking for a more immediate way to solve a coal shortage?

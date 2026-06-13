@@ -26,4 +26,3 @@ Implementing this policy comes with two primary drawbacks:
 *   [Sustainability:]( {{< relref "Policy/Sustainability.md" >}}) Once you reach the industrial era, you can enact the [Sustainability]( {{< relref "Policy/Sustainability.md" >}}) policy to remove the -2% happiness penalty and mitigate the pollution caused by Strip Mining.
 *   [Full Industrialization:]( {{< relref "Policy/Full_Industrialization.md" >}}) Alternatively, you can lean into the industrial path, making your factories **5% more powerful** at the cost of even more pollution.
 
-Are you currently hitting a mineral bottleneck that makes this policy look tempting, or are you trying to decide between this and [Clear Cutting]( {{< relref "Policy/Clear_Cutting.md" >}}) for your first industrial push?

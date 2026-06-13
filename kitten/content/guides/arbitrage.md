@@ -30,6 +30,3 @@ In the late game, the focus shifts to system [arbitrage]( {{< relref "guides/arb
 The ultimate goal of endgame optimization is the **positive reset**. This occurs when your storage capacity for Unobtainium is high enough (at least **8.14 billion**) to build **73 or more Chronospheres**. 
 *   At **73 Chronospheres**, the amount of resources carried over into the next game exceeds the cost of building those spheres.
 *   This transforms expendable resources into **compounding capital**, meaning every reset starts the player with an exponentially larger foundation than the previous run.
-
-### **Strategic Recommendation**
-Successful progression requires moving away from linear growth and toward these geometric scaling loops. Are you currently hitting a specific resource wall—such as [Iron]( {{< relref "resource/iron.md" >}}) or [Titanium]( {{< relref "resource/titanium.md" >}})—where a trade-based arbitrage loop might help you progress faster than your current buildings allow?

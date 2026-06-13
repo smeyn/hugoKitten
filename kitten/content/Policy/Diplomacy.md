@@ -40,5 +40,3 @@ Once you have the **Diplomacy metaphysics upgrade** and reach an **Embassy level
 | **Griffin Relations: Scouts** | Increases **hunting effectiveness by 50%**. |
 | **Naga Relations: Architects** | Increases blueprint trade chance by 0.25% per embassy (up to 10%). |
 
-### **Clarifying Question**
-Are you trying to decide between the [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) and [Isolationism]( {{< relref "Policy/Isolationism.md" >}}) policies for your current run, or are you looking for the best way to resolve **Zebra hostility** to get more Titanium?

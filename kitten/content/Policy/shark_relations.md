@@ -32,4 +32,3 @@ The Sharks are a core component of the **"Winter Trade Loop,"** which players us
 ### **Hostility and Standing**
 While the Sharks are neutral, other races like the [Griffins]( {{< relref "Civilisations/Griffins.md" >}}) and [Zebras]( {{< relref "Civilisations/zebras.md" >}}) are hostile. Using [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}) and the [Caravanserai]( {{< relref "upgrade/Caravanserai.md" >}}) upgrade improves your standing with all races, but the Sharks' neutral starting point makes them a reliable trade partner even before these upgrades are maxed out.
 
-Are you currently using the Sharks to push through a cultural resource bottleneck, or are you looking to optimize your energy consumption with the Botanists policy?

@@ -7,7 +7,7 @@ draft: false
 tags: []
 categories: []
 ---
-In **Kittens Game**, **Jupiter** is a pivotal location in the **Space tab** that marks your transition from basic lunar exploration to heavy industrialization. It is the primary gateway to the "Farther Ring" of the solar system.
+In **Kittens Game**, [Jupiter]( {{< relref "space/jupiter.md" >}}) is a pivotal location in the **Space tab** that marks your transition from basic lunar exploration to heavy industrialization. It is the primary gateway to the "Farther Ring" of the solar system.
 
 ### Key Buildings & Missions
 

@@ -28,4 +28,3 @@ Strategic guides generally recommend choosing **Mysticism over Rationality** for
 *   **Culture/Faith Bottlenecks:** Culture and Faith accumulate much more slowly, especially in the early-to-mid game, making percentage bonuses for these resources far more valuable. 
 *   **Iron Scaling:** While a 5% Iron boost is helpful, industrial production is often better scaled through [Workshops]( {{< relref "buildings/Workshop.md" >}}), [Smelters]( {{< relref "buildings/Smelter.md" >}}), and [Calciners]( {{< relref "buildings/Calciner.md" >}}) rather than a dedicated philosophy policy.
 
-Are you currently hitting a specific Science cap that makes the 5% boost tempting, or are you looking to optimize your [Faith]( {{< relref "resource/faith.md" >}}) production for religious upgrades?

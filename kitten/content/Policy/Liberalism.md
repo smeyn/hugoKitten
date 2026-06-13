@@ -26,5 +26,3 @@ Liberalism is the final stage of the "Liberty" branch of the policy tree:
 **Liberty $\to$ Republic $\to$ Liberalism**.
 
 In contrast, if you have already negated Zebra hostility through other means (such as having a high number of Tradeposts or the Caravanserai upgrade), many players prefer [Communism]( {{< relref "Policy/Communism.md" >}}) for its +25% boost to iron, coal, and titanium production.
-
-Are you currently finding gold to be a major bottleneck for your buildings, or are you looking to maximise your **Templar upgrades** to push your catpower limits higher?

@@ -26,4 +26,3 @@ The primary value of Rationing lies in managing the **Resource/Consumption Equil
 
 In some strategic guides, Rationing is viewed as a situational choice; if you have a robust hunting team and sufficient [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}) to manage luxury consumption, the benefits of Rationing or Frugality may feel minor compared to high-tier industrial or scientific policies.
 
-Are you currently facing a catnip deficit due to high happiness, or are you comparing this to the [Frugality]( {{< relref "Policy/Frugality.md" >}}) policy to see which better fits your current gold and ivory production goals?

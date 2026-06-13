@@ -22,4 +22,3 @@ The effectiveness of the Chronomancy bonus can be further amplified through late
 *   [Blazars:]( {{< relref "transcendence/Blazar.md" >}}) As a Cryptotheology building, each Blazar improves Chronomancy effectiveness by **2.5%**.
 *   **Observatory Integration:** Within the Bonfire tab, Chronomancy is listed as an upgrade for the [Observatory]( {{< relref "buildings/Observatory.md" >}}), specifically increasing the Astronomical Event Chance by the 1.1x multiplier.
 
-Are you currently struggling to generate enough Starcharts for your space missions, or are you looking to unlock Anachronomancy to start saving your Time Crystals?

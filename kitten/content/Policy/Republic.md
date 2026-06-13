@@ -35,4 +35,3 @@ Enacting Republic is a key step in the **Liberty branch** of the policy tree. It
 
 **Note:** To make the most of Republic, you must actively **promote your leader** using gold and experience, as the bonus scales directly with their rank.
 
-Are you currently leaning toward a **high-population build** where global bonuses are more effective, or are you looking to optimise a specific task like **crafting**?

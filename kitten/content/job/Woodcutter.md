@@ -1,8 +1,7 @@
 +++
-date = 2025-11-30T11:19:28.876690+11:00
-draft = true
+date = 2025-11-30T00:19:28.876Z
+draft = false
 title = "Woodcutter"
-
 +++
 
 Produces +0.09 wood per second

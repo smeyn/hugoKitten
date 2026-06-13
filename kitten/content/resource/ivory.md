@@ -25,5 +25,3 @@ Because ivory **degrades over time** and is consumed by your kittens, managing i
 *   [Stoicism:]( {{< relref "Policy/Stoicism.md" >}}) This policy halves the consumption rate of ivory, helping your hoard last longer.
 *   [Frugality:]( {{< relref "Policy/Frugality.md" >}}) This policy increases the resource output of your [Mints]( {{< relref "buildings/Mint.md" >}}) by 10%.
 *   **Religious Boosts:** Buildings like **Sky Palaces, Unicorn Utopias, and Sunspires** provide percentage-based increases to the amount of ivory you gain from Ivory Meteors.
-
-Are you currently focusing on building up your Ziggurats for the Unicorn Era, or are you looking for ivory mainly to trade for minerals?

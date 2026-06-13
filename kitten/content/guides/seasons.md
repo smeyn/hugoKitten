@@ -49,5 +49,3 @@ Different races offer better deals or different resource amounts depending on th
 *   **Energy Generation:** [Solar Farms]( {{< relref "buildings/Solar_Farm.md" >}}) are more efficient in Summer (+2.67 Energy) than in Winter (+1.5 Energy). 
 *   **Space Production:** Once **Numerology** is researched, different years in a 10-year **Cycle** (like Redmoon or Helios) provide additional multipliers to space resources.
 *   **"Winter Has Come" Challenge:** This challenge forces the game into a permanent, endless Winter, requiring players to rely entirely on Farmers for food.
-
-**Are you currently struggling to survive your first few Winters, or are you looking to optimize late-game trade routes?**

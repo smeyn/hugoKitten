@@ -21,5 +21,3 @@ While often regarded as a niche choice, the Big Stick Policy has specific applic
 
 ### **Context in the Policy Tree**
 The Big Stick Policy represents a "speak softly but carry a big stick" philosophy, focusing on using your military or economic weight to organise your relationships with the other races of Cath. In the long term, most players eventually transition toward policies like [Outer Space Treaty]( {{< relref "Policy/Outer_Space_Treaty.md" >}}) or more advanced government forms as they move into the space and eludium eras.
-
-Are you currently pursuing a specific trade goal, such as increasing your **Naga embassy levels** for blueprints, or are you looking for a way to manage your **culture cap** instead?

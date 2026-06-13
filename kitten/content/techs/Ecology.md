@@ -27,4 +27,3 @@ Ecology is a mandatory prerequisite for several late-game **Environmental polici
 *   [Conservation:]( {{< relref "Policy/Conservation.md" >}}) Provides **+5% happiness** and a **-5% reduction in pollution**.
 *   [Open Woodlands:]( {{< relref "Policy/Open_Woodlands.md" >}}) Increases **wood and mineral production by +12.5%** but increases pollution by **+5%**. In [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) mode, this policy instead provides a **4.16% bonus** to both catnip refinement and minerals from meteors.
 
-Would you like to know more about the [Carbon Sequestration]( {{< relref "upgrade/Carbon_Sequestration.md" >}}) upgrade unlocked by this tech, or are you interested in how [Pollution]( {{< relref "guides/Pollution.md" >}}) levels specifically affect your catnip production?

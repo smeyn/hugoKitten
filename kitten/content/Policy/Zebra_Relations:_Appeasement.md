@@ -28,5 +28,3 @@ Enacting Appeasement permanently locks you out of the **Zebra Relations: Bellico
 | **Bellicosity** | **Worse relations** (-10 Tradeposts) | Better relations (+5 Tradeposts) | None |
 
 **Pro Tip:** Expert players generally advise staying with **Appeasement** until your infrastructure (specifically your Tradepost count) is high enough to mitigate Zebra hostility on its own. Only once the Zebras are no longer hostile would the other policy options become viable for optimizing trades with other civilisations.
-
-Are you currently struggling to get enough titanium for your Observatories, or are you preparing to reach the gold storage limits required for [Solar Revolution]( {{< relref "religion/Solar_Revolution.md" >}})?

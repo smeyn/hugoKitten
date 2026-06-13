@@ -29,5 +29,3 @@ The choice between Isolationism and Diplomacy is often a significant decision fo
 
 ### **Advanced Synergies**
 In an [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) run (playing without kittens), Isolationism can be part of a strategy to reach the space era by prioritising cheaper embassies and specific trade loops to overcome the lack of a workforce.
-
-Are you currently finding it difficult to maintain enough [gold]( {{< relref "resource/Gold.md" >}}) for your trade routes, or are you looking to lower the [catpower]( {{< relref "resource/cat_power.md" >}}) costs of your hunters and explorers instead?

@@ -1,8 +1,7 @@
 +++
-date = 2025-11-29T20:44:33.323594+11:00
+date = 2025-11-29T09:44:33.323Z
 draft = false
 title = "Blazar"
-
 +++
 A [Blazar]( {{< relref "transcendence/Blazar.md" >}}) is a high-tier **Cryptotheology building** that serves as a cornerstone for the late-game "time crystal engine". It is a permanent structure that carries over through resets, though you must research the Cryptotheology technology in each new run to access its benefits.
 

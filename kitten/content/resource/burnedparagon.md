@@ -3,7 +3,7 @@ title: Burned Paragon
 description: ""
 date: 2026-04-08T09:57:47.493Z
 preview: ""
-draft: true
+draft: false
 tags: []
 categories: []
 ---

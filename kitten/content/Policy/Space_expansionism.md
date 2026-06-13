@@ -37,5 +37,3 @@ Space expansion is not just about exploring; it is a mechanism for scaling your 
 | [Helios]( {{< relref "planet/Helios.md" >}}) | Sunlifter | Primary source of [Antimatter]( {{< relref "resource/Antimatter.md" >}}). |
 | **T-Minus** | Cryostation | Massive storage for base metals and Unobtainium. |
 | [Kairo]( {{< relref "planet/Kairo.md" >}}) | Space Beacon | Late-game Relic and Science production. |
-
-Are you currently preparing for your first [Moon Mission]( {{< relref "space/Moon_Mission.md" >}}), or are you focusing on building up your **Starchart** production to reach the further rings of the solar system?

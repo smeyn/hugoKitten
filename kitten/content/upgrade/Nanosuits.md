@@ -29,7 +29,7 @@ Given your current focus on [Enriched Uranium]( {{< relref "upgrade/Enriched_Ura
 
 1.  **Pollution Mitigation:** As you scale your energy production for [Antimatter]( {{< relref "resource/Antimatter.md" >}}), your pollution levels will naturally rise. The Nanosuit is one of the few ways to keep your kittens happy (and thus productive) without having to disable your heavy industry.
 2.  **Unobtainium Efficiency:** Since it requires 1,000 Unobtainium, it is often a mid-priority upgrade. You should prioritize it once your [Lunar Outpost]( {{< relref "planet/lunar_outpost.md" >}}) production is stable (likely after getting the [Microwarp Reactors]( {{< relref "upgrade/Microwarp_Reactors.md" >}}) we discussed).
-3.  **Path to the Exotic:** The Nanosuit is a prerequisite for even more advanced suits and environmental controls that allow for more efficient exploration of the **Farther Ring** planets like **Jupiter**.
+3.  **Path to the Exotic:** The Nanosuit is a prerequisite for even more advanced suits and environmental controls that allow for more efficient exploration of the **Farther Ring** planets like [Jupiter]( {{< relref "space/jupiter.md" >}}).
 
 > **Pro Tip:** If you are finding that your production drops significantly during the winter even with [Iron Hoes]( {{< relref "upgrade/Iron_Hoes.md" >}}), the Nanosuit's environmental leveling will make your production curve much flatter and more predictable.
  

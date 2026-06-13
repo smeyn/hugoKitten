@@ -3,7 +3,7 @@ title: Divine Proportion
 description: ""
 date: 2026-04-11T01:59:34.351Z
 preview: ""
-draft: true
+draft: false
 tags: []
 categories: []
 ---

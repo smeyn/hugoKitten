@@ -29,5 +29,3 @@ Because the building itself costs Necrocorns—which are otherwise used to feed 
 
 ### **Endgame Context**
 The building is described as "The ocean of blood at the end of the lane". It represents the final stage of the unicorn-to-necrocorn pipeline, allowing players to eventually automate the feeding of [Leviathans]( {{< relref "Civilisations/Leviathans.md" >}}) at high speeds to maximize trade ratios for [Time Crystals]( {{< relref "resource/Time_Crystals.md" >}}) and [Relics]( {{< relref "resource/relic.md" >}}).
-
-Are you currently attempting to reach the 11-unit threshold for **profitability**, or are you still focused on accumulating your first few **Necrocorns** using [Markers]( {{< relref "ziggurat/Marker.md" >}})?

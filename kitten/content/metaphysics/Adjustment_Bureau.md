@@ -20,4 +20,3 @@ Challenges impose special handicaps that typically require a game reset to begin
 *   **Timing:** Strategic guides suggest that you are generally not ready for the Adjustment Bureau and its challenges until you reach **Phase 2** (mid-game). It is usually better to prioritise price ratio reduction upgrades (like Golden Ratio or Renaissance) before attempting challenge runs.
 *   **Iron Will Exception:** You do **not** need to purchase the Adjustment Bureau to play in [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) mode. Iron Will is a "hidden" challenge that is triggered simply by resetting and playing without building any kitten housing.
 
-Are you planning to start your first challenge run soon, or are you still focused on accumulating Paragon for your initial Metaphysics upgrades?

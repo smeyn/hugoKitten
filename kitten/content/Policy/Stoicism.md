@@ -26,4 +26,3 @@ Choosing Stoicism unlocks a specific path of follow-up policies focused on effic
 *   **Early Game Utility:** Some guides suggest that Stoicism is less necessary if you have a robust hunting team and many [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}), as these already slow down luxury consumption. 
 *   **Iron Will Context:** In specialized modes where resources like [Ivory]( {{< relref "resource/ivory.md" >}}) are harder to come by and essential for trade (such as trading with the Nagas), Stoicism can be a vital tool for maintaining your progress.
 
-Are you currently struggling to keep your Fur and Ivory stocks stable, or are you looking to push for the higher happiness bonuses offered by the alternative branch?

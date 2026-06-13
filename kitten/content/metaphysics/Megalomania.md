@@ -24,5 +24,3 @@ While its cost is relatively low, strategic guides offer specific warnings regar
 
 ### **Role in the Unicorn Era**
 Megalomania is the catalyst for transitioning from simple unicorn gathering to a full **Time Crystal engine**. Once purchased, you can refine **Unicorn Tears** into **Black Liquid Sorrow (BLS)**; five units of BLS allow you to build your first [Black Pyramid]( {{< relref "ziggurat/Black_Pyramid.md" >}}), which officially begins the process of trading with Leviathans for the temporal resources we discussed previously, such as [Anachronomancy]( {{< relref "metaphysics/Anachronomancy.md" >}}) and [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}).
-
-Are you currently preparing to build your first Black Pyramid, or are you still focusing on maximizing your population for more Paragon?

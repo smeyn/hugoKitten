@@ -1,6 +1,6 @@
 +++
 date = "2026-03-16T20:39:48.862Z"
-draft = true
+draft = false
 title = "Burn Paragon"
 +++
 In Kittens Game, **Burning Paragon** is a way to squeeze more efficiency out of your prestige bonuses. It converts your "live" Paragon into [Burned Paragon]( {{< relref "resource/burnedparagon.md" >}}), which exists in a separate pool and stacks with your regular Paragon.
