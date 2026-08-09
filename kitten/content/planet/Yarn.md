@@ -5,7 +5,7 @@ title = "Yarn"
 
 +++
 
-[Yarn]( {{< relref "planet/Yarn.md" >}}) is a key deep space destination in *Kittens Game*, leading to new structures that boost population, catnip production, and scientific progression. It is identified by the symbol $\text{⍧}$ in the game's astrological time system.
+[Yarn]( {{< relref "planet/Yarn.md" >}}) is a key deep space destination in *Kittens Game*, leading to new structures that boost population, catnip production, and scientific progression. It is identified by the symbol ${⍧}$ in the game's astrological time system.
 
 Here is a detailed overview of the Yarn Mission, its costs, and the resulting infrastructure:
 
@@ -35,7 +35,7 @@ Completing the mission allows for the construction of two crucial buildings, pro
 
 ### Yarn Astrological Cycle
 
-Yarn ($\text{⍧}$) is one of the ten astronomical cycles in the game, each lasting five years. The cycle has specific effects depending on advanced research:
+Yarn (${⍧}$) is one of the ten astronomical cycles in the game, each lasting five years. The cycle has specific effects depending on advanced research:
 
 *   **With Numerology:** The cycle significantly boosts **Hydroponics Catnip Production** by **+100%**. However, it imposes a penalty on **Research Vessel starchart production**, decreasing it by $-50\%$.
 *   **With Numeromancy:** If a festival is held during the Yarn cycle, it provides a powerful $\times 2$ multiplier to **Culture income**.

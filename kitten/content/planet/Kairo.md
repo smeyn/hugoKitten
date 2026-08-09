@@ -5,7 +5,7 @@ title = "Kairo"
 
 +++
 
-[Kairo]( {{< relref "planet/Kairo.md" >}}) ($\text{℣}$) refers to a deep space destination reachable via a mission and a recurring astrological cycle that significantly impacts late-game production, particularly starcharts.
+[Kairo]( {{< relref "planet/Kairo.md" >}}) (${℣}$) refers to a deep space destination reachable via a mission and a recurring astrological cycle that significantly impacts late-game production, particularly starcharts.
 
 ### 1. Kairo Space Mission and Structures
 
@@ -28,7 +28,7 @@ Successfully completing the Kairo Mission unlocks the **Space Beacon** structure
 
 ### 2. Kairo Astrological Cycle
 
-Kairo is one of the ten planetary cycles in the game's time system, lasting five years, and is symbolised by the glyph $\text{℣}$. Its effects are primarily related to space production and science structures.
+Kairo is one of the ten planetary cycles in the game's time system, lasting five years, and is symbolised by the glyph ${℣}$. Its effects are primarily related to space production and science structures.
 
 *   **Effects with Numerology:** When the **Numerology** upgrade is researched, the Kairo cycle generally imposes penalties on certain structures but provides a massive boost to Space Beacons:
     *   **Space Beacon starchart production** is boosted by **+400%**.

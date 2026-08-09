@@ -5,7 +5,7 @@ title = "Piscine"
 
 +++
 
-[Piscine]( {{< relref "planet/Piscine.md" >}}) ($\text{⎈}$) refers to a significant destination in the late mid-game space race, resulting in infrastructure critical for advancing scientific research and generating Starcharts. It is also one of the astronomical cycles in the game's time system.
+[Piscine]( {{< relref "planet/Piscine.md" >}}) (${⎈}$) refers to a significant destination in the late mid-game space race, resulting in infrastructure critical for advancing scientific research and generating Starcharts. It is also one of the astronomical cycles in the game's time system.
 
 ### 1. Piscine Space Mission
 
@@ -29,7 +29,7 @@ The successful mission unlocks the **Research Vessel** building, which is crucia
 
 ### 3. Piscine Astrological Cycle
 
-Piscine ($\text{⎈}$) is one of the ten planetary cycles in the time system, each lasting five years.
+Piscine (${⎈}$) is one of the ten planetary cycles in the time system, each lasting five years.
 
 *   **Numerology Effect:** With the **Numerology** upgrade, the Piscine cycle offers contrasting effects on space production:
     *   **Research Vessel starchart production** is boosted by **+50%**.

@@ -25,7 +25,18 @@ Leviathans are unique traders because their trade amounts are not affected by se
     *   [Relic:]( {{< relref "resource/relic.md" >}}) Essential for end-game science, with a **5% chance**.
     *   **Starchart:** Minimum of 250 units, with a 50% chance.
     *   **Black Liquid Sorrow (BLS)/Sorrow:** Minimum of 1 unit, with a 15% chance.
-    *   **Blackcoin:** They are the speculative cryptocurrency bought and sold from the Leviathans for relics.
+    *   [Blackcoin:]( {{< relref "resource/black_coin.md" >}}) They are the speculative cryptocurrency bought and sold from the Leviathans for relics.
+
+The average expected yield of Time Crystals `TC` per trade caravan is: 
+
+`E[TC] = 0.98 * 0.25 * {TradeRatio} n* {RaceRatio}`
+
+`E[TC] = 0.245 * {TradeRatio} * (1 + {LeviathanEnergy} * 0.02)`
+
+Where:
+
+* **{LeviathanEnergy}**: Elder energy level increased by feeding them necrocorns (capped by the number of Markers and the leviathansEnergyModifier effect).
+* [**TradeRatio**:]( {{< relref "guides/trading.md" >}}) The total modifier representing trade efficiency.
 
 ### Leviathan Energy and Trade Bonus
 

@@ -27,5 +27,5 @@ These are earned by resetting the game and provide permanent, stacking benefits 
 
 ### **Special and Late-Game Currencies**
 *   [Catpower:]( {{< relref "resource/cat_power.md" >}}) While technically a resource, it functions as a currency for **Sending Explorers** (1,000 Catpower) and initiating **Hunts** (100 Catpower).
-*   **Blackcoin:** A speculative cryptocurrency bought and sold from [Leviathans]( {{< relref "Civilisations/Leviathans.md" >}}) in exchange for [relics]( {{< relref "resource/relic.md" >}}). Its price fluctuates over time.
+*   [Blackcoin:]( {{< relref "resource/black_coin.md" >}}) A speculative cryptocurrency bought and sold from [Leviathans]( {{< relref "Civilisations/Leviathans.md" >}}) in exchange for [relics]( {{< relref "resource/relic.md" >}}). Its price fluctuates over time.
 *   [Time Crystals:]( {{< relref "resource/Time_Crystals.md" >}}) A rare currency used to purchase advanced temporal technologies like [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}) and to skip years via **time shattering**.

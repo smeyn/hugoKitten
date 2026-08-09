@@ -20,7 +20,7 @@ The Charon Mission targets a small, dense, and distant dwarf planet located on t
 
 ### 2. Charon Astrological Cycle
 
-Charon ($\text{⍙}$) is one of the ten planetary cycles, each lasting five years. Its effects are triggered upon researching advanced Metaphysics upgrades:
+Charon (${⍙}$) is one of the ten planetary cycles, each lasting five years. Its effects are triggered upon researching advanced Metaphysics upgrades:
 
 *   **With Numerology:** The cycle negatively impacts specific structures related to Unobtainium (UO) and gigaflops:
     *   [Lunar Outpost]( {{< relref "planet/lunar_outpost.md" >}}) unobtainium output is decreased by **$-10\%$**.

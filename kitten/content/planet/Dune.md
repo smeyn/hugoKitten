@@ -5,7 +5,7 @@ title = "Dune"
 
 +++
 
-[Dune]( {{< relref "planet/Dune.md" >}}) ($\text{⍫}$) is a pivotal mid-to-late-game space destination, a planet in the Cath solar system, which unlocks new industrial structures and is tied to a specific astrological cycle that boosts uranium production.
+[Dune]( {{< relref "planet/Dune.md" >}}) (${⍫}$) is a pivotal mid-to-late-game space destination, a planet in the Cath solar system, which unlocks new industrial structures and is tied to a specific astrological cycle that boosts uranium production.
 
 ### 1. Dune Space Mission Details
 
@@ -30,7 +30,7 @@ Reaching Dune is also a prerequisite for unlocking several high-level Government
 
 ### 3. Dune Astrological Cycle
 
-Dune ($\text{⍫}$) is one of the ten cycles in the game's time system, with each cycle lasting five years. The effects of this cycle are leveraged by researching Metaphysics upgrades like Numerology and Numeromancy:
+Dune (${⍫}$) is one of the ten cycles in the game's time system, with each cycle lasting five years. The effects of this cycle are leveraged by researching Metaphysics upgrades like Numerology and Numeromancy:
 
 *   **With Numerology:** The cycle provides significant production bonuses for resources generated on Dune: it increases **Planet Cracker uranium output by +10%** and **Hydraulic Fracturer oil output by +50%**. Conversely, it imposes a penalty on HR Harvester Energy Production (-25%).
 *   **With Numeromancy ([Festival]( {{< relref "guides/festivals.md" >}}) Bonus):** Holding a festival during the Dune cycle grants a $\times 2$ multiplier to **Uranium income**.

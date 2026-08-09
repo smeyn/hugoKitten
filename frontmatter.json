@@ -55,5 +55,28 @@
       "path": "[[workspace]]/kitten/content"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": true,
+  "frontMatter.snippets.wrapper.enabled": false,
+  "frontMatter.content.snippets": {
+    "Relref": {
+      "description": "a relative reference for Hugo",
+      "body": "[ [[name]] ]( {{< relref \"[[&target]]\">}})",
+      "fields": [
+        {
+          "name": "name",
+          "title": "name",
+          "type": "string",
+          "single": true,
+          "default": "FM_SELECTED_TEXT"
+        },
+        {
+          "name": "target",
+          "title": "target",
+          "type": "string",
+          "single": true,
+          "default": ""
+        }
+      ]
+    }
+  }
 }

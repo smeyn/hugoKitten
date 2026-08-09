@@ -9,7 +9,7 @@ title = "Umbra"
 
 ### 1. Umbra Cycle (Time System)
 
-Umbra is one of the ten cycles featured in the game's time system, identified by the glyph $\text{⍦}$. Each cycle lasts for five years.
+Umbra is one of the ten cycles featured in the game's time system, identified by the glyph ${⍦}$. Each cycle lasts for five years.
 
 When the appropriate technologies are researched, the Umbra cycle provides specific bonuses and penalties:
 
@@ -29,5 +29,5 @@ Umbra is a destination in deep space, described as a supermassive black hole at 
     *   25k Kerosene
     *   15k Thorium
 *   **Travel Time:** The journey to Umbra takes 7,600 game-days, equivalent to 4 hours, 13 minutes, and 20 seconds in real-time.
-*   **Building Unlocked:** The successful mission unlocks the **Umbra Planet** and the **HR Harvester** building. The HR Harvester operates on the energy of the black hole evaporation to generate energy. This energy production starts at $1\text{W}$ and slowly increases over time.
+*   **Building Unlocked:** The successful mission unlocks the **Umbra Planet** and the **HR Harvester** building. The HR Harvester operates on the energy of the black hole evaporation to generate energy. This energy production starts at $1{W}$ and slowly increases over time.
 *   **Progression:** The Umbra Mission subsequently unlocks the [Charon Mission]( {{< relref "space/Charon_Mission.md" >}}).

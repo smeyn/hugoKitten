@@ -5,7 +5,7 @@ title = "Cath"
 
 +++
 
-[Cath]( {{< relref "planet/Cath.md" >}}) ($\text{⌾}$) refers to two distinct concepts within *Kittens Game*: the name of the solar system where the game takes place, and a specific five-year astrological cycle.
+[Cath]( {{< relref "planet/Cath.md" >}}) (${⌾}$) refers to two distinct concepts within *Kittens Game*: the name of the solar system where the game takes place, and a specific five-year astrological cycle.
 
 ### 1. The Cath Solar System
 
@@ -13,12 +13,12 @@ Cath is the name of the solar system in which the star [Helios]( {{< relref "pla
 
 ### 2. The Cath Astrological Cycle
 
-Cath is one of the ten planetary cycles in the time system, with each cycle lasting five years. It is identified by the glyph $\text{⌾}$. The effects of this cycle are only triggered once the **Numerology** upgrade has been researched.
+Cath is one of the ten planetary cycles in the time system, with each cycle lasting five years. It is identified by the glyph ${⌾}$. The effects of this cycle are only triggered once the **Numerology** upgrade has been researched.
 
 | Category | Detail |
 | :--- | :--- |
 | **Duration** | 5 years |
-| **Glyph** | $\text{⌾}$ |
+| **Glyph** | ${⌾}$ |
 
 **Effects with Numerology:**
 

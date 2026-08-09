@@ -59,3 +59,44 @@ In the end-game, trading remains the fastest way to acquire large amounts of [Bl
 In summary, you should start trading as soon as you meet the prerequisites (Gold and [Currency]( {{< relref "techs/Currency.md" >}}) technology), prioritize it in the **Titanium era** to secure Blueprints and Titanium from Zebras, and time your trades with Nagas, Griffins, and Sharks according to the [seasons]( {{< relref "guides/seasons.md" >}}) to maximize resource returns.
 
 Trading often acts as a supply chain bridge, like using a freight train to move large quantities of bulk goods needed for heavy industry, rather than trying to hand-carry every component.
+
+### How Tradeposts Affect the TradeRatio
+Tradeposts affect the `{TradeRatio}` through three distinct mechanisms:
+
+A. Direct Building Effect (Base Trade Ratio)
+Each built Tradepost (tradepost.val) adds to the global building effect tradeRatio.
+
+Bonus per Tradepost: +0.015 (or +1.5%)
+Formula contribution: {Base Tradeposts Bonus} = 0.015 * {Number of Tradeposts}$$
+
+B. Synergy with Policies (Phantom Tradeposts)
+
+The diplomatic policy bonus (`calculateTradeBonusFromPolicies`) treats certain policy effects as "phantom tradeposts" that are multiplied by the base tradepost efficiency 0.015.
+
+Formula:`{Policy Bonus} = 0.015 * {PhantomTradeposts}`
+
+Phantom Tradepost Sources (for non-zebra races like Leviathans):
+
+* Liberalism: +10 Phantom Tradeposts
+* Outer Space Treaty: +10 Phantom Tradeposts
+* Zebra Relations Bellicosity: +5 Phantom Tradeposts
+* Max Contribution: Up to +0.375 (+37.5%) to {TradeRatio} from policies.
+
+Note: The number of physically built Tradeposts does not scale this policy bonus; it only utilizes the base tradepost multiplier coefficient of 0.015.
+
+C. Pacifism Challenge Completion Synergy
+
+If the Pacifism challenge has been completed one or more times, it unlocks a permanent trade ratio bonus when the challenge is inactive: 
+
+`{Pacifism Bonus} = 0.015 * \min\Big({TradepostLimit}, {Number of Tradeposts} * {TradepostRatioLimit}\Big)`
+
+
+Where:
+
+{TradeKnowledge}: Typically 1.0 per completion of the Pacifism challenge.
+
+{TradepostLimit}: (7 + 3 * {TradeKnowledge}) * (0.99 + 0.01 * {TradeKnowledge})
+
+{TradepostRatioLimit}$: A diminishing returns factor capped at 0.25.
+
+This means completed Pacifism runs directly scale the efficiency of your built Tradeposts, allowing your physical Tradepost count to provide an extra multiplicative boost to the {TradeRatio}.

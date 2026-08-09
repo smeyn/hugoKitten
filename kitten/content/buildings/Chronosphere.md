@@ -43,7 +43,7 @@ The utility of the Chronosphere is greatly enhanced by the [Flux Condensator]( {
 
 *   [Flux Condensator:]( {{< relref "flux_condensator.md" >}}) This upgrade costs 250 Alloy, 5,000 Unobtainium, and 5 Time Crystals.
     *   It causes Chronospheres to affect **craftable resources** (like Beam, Slab, Steel, Blueprint, and Megalith).
-    *   The amount preserved is calculated with diminishing returns: **$1.5* (\text{# of Chronospheres})* \sqrt{\text{resource amount}}$** of each craftable resource is carried over on reset.
+    *   The amount preserved is calculated with diminishing returns: **$1.5* ({# of Chronospheres})* \sqrt{{resource amount}}$** of each craftable resource is carried over on reset.
 
 ### 5. Challenge Interaction
 

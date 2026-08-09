@@ -23,7 +23,7 @@ The Cryostation, unlocked by this mission, is a vast storage facility complex th
 
 ### 2. T-Minus Astrological Cycle
 
-T-minus ($\text{⍝}$) is one of the ten planetary cycles in the game's time system, lasting five years.
+T-minus (${⍝}$) is one of the ten planetary cycles in the game's time system, lasting five years.
 
 *   **With Numerology:** When the **Numerology** upgrade is researched, the T-minus cycle affects space structures:
     *   [Sunlifter]( {{< relref "space/sunlifter.md" >}}) energy output is decreased by **$-50\%$**.

@@ -12,7 +12,7 @@ The [Flux Condensator]( {{< relref "upgrade/Flux_Condensator.md" >}}) is a high-
 
 ### **Core Effects and Mechanics**
 While the Chronosphere normally only preserves a percentage of non-crafted resources, the Flux Condensator extends this ability to include complex materials.
-*   **Preservation Formula:** The amount of each crafted resource preserved is determined by the number of Chronospheres built and the amount held at reset: **$1.5* \text{number of Chronospheres}* \sqrt{\text{resource amount}}$**.
+*   **Preservation Formula:** The amount of each crafted resource preserved is determined by the number of Chronospheres built and the amount held at reset: **$1.5* {number of Chronospheres}* \sqrt{{resource amount}}$**.
 *   **Resources Affected:** This includes critical materials such as **Steel, Alloy, Concrete, Eludium, Gear, Scaffold, Ship, Tanker, Kerosene, Parchment, Manuscript, Compendium, Blueprint, Thorium, and Megalith**.
 *   **Diminishing Returns:** Because the formula uses a square root function, the efficiency of resource carryover decreases the more of a resource you have.
 

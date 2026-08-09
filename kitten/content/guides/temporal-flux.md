@@ -20,3 +20,32 @@ categories: []
 
 **Game Resets:**
 Conveniently, any accumulated temporal flux you have is automatically saved and carries over when you reset the game.
+
+
+## Storage
+In Kittens Game, the maximum capacity for **Temporal Flux** is determined by a specific time-related upgrade. 
+
+### **The Primary Method: Temporal Battery**
+To increase your maximum temporal flux capacity, you must purchase the **Temporal Battery** upgrade:
+*   **Where to find it:** It is located under the **Time** tab, which is unlocked after researching Calendar.
+*   **The Cost:** Constructing your first Temporal Battery costs **5 Time Crystals**. 
+*   **The Price Ratio:** It has a price ratio of **1.25**, meaning each subsequent level will cost 25% more Time Crystals than the last.
+*   **The Effect:** Every level of Temporal Battery you purchase permanently increases your maximum temporal flux capacity by **+25%**.
+
+---
+
+### **Optimising Your Temporal Flux Generation**
+While you are building up your capacity, you can also improve how quickly you accumulate and gather temporal flux:
+
+1.  **Offline Accumulation (Base Rate):** Temporal flux is earned passively at a rate of **5 units per minute** while the game is either paused or completely closed.
+2.  **Temporal Accelerators:** This Time tab upgrade (costing 10 Time Crystals and 1,000 Relics) increases the production of temporal flux generated via redshift (offline progression) by **5%**.
+3.  **Chronosurge (Active Gathering):** Once you can afford this Workshop upgrade (which requires 1 Chronocontrol, 25 Time Crystals, 100k Unobtainium, 750 Void, and 6,500 Temporal Flux), your **Chronospheres** will begin actively generating **1 temporal flux per year** on the calendar, acting similarly to Sunlifters. 
+
+---
+
+### **Why Is High Capacity Important?**
+Maximising your temporal flux capacity is crucial for two major late-game systems:
+*   **Tempus Fugit:** Activating this accelerates the game's tick rate and calendar speed by 50%. However, it consumes a heavy **5 temporal flux per second** while active, meaning a low cap will quickly drain your reserve.
+*   **Fixing Cryochambers:** If you are using Cryochambers to carry over kittens across resets, repairing a used chamber back to operating condition requires a massive flat cost of **3,000 temporal flux** (along with 100 Time Crystals and 500 Void). Having a high maximum capacity is mandatory to store enough flux to repair multiple chambers at once.
+
+🔄 We can explore how to set up the endgame "Cryo Engine" to utilise this temporal flux and farm millions of Paragon per day through rapid resets.

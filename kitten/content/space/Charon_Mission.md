@@ -15,7 +15,7 @@ The [Charon Mission]( {{< relref "space/Charon_Mission.md" >}}) is a significant
 Once Charon is reached, you can build **Entanglement Stations**, which are essential for advanced quantum computing and hashrate generation.
 *   **Cost:** Each station costs **1,250 Relics**, **5,250 Antimatter**, and **5,000 Eludium**.
 *   **Function:** These stations consume 25 Wt of energy and **0.1 gigaflops per tick** (produced by AI Cores) to generate **0.1 hashes per tick**.
-*   **Strategic Utility:** Hashes are used to increase your **hashrate level**, which provides a **+25% bonus to relic production** from Space Beacons for every level achieved. This is a core component of the "Antimatter Phase" of the endgame, where players aim to automate and scale relic generation.
+*   **Strategic Utility:** Hashes are used to increase your **hashrate level**, which provides a **+25% bonus to [ relic production ]( {{< relref "guides/creating-relics.md">}})** from Space Beacons for every level achieved. This is a core component of the "Antimatter Phase" of the endgame, where players aim to automate and scale relic generation.
 
 ### **The Charon Cycle**
 "Charon" is also the first of the ten five-year celestial cycles, represented by the glyph **⍙**. If you have researched **Numerology** and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}), the cycle introduces the following global modifiers:

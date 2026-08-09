@@ -5,6 +5,9 @@ title = 'Redmoon Cycle'
 +++
 The [Redmoon cycle]( {{< relref "Cycles/Redmoon_cycle.md" >}}) is the sixth phase in the ten-cycle system of *Kittens Game* and is widely considered the most strategically important period for late-game resource farming. Its primary purpose is to provide a massive multiplier to **Unobtainium production**, which is the critical bottleneck for space exploration and time manipulation.
 
+
+The character used for the **Redmoon cycle** is the glyph **⍜**. 
+
 ### **Core Effects**
 The impact of the Redmoon cycle depends on your researched [Metaphysics]( {{< relref "techs/Metaphysics.md" >}}) upgrades:
 

@@ -17,7 +17,7 @@ Since each trade with the Leviathans costs 5,000 Unobtainium, your base producti
 *   **Space Structures:** Max out Lunar Outposts, Space Elevators, Orbital Arrays, and Factories.
 *   **Upgrades and Policies:** Research the *Factory Logistics* workshop upgrade, and enact the *Full Industrialization*, *Cosmological Libertarianism*, and *Necrocracy* policies.
 *   [Festivals:]( {{< relref "guides/festivals.md" >}}) Maximize Breweries and ensure festivals are running non-stop.
-*   **The Redmoon Cycle:** With the *Numerology* and *Numeromancy* metaphysics upgrades, the Redmoon cycle grants a massive multiplier to Unobtainium production. Use Time Crystals to skip right to the Redmoon cycle and spend the majority of your time there.
+*   **The [ Redmoon Cycle ]( {{< relref "Cycles/Redmoon_Cycle.md">}}):** With the *Numerology* and *Numeromancy* metaphysics upgrades, the Redmoon cycle grants a massive multiplier to Unobtainium production. Use Time Crystals to skip right to the Redmoon cycle and spend the majority of your time there.
 
 **2. Maximize Time Crystals per Trade**
 You want to ensure that every 5,000 Unobtainium traded yields as many Time Crystals as possible:

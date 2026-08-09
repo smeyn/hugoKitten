@@ -5,7 +5,7 @@ title = "Redmoon"
 
 +++
 
-[Redmoon]( {{< relref "planet/Redmoon.md" >}}) ($\text{⍜}$) is both a key destination in the space exploration phase and a recurring astronomical cycle in *Kittens Game*, offering significant advantages for late-game production, particularly of Unobtainium (UO).
+[Redmoon]( {{< relref "planet/Redmoon.md" >}}) (${⍜}$) is both a key destination in the space exploration phase and a recurring astronomical cycle in *Kittens Game*, offering significant advantages for late-game production, particularly of Unobtainium (UO).
 
 ### 1. Redmoon as a Planetary Mission
 
@@ -24,7 +24,7 @@ The mission allows for the establishment of two critical structures on Redmoon:
 
 ### 3. Redmoon Astrological Cycle
 
-Redmoon ($\text{⍜}$) is one of the ten astronomical cycles in the game's time system, with each cycle lasting five years. Its effects are highly advantageous for players who have researched advanced Metaphysics:
+Redmoon (${⍜}$) is one of the ten astronomical cycles in the game's time system, with each cycle lasting five years. Its effects are highly advantageous for players who have researched advanced Metaphysics:
 
 *   **With Numerology:** When the Numerology upgrade is researched, the Redmoon cycle affects specific space production:
     *   **Lunar Outpost unobtainium output** is increased by **+20%**.
