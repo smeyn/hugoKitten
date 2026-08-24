@@ -22,7 +22,7 @@ The construction of the Black Pyramid dramatically shifts the endgame progressio
 *   **Leviathan Appearance:** More Black Pyramids mean the Leviathans show up more often.
 *   **Black Nexus and Relic Production:** The Black Pyramid provides a multiplicative bonus to relic generation mechanisms.
     *   The [Black Nexus]( {{< relref "transcendence/Black_Nexus.md" >}}) upgrade, unlocked at Transcendence Tier 3, produces relics based on the formula: $1 + ({Black Nexus}* Black Pyramid)$ relics.
-    *   Similarly, **Space Beacons** upgraded with [Relic Station]( {{< relref "upgrade/Relic_Station.md" >}}) produce relics, and this rate is boosted by $+10\%$ relic production per Black Pyramid per Black Nexus.
+    *   Similarly, [Space Beacons]( {{< relref "space/space-beacon.md" >}}) upgraded with [Relic Station]( {{< relref "upgrade/Relic_Station.md" >}}) produce relics, and this rate is boosted by $+10\%$ relic production per Black Pyramid per Black Nexus.
     *   The **Pact of Cleansing** and **Pact of Destruction** benefits, which respectively increase global resource limits and global production, scale with the number of Black Pyramids.
 *   **Challenge Reward:** Completing the **Black Sky Challenge** provides the **Base Reward** of having Elders arrive early, which acts as a free, invisible Black Pyramid. This invisible structure functions just like a real Black Pyramid, improving the effects of the Black Nexus and other related structures.
 

@@ -18,5 +18,5 @@ To unlock Cold Fusion, you must first research the [Superconductors]( {{< relref
 
 ### **Strategic Utility**
 Cold Fusion acts as a major "step up" for your energy infrastructure during the **Eludium Era**. 
-*   **Powering Space:** As you build energy-heavy structures like **Containment Chambers** (50 Watts) and **Entanglement Stations** (25 Watts), the passive boost from Cold Fusion helps maintain a positive energy balance without needing to build excessive numbers of Sunlifters immediately.
+*   **Powering Space:** As you build energy-heavy structures like [Containment Chambers]( {{< relref "space/containment-chamber.md" >}}) (50 Watts) and [Entanglement Stations]( {{< relref "space/entanglement-station.md" >}}) (25 Watts), the passive boost from Cold Fusion helps maintain a positive energy balance without needing to build excessive numbers of Sunlifters immediately.
 *   **Efficiency:** Unlike [Thorium Reactors]( {{< relref "upgrade/Thorium_Reactors.md" >}}), which require a constant fuel source (Thorium) to provide their bonus, Cold Fusion provides a permanent, passive increase to reactor output with no ongoing resource cost.

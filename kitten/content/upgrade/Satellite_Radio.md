@@ -29,7 +29,7 @@ To see this upgrade in your Workshop, you must have moved into the orbital era:
 ### Strategic Importance
 Given your current focus on [Enriched Uranium]( {{< relref "upgrade/Enriched_Uranium.md" >}}) and **Temporal Distortion**, Satellite Radio is likely the reason you were able to progress this far. Here is how it fits into your current late-game loop:
 
-1.  **Preparation for Antimatter:** To research **Advanced Physics** and build **Containment Chambers**, you need science caps in the hundreds of thousands. While [Compendiums]( {{< relref "resource/Compendium.md" >}}) provide a flat boost, Satellite Radio provides a *scalable* boost that grows as you expand your space presence.
+1.  **Preparation for Antimatter:** To research **Advanced Physics** and build [Containment Chambers]( {{< relref "space/containment-chamber.md" >}}), you need science caps in the hundreds of thousands. While [Compendiums]( {{< relref "resource/Compendium.md" >}}) provide a flat boost, Satellite Radio provides a *scalable* boost that grows as you expand your space presence.
 2.  **Synergy with Navigation Upgrades:** Every time you buy an upgrade that improves "Satellite Efficiency" (like [Navigation Relay]( {{< relref "space/Navigation_Relay.md" >}}) or [Satellite Navigation]( {{< relref "upgrade/Satellite_Navigation.md" >}})), the science cap bonus from Satellite Radio also increases. 
 3.  **Space Elevator Efficiency:** Since you are using [Space Elevators]( {{< relref "space/space_elevator.md" >}}) to reduce launch costs, you can spam more Satellites for relatively low oil costs, which in turn balloons your science cap.
 

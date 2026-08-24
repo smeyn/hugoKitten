@@ -24,7 +24,7 @@ Charon (${⍙}$) is one of the ten planetary cycles, each lasting five years. It
 
 *   **With Numerology:** The cycle negatively impacts specific structures related to Unobtainium (UO) and gigaflops:
     *   [Lunar Outpost]( {{< relref "planet/lunar_outpost.md" >}}) unobtainium output is decreased by **$-10\%$**.
-    *   **Entanglement Station** gigaflops consumption is increased by **$+100\%$**.
+    *   [Entanglement Station]( {{< relref "space/entanglement-station.md" >}}) gigaflops consumption is increased by **$+100\%$**.
 *   **[Festival]( {{< relref "guides/festivals.md" >}}) Effect (With Numeromancy):** If a festival is held during the Charon cycle, it provides a $\times 1.5$ multiplier to **Catnip, Wood, and Mineral income**.
 
 The severe penalty to Lunar Outpost production during the Charon cycle is notable, especially when compared to the highly advantageous Redmoon cycle, which boosts UO production by $+20\%$. Due to this, strategies often revolve around skipping non-profitable cycles, like Charon, using time manipulation.

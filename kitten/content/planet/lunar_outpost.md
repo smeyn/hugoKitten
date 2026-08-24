@@ -37,7 +37,7 @@ The Lunar Outpost's production of unobtainium is noted for its inefficiency rela
 
 The Lunar Outpost is key to later resource storage and production:
 
-*   **Moon Base:** Once you produce 50 unobtainium using the Lunar Outpost, you can build a **Moon Base** [12]. The Moon Base then increases your overall **Unobtainium storage capacity** [12, 13].
+*   [Moon Base:]( {{< relref "space/moonbase.md" >}}) Once you produce 50 unobtainium using the Lunar Outpost, you can build a [Moon Base]( {{< relref "space/moonbase.md" >}}) [12]. The Moon Base then increases your overall **Unobtainium storage capacity** [12, 13].
 *   **Uranium Consumption:** Lunar Outposts initially consume **10 Wt of Energy**, although this consumption is reduced by [Antimatter Bases]( {{< relref "antimatter_bases.md" >}}) [14].
 
 In short, the Lunar Outpost is the specialized factory on the moon that converts titanium-derived uranium into the scarce, late-game resource unobtainium, paving the way for further progression into space and metaphysics [1, 4].

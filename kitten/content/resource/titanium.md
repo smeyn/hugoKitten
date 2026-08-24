@@ -58,7 +58,7 @@ Titanium is needed to progress through the housing and crafting technology tree:
 Titanium has a default initial storage capacity of **2** units. This limit must be increased via storage buildings:
 
 *   [Harbours]( {{< relref "buildings/Harbour.md" >}}) increase storage by **+50** Titanium.
-*   **Moon Bases** increase storage by **+1250** Titanium.
+*   [Moon Bases]( {{< relref "space/moonbase.md" >}}) increase storage by **+1250** Titanium.
 *   [Cryostations]( {{< relref "space/cryo_station.md" >}}) increase storage by **+7500** Titanium.
 *   [Accelerators]( {{< relref "buildings/Accelerator.md" >}}) with the [Energy Rifts]( {{< relref "upgrade/Energy_Rifts.md" >}}) upgrade provide a substantial storage boost, including **+750** Titanium.
 *   [Sunforges]( {{< relref "space/Sun_Forge.md" >}}) also improve storage capacity for base metals, including titanium, by **+1%** each.

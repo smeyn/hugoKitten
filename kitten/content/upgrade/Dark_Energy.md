@@ -18,7 +18,7 @@ Dark Energy is an advanced upgrade that requires you to have entered the **Time 
 *   **Resource Cost:** 75 Eludium and **3 Time Crystals**.
 
 ### **Strategic Utility**
-*   **Breaking Storage Bottlenecks:** By the time you reach the Eludium era, storage caps (particularly for Titanium and Unobtainium) become the primary hurdle for purchasing advanced buildings like [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}) and **Moon Bases**. Dark Energy provides a massive spike in capacity without requiring you to build new structures.
+*   **Breaking Storage Bottlenecks:** By the time you reach the Eludium era, storage caps (particularly for Titanium and Unobtainium) become the primary hurdle for purchasing advanced buildings like [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}) and [Moon Bases]( {{< relref "space/moonbase.md" >}}). Dark Energy provides a massive spike in capacity without requiring you to build new structures.
 *   **Progression Chain:** It is a stepping stone to the final Accelerator upgrade, [Tachyon Accelerators]( {{< relref "upgrade/Tachyon_Accelerators.md" >}}) (which provides a further +500% storage), unlocked later via [Tachyon Theory]( {{< relref "techs/Tachyon_Theory.md" >}}).
 *   **Reset Preparation:** Increasing your storage caps is vital for **Chronosphere resets**. The more resources you can store, the more you can carry over to your next run.
 

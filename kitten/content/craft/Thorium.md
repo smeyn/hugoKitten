@@ -22,8 +22,8 @@ Thorium is central to scaling your energy grid and scientific capacity through s
 ### **Space Missions and Structures**
 As you progress into the late-game "Umbra" and "Centaurus" eras, Thorium becomes a mandatory requirement for exploration:
 *   **Missions:** Significant quantities are required for missions to **Umbra (15,000)**, **Charon (35,000)**, **Centaurus (50,000)**, and the **Furthest Ring (75,000)**.
-*   **Heatsinks:** Essential for increasing antimatter storage, each Heatsink costs **12,500 Thorium**.
-*   **Tectonics:** These space structures, which generate **25 Watts** of energy, cost **75,000 Thorium** each.
+*   [Heatsinks:]( {{< relref "space/heatsink.md" >}}) Essential for increasing antimatter storage, each Heatsink costs **12,500 Thorium**.
+*   [Tectonics:]( {{< relref "space/tectonic.md" >}}) These space structures, which generate **25 Watts** of energy, cost **75,000 Thorium** each.
 
 ### **Strategic Utility**
 *   **The Antimatter Seed:** In long "seed runs" aimed at reaching a **5,000 antimatter capacity**, Thorium is often a major bottleneck. Reaching the milestone of 34 Heatsinks requires over **526,000 Thorium**.

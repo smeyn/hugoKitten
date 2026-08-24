@@ -16,7 +16,7 @@ Successfully completing the Orbital Launch provides access to the foundational s
 *   **Missions and Locations:** It unlocks the [Moon Mission]( {{< relref "space/Moon_Mission.md" >}}) and makes the planet [Cath]( {{< relref "planet/Cath.md" >}}) accessible.
 *   **Satellite Deployment:** Players can begin deploying [Satellites]( {{< relref "techs/Satellites.md" >}}), which consume energy to provide a passive income of [Starcharts]( {{< relref "resource/star_charts.md" >}}) (0.005/sec) and increase the science storage capacity of Observatories by 5%.
 *   [Space Elevator:]( {{< relref "space/space_elevator.md" >}}) This structure is essential for long-term expansion as it provides a **1% bonus to all space structures** and reduces the oil requirements for future space missions and buildings by 5% (up to a 75% discount with diminishing returns).
-*   **Space Stations:** These provide a 50% science bonus and housing for **+2 kittens**.
+*   [Space Stations:]( {{< relref "space/space-station.md" >}}) These provide a 50% science bonus and housing for **+2 kittens**.
 
 ### **Strategic Considerations**
 *   **The Oil Bottleneck:** Strategic guides highlight that **Oil management** is the dominant constraint at this stage. While the launch itself costs 15,000 Oil, the next mission requires 45,000, and the first Moon Base requires 70,000, necessitating a rapid increase in [Oil Wells]( {{< relref "buildings/Oil_Well.md" >}}) and storage.

@@ -12,7 +12,7 @@ title = "Antimatter Reactors"
 
 ### **Core Effects**
 The primary function of this upgrade is to boost the effectiveness of your primary endgame science structures:
-*   **Science Storage Boost:** It increases the maximum science storage provided by **Research Vessels** and **Space Beacons** by **95%**.
+*   **Science Storage Boost:** It increases the maximum science storage provided by [Research Vessels]( {{< relref "space/research-vessel.md" >}}) and [Space Beacons]( {{< relref "space/space-beacon.md" >}}) by **95%**.
 *   **Efficiency:** The upgrade is described as making these structures "95% more effective" overall.
 
 ### **Endgame Progression**

@@ -26,6 +26,6 @@ For a player at your stage—managing [Enriched Uranium]( {{< relref "upgrade/En
 3.  [Space Elevators:]( {{< relref "space/space_elevator.md" >}}) Improving your presence at Jupiter often complements your [Space Elevators]( {{< relref "space/space_elevator.md" >}}), reducing the friction of moving resources between the ground and your orbital stations.
 
 ### Managing the Starchart Bottleneck
-If you are struggling to afford the Jupiter mission or its upgrades, remember the [Hubble Space Telescope]( {{< relref "upgrade/Hubble_Space_Telescope.md" >}}) upgrade we discussed. It will provide the 30% boost to your [Satellites]( {{< relref "techs/Satellites.md" >}}) and **Research Vessels** needed to generate the thousands of starcharts required for Jupiter operations.
+If you are struggling to afford the Jupiter mission or its upgrades, remember the [Hubble Space Telescope]( {{< relref "upgrade/Hubble_Space_Telescope.md" >}}) upgrade we discussed. It will provide the 30% boost to your [Satellites]( {{< relref "techs/Satellites.md" >}}) and [Research Vessels]( {{< relref "space/research-vessel.md" >}}) needed to generate the thousands of starcharts required for Jupiter operations.
 
  

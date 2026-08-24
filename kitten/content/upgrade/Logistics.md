@@ -22,6 +22,6 @@ This is a high-tier industrial upgrade that is critical for transitioning into t
 
 ### **3. Broader Logistic Systems**
 The term is also applied to automated management systems within the game:
-*   **AI Logistics (AI Bases):** A Workshop upgrade where each [AI Core]( {{< relref "buildings/AI_Core.md" >}}) increases the storage effectiveness of **Moon Bases** by 10%. This helps manage the massive Unobtainium caps required for building Chronospheres.
+*   **AI Logistics (AI Bases):** A Workshop upgrade where each [AI Core]( {{< relref "buildings/AI_Core.md" >}}) increases the storage effectiveness of [Moon Bases]( {{< relref "space/moonbase.md" >}}) by 10%. This helps manage the massive Unobtainium caps required for building Chronospheres.
 *   **Trade Logistics (Caravanserai):** While not named "logistics," this upgrade allows [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}) to improve your standing with other races, effectively managing the "hostility" of partners like Zebras to ensure successful resource acquisition.
 *   **Job Management (Register):** This Workshop upgrade allows your **Leader** to manage kitten deployments more efficiently, automatically prioritizing kittens with higher experience levels for job assignments.

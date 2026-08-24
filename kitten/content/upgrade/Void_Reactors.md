@@ -9,8 +9,8 @@ title = "Void Reactors"
 
 ### **Mechanical Effects and Bonuses**
 The primary function of Void Reactors is to expand your maximum science cap through the following structures:
-*   **Research Vessels:** Equipping these vessels with Void Reactors increases their contribution to your **maximum science by 400%**.
-*   **Space Beacons:** Similar to research vessels, this upgrade increases the science storage provided by each Space Beacon by **400%**.
+*   [Research Vessels:]( {{< relref "space/research-vessel.md" >}}) Equipping these vessels with Void Reactors increases their contribution to your **maximum science by 400%**.
+*   [Space Beacons:]( {{< relref "space/space-beacon.md" >}}) Similar to research vessels, this upgrade increases the science storage provided by each Space Beacon by **400%**.
 
 ### **Strategic Utility**
 In the late-game "Relic Era", increasing your science cap becomes a critical bottleneck for unlocking endgame technologies like [Paradox Theory]( {{< relref "techs/Paradox_Theory.md" >}}) (1M Science) and [Exophysics]( {{< relref "techs/Exophysics.md" >}}) (25M Science). Void Reactors are considered essential for reaching these storage thresholds without needing to build an excessive number of terrestrial buildings like Libraries or Academies. Because the upgrade scales based on structures that are already established for Starchart or Relic production, it provides a high return on investment for players moving toward the "Chrono-Optimization" phase of the game.

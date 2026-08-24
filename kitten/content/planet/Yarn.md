@@ -24,7 +24,7 @@ The Yarn Mission targets a Class M planet described as having a high moderate cl
 
 Completing the mission allows for the construction of two crucial buildings, provided the necessary technologies have been researched:
 
-1.  **Terraforming Station:** This structure requires the [Terraformation]( {{< relref "techs/Terraformation.md" >}}) research.
+1.  [Terraforming Station:]( {{< relref "space/terraforming-station.md" >}}) This structure requires the [Terraformation]( {{< relref "techs/Terraformation.md" >}}) research.
     *   **Cost:** 25 Antimatter, 5,000 Uranium, and 5,000 Kerosene.
     *   **Effect:** Increases maximum kitten population by **+1**.
     *   Terraforming Yarn is noted as a necessary action for maximizing housing during deep endgame paragon farming runs.

@@ -10,6 +10,6 @@ title = "Exophysics"
 *   **Cost:** Researching Exophysics requires a massive investment of **25 Million Science** and **500 Relics**.
 
 ### **Unlocked Content**
-Researching Exophysics unlocks the **Molten Core** space upgrade. 
+Researching Exophysics unlocks the [Molten Core]( {{< relref "space/molten-core.md" >}}) space upgrade. 
 
-The Molten Core upgrade costs 25 Million Science and 5 Million Uranium. It is used to directly improve the energy output of your **Tectonic** space structures (which are built in the Centaurus System). Every level of Molten Core you purchase will increase Tectonic energy production by **+5%**.
+The Molten Core upgrade costs 25 Million Science and 5 Million Uranium. It is used to directly improve the energy output of your [Tectonic]( {{< relref "space/tectonic.md" >}}) space structures (which are built in the Centaurus System). Every level of Molten Core you purchase will increase Tectonic energy production by **+5%**.

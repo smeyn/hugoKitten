@@ -20,7 +20,7 @@ The Kairo Mission is unlocked in the later stages of space exploration, followin
 
 **Space Beacon Building**
 
-Successfully completing the Kairo Mission unlocks the **Space Beacon** structure.
+Successfully completing the Kairo Mission unlocks the [Space Beacon]( {{< relref "space/space-beacon.md" >}}) structure.
 
 *   **Cost:** 25k Starchart, 50 Antimatter, 25k Alloy, and 7,500 Kerosene.
 *   **Effects:** Provides a significant **+25K maximum Science** and generates **0.125 Starchart per second**.

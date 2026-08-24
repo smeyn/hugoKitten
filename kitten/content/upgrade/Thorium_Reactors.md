@@ -18,7 +18,7 @@ The upgrade allows your existing Reactors to utilise Thorium as a secondary, mor
 *   **Toggleable Functionality:** Like many advanced industrial buildings, the Thorium consumption (and its associated energy bonus) can be toggled on or off to manage resource levels.
 
 ### **Strategic Importance**
-*   **Supporting the Endgame Grid:** Thorium Reactors are essential for powering energy-heavy structures such as [AI Cores]( {{< relref "buildings/AI_Core.md" >}}), **Entanglement Stations**, and **Terraforming Stations**.
+*   **Supporting the Endgame Grid:** Thorium Reactors are essential for powering energy-heavy structures such as [AI Cores]( {{< relref "buildings/AI_Core.md" >}}), [Entanglement Stations]( {{< relref "space/entanglement-station.md" >}}), and [Terraforming Stations]( {{< relref "space/terraforming-station.md" >}}).
 *   **Antimatter Generation:** A common strategy is to only activate Thorium Reactors during **time skips** to ensure a positive energy state. This is vital because [Sunlifters]( {{< relref "space/sunlifter.md" >}}) only produce antimatter if your energy production is positive when the year changes.
 *   **Efficiency Upgrades:** Once Thorium Reactors are active, you should prioritise the [Enriched Thorium]( {{< relref "upgrade/Enriched_Thorium.md" >}}) upgrade. This reduces the fuel consumption of your reactors by **25%**, allowing your Thorium stockpiles to last significantly longer.
 

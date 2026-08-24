@@ -16,7 +16,7 @@ title = "Kerosene Resource"
 ### **Primary Uses in Space**
 Kerosene is mandatory for nearly all activities beyond the initial orbital launch:
 *   **Space Missions:** It is required for missions to [Dune]( {{< relref "planet/Dune.md" >}}) (75 kerosene), [Piscine]( {{< relref "planet/Piscine.md" >}}) (250), [Helios]( {{< relref "planet/Helios.md" >}}) (1,250), [T-minus]( {{< relref "planet/T_Minus.md" >}}) (750), [Kairo]( {{< relref "planet/Kairo.md" >}}) (7,500), and beyond.
-*   **Orbital Structures:** Large quantities are needed for high-tier buildings, most notably **Space Beacons** (7,500), **Heatsinks** (5,000), **Terraforming Stations** (5,000), and [Sunlifters]( {{< relref "space/sunlifter.md" >}}) (2,500).
+*   **Orbital Structures:** Large quantities are needed for high-tier buildings, most notably [Space Beacons]( {{< relref "space/space-beacon.md" >}}) (7,500), [Heatsinks]( {{< relref "space/heatsink.md" >}}) (5,000), [Terraforming Stations]( {{< relref "space/terraforming-station.md" >}}) (5,000), and [Sunlifters]( {{< relref "space/sunlifter.md" >}}) (2,500).
 *   **Infrastructure Upgrades:** It is a required material for upgrading Warehouses into [Spaceports]( {{< relref "buildings/spaceport.md" >}}) (1,000 kerosene).
 
 ### **Strategic Management and Automation**

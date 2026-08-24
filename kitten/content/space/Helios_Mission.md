@@ -18,8 +18,8 @@ The travel time for the mission is **1,200 game-days**, which equates to approxi
 ### **Unlocked Structures and Infrastructure**
 The primary importance of the Helios mission is the gateway it provides to advanced energy and **antimatter production**. Successfully completing the mission unlocks four critical space structures:
 *   [Sunlifter:]( {{< relref "space/sunlifter.md" >}}) The primary source of antimatter, producing 1 unit per year while also generating 30 Watts of energy.
-*   **Containment Chamber:** Provides base storage for up to 100 units of antimatter, though it consumes 50 Watts of energy.
-*   **Heatsink:** Increases the antimatter storage capacity of Containment Chambers by +2%.
+*   [Containment Chamber:]( {{< relref "space/containment-chamber.md" >}}) Provides base storage for up to 100 units of antimatter, though it consumes 50 Watts of energy.
+*   [Heatsink:]( {{< relref "space/heatsink.md" >}}) Increases the antimatter storage capacity of Containment Chambers by +2%.
 *   [Sunforge:]( {{< relref "space/Sun_Forge.md" >}}) Enhances the storage capacity of base metals (iron, titanium, gold, uranium, and unobtainium) by 1% per building.
 
 ### **The Helios Cycle**
@@ -29,4 +29,4 @@ If you have researched **Numerology**, the "Helios" cycle (one of ten 5-year cyc
 *   If [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is also researched, holding a festival during the Helios cycle provides **double Faith income** and a **1.25x multiplier to Unicorn income**.
 
 ### **Strategic Utility**
-The Helios mission marks the transition into the **Relic Era**. To obtain the 5,000 antimatter capacity required for [Relic Stations]( {{< relref "upgrade/Relic_Station.md" >}}), players must typically invest heavily in Helios-based structures, specifically building enough **Heatsinks** (often up to 34 or 37) and **Containment Chambers** to reach the necessary cap. Furthermore, building a Sunlifter is a mandatory goal for completing the **Energy Challenge**.
+The Helios mission marks the transition into the **Relic Era**. To obtain the 5,000 antimatter capacity required for [Relic Stations]( {{< relref "upgrade/Relic_Station.md" >}}), players must typically invest heavily in Helios-based structures, specifically building enough [Heatsinks]( {{< relref "space/heatsink.md" >}}) (often up to 34 or 37) and [Containment Chambers]( {{< relref "space/containment-chamber.md" >}}) to reach the necessary cap. Furthermore, building a Sunlifter is a mandatory goal for completing the **Energy Challenge**.

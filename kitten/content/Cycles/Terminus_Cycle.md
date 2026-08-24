@@ -22,5 +22,5 @@ The cycle is named after the planet **Terminus**, which is reached through the [
 ### **Strategic Importance**
 In the late game, the Terminus cycle is highly valued for its bonus to **Unobtainium storage capacity**:
 *   **UO Cap Scaling:** Because Cryostations are one of only two structures that provide Unobtainium storage, the **+20% storage bonus** from this cycle is essential for players attempting to reach the **8.14 billion Unobtainium cap** needed to build 100 Chronospheres.
-*   **Oil Management:** The 2x festival bonus makes this cycle an ideal time to stockpile oil, especially when preparing to build expensive space structures like **Research Vessels**.
+*   **Oil Management:** The 2x festival bonus makes this cycle an ideal time to stockpile oil, especially when preparing to build expensive space structures like [Research Vessels]( {{< relref "space/research-vessel.md" >}}).
 *   **Energy Warning:** Players must be cautious of the **-50% penalty to Sunlifter energy output** during this cycle, which can lead to a sudden energy deficit and global production penalties if their grid is not sufficiently diversified.

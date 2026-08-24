@@ -13,10 +13,10 @@ The [Centaurus System Mission]( {{< relref "space/Centaurus_System_Mission.md" >
 
 ### **Unlocked Infrastructure**
 Successfully reaching the Centaurus System provides access to powerful energy-generating structures:
-*   **Tectonic:** A massive industrial project that rips open the planet near the Centaurus star to collect magma energy. It costs **600k Science**, **500 Antimatter**, and **75k Thorium** to build and provides a base **+25 Energy Production**. It requires the [Terraformation]( {{< relref "techs/Terraformation.md" >}}) technology.
-*   **Molten Core:** An advanced upgrade that costs **25M Science** and **5M Uranium**. Each level of Molten Core improves the effectiveness of Tectonic structures by **5%**. It requires the [Exophysics]( {{< relref "techs/Exophysics.md" >}}) technology.
+*   [Tectonic:]( {{< relref "space/tectonic.md" >}}) A massive industrial project that rips open the planet near the Centaurus star to collect magma energy. It costs **600k Science**, **500 Antimatter**, and **75k Thorium** to build and provides a base **+25 Energy Production**. It requires the [Terraformation]( {{< relref "techs/Terraformation.md" >}}) technology.
+*   [Molten Core:]( {{< relref "space/molten-core.md" >}}) An advanced upgrade that costs **25M Science** and **5M Uranium**. Each level of Molten Core improves the effectiveness of Tectonic structures by **5%**. It requires the [Exophysics]( {{< relref "techs/Exophysics.md" >}}) technology.
 
 ### **Strategic Progression**
 *   **Challenge Unlocks:** Completing the Centaurus Mission is the mandatory prerequisite to unlock the **Energy Challenge**. This challenge doubles energy consumption but rewards players with a permanent reduction in production penalties caused by negative energy.
 *   [Furthest Ring:]( {{< relref "planet/Furthest_Ring.md" >}}) Reaching the Centaurus System is the final requirement before you can launch the mission to the [Furthest Ring]( {{< relref "planet/Furthest_Ring.md" >}}), described as the end of the universe.
-*   **Endgame Utility:** Because this mission and its associated buildings require massive amounts of **Thorium, Antimatter, and Science**, it is typically undertaken only after the player has established a robust "Shatter Engine" and significant science storage through structures like **Space Beacons**.
+*   **Endgame Utility:** Because this mission and its associated buildings require massive amounts of **Thorium, Antimatter, and Science**, it is typically undertaken only after the player has established a robust "Shatter Engine" and significant science storage through structures like [Space Beacons]( {{< relref "space/space-beacon.md" >}}).

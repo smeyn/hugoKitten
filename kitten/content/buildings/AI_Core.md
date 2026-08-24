@@ -22,9 +22,9 @@ The AI Core is a building that is unlocked during the late game, after significa
 
 The AI Core is central to the very late-game progression involving high-level technology and the risk of the "AI Apocalypse".
 
-*   **Gigaflops Generation:** AI Cores are the sole source of **Gigaflops**. Gigaflops contribute to the **hashrate level**, which increases the relic production of **Space Beacons** that have been upgraded with [Relic Stations]( {{< relref "upgrade/Relic_Station.md" >}}).
+*   **Gigaflops Generation:** AI Cores are the sole source of **Gigaflops**. Gigaflops contribute to the **hashrate level**, which increases the relic production of [Space Beacons]( {{< relref "space/space-beacon.md" >}}) that have been upgraded with [Relic Stations]( {{< relref "upgrade/Relic_Station.md" >}}).
 *   **AI Apocalypse Risk:** Accumulating Gigaflops can potentially lead to the **AI Apocalypse**. If the AI level reaches 15, you start losing resources.
-*   **Synergy with Entanglement Stations:** AI Cores are typically built alongside **Entanglement Stations** (unlocked by Quantum Cryptography), which produce **Hashes**. The combination of AI Cores and Entanglement Stations creates hashes, which increase the hashrate level.
+*   **Synergy with Entanglement Stations:** AI Cores are typically built alongside [Entanglement Stations]( {{< relref "space/entanglement-station.md" >}}) (unlocked by Quantum Cryptography), which produce **Hashes**. The combination of AI Cores and Entanglement Stations creates hashes, which increase the hashrate level.
 *   **Ratio Management:** When building AI Cores and Entanglement Stations, players must monitor the Gigaflops accumulation to avoid the AI Apocalypse. The ratio is suggested to be roughly **5 AI Cores to 1 Entanglement Station** to prevent excessive Gigaflops accumulation, especially since Gigaflops are always lost on reset.
 
 ### 3. Upgrades and Policy Synergies

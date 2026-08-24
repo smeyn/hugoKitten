@@ -26,7 +26,7 @@ Successful space expansion relies on several specific resources that become the 
 Space expansion is not just about exploring; it is a mechanism for scaling your civilisation’s resource caps geometrically.
 *   [Space Manufacturing:]( {{< relref "upgrade/Space_Manufacturing.md" >}}) This is a vital workshop upgrade that allows your **Factories** to improve the production of space buildings. Without this, space structures often provide marginal returns.
 *   **Global Multipliers:** Buildings like the [Space Elevator]( {{< relref "space/space_elevator.md" >}}) (reduces oil costs) and [Orbital Array]( {{< relref "space/orbital_array.md" >}}) (provides a 2% bonus to all space structures) are essential for making expansion efficient.
-*   **Storage Caps:** Late-game progression is gated by the 8.14 billion Unobtainium storage requirement needed for 100 Chronospheres. This is achieved through massive investment in **Moon Bases**, [Cryostations]( {{< relref "space/cryo_station.md" >}}), and [AI Bases]( {{< relref "upgrade/AI_Bases.md" >}}).
+*   **Storage Caps:** Late-game progression is gated by the 8.14 billion Unobtainium storage requirement needed for 100 Chronospheres. This is achieved through massive investment in [Moon Bases]( {{< relref "space/moonbase.md" >}}), [Cryostations]( {{< relref "space/cryo_station.md" >}}), and [AI Bases]( {{< relref "upgrade/AI_Bases.md" >}}).
 
 ### **Planetary Destinations and Utilities**
 | Destination | Key Structure | Primary Benefit |

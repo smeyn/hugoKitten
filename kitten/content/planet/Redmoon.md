@@ -13,14 +13,14 @@ Redmoon is a planet satellite targeted during the mid-to-late game space race:
 
 *   **Mission Unlock:** The [Moon Mission]( {{< relref "space/Moon_Mission.md" >}}) is unlocked after the Orbital Launch and requires 500 Starchart, 5000 Titanium, 125,000 Science, and 45,000 Oil to launch.
 *   **Travel Time:** The journey to Redmoon takes 30 game-days, equivalent to 1 minute in real-time.
-*   **Unlocks:** A successful mission unlocks the [Lunar Outpost]( {{< relref "planet/lunar_outpost.md" >}}) and the **Moon Base** structures, as well as the subsequent [Dune Mission]( {{< relref "space/Dune_Mission.md" >}}) and [Piscine Mission]( {{< relref "space/Piscine_Mission.md" >}}).
+*   **Unlocks:** A successful mission unlocks the [Lunar Outpost]( {{< relref "planet/lunar_outpost.md" >}}) and the [Moon Base]( {{< relref "space/moonbase.md" >}}) structures, as well as the subsequent [Dune Mission]( {{< relref "space/Dune_Mission.md" >}}) and [Piscine Mission]( {{< relref "space/Piscine_Mission.md" >}}).
 
 ### 2. Buildings on Redmoon
 
 The mission allows for the establishment of two critical structures on Redmoon:
 
 *   [Lunar Outpost:]( {{< relref "planet/lunar_outpost.md" >}}) This nuclear-powered mining outpost is crucial for the Unobtainium economy. It consumes Uranium (at a rate of 1.75/sec) and produces [Unobtainium]( {{< relref "resource/unobtainium.md" >}}) (at 0.035/sec).
-*   **Moon Base:** This base provides large storage increases for core resources, notably providing **+45,000 maximum Catnip** and **+150 maximum Unobtainium** storage.
+*   [Moon Base:]( {{< relref "space/moonbase.md" >}}) This base provides large storage increases for core resources, notably providing **+45,000 maximum Catnip** and **+150 maximum Unobtainium** storage.
 
 ### 3. Redmoon Astrological Cycle
 

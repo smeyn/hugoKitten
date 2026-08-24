@@ -15,14 +15,14 @@ Antimatter is primarily generated through orbital infrastructure in the Helios s
 
  ## **Storage and Capacity Milestones**
 The default storage capacity for antimatter is **100 units**. Expanding this cap is mandatory for high-level progression:
-*   **Containment Chambers:** Constructed in the Kairo system, these provide **+100 max antimatter** each, but consume a heavy 50 Watts of energy.
-*   **Heatsinks:** These increase the storage effectiveness of Containment Chambers by **+2%** per building.
+*   [Containment Chambers:]( {{< relref "space/containment-chamber.md" >}}) Constructed in the Kairo system, these provide **+100 max antimatter** each, but consume a heavy 50 Watts of energy.
+*   [Heatsinks:]( {{< relref "space/heatsink.md" >}}) These increase the storage effectiveness of Containment Chambers by **+2%** per building.
 *   **The 5,000 Cap Goal:** A major strategic milestone is reaching a **5,000 unit capacity**, which is the cost of a [Relic Station]( {{< relref "upgrade/Relic_Station.md" >}}). To achieve this, a typical configuration requires approximately **34 Heatsinks and 29 Containment Chambers**, supported by significant Paragon levels. If your maximum antimatter is below 5,000, your relic production efficiency is reduced proportionally.
 
 ### **Primary Uses**
 Antimatter is essential for transitioning into the endgame "Relic Engine" and optimizing space travel:
 *   **Relic Era Infrastructure:** It is the core requirement for **Relic Stations (5,000 AM)** and **Space Beacons (50 AM)**, which automate the generation of Relics.
-*   **Quantum Computing:** **Entanglement Stations**, which generate hashes for cryptographical attacks on the elders, cost **5,250 AM**.
+*   **Quantum Computing:** [Entanglement Stations]( {{< relref "space/entanglement-station.md" >}}), which generate hashes for cryptographical attacks on the elders, cost **5,250 AM**.
 *   **AI and Automation:** It is required to build **AI Cores (125 AM)** and purchase the [Machine Learning]( {{< relref "upgrade/Machine_Learning.md" >}}) upgrade (125 AM).
 *   **Space Upgrades:** Advanced space missions and structures depend on it, including **Terraforming Stations (25 AM)**, **Tectonics (500 AM)**, and **Antimatter Drives (125 AM)**.
 *   **Reactor Enhancements:** It is used to upgrade standard infrastructure, such as **Advanced AM Reactors (1,750 AM)** and **Void Reactors (2,500 AM)**.

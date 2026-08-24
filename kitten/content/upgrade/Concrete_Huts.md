@@ -15,7 +15,7 @@ title = "Concrete Huts"
 ### **Strategic Importance: The First Reset**
 Concrete Huts is the single most important milestone for determining when to perform your **first reset**.
 *   **The 130 Kitten Goal:** Without this upgrade, most players cap out around 70–80 kittens. Concrete Huts allows you to push your population to **130–140 kittens**.
-*   **Paragon Farming:** Since you earn 1 Paragon for every kitten over 70, reaching 130 kittens guarantees you **60 Paragon** upon resetting. This is the recommended amount needed to buy essential Metaphysics upgrades (like [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) and [Golden Ratio]( {{< relref "metaphysics/Golden_Ratio.md" >}})) for your second run.
+*   [Paragon Farming:]( {{< relref "guides/paragon-farming.md" >}}) Since you earn 1 Paragon for every kitten over 70, reaching 130 kittens guarantees you **60 Paragon** upon resetting. This is the recommended amount needed to buy essential Metaphysics upgrades (like [Diplomacy]( {{< relref "Policy/Diplomacy.md" >}}) and [Golden Ratio]( {{< relref "metaphysics/Golden_Ratio.md" >}})) for your second run.
 
 ### **Requirements and The "Concrete Era"**
 Reaching Concrete Huts requires overcoming two main bottlenecks:

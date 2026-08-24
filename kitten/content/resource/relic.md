@@ -44,7 +44,7 @@ Relics are the required resource for purchasing most buildings and upgrades with
 Obtaining Relics is the primary focus of the mid-game [1]. Players develop specialized strategies, or "engines," to increase relic flow:
 
 1.  **Type 0 Engine (Leviathan Trade):** Relies on trading 5,000 Unobtainium to Leviathans for relics [5, 23]. This can be optimized by using the [Chronoforge]( {{< relref "chronoforge.md" >}}) to skip non-Redmoon cycles (which boost Unobtainium production) [23, 24].
-2.  **Type 1 Engine (Relic Stations):** Involves mass-producing **Space Beacons** and the [Relic Station]( {{< relref "relic_station.md" >}}) upgrade, enhancing production with [Black Nexus]( {{< relref "black_nexus.md" >}}) and [AI Cores]( {{< relref "buildings/AI_Core.md" >}}) [8].
+2.  **Type 1 Engine (Relic Stations):** Involves mass-producing [Space Beacons]( {{< relref "space/space-beacon.md" >}}) and the [Relic Station]( {{< relref "relic_station.md" >}}) upgrade, enhancing production with [Black Nexus]( {{< relref "black_nexus.md" >}}) and [AI Cores]( {{< relref "buildings/AI_Core.md" >}}) [8].
 3.  **Type 2 Engine (Shatter Engine):** Requires investing vast amounts of Time Crystals into [Resource Retrieval]( {{< relref "upgrade/resource-retrieval.md" >}}) to reach a point where shattering a single Time Crystal yields enough Unobtainium to immediately trade with Leviathans for multiple new Time Crystals, allowing for rapid Time Crystal refinement into Relics [9, 20, 25].
 
 Relics are the final currency gate before the ultimate goal of maximizing Antimatter and Void resources to prepare for the End Game push for **Infinity** [1, 26].

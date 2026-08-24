@@ -17,7 +17,7 @@ Unlocking and building Hydroponics represents a significant technological invest
 Hydroponics provides three distinct types of bonuses that help manage late-game resource bottlenecks:
 *   **Catnip Production:** Each unit increases global catnip production by **+2.5%**.
 *   **Catnip Storage:** Each unit provides a **+10% bonus** to your maximum catnip storage capacity. This bonus is additive with the [Refrigeration]( {{< relref "upgrade/Refrigeration.md" >}}) upgrade (+75%). For example, having 50 Hydroponics alongside Refrigeration results in a **+575%** total storage bonus.
-*   **Terraforming Synergy:** Every unit provides a **+1.0% bonus** to the kitten capacity of **Terraforming Stations** (which normally house +1 kitten each).
+*   **Terraforming Synergy:** Every unit provides a **+1.0% bonus** to the kitten capacity of [Terraforming Stations]( {{< relref "space/terraforming-station.md" >}}) (which normally house +1 kitten each).
 
 ### **Cycle Multipliers (Numerology)**
 If you have researched the **Numerology** metaphysics upgrade, the effectiveness of Hydroponics is dramatically altered by the current **Cycle**:

@@ -19,7 +19,7 @@ Building a Dark Nova represents a significant investment in late-game resources 
 ### **Strategic Utility**
 Dark Nova is situated in the final phase of the game (Phase 3/Endgame), where energy management becomes a primary bottleneck for scientific and industrial expansion.
 
-*   **Endgame Power Demands:** As you progress toward the "positive reset" loop, you must power high-consumption buildings like [AI Cores]( {{< relref "buildings/AI_Core.md" >}}) (which consume increasing energy per unit), **Containment Chambers** (50 Watts each), and **Entanglement Stations** (25 Watts each). The +2% global production bonus helps sustain these power-hungry systems.
+*   **Endgame Power Demands:** As you progress toward the "positive reset" loop, you must power high-consumption buildings like [AI Cores]( {{< relref "buildings/AI_Core.md" >}}) (which consume increasing energy per unit), [Containment Chambers]( {{< relref "space/containment-chamber.md" >}}) (50 Watts each), and [Entanglement Stations]( {{< relref "space/entanglement-station.md" >}}) (25 Watts each). The +2% global production bonus helps sustain these power-hungry systems.
 *   **Scaling for Infinity:** Advanced players utilize the energy boost to support massive arrays of [Sunlifters]( {{< relref "space/sunlifter.md" >}}) and [Hydro Plants]( {{< relref "buildings/Hydro_Plant.md" >}}) while attempting to reach the **8.14 billion Unobtainium capacity** required for 100 Chronospheres.
 *   **Synergy with Void Rifts:** The global energy production bonus stacks with other modifiers, helping to maintain a positive energy surplus during **Time Skips**, which is necessary for [Antimatter]( {{< relref "resource/Antimatter.md" >}}) generation and the automated "shatter engine".
 

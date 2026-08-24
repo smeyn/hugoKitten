@@ -18,7 +18,7 @@ The mission has a travel time of **5,000 game-days**, which is approximately **2
 ### **Unlocks and Infrastructure**
 Successfully exploring Kairo provides access to the following:
 *   **The Rorschach Mission:** Unlocks the next stage of deep-space exploration.
-*   **Space Beacons:** This is the primary infrastructure unlocked by the mission. Each Space Beacon costs 25,000 Starcharts, 50 Antimatter, 25,000 Alloy, and 7,500 Kerosene. 
+*   [Space Beacons:]( {{< relref "space/space-beacon.md" >}}) This is the primary infrastructure unlocked by the mission. Each Space Beacon costs 25,000 Starcharts, 50 Antimatter, 25,000 Alloy, and 7,500 Kerosene. 
     *   **Science Boost:** Every Space Beacon provides a massive **+25,000 bonus to maximum science storage**.
     *   **Starchart Production:** They generate **0.125 starcharts per second**.
     *   **Relic Production:** Once upgraded with a [Relic Station]( {{< relref "upgrade/Relic_Station.md" >}}), Space Beacons become a primary source of passive relics, yielding **0.01 relics per day** (scaled by your current antimatter storage).

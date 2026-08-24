@@ -13,7 +13,7 @@ The [LHC]( {{< relref "upgrade/LHC.md" >}}) (Large Hadron Collider) is a high-ti
 ### **Primary Effects and Scaling**
 Once purchased, the LHC provides a substantial boost to your maximum science storage:
 *   **Science Storage Bonus:** Every Accelerator in your village provides a flat **+2500 bonus to maximum science**.
-*   **Scientific Progression:** This upgrade is a critical component of the late-game science infrastructure. It allows Accelerators to contribute to your total science cap alongside other major structures like **Data Centres** (+750 science), [Bio Labs]( {{< relref "buildings/Bio_Lab.md" >}}) (+1500 science), and **Space Beacons** (+25,000 science).
+*   **Scientific Progression:** This upgrade is a critical component of the late-game science infrastructure. It allows Accelerators to contribute to your total science cap alongside other major structures like **Data Centres** (+750 science), [Bio Labs]( {{< relref "buildings/Bio_Lab.md" >}}) (+1500 science), and [Space Beacons]( {{< relref "space/space-beacon.md" >}}) (+25,000 science).
 
 ### **Strategic Utility**
 The LHC is essential for breaking through the **"science ceiling"** required for the most advanced technologies in the game. While early-game storage relies on Libraries and Academies, the escalating costs of late-game research—such as [Quantum Cryptography]( {{< relref "techs/Quantum_Cryptography.md" >}}) (1.25M science) and [Exophysics]( {{< relref "techs/Exophysics.md" >}}) (25M science)—necessitate the massive science storage bonuses provided by LHC-upgraded Accelerators.

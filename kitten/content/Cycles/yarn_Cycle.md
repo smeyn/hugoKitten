@@ -15,7 +15,7 @@ The effects of the Yarn cycle become active only after researching specific Meta
 ### **Space Exploration Context**
 The cycle is named after the **planet Yarn**, a Class M planet with a moderate climate and oxygen atmosphere.
 *   **Mission:** The Yarn Mission is unlocked after the Helios mission and requires **7,500 starcharts, 35,000 titanium, 350,000 science, and 12,000 kerosene**.
-*   **Planet Structures:** Once reached, you can build **Terraforming Stations** (which increase your maximum kitten population by +1) and [Hydroponics]( {{< relref "techs/Hydroponics.md" >}}) systems. 
+*   **Planet Structures:** Once reached, you can build [Terraforming Stations]( {{< relref "space/terraforming-station.md" >}}) (which increase your maximum kitten population by +1) and [Hydroponics]( {{< relref "techs/Hydroponics.md" >}}) systems. 
 *   [Hydroponics:]( {{< relref "techs/Hydroponics.md" >}}) These structures provide a **+10% bonus to maximum catnip** and a **+2.5% boost to catnip production**. During the Yarn cycle, this production bonus is significantly enhanced by the Numerology modifier.
 
 ### **Strategic Importance**

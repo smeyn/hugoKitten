@@ -28,7 +28,7 @@ Necrocracy is considered a niche but powerful choice for players in the deep **L
 ### **Comparison with Alternatives**
 Because this policy is mutually exclusive with two other high-tier options, your choice depends on your current bottleneck:
 
-*   **Vs. Transkittenism:** Transkittenism is generally preferred by many players because it prevents the **AI Apocalypse** and doubles **Gigaflop** production, which is essential for scaling **Moon Base** storage.
+*   **Vs. Transkittenism:** Transkittenism is generally preferred by many players because it prevents the **AI Apocalypse** and doubles **Gigaflop** production, which is essential for scaling [Moon Base]( {{< relref "space/moonbase.md" >}}) storage.
 *   **Vs. Radical Xenophobia:** Radical Xenophobia focuses on [Mausoleums]( {{< relref "transcendence/Mausoleum.md" >}}) and **Pacts**. Necrocracy is usually seen as more generally useful for raw production compared to the "steep debt" associated with Pact-based play.
 
 ### **Strategic Recommendation**

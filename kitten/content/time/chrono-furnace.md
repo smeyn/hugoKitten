@@ -20,7 +20,7 @@ The Chrono Furnace serves several crucial functions for managing the "chronoheat
 
 ### **Synergies and Related Upgrades**
 *   [Time Boilers:]( {{< relref "time/time-boiler.md" >}}) An upgrade that expands the heat capacity of your Chrono Furnaces.
-*   **Controlled Delay:** Because massive amounts of stored fuel can cause the furnace to fire too rapidly for you to click anything else, the Controlled Delay upgrade forces the automated Chrono Furnace to wait **0.2 seconds between firing**, allowing you to perform meaningful actions during the skips.
+*   [Controlled Delay:]( {{< relref "time/controlled-delay.md" >}}) Because massive amounts of stored fuel can cause the furnace to fire too rapidly for you to click anything else, the Controlled Delay upgrade forces the automated Chrono Furnace to wait **0.2 seconds between firing**, allowing you to perform meaningful actions during the skips.
 *   **1000 Years Challenge:** Completing this challenge increases the efficiency of converting chronoheat into Chrono Furnace fuel by **10% per completion**, and makes each shatter directly add a bit of heat to the furnace to offset lost heat generation.
 
 ### **Strategic Importance**

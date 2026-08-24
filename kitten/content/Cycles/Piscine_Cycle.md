@@ -9,14 +9,14 @@ The [Piscine cycle]( {{< relref "Cycles/Piscine_Cycle.md" >}}) is the eighth in 
 The modifiers for the Piscine cycle are active only after researching specific Metaphysics technologies:
 
 *   **Numerology Effects:** Researching **Numerology** activates production modifiers for space-based structures, acting as a "boom" period for starcharts but a "fallow" period for advanced catnip production:
-    *   **Research Vessels:** Starchart production is increased by **+50%**.
+    *   [Research Vessels:]( {{< relref "space/research-vessel.md" >}}) Starchart production is increased by **+50%**.
     *   [Hydroponics:]( {{< relref "techs/Hydroponics.md" >}}) Catnip production is reduced by **-50%**.
 *   **Numeromancy (Festival) Effects:** If a festival is held during this cycle and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is researched, the village receives a **x2 multiplier (doubled income) for Science**.
 
 ### **Relationship to Planet Piscine**
 The cycle is named after the planet [Piscine]( {{< relref "planet/Piscine.md" >}}), described as a gigantic aquatic planet with an acid body and a methane atmosphere. 
 *   [Piscine Mission:]( {{< relref "space/Piscine_Mission.md" >}}) Reaching the planet requires **1,500 starcharts, 9,000 titanium, 200,000 science, and 250 kerosene**.
-*   **Research Vessel:** Completing the mission unlocks the ability to build Research Vessels. Each vessel provides **+10,000 science storage** and produces **0.05 starcharts per second**.
+*   [Research Vessel:]( {{< relref "space/research-vessel.md" >}}) Completing the mission unlocks the ability to build Research Vessels. Each vessel provides **+10,000 science storage** and produces **0.05 starcharts per second**.
 
 ### **Strategic Importance**
 The Piscine cycle and the associated planet are critical for mid-to-late game progression:

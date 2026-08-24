@@ -13,7 +13,7 @@ The [Piscine Mission]( {{< relref "space/Piscine_Mission.md" >}}) is a mid-to-la
 
 ### **Critical Unlocks and Infrastructure**
 Successfully exploring Piscine is the gateway to some of the most powerful starchart-generating structures in the star system:
-*   **Research Vessels:** These mobile space stations provide a base **+10,000 science storage** and generate **0.05 starcharts per second**. The sources identify these vessels as the **most efficient method for generating starcharts**, outperforming Satellites by a factor of ten.
+*   [Research Vessels:]( {{< relref "space/research-vessel.md" >}}) These mobile space stations provide a base **+10,000 science storage** and generate **0.05 starcharts per second**. The sources identify these vessels as the **most efficient method for generating starcharts**, outperforming Satellites by a factor of ten.
 *   [Orbital Arrays:]( {{< relref "space/orbital_array.md" >}}) This space structure provides a **2% bonus to all space structures**, though it consumes a significant 20 Watts of energy.
 *   **Future Exploration:** Completing this mission is required to unlock the [T-minus mission]( {{< relref "space/T-minus_Mission.md" >}}).
 

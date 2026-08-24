@@ -26,4 +26,4 @@ The effectiveness of the harvester fluctuates based on the current cosmic cycle 
 
 ### **Strategic Importance**
 *   **Energy Challenge:** Building at least one HR Harvester is a mandatory requirement for completing the **Energy Challenge**.
-*   **Endgame Power Grid:** Because its production scales with years, it eventually becomes a vital source of power for energy-intensive endgame structures like [AI Cores]( {{< relref "buildings/AI_Core.md" >}}) and **Entanglement Stations**, especially during "Deep Runs" where the year count reaches into the hundreds of thousands.
+*   **Endgame Power Grid:** Because its production scales with years, it eventually becomes a vital source of power for energy-intensive endgame structures like [AI Cores]( {{< relref "buildings/AI_Core.md" >}}) and [Entanglement Stations]( {{< relref "space/entanglement-station.md" >}}), especially during "Deep Runs" where the year count reaches into the hundreds of thousands.

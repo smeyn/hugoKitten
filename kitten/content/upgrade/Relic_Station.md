@@ -13,7 +13,7 @@ Here are the details on how to acquire and optimize Relic Stations:
 *   **Antimatter Preparation:** Gathering 5,000 Antimatter is a major bottleneck. You will need to build Sunlifters to generate Antimatter, and heavily expand your Antimatter storage capacity by constructing Containment Chambers and Heatsinks.
 
 ### **Core Effects and Scaling**
-*   **Passive Relic Generation:** Once purchased, every **Space Beacon** you have built will begin passively generating **0.01 Relics per game-day** (which equates to roughly 432 Relics per real-life day per beacon).
+*   **Passive Relic Generation:** Once purchased, every [Space Beacon]( {{< relref "space/space-beacon.md" >}}) you have built will begin passively generating **0.01 Relics per game-day** (which equates to roughly 432 Relics per real-life day per beacon).
 *   **Antimatter Storage Penalty:** Your Relic Station's efficiency is directly tied to your Antimatter storage limit. If your maximum Antimatter storage drops below 5,000, your Relic production will decrease by 0.02% for every missing unit of storage.
 
 ### **How to Boost Relic Station Production**

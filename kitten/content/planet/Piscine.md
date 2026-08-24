@@ -16,13 +16,13 @@ The Piscine mission targets a gigantic aquatic planet characterised by an acid b
 | **Prerequisite** | Unlocked after successfully completing the [Moon Mission]( {{< relref "space/Moon_Mission.md" >}}). |
 | **Cost** | Requires **1500 Starchart**, **9000 Titanium**, **200k Science**, and **250 Kerosene**. |
 | **Travel Time** | 256 game-days (8 minutes, 32 seconds in real-time). |
-| **Unlocks** | Unlocks the **Piscine Planet**, the **Research Vessel** building, and the [T-minus Mission]( {{< relref "space/T-minus_Mission.md" >}}). |
+| **Unlocks** | Unlocks the **Piscine Planet**, the [Research Vessel]( {{< relref "space/research-vessel.md" >}}) building, and the [T-minus Mission]( {{< relref "space/T-minus_Mission.md" >}}). |
 
 The Pisces Mission is a major investment point, requiring 1500 Starcharts to bypass the starchart bottleneck needed for continued space progression.
 
 ### 2. Research Vessel Building
 
-The successful mission unlocks the **Research Vessel** building, which is crucial for maximizing scientific progress:
+The successful mission unlocks the [Research Vessel]( {{< relref "space/research-vessel.md" >}}) building, which is crucial for maximizing scientific progress:
 
 *   **Science Storage:** Each Research Vessel provides a substantial increase of **+10,000 maximum Science**.
 *   **Starchart Production:** They are highly efficient, generating **0.05 Starchart per second**. Research Vessels are considered the most efficient way to acquire Starcharts.

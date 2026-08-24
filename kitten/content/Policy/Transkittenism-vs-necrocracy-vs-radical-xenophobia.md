@@ -15,7 +15,7 @@ Because they are exclusive, choosing one requires identifying your primary bottl
 
 | Policy | Primary Focus | Key Benefit |
 | --- | --- | --- |
-| [Transkittenism]( {{< relref "Policy/Transkittenism.md" >}}) | **Storage** | Increases **Moon Base** storage capacity (which effectively allows for more Chronospheres). |
+| [Transkittenism]( {{< relref "Policy/Transkittenism.md" >}}) | **Storage** | Increases [Moon Base]( {{< relref "space/moonbase.md" >}}) storage capacity (which effectively allows for more Chronospheres). |
 | [Necrocracy]( {{< relref "Policy/Necrocracy.md" >}}) | **Production** | Global production bonus based on your **Black Liquid Sorrow (BLS)** levels. |
 | [Radical Xenophobia]( {{< relref "Policy/Radical_Xenophobia.md" >}}) | **Diplomacy/Pacts** | Increases [Mausoleum]( {{< relref "transcendence/Mausoleum.md" >}}) efficiency and grants 5 free Pacts. |
 

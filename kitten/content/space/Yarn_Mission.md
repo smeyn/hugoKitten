@@ -14,7 +14,7 @@ The [Yarn Mission]( {{< relref "space/Yarn_Mission.md" >}}) is a late-game space
 
 ### **Yarn Infrastructure**
 Once the planet is reached, two specialized structures can be developed to scale the colony’s population and agricultural efficiency:
-*   **Terraforming Station:** Costs **25 Antimatter, 5,000 Uranium, and 5,000 Kerosene**. It provides **+1 maximum kitten** capacity.
+*   [Terraforming Station:]( {{< relref "space/terraforming-station.md" >}}) Costs **25 Antimatter, 5,000 Uranium, and 5,000 Kerosene**. It provides **+1 maximum kitten** capacity.
 *   [Hydroponics:]( {{< relref "techs/Hydroponics.md" >}}) Requires the **Hydroponics technology** and costs **1 Unobtainium and 500 Kerosene**. It increases **maximum catnip by 10%**, catnip production by **2.5%**, and provides a **1.0% bonus** to the kitten capacity of Terraforming Stations. Hydroponics also increases the overall **catnip storage capacity by 10%**, which stacks additively with the [Refrigeration]( {{< relref "upgrade/Refrigeration.md" >}}) upgrade.
 
 ### **The Yarn Cycle**
@@ -24,4 +24,4 @@ Once the planet is reached, two specialized structures can be developed to scale
 *   **Festival Effect:** If [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is also researched, holding a festival during the Yarn cycle provides a **2x multiplier to culture income**.
 
 ### **Strategic Importance**
-In the late game, terraforming Yarn is a primary strategy for players aiming to maximize their **kitten population** (potentially reaching upwards of 60,000 kittens) to farm larger amounts of [Paragon]( {{< relref "resource/paragon.md" >}}) during long runs. This is achieved by stacking **Terraforming Stations** and leveraging the scaling bonuses from [Hydroponics]( {{< relref "techs/Hydroponics.md" >}}) and [AI Cores]( {{< relref "buildings/AI_Core.md" >}}).
+In the late game, terraforming Yarn is a primary strategy for players aiming to maximize their **kitten population** (potentially reaching upwards of 60,000 kittens) to farm larger amounts of [Paragon]( {{< relref "resource/paragon.md" >}}) during long runs. This is achieved by stacking [Terraforming Stations]( {{< relref "space/terraforming-station.md" >}}) and leveraging the scaling bonuses from [Hydroponics]( {{< relref "techs/Hydroponics.md" >}}) and [AI Cores]( {{< relref "buildings/AI_Core.md" >}}).

@@ -14,8 +14,8 @@ The [Cath cycle]( {{< relref "Cycles/Cath_Cycle.md" >}}) is the fifth of ten cyc
 If you have researched the **Numerology** metaphysics upgrade, the Cath cycle provides specific bonuses and penalties to space-based production:
 *   [Space Elevators:]( {{< relref "space/space_elevator.md" >}}) Provides a **+100% bonus** to the transferred production bonus, specifically for [Oil]( {{< relref "resource/oil.md" >}}).
 *   [Satellites:]( {{< relref "techs/Satellites.md" >}}) Provides a **+100% bonus** to starchart production and a **+100% bonus** to the Satellite observatory science bonus.
-*   **Space Stations:** Provides a **+50% bonus** to science production.
-*   **Space Beacons:** Imposes a **-50% penalty** to starchart production.
+*   [Space Stations:]( {{< relref "space/space-station.md" >}}) Provides a **+50% bonus** to science production.
+*   [Space Beacons:]( {{< relref "space/space-beacon.md" >}}) Imposes a **-50% penalty** to starchart production.
 
 ### **Festival Effects (Requires Numeromancy)**
 When the [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) metaphysics upgrade is researched, holding a **[Festivals]( {{< relref "guides/festivals.md" >}})** during the Cath cycle grants a unique global modifier:

@@ -29,7 +29,7 @@ To see this upgrade in your Workshop, you must have advanced through the [Nuclea
 Given your current focus on [Enriched Uranium]( {{< relref "upgrade/Enriched_Uranium.md" >}}) and **Temporal Distortion**, the Reactor Vessel is a "throughput" upgrade.
 
 1.  **Fueling the Enriched Uranium Grind:** Since you are currently crafting Enriched Uranium (which costs 500 Uranium per unit), the increased storage provided by the Reactor Vessel helps prevent your standard Uranium from "overflowing" and being wasted before you can craft it.
-2.  **Antimatter Stabilization:** Better storage and efficiency in your Reactors mean a more stable power grid. Since **Containment Chambers** for Antimatter require a constant power surplus, this upgrade helps smooth out any energy dips caused by fluctuating resource production.
+2.  **Antimatter Stabilization:** Better storage and efficiency in your Reactors mean a more stable power grid. Since [Containment Chambers]( {{< relref "space/containment-chamber.md" >}}) for Antimatter require a constant power surplus, this upgrade helps smooth out any energy dips caused by fluctuating resource production.
 3.  **Path to Thorium:** This is often a bridge upgrade taken before moving into [Thorium Reactors]( {{< relref "upgrade/Thorium_Reactors.md" >}}). By maximizing your standard Reactor efficiency first, you ensure a smoother transition to the more powerful Thorium-based economy.
 
 > **Pro Tip:** While 5,000 Uranium is a steep cost, the 5% global production boost to the Reactors' output (including their energy generation) makes this one of the most cost-effective ways to squeeze more power out of your existing grid.

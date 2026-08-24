@@ -32,7 +32,7 @@ Given that you are managing complex late-game systems, the Singularity is essent
 2.  **The Dark Future:** If you are pushing toward Year 40,000+ (the Dark Future), every percentage point matters. Singularity helps counteract the production penalties that can occur when **Temporal Distortion** gets out of hand.
 3.  **Reset Planning:** Since Metaphysics upgrades are permanent, buying Singularity makes every subsequent run 5% faster from the very first minute. It makes the "early game slog" almost non-existent.
 
-> **Expert Tip:** If you are currently farming [Void]( {{< relref "resource/void.md" >}}), the 5% bonus from Singularity also applies to the effectiveness of your **Void Resonators**, slightly increasing the frequency of your paradoxes and your total Void yield.
+> **Expert Tip:** If you are currently farming [Void]( {{< relref "resource/void.md" >}}), the 5% bonus from Singularity also applies to the effectiveness of your [Void Resonators]( {{< relref "time/void-resonator.md" >}}), slightly increasing the frequency of your paradoxes and your total Void yield.
 
 ### Summary: Should you buy it now?
 * **YES:** If you have over 750 total Paragon and already own [Renaissance]( {{< relref "metaphysics/renaissance.md" >}}).

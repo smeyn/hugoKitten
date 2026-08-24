@@ -33,7 +33,7 @@ You can increase the maximum limit of Oil through the following methods:
 In the latter stages of the game, particularly during the push toward [Metaphysics]( {{< relref "metaphysics.md" >}}) and space missions, acquiring sufficient Oil capacity is a significant bottleneck [8]:
 
 *   The [Lunar Outpost]( {{< relref "lunar_outpost.md" >}}) mission requires **55K oil storage** [9].
-*   The [Orbital Launch]( {{< relref "orbital_launch.md" >}}) requires **15K oil**, the [Moon Mission]( {{< relref "moon_mission.md" >}}) requires **45K oil**, and the subsequent **Moon Base** requires **70K oil** [8, 10].
+*   The [Orbital Launch]( {{< relref "orbital_launch.md" >}}) requires **15K oil**, the [Moon Mission]( {{< relref "moon_mission.md" >}}) requires **45K oil**, and the subsequent [Moon Base]( {{< relref "space/moonbase.md" >}}) requires **70K oil** [8, 10].
 *   The general strategy suggested is to **build Oil Wells quickly** and let them "fill up," then buy space structures as soon as possible so the wells have time to refill [8, 11].
 *   The upgrade [Oil Distillation]( {{< relref "oil_distillation.md" >}}), unlocked by [Rocketry]( {{< relref "rocketry.md" >}}), boosts oil production by 75%, which helps in replenishing the stock, but does not increase the maximum capacity [8, 12].
 

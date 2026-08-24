@@ -14,9 +14,9 @@ This tech is part of the locked Space Exploration tree.
 
 ### The Evolution of Long-Range Missions
 
-* **Research Vessel:** Your first true "explorer." While not long-range by late-game standards, these are vital for generating the [Starcharts]( {{< relref "resource/star_charts.md" >}}) required to calculate the trajectories for further missions.
-* **Terraforming Station:** Required for missions to **navigation-heavy** locations. These stations help stabilize your presence on distant planets, allowing for more permanent resource extraction.
-* **Space Beacon:** These are the pinnacle of your long-range infrastructure. They provide a massive boost to **Starchart production** and are necessary to "light the way" to the [Centaurus System]( {{< relref "planet/Centaurus_System.md" >}}), the furthest reach of the standard game.
+* [Research Vessel:]( {{< relref "space/research-vessel.md" >}}) Your first true "explorer." While not long-range by late-game standards, these are vital for generating the [Starcharts]( {{< relref "resource/star_charts.md" >}}) required to calculate the trajectories for further missions.
+* [Terraforming Station:]( {{< relref "space/terraforming-station.md" >}}) Required for missions to **navigation-heavy** locations. These stations help stabilize your presence on distant planets, allowing for more permanent resource extraction.
+* [Space Beacon:]( {{< relref "space/space-beacon.md" >}}) These are the pinnacle of your long-range infrastructure. They provide a massive boost to **Starchart production** and are necessary to "light the way" to the [Centaurus System]( {{< relref "planet/Centaurus_System.md" >}}), the furthest reach of the standard game.
 
 ---
 

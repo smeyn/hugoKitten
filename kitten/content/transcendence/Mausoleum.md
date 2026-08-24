@@ -30,7 +30,7 @@ Since you are currently dealing with [Enriched Uranium]( {{< relref "upgrade/Enr
 | [Blueprints]( {{< relref "resource/Blueprint.md" >}}) | Resource | **250 Blueprints** |
 
 ### Strategic Use
-1.  **Void Farming:** If you are building [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}), you need Void. Use Mausoleums to keep your Distortion under control while your **Void Resonators** trigger paradoxes.
+1.  **Void Farming:** If you are building [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}), you need Void. Use Mausoleums to keep your Distortion under control while your [Void Resonators]( {{< relref "time/void-resonator.md" >}}) trigger paradoxes.
 2.  **Faith Caps:** Once you have a high **Transcendence Tier**, Mausoleums are one of the few ways to continue growing your global production bonus when other buildings hit their diminishing returns.
 3.  **Stability:** If you notice your resource production "flickering" or dropping unexpectedly, it’s likely due to high Distortion. Building 5–10 Mausoleums usually stabilizes the timeline for mid-range Void farming.
 

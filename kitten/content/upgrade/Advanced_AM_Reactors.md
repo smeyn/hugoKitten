@@ -11,7 +11,7 @@ title = "Advanced AM Reactors"
 
 ### **Core Effects**
 The primary function of this upgrade is to boost the effectiveness of two specific space structures:
-*   **Science Cap Increase:** It raises the maximum science bonus provided by **Research Vessels** and **Space Beacons** to **150%**.
+*   **Science Cap Increase:** It raises the maximum science bonus provided by [Research Vessels]( {{< relref "space/research-vessel.md" >}}) and [Space Beacons]( {{< relref "space/space-beacon.md" >}}) to **150%**.
 *   **Relative Efficiency:** This represents approximately a **77% increase in effectiveness** over the standard Antimatter Reactors upgrade.
 
 ### **Strategic Utility**

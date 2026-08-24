@@ -11,7 +11,7 @@ It represents the instability of time as you attempt to carry resources across d
 ---
 
 ### How Distortion Works
-Distortion is primarily a byproduct of **Temporal Paradoxes**. When you have [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}), you can carry resources through a reset. However, if you have **Void Resonators** and certain Paradox upgrades, your game generates "Temporal Paradoxes" (indicated by a purple notification).
+Distortion is primarily a byproduct of **Temporal Paradoxes**. When you have [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}), you can carry resources through a reset. However, if you have [Void Resonators]( {{< relref "time/void-resonator.md" >}}) and certain Paradox upgrades, your game generates "Temporal Paradoxes" (indicated by a purple notification).
 
 * **The Resource Penalty:** High levels of Distortion/Paradoxes can cause your resource production to fluctuate or stall.
 * **The Paradox Reset:** Every time a paradox occurs, you gain a small amount of [Void]( {{< relref "resource/void.md" >}}), but you also increase your Distortion level.
@@ -35,6 +35,6 @@ As you progress into the "Dark Future" (Year 40,000+), managing Distortion becom
 | Feature | Impact on Distortion | Purpose |
 | :--- | :--- | :--- |
 | [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}) | Increases via resets | Carry resources to New Game+ |
-| **Void Resonators** | Increases via Paradoxes | Generates Void |
+| [Void Resonators]( {{< relref "time/void-resonator.md" >}}) | Increases via Paradoxes | Generates Void |
 | [Temporal Battery]( {{< relref "upgrade/temporal_battery.md" >}}) | Reduces effect | Stores Flux for later use |
 

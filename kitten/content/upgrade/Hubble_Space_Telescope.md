@@ -8,7 +8,7 @@ The [Hubble Space Telescope]( {{< relref "upgrade/Hubble_Space_Telescope.md" >}}
 ### Key Effects
 The primary function of the Hubble upgrade is to increase the efficiency of your space infrastructure:
 
-* **Starchart Production:** It provides a **+30% bonus** to starchart production from [Satellites]( {{< relref "techs/Satellites.md" >}}), **Research Vessels**, and **Space Beacons**.
+* **Starchart Production:** It provides a **+30% bonus** to starchart production from [Satellites]( {{< relref "techs/Satellites.md" >}}), [Research Vessels]( {{< relref "space/research-vessel.md" >}}), and [Space Beacons]( {{< relref "space/space-beacon.md" >}}).
 * [Astrophysicists:]( {{< relref "upgrade/Astrophysicists.md" >}}) If you have researched [Astrophysicists]( {{< relref "upgrade/Astrophysicists.md" >}}) (which allows Kitten Scientists to produce starcharts), the Hubble upgrade also increases their production by **30%**.
 * **Science Storage:** While its main draw is starcharts, the increased effectiveness of your orbital buildings indirectly helps manage your **Science cap**, which is vital for late-game tech like [Antimatter]( {{< relref "resource/Antimatter.md" >}}).
 

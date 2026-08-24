@@ -27,9 +27,9 @@ This structure represents the process of melting Yarn's ice and oxygenating its 
 This structure involves ripping open the planet near the star Centaurus to harvest magma energy.
 *   **Cost:** 600,000 Science, 500 Antimatter, and 75,000 Thorium.
 *   **Effect:** Each Tectonic provides **+25 Energy**.
-*   **Upgrades:** Every level of **Molten Core** (requires Exophysics) improves Tectonic energy production by an additional **5%**.
+*   **Upgrades:** Every level of [Molten Core]( {{< relref "space/molten-core.md" >}}) (requires Exophysics) improves Tectonic energy production by an additional **5%**.
 *   **Challenge Goal:** Building at least one Tectonic is a requirement for completing the **Energy Challenge**.
 
 ### **Strategic Utility**
-Terraformation is a cornerstone of the **Endgame Paragon** phase. By "Terraforming Yarn," players can build a vast amount of housing (potentially support up to 60,000 kittens), which is essential for generating massive amounts of Paragon per reset. Additionally, Tectonic structures provide the high-density energy required to power late-game facilities like [AI Cores]( {{< relref "buildings/AI_Core.md" >}}) and **Entanglement Stations** without relying solely on ground-based reactors.
+Terraformation is a cornerstone of the **Endgame Paragon** phase. By "Terraforming Yarn," players can build a vast amount of housing (potentially support up to 60,000 kittens), which is essential for generating massive amounts of Paragon per reset. Additionally, Tectonic structures provide the high-density energy required to power late-game facilities like [AI Cores]( {{< relref "buildings/AI_Core.md" >}}) and [Entanglement Stations]( {{< relref "space/entanglement-station.md" >}}) without relying solely on ground-based reactors.
  

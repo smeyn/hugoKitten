@@ -20,7 +20,7 @@ The [Spaceport]( {{< relref "buildings/spaceport.md" >}}) is a high-tier late-ga
 ### **Core Effects and Energy Consumption**
 The Spaceport provides multiplicative storage bonuses to critical space structures rather than providing flat storage itself.
 *   **Storage Buff:** Each Spaceport provides a **+0.85% bonus** to the storage capacity of:
-    *   **Moon Bases**
+    *   [Moon Bases]( {{< relref "space/moonbase.md" >}})
     *   [Planet Crackers]( {{< relref "space/planet_cracker.md" >}})
     *   [Cryostations]( {{< relref "space/cryo_station.md" >}})
 *   **Energy Consumption:** Unlike the standard Warehouse, which requires no power, each Spaceport consumes **5 Watts** of energy. 

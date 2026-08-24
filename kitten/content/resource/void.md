@@ -10,13 +10,13 @@ description = ""
 *   **Temporal Paradoxes:** Void is gained only during these events. The generation rate is notoriously slow, making it a major late-game bottleneck.
 *   **Scaling Generation:** Having more Chronospheres increases the frequency and amount of void generated. 
 *   [Void Hoover:]( {{< relref "upgrade/void_hoover.md" >}}) This structure (costing 250 void and 10 time crystals) increases the maximum amount of void you can gain during a single paradox day.
-*   **Chronocontrol:** Researching this increases the duration of temporal paradoxes, providing more opportunities for void to accumulate.
+*   [Chronocontrol:]( {{< relref "time/chrono_control.md" >}}) Researching this increases the duration of temporal paradoxes, providing more opportunities for void to accumulate.
 *   **Preservation:** As a non-luxury, non-crafted resource, 1.5% of your current void is preserved per Chronosphere upon resetting the game.
 
 ### **Technological and Scientific Progression**
 Void is the mandatory gatekeeper for Phase 3 ("Endgame") technologies and several high-tier sciences:
 *   **Void Space (800k Science, 30 Time Crystals, 100 Void):** This science is the prerequisite for attempting the [Atheism Challenge]( {{< relref "Challenges/Atheism_challenge.md" >}}) and for unlocking the ability to build [Cryochambers]( {{< relref "time/cryochamber.md" >}}).
-*   **Paradox Theory (1M Science, 40 Time Crystals, 250 Void):** Unlocks the most advanced time-manipulation tools, including [Resource Retrieval]( {{< relref "upgrade/resource-retrieval.md" >}}), [Distortion]( {{< relref "upgrade/Distortion.md" >}}), and **Void Resonators**.
+*   **Paradox Theory (1M Science, 40 Time Crystals, 250 Void):** Unlocks the most advanced time-manipulation tools, including [Resource Retrieval]( {{< relref "upgrade/resource-retrieval.md" >}}), [Distortion]( {{< relref "upgrade/Distortion.md" >}}), and [Void Resonators]( {{< relref "time/void-resonator.md" >}}).
 *   [Void Aspiration:]( {{< relref "upgrade/Void_Aspiration.md" >}}) A workshop upgrade that unlocks [Void Hoovers]( {{< relref "upgrade/void_hoover.md" >}}) and [Void Rifts]( {{< relref "buildings/void_rift.md" >}}).
 
 ### **Key Benefits and Multipliers**

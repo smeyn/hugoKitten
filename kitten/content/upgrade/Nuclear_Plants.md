@@ -8,7 +8,7 @@ In **Kittens Game**, the **Nuclear Plant** is a late-game upgrade for your [Reac
 ### Key Effects
 The Nuclear Plant is a **Workshop upgrade** that transforms your Reactors into more powerful units:
 
-* **Energy Production:** Each Reactor produces **+25% more energy**. This is essential for powering **Containment Chambers** (for Antimatter) and [Lunar Outposts]( {{< relref "planet/lunar_outpost.md" >}}) (for Unobtainium).
+* **Energy Production:** Each Reactor produces **+25% more energy**. This is essential for powering [Containment Chambers]( {{< relref "space/containment-chamber.md" >}}) (for Antimatter) and [Lunar Outposts]( {{< relref "planet/lunar_outpost.md" >}}) (for Unobtainium).
 * **Uranium Consumption:** While it boosts power, it also **increases Uranium consumption** for each Reactor. You must ensure your Uranium production (from [Accelerators]( {{< relref "buildings/Accelerator.md" >}}) and [Lunar Outposts]( {{< relref "planet/lunar_outpost.md" >}})) is strong enough to handle the extra drain.
 
 ---

@@ -17,6 +17,6 @@ The Centaurus Mission is a costly undertaking in the latter stages of space expl
 
 A successful mission unlocks the Centaurus System and associated buildings:
 
-*   **Building Unlocked (Tectonic):** The mission enables the construction of the **Tectonic** structure, provided the player has researched [Terraformation]( {{< relref "techs/Terraformation.md" >}}). Tectonic is a highly expensive energy production building, costing 600,000 Science, 500 Antimatter, and 75,000 Thorium, and producing **25 Energy**.
-*   **Tectonic Upgrade:** The effectiveness of the Tectonic structure can be further improved by the **Molten Core** upgrade (unlocked by [Exophysics]( {{< relref "techs/Exophysics.md" >}})), which provides a +5% boost to Tectonic Energy Production per level.
+*   **Building Unlocked (Tectonic):** The mission enables the construction of the [Tectonic]( {{< relref "space/tectonic.md" >}}) structure, provided the player has researched [Terraformation]( {{< relref "techs/Terraformation.md" >}}). Tectonic is a highly expensive energy production building, costing 600,000 Science, 500 Antimatter, and 75,000 Thorium, and producing **25 Energy**.
+*   **Tectonic Upgrade:** The effectiveness of the Tectonic structure can be further improved by the [Molten Core]( {{< relref "space/molten-core.md" >}}) upgrade (unlocked by [Exophysics]( {{< relref "techs/Exophysics.md" >}})), which provides a +5% boost to Tectonic Energy Production per level.
 *   **Challenge Requirement:** Completion of the **Centaurus Mission** is the specific unlock requirement for the [Energy]( {{< relref "resource/energy.md" >}}) challenge,. The Energy challenge imposes a doubled energy consumption rate on the player's village,.

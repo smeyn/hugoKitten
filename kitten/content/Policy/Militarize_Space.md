@@ -21,7 +21,7 @@ Deciding between these two policies depends on whether your current bottleneck i
 | [Outer Space Treaty]( {{< relref "Policy/Outer_Space_Treaty.md" >}}) | Improves trade relations with all races (equivalent to **10 Tradeposts**). | You need to maximize trade yields (especially for [Titanium]( {{< relref "resource/titanium.md" >}}) or [Unobtainium]( {{< relref "resource/unobtainium.md" >}})). |
 
 ### **Expert Recommendation**
-In most standard playstyles, [Outer Space Treaty]( {{< relref "Policy/Outer_Space_Treaty.md" >}}) is considered the superior choice because trade remains a vital part of resource acquisition even in the late game. Science storage can often be expanded through other means—such as building more [Data Centers]( {{< relref "buildings/Data_Center.md" >}}), [Bio Labs]( {{< relref "buildings/Bio_Lab.md" >}}), or **Research Vessels**—without sacrificing a policy slot.
+In most standard playstyles, [Outer Space Treaty]( {{< relref "Policy/Outer_Space_Treaty.md" >}}) is considered the superior choice because trade remains a vital part of resource acquisition even in the late game. Science storage can often be expanded through other means—such as building more [Data Centers]( {{< relref "buildings/Data_Center.md" >}}), [Bio Labs]( {{< relref "buildings/Bio_Lab.md" >}}), or [Research Vessels]( {{< relref "space/research-vessel.md" >}})—without sacrificing a policy slot.
 
 However, if you are deep into the space era and find that your science limit is preventing you from researching the next multi-million science technology (like [Exophysics]( {{< relref "techs/Exophysics.md" >}}) or [Quantum Cryptography]( {{< relref "techs/Quantum_Cryptography.md" >}})), Militarize Space can provide that final necessary push.
  

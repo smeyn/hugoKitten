@@ -13,7 +13,7 @@ Unobtainium is generated using [Lunar Outposts]( {{< relref "planet/lunar_outpos
 
 ### **Storage and Capacity**
 Managing unobtainium storage is a major bottleneck in late-game progression. The base capacity is **150 units**, which must be expanded to reach milestones like the "Eludium Era".
-*   **Storage Buildings:** **Moon Bases** provide **+150 capacity**, while [Cryostations]( {{< relref "space/cryo_station.md" >}}) (located on Terminus) provide a much larger **+750 capacity**.
+*   **Storage Buildings:** [Moon Bases]( {{< relref "space/moonbase.md" >}}) provide **+150 capacity**, while [Cryostations]( {{< relref "space/cryo_station.md" >}}) (located on Terminus) provide a much larger **+750 capacity**.
 *   **Storage Enhancements:** Capacity is further boosted by [Paragon]( {{< relref "resource/paragon.md" >}}) (0.1% per point), [AI Bases]( {{< relref "upgrade/AI_Bases.md" >}}) (+10% per AI Core), [Sunforges]( {{< relref "space/Sun_Forge.md" >}}) (+1% for base metals), **Event Horizons** (+10%), and [Void Rifts]( {{< relref "buildings/void_rift.md" >}}) (+2%).
 *   **T-Minus Cycle:** This cycle provides a **+20% storage bonus** specifically for Cryostations.
 

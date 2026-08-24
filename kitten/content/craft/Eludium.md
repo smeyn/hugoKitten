@@ -17,7 +17,7 @@ Eludium is a critical component for late-game population scaling and advanced in
 *   [Cryostation:]( {{< relref "space/cryo_station.md" >}}) These supermassive storage facilities cost 25 eludium and are essential for reaching the high resource caps required for the deep endgame.
 *   [Spaceport:]( {{< relref "buildings/spaceport.md" >}}) Eludium is required to build Spaceports, which enhance the capacity of other space structures like Moon Bases and Cryostations.
 *   [Sunlifter:]( {{< relref "space/sunlifter.md" >}}) Each Sunlifter costs 225 eludium and is the primary structure used to generate [Antimatter]( {{< relref "resource/Antimatter.md" >}}).
-*   **Entanglement Station:** These late-game structures require 5,000 eludium each and are used for quantum computing and reverse-engineering relics.
+*   [Entanglement Station:]( {{< relref "space/entanglement-station.md" >}}) These late-game structures require 5,000 eludium each and are used for quantum computing and reverse-engineering relics.
 
 ### **Workshop and Advanced Upgrades**
 Many high-tier upgrades are gated by eludium costs:

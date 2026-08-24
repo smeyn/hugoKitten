@@ -9,10 +9,10 @@ The [Charon Mission]( {{< relref "space/Charon_Mission.md" >}}) is a significant
 ### **Mission Requirements and Unlocks**
 *   **Prerequisite:** You must successfully complete the [Umbra Mission]( {{< relref "space/Umbra_Mission.md" >}}) before the Charon Mission becomes available.
 *   **Launch Costs:** This project requires a massive stockpile of advanced resources: **75,000 Starcharts**, **750,000 Science**, **35,000 Kerosene**, and **35,000 Thorium**.
-*   **Unlocks:** Successfully landing on the planet unlocks the **Charon Planet** tab and the ability to construct the **Entanglement Station**.
+*   **Unlocks:** Successfully landing on the planet unlocks the **Charon Planet** tab and the ability to construct the [Entanglement Station]( {{< relref "space/entanglement-station.md" >}}).
 
-### **Entanglement Stations**
-Once Charon is reached, you can build **Entanglement Stations**, which are essential for advanced quantum computing and hashrate generation.
+### [Entanglement Stations]( {{< relref "space/entanglement-station.md" >}})
+Once Charon is reached, you can build [Entanglement Stations]( {{< relref "space/entanglement-station.md" >}}), which are essential for advanced quantum computing and hashrate generation.
 *   **Cost:** Each station costs **1,250 Relics**, **5,250 Antimatter**, and **5,000 Eludium**.
 *   **Function:** These stations consume 25 Wt of energy and **0.1 gigaflops per tick** (produced by AI Cores) to generate **0.1 hashes per tick**.
 *   **Strategic Utility:** Hashes are used to increase your **hashrate level**, which provides a **+25% bonus to [ relic production ]( {{< relref "guides/creating-relics.md">}})** from Space Beacons for every level achieved. This is a core component of the "Antimatter Phase" of the endgame, where players aim to automate and scale relic generation.

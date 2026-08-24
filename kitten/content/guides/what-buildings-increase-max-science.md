@@ -21,8 +21,8 @@ Several buildings and structures increase your maximum science capacity, ranging
 *   [Accelerators:]( {{< relref "buildings/Accelerator.md" >}}) Normally used for uranium, but once the [LHC]( {{< relref "upgrade/LHC.md" >}}) (Large Hadron Collider) workshop upgrade is researched, each Accelerator provides **+2,500 Max Science**.
 
 ### **Space Structures**
-*   **Research Vessels:** Found on the Piscine mission, each provides **+10,000 Max Science**.
-*   **Space Beacons:** Found on the Kairo mission, each provides a massive **+25,000 Max Science**.
+*   [Research Vessels:]( {{< relref "space/research-vessel.md" >}}) Found on the Piscine mission, each provides **+10,000 Max Science**.
+*   [Space Beacons:]( {{< relref "space/space-beacon.md" >}}) Found on the Kairo mission, each provides a massive **+25,000 Max Science**.
 
 ### **Craftable Resources**
 *   [Compendiums:]( {{< relref "resource/Compendium.md" >}}) While not a building, crafting this resource is vital for science storage. Each Compendium adds **+10 to your Max Science**. This bonus is capped at 100% of your maximum science from buildings (or 1000% if playing in Iron Will mode).
