@@ -22,7 +22,7 @@ Successfully completing the T-minus mission unlocks the [Kairo mission]( {{< rel
 *   **Unobtainium Progression:** Because they provide 750 unobtainium storage each, they are also a primary method for reaching the 1,000-unit threshold required for the **Eludium Era**.
 
 ### **The T-minus Cycle**
-"T-minus" is also one of the ten five-year cycles within the Helios system, represented by the glyph **⍝**. If you have researched **Numerology** or [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}), this cycle introduces specific global modifiers:
+"T-minus" is also one of the ten five-year cycles within the Helios system, represented by the glyph **⍝**. If you have researched [Numerology]( {{< relref "metaphysics/numerology.md" >}}) or [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}), this cycle introduces specific global modifiers:
 *   **Production and Storage:** During this cycle, **Sunlifter energy output is reduced by 50%**, but **Cryostation storage capacity is increased by 20%**. 
 *   **Festival Effect:** Holding a festival during the T-minus cycle provides an **Oil income x2** multiplier.
 

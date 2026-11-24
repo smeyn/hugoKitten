@@ -1,7 +1,7 @@
 +++
 date = 2025-11-29T20:44:33.298594+11:00
 draft = false
-title = "Solar_Revolution"
+title = "Solar Revolution"
 
 +++
 [Solar Revolution]( {{< relref "religion/Solar_Revolution.md" >}}) is a high-impact religious upgrade within the **Order of the Sun** that provides a permanent **global production bonus** to nearly all resources in the game. To unlock this multiplier, you must first research [Theology]( {{< relref "techs/Theology.md" >}}), accumulate at least **1,000 Worship**, and spend **750 Faith and 500 Gold**. 
@@ -24,3 +24,14 @@ The production bonus is subject to **diminishing returns** starting at **750%** 
 *   **Apocrypha Synergy:** A high **Apocrypha (epiphany) bonus** is vital because it allows you to praise the sun more effectively, enabling you to regain your maximum Solar Revolution multiplier in seconds after a reset.
 *   **Environmental Factors:** You should be aware that high levels of [pollution]( {{< relref "guides/Pollution.md" >}}) can harm resource production by negatively affecting your Solar Revolution bonus. 
 *   [Iron Will:]( {{< relref "Challenges/ironWill.md" >}}) In specialized [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) runs, Solar Revolution is a critical tool for overcoming the lack of kitten-based labor; players are encouraged to build a high Apocrypha bonus in previous runs to facilitate rapid growth in this mode.
+
+
+### Where to See Its Value
+You can check your active Solar Revolution bonus in two places in the game interface:
+1. On the Religion Tab (Direct Value)
+* Open the Religion tab.
+* Look directly beneath the Order of the Sun section header (near the "Praise the Sun!" button).
+* You will see a readout displaying: `+XXX.XX% bonus`
+2. Resource Hover Tooltips (Applied Breakdown)
+* In the left-hand resource pane, hover your cursor over the +per sec production rate of any standard resource (such as Catnip, Minerals, or Iron).
+* A breakdown tooltip will appear detailing all active modifiers. Look for the Solar Revolution line item, which shows the exact percentage boost it contributes to that specific resource's net output.

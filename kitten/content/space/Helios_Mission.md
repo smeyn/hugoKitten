@@ -23,7 +23,7 @@ The primary importance of the Helios mission is the gateway it provides to advan
 *   [Sunforge:]( {{< relref "space/Sun_Forge.md" >}}) Enhances the storage capacity of base metals (iron, titanium, gold, uranium, and unobtainium) by 1% per building.
 
 ### **The Helios Cycle**
-If you have researched **Numerology**, the "Helios" cycle (one of ten 5-year cycles in the game) provides specific benefits to your infrastructure. During this cycle:
+If you have researched [Numerology]( {{< relref "metaphysics/numerology.md" >}}), the "Helios" cycle (one of ten 5-year cycles in the game) provides specific benefits to your infrastructure. During this cycle:
 *   **Sunlifter energy output** is increased by **50%**.
 *   **Cryostation storage** is reduced by **10%**.
 *   If [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is also researched, holding a festival during the Helios cycle provides **double Faith income** and a **1.25x multiplier to Unicorn income**.

@@ -37,7 +37,7 @@ You can drastically amplify the Max Science capacity of your vessels by purchasi
 ---
 
 ### **4. Cycle Multipliers (With Numerology)**
-If you have researched the **Numerology** metaphysics upgrade, the active planetary cycle will directly scale the starchart generation of your vessels:
+If you have researched the [Numerology]( {{< relref "metaphysics/numerology.md" >}}) metaphysics upgrade, the active planetary cycle will directly scale the starchart generation of your vessels:
 *   **Piscine Cycle ():** Provides a **+50%** boost to Research Vessel starchart production.
 *   **Yarn Cycle (⍧):** Imposes a **-50%** penalty to Research Vessel starchart production.
 

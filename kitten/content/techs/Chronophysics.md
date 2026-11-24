@@ -10,7 +10,7 @@ title = "Chronophysics"
 Chronophysics is often the first technology players encounter that requires [Time Crystals]( {{< relref "resource/Time_Crystals.md" >}}) rather than standard resources.
 *   **Prerequisite:** You must first research [Particle Physics]( {{< relref "techs/Particle_Physics.md" >}}).
 *   **Science Cost:** 250,000.
-*   **Special Cost:** 5 Time Crystals.
+*   **Special Cost:** 5 [Time Crystals]( {{< relref "resource/Time_Crystals.md" >}}).
 
 *Strategic Note:* For your first run, obtaining these 5 Time Crystals usually requires trading **5,000 Unobtainium** with the Leviathans or sacrificing **25 Alicorns** at the Ziggurat.
 

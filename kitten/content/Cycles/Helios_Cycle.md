@@ -8,7 +8,7 @@ The [Helios cycle]( {{< relref "Cycles/Helios_Cycle.md" >}}) is the fourth in th
 ### **Cycle Mechanics and Effects**
 The modifiers for the Helios cycle are only activated once specific late-game Metaphysics technologies have been researched:
 
-*   **Numerology Effects:** Researching **Numerology** activates modifiers for energy and space storage:
+*   **Numerology Effects:** Researching [Numerology]( {{< relref "metaphysics/numerology.md" >}}) activates modifiers for energy and space storage:
     *   [Sunlifter:]( {{< relref "space/sunlifter.md" >}}) Energy output is increased by **+50%**.
     *   [Cryostations:]( {{< relref "space/cryo_station.md" >}}) Storage capacity is reduced by **-10%**.
 *   **Numeromancy (Festival) Effects:** If a festival is active during this cycle and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is researched, your village receives significant bonuses to religion-based resources:

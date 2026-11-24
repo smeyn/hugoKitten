@@ -21,7 +21,7 @@ Once unlocked, your first Void Rift costs:
 ### **Core Effects**
 Each built Void Rift provides two highly valuable, passive multipliers:
 
-1.  **Global Resource Storage Ratio (+2% per Rift):** This increases your maximum capacity for every single resource in the game. Crucially, this bonus stacks additively with **Event Horizons** (which grant a massive +10% storage ratio per level) and multiplicatively with all other storage bonuses, such as your Paragon multipliers.
+1.  **Global Resource Storage Ratio (+2% per Rift):** This increases your maximum capacity for every single resource in the game. Crucially, this bonus stacks additively with [Event Horizons]( {{< relref "transcendence/Event_horizon.md" >}}) (which grant a massive +10% storage ratio per level) and multiplicatively with all other storage bonuses, such as your Paragon multipliers.
 2.  **HR Harvester Energy Boost (+10% per Rift):** It permanently boosts the energy production of your Hawking Radiation (HR) Harvesters (located on Umbra) by +10% per rift. Because HR Harvesters automatically generate more energy the further you skip into the "Dark Future," Void Rifts make them highly competitive late-game power generators.
 
 ---

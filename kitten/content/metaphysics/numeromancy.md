@@ -7,7 +7,7 @@ title = 'Numeromancy'
 
 ### **Key Statistics and Requirements**
 *   **Cost:** 250 Paragon.
-*   **Prerequisite:** **Numerology** (which costs 50 Paragon and applies cycle-based effects to space production).
+*   **Prerequisite:** [Numerology]( {{< relref "metaphysics/numerology.md" >}}) (which costs 50 Paragon and applies cycle-based effects to space production).
 *   **Unlocks:** The **Malkuth** metaphysics upgrade.
 
 ### **Festival Effects by Cycle**

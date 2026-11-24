@@ -24,7 +24,7 @@ Successfully exploring Kairo provides access to the following:
     *   **Relic Production:** Once upgraded with a [Relic Station]( {{< relref "upgrade/Relic_Station.md" >}}), Space Beacons become a primary source of passive relics, yielding **0.01 relics per day** (scaled by your current antimatter storage).
 
 ### **The Kairo Cycle**
-Kairo is also the name of one of the **ten five-year cycles** that govern the Cath solar system. If you have researched **Numerology** and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}), the Kairo cycle and associated festivals provide unique modifiers:
+Kairo is also the name of one of the **ten five-year cycles** that govern the Cath solar system. If you have researched [Numerology]( {{< relref "metaphysics/numerology.md" >}}) and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}), the Kairo cycle and associated festivals provide unique modifiers:
 *   **Space Modifiers:** During this cycle, the Space Beacon’s starchart production is boosted by **+400%**, though it imposes a **-25% to -50% penalty** on the science bonuses of Space Stations and Satellites, as well as the Space Elevator's production bonus.
 *   **Festival Effect:** Holding a festival during the Kairo cycle provides a massive **5x multiplier to starchart income**.
 

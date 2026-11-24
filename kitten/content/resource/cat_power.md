@@ -13,7 +13,7 @@ Here are the specific actions and costs that reduce your Catpower:
 
 The primary and initial use of Catpower is for hunting:
 
-*   Each time you initiate a hunt (after researching [Archery]( {{< relref "archery.md" >}}) [1]), it costs **100 Catpower** [2, 3].
+*   Each time you initiate a hunt (after researching [Archery]( {{< relref "archery.md" >}})), it costs **100 Catpower** [2, 3].
 *   Hunting allows you the chance to gather rare resources like [Furs]( {{< relref "resource/Fur.md" >}}) and [Ivory]( {{< relref "resource/ivory.md" >}}) [3, 4].
 
 ### 2. Consumption for Trade and Exploration
@@ -38,4 +38,4 @@ In addition to consumption, the maximum available Catpower can be reduced by cha
 
 ### Summary of Catpower Management
 
-Catpower is a vital early-game resource for obtaining luxury items (furs, ivory, unicorns) [4, 11, 12] and for finding new trade partners [5]. High Catpower limits are necessary for purchasing certain religion upgrades like [Templars]( {{< relref "templars.md" >}}), which increase Max Catpower by 75 per Temple [13]. Therefore, actions that consume Catpower should be balanced by its production through [Hunters]( {{< relref "job/Hunter.md" >}}) (+$0.06$ per tick) [1].
+Catpower is a vital early-game resource for obtaining luxury items (furs, ivory, unicorns) [4, 11, 12] and for finding new trade partners [5]. High Catpower limits are necessary for purchasing certain religion upgrades like [Templars]( {{< relref "templars.md" >}}), which increase Max Catpower by 75 per Temple [13]. Therefore, actions that consume Catpower should be balanced by its production through [Hunters]( {{< relref "job/Hunter.md" >}}) (+$0.06$ per tick).

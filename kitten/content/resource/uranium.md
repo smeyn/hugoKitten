@@ -5,7 +5,7 @@ title = "Uranium"
 
 +++
 
-[Uranium]( {{< relref "uranium.md" >}}) is a critical, late-game resource primarily used for nuclear power, advanced material refinement, and storage enhancement in *Kittens Game* [1].
+[Uranium]( {{< relref "uranium.md" >}}) is a critical, late-game resource primarily used for nuclear power, advanced material refinement, and storage enhancement in *Kittens Game*.
 
 Here is a comprehensive breakdown of its acquisition, storage, and uses:
 
@@ -13,8 +13,8 @@ Here is a comprehensive breakdown of its acquisition, storage, and uses:
 
 Uranium is an **uncommon resource** that can be acquired through three main methods, with one being an advanced crafting method and the others relying on trade and late-game buildings:
 
-1.  **Trade (Primary Source):** Uranium can be **bought from the Dragons** in exchange for [Titanium]( {{< relref "resource/titanium.md" >}}) [1, 2]. Dragons will sell 1 Uranium with a 95% chance of success [2]. The required technology to unlock the Dragons is [Nuclear Fission]( {{< relref "nuclear_fission.md" >}}) [3, 4].
-2.  **Refinement:** Uranium can be refined from [Titanium]( {{< relref "resource/titanium.md" >}}) using the [Accelerator]( {{< relref "accelerator.md" >}}) building [1].
+1.  **Trade (Primary Source):** Uranium can be **bought from the Dragons** in exchange for [Titanium]( {{< relref "resource/titanium.md" >}}) [1, 2]. Dragons will sell 1 Uranium with a 95% chance of success. The required technology to unlock the Dragons is [Nuclear Fission]( {{< relref "nuclear_fission.md" >}}) [3, 4].
+2.  **Refinement:** Uranium can be refined from [Titanium]( {{< relref "resource/titanium.md" >}}) using the [Accelerator]( {{< relref "accelerator.md" >}}) building.
     *   One Accelerator produces **$0.0025$ Uranium per tick** (or $0.0125$ per second) but consumes $0.015$ Titanium per tick [5, 6].
     *   In comparison, a Lunar Outpost consumes Uranium 140 times faster than a single Accelerator produces it, highlighting the importance of multiple accelerators or trade [6, 7].
 3.  **Quarry Upgrade:** After researching [Orbital Geodesy]( {{< relref "orbital_geodesy.md" >}}) (unlocked by [Satellites]( {{< relref "satellites.md" >}}) technology), **Quarries** will produce a small amount of Uranium at a rate of **$0.0005$ per tick** [5, 8]. This rate is boosted by the [Enriched Uranium]( {{< relref "enriched_uranium.md" >}}) workshop upgrade (+25%) [5, 9].
@@ -54,10 +54,10 @@ Here is a breakdown of what produces or provides Uranium:
 
 Uranium can be produced directly using advanced buildings and upgrades:
 
-*   **Quarry (with Orbital Geodesy):** Quarries will provide a small amount of uranium once the [Orbital Geodesy]( {{< relref "orbital_geodesy.md" >}}) upgrade is purchased [1, 2]. Quarries produce uranium at a rate of **0.0005 per tick** [2].
-    *   [Orbital Geodesy]( {{< relref "orbital_geodesy.md" >}}) requires [Satellites]( {{< relref "satellites.md" >}}) technology and costs 150,000 Science, 1,000 Alloy, and 35,000 Oil [2].
-*   [Accelerator:]( {{< relref "accelerator.md" >}}) This building refines **titanium into uranium** [1]. Accelerators produce **0.0025 uranium per tick** (or 0.0125 per second) [3, 4].
-    *   The Accelerator building is unlocked by researching the [Particle Physics]( {{< relref "particle_physics.md" >}}) science [3, 5]. It costs 7,500 Titanium, 125 Concrete, and 25 Uranium [3].
+*   **Quarry (with Orbital Geodesy):** Quarries will provide a small amount of uranium once the [Orbital Geodesy]( {{< relref "orbital_geodesy.md" >}}) upgrade is purchased [1, 2]. Quarries produce uranium at a rate of **0.0005 per tick**.
+    *   [Orbital Geodesy]( {{< relref "orbital_geodesy.md" >}}) requires [Satellites]( {{< relref "satellites.md" >}}) technology and costs 150,000 Science, 1,000 Alloy, and 35,000 Oil.
+*   [Accelerator:]( {{< relref "accelerator.md" >}}) This building refines **titanium into uranium**. Accelerators produce **0.0025 uranium per tick** (or 0.0125 per second) [3, 4].
+    *   The Accelerator building is unlocked by researching the [Particle Physics]( {{< relref "particle_physics.md" >}}) science [3, 5]. It costs 7,500 Titanium, 125 Concrete, and 25 Uranium.
 *   [Planet Cracker:]( {{< relref "space/planet_cracker.md" >}}) Uranium is produced by the [Planet Cracker]( {{< relref "space/planet_cracker.md" >}}) structure [1, 6]. This structure's output is affected by the [Dune]( {{< relref "dune.md" >}}) cycle, which can increase its uranium output by **+10%** [7].
 *   **Reactor (Consumption Reduction):** While Reactors consume Uranium [8], the [Enriched Uranium]( {{< relref "enriched_uranium.md" >}}) upgrade reduces this consumption by **25%** and also provides a **+25% uranium production bonus** that applies only to Quarries [9].
 
@@ -65,7 +65,7 @@ Uranium can be produced directly using advanced buildings and upgrades:
 
 The most straightforward way to initially acquire Uranium is through trade:
 
-*   [Dragons:]( {{< relref "Civilisations/Dragons.md" >}}) Uranium can be **bought** from the [Dragons]( {{< relref "Civilisations/Dragons.md" >}}) civilization, in exchange for Titanium [1].
+*   [Dragons:]( {{< relref "Civilisations/Dragons.md" >}}) Uranium can be **bought** from the [Dragons]( {{< relref "Civilisations/Dragons.md" >}}) civilization, in exchange for Titanium.
     *   Dragons sell **1 Uranium** and the trade has a 95% chance of success (reaching 100% chance with 6 Embassy levels) [10, 11].
     *   Dragons are unlocked after researching [Nuclear Fission]( {{< relref "nuclear_fission.md" >}}) [12].
 
@@ -73,7 +73,7 @@ The most straightforward way to initially acquire Uranium is through trade:
 
 Uranium production can be boosted by:
 
-*   **Cycles (Dune):** The [Dune]( {{< relref "dune.md" >}}) cycle doubles Uranium income when the **Numerology** metaphysics upgrade is researched [7].
+*   **Cycles (Dune):** The [Dune]( {{< relref "dune.md" >}}) cycle doubles Uranium income when the [Numerology]( {{< relref "metaphysics/numerology.md" >}}) metaphysics upgrade is researched [7].
 *   [Enriched Uranium:]( {{< relref "enriched_uranium.md" >}}) This Workshop upgrade increases Uranium production by **+25%** (but only applies to Quarries) [9].
 *   [Planet Busters:]( {{< relref "planet_busters.md" >}}) This upgrade doubles the output of the Planet Cracker structure [13].
 

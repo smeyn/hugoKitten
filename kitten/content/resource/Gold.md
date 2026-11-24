@@ -35,7 +35,7 @@ Several government and foreign policies directly impact your gold economy:
 *   [Monarchy:]( {{< relref "Policy/Monarchy.md" >}}) This policy doubles the power of your leader's trait but consumes **10% of your gold production** as upkeep for the royal court.
 
 
-The initial storage limit for [Gold]( {{< relref "resource/Gold.md" >}}) is **10** units [1]. This capacity can be increased through the construction of specific storage buildings, as well as production buildings that feature storage benefits, such as the Mint [1, 2].
+The initial storage limit for [Gold]( {{< relref "resource/Gold.md" >}}) is **10** units. This capacity can be increased through the construction of specific storage buildings, as well as production buildings that feature storage benefits, such as the Mint [1, 2].
 
 Here are the ways to increase your maximum Gold storage:
 
@@ -43,11 +43,11 @@ Here are the ways to increase your maximum Gold storage:
 
 Several buildings directly contribute to your maximum Gold capacity:
 
-*   [Mint:]( {{< relref "buildings/Mint.md" >}}) The [Mint]( {{< relref "buildings/Mint.md" >}}) building increases your **Max Gold by +100** [2]. Mints are unlocked by researching [Architecture]( {{< relref "techs/Architecture.md" >}}) [3] and are constructed using 5,000 Minerals, 200 Plate, and 500 Gold [2]. Building more Mints is suggested as a method to increase your Gold storage limit [4].
+*   [Mint:]( {{< relref "buildings/Mint.md" >}}) The [Mint]( {{< relref "buildings/Mint.md" >}}) building increases your **Max Gold by +100**. Mints are unlocked by researching [Architecture]( {{< relref "techs/Architecture.md" >}}) and are constructed using 5,000 Minerals, 200 Plate, and 500 Gold. Building more Mints is suggested as a method to increase your Gold storage limit.
 *   [Barn:]( {{< relref "buildings/Barn.md" >}}) The [Barn]( {{< relref "buildings/Barn.md" >}}), unlocked by [Agriculture]( {{< relref "techs/Agriculture.md" >}}), provides a base increase of **+10 Max Gold** [1, 5].
-*   [Warehouse:]( {{< relref "buildings/Warehouse.md" >}}) The [Warehouse]( {{< relref "buildings/Warehouse.md" >}}), unlocked by [Construction]( {{< relref "techs/Construction.md" >}}), provides a base increase of **+5 Max Gold** [5].
-*   [Harbour:]( {{< relref "buildings/Harbour.md" >}}) The [Harbour]( {{< relref "buildings/Harbour.md" >}}), unlocked by [Navigation]( {{< relref "techs/Navigation.md" >}}), provides a base increase of **+25 Max Gold** [5].
-*   [Sky Palace:]( {{< relref "ziggurat/Sky_Palace.md" >}}) The [Sky Palace]( {{< relref "ziggurat/Sky_Palace.md" >}}), a religious building, improves gold storage by **+1%** [6].
+*   [Warehouse:]( {{< relref "buildings/Warehouse.md" >}}) The [Warehouse]( {{< relref "buildings/Warehouse.md" >}}), unlocked by [Construction]( {{< relref "techs/Construction.md" >}}), provides a base increase of **+5 Max Gold**.
+*   [Harbour:]( {{< relref "buildings/Harbour.md" >}}) The [Harbour]( {{< relref "buildings/Harbour.md" >}}), unlocked by [Navigation]( {{< relref "techs/Navigation.md" >}}), provides a base increase of **+25 Max Gold**.
+*   [Sky Palace:]( {{< relref "ziggurat/Sky_Palace.md" >}}) The [Sky Palace]( {{< relref "ziggurat/Sky_Palace.md" >}}), a religious building, improves gold storage by **+1%**.
 
 ### 2. Storage Upgrades
 
@@ -71,14 +71,14 @@ Late-game advanced production and prestige mechanics also influence Gold capacit
     *   [Void Energy]( {{< relref "upgrade/Void_Energy.md" >}}) (Requires Stasis Chambers) increases max Gold from Accelerators by **+75%** [12].
     *   [Dark Energy]( {{< relref "upgrade/Dark_Energy.md" >}}) (Requires Void Energy) increases max Gold from Accelerators by **+250%** [12].
     *   [Tachyon Accelerators]( {{< relref "upgrade/Tachyon_Accelerators.md" >}}) (Requires Tachyon Theory) increases max Gold from Accelerators by **+500%** [12].
-*   **Event Horizon:** This Cryptotheology upgrade, available at Transcendence-Tier 7, increases the global resource storage ratio by **+10%** [13].
+*   [Event Horizon:]( {{< relref "transcendence/Event_horizon.md" >}}) This Cryptotheology upgrade, available at Transcendence-Tier 7, increases the global resource storage ratio by **+10%** [13].
 
 ### Strategic Importance
 
 Increasing Gold storage is necessary because Gold is used extensively:
 
 *   [Trading:]( {{< relref "guides/trading.md" >}}) Gold is required for trading with civilizations [14], and the [Isolationism]( {{< relref "Policy/Isolationism.md" >}}) policy reduces the Gold cost per trade by 1 [15].
-*   **Building:** Gold is needed to construct high-tier buildings like [Temples]( {{< relref "buildings/Temple.md" >}}) [16, 17], [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}) [2, 18], and [Mints]( {{< relref "buildings/Mint.md" >}}) [2].
+*   **Building:** Gold is needed to construct high-tier buildings like [Temples]( {{< relref "buildings/Temple.md" >}}) [16, 17], [Tradeposts]( {{< relref "buildings/Tradepost.md" >}}) [2, 18], and [Mints]( {{< relref "buildings/Mint.md" >}}).
 *   **Upgrades:** Gold is a component cost for several religious upgrades, such as [Golden Spire]( {{< relref "religion/Golden_Spire.md" >}}), [Sun Altar]( {{< relref "religion/Sun_Altar.md" >}}), [Stained Glass]( {{< relref "religion/Stained_Glass.md" >}}), [Solar Revolution]( {{< relref "religion/Solar_Revolution.md" >}}), [Basilica]( {{< relref "religion/Basilica.md" >}}), [Templars]( {{< relref "religion/Templars.md" >}}), **Apocrypha**, and [Transcendence]( {{< relref "religion/Transcendence.md" >}}) [19-22].
 
 In the "Titanium era," Gold becomes a major bottleneck for trade and building Temples, emphasizing the need to maximize its accumulation and storage [23, 24].

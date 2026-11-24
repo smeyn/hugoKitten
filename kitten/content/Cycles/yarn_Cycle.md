@@ -8,7 +8,7 @@ The [Yarn cycle]( {{< relref "Cycles/yarn_Cycle.md" >}}) is one of the ten five-
 ### **Cycle Mechanics and Effects**
 The effects of the Yarn cycle become active only after researching specific Metaphysics technologies:
 
-*   **Numerology Effect:** When **Numerology** is researched, the Yarn cycle provides a **+100% boost to catnip production from Hydroponics**. Conversely, it imposes a **-50% penalty to starchart production from Research Vessels**.
+*   **Numerology Effect:** When [Numerology]( {{< relref "metaphysics/numerology.md" >}}) is researched, the Yarn cycle provides a **+100% boost to catnip production from Hydroponics**. Conversely, it imposes a **-50% penalty to starchart production from Research Vessels**.
 *   **Numeromancy Effect:** If [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is researched, holding a **festival** during the Yarn cycle results in **doubled culture income** (x2).
 *   **Timing:** As the third cycle in the sequence, it begins at Year 10 of a millennium and repeats every 50 years (Years 10–14, 60–64, etc.).
 

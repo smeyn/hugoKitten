@@ -25,4 +25,4 @@ This is the primary strategic reason players aim for the Dark Future.
 
 
 ### **Strategic Summary**
-Reaching the Dark Future is a goal for "deep endgame" runs. Players purposefully shatter Time Crystals to reach year 40,000 to activate the **Burned Paragon bonus**, which provides the storage necessary to buy more [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}) and **Event Horizons**. They then manage the rising costs by purchasing [Time Impedance]( {{< relref "upgrade/time-impedance.md" >}}).
+Reaching the Dark Future is a goal for "deep endgame" runs. Players purposefully shatter Time Crystals to reach year 40,000 to activate the **Burned Paragon bonus**, which provides the storage necessary to buy more [Chronospheres]( {{< relref "buildings/Chronosphere.md" >}}) and [Event Horizons]( {{< relref "transcendence/Event_horizon.md" >}}). They then manage the rising costs by purchasing [Time Impedance]( {{< relref "upgrade/time-impedance.md" >}}).

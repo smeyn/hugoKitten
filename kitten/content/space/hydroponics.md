@@ -36,7 +36,7 @@ As your civilization matures, keeping your kittens happy is vital to scaling you
 By mass-producing Hydroponics, you can compound your passive food production so heavily that you can easily sustain hundreds of hyper-productive, highly happy kittens without risking sudden winter starvations.
 
 #### **The Yarn & Piscine Cycle Factors**
-If you have researched **Numerology**, your active planetary cycle will directly scale the efficiency of your hydroponic farms:
+If you have researched [Numerology]( {{< relref "metaphysics/numerology.md" >}}), your active planetary cycle will directly scale the efficiency of your hydroponic farms:
 * **Yarn Cycle (⍧):** Temporarily boosts Hydroponics catnip production by **+100%**.
 * **Piscine Cycle ():** Temporarily penalises Hydroponics catnip production by **-50%**.
 

@@ -5,7 +5,7 @@ title = "Alicorn"
 
 +++
 
-[Alicorns]( {{< relref "resource/alicorn.md" >}}) are a unique, late-game resource in *Kittens Game*, categorized as a **Unique Resource** [1]. They are crucial for progressing into the Time Crystal era of the game.
+[Alicorns]( {{< relref "resource/alicorn.md" >}}) are a unique, late-game resource in *Kittens Game*, categorized as a **Unique Resource**. They are crucial for progressing into the Time Crystal era of the game.
 
 Here is a detailed overview of their mechanics, acquisition, and uses:
 

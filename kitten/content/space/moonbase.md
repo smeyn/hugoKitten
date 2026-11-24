@@ -59,7 +59,6 @@ Because Moon Bases are one of only two structures in the entire game that expand
 *   **Antimatter Bases (Workshop Upgrade):** Costs 15 Eludium and 250 Antimatter. This permanently slashes the energy consumption of your Moon Bases by 50%, bringing their power draw down to **5 Wt** each.
 *   **AI Bases (Workshop Upgrade):** Unlocked after Antimatter Bases. This links your Moon Bases to your quantum computing grid, causing every active [AI Core]( {{< relref "buildings/AI_Core.md" >}}) to increase the storage capacity of your Moon Bases by **+10%** (which rises to **+11%** if you have the *Transkittenism* policy active).
 *   [Spaceports:]( {{< relref "buildings/spaceport.md" >}}) Upgrading your Warehouses into Spaceports provides a passive **+0.85% bonus** to all Moon Base storage capacities per Spaceport built.
-*   **Global Multipliers:** In the endgame, the flat storage additions of your Moon Bases are multiplied heavily by your **Paragon reserves** (+0.1% per point), **Event Horizons** (+10% global storage per level), and [Void Rifts]( {{< relref "time/void-rift.md" >}}) (+2% global storage per level).
+*   **Global Multipliers:** In the endgame, the flat storage additions of your Moon Bases are multiplied heavily by your **Paragon reserves** (+0.1% per point), [Event Horizons]( {{< relref "transcendence/Event_horizon.md" >}}) (+10% global storage per level), and [Void Rifts]( {{< relref "time/void-rift.md" >}}) (+2% global storage per level).
 
 ***
-

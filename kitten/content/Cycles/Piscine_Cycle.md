@@ -8,7 +8,7 @@ The [Piscine cycle]( {{< relref "Cycles/Piscine_Cycle.md" >}}) is the eighth in 
 ### **Cycle Mechanics and Effects**
 The modifiers for the Piscine cycle are active only after researching specific Metaphysics technologies:
 
-*   **Numerology Effects:** Researching **Numerology** activates production modifiers for space-based structures, acting as a "boom" period for starcharts but a "fallow" period for advanced catnip production:
+*   **Numerology Effects:** Researching [Numerology]( {{< relref "metaphysics/numerology.md" >}}) activates production modifiers for space-based structures, acting as a "boom" period for starcharts but a "fallow" period for advanced catnip production:
     *   [Research Vessels:]( {{< relref "space/research-vessel.md" >}}) Starchart production is increased by **+50%**.
     *   [Hydroponics:]( {{< relref "techs/Hydroponics.md" >}}) Catnip production is reduced by **-50%**.
 *   **Numeromancy (Festival) Effects:** If a festival is held during this cycle and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is researched, the village receives a **x2 multiplier (doubled income) for Science**.

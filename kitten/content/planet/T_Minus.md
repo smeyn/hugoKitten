@@ -25,7 +25,7 @@ The Cryostation, unlocked by this mission, is a vast storage facility complex th
 
 T-minus (${⍝}$) is one of the ten planetary cycles in the game's time system, lasting five years.
 
-*   **With Numerology:** When the **Numerology** upgrade is researched, the T-minus cycle affects space structures:
+*   **With Numerology:** When the [Numerology]( {{< relref "metaphysics/numerology.md" >}}) upgrade is researched, the T-minus cycle affects space structures:
     *   [Sunlifter]( {{< relref "space/sunlifter.md" >}}) energy output is decreased by **$-50\%$**.
     *   **Cryostation Storage** is increased by **$+20\%$**.
 *   **Festival Effect with Numeromancy:** Holding a festival during the T-minus cycle grants a $\times 2$ multiplier to **Oil income**.

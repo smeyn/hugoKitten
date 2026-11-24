@@ -12,9 +12,9 @@ Here is a breakdown of Kerosene based on the provided sources:
 **Nature and Acquisition**
 
 *   Kerosene is defined as a **rocket fuel processed from oil** [1, 2].
-*   It is classified as a Craftable Resource [1].
+*   It is classified as a Craftable Resource.
 *   The technology required to enable Kerosene crafting is [Oil Processing]( {{< relref "oil_processing.md" >}}) [2, 3].
-*   To craft Kerosene in the Workshop, 7500 units of [Oil]( {{< relref "resource/oil.md" >}}) are required [2].
+*   To craft Kerosene in the Workshop, 7500 units of [Oil]( {{< relref "resource/oil.md" >}}) are required.
 
 **Uses in Buildings**
 

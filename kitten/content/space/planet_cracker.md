@@ -23,7 +23,7 @@ The effectiveness of a Planet Cracker can be significantly enhanced through vari
 *   **Space Production Bonus:** Output is also boosted by the combined bonuses from [Space Elevators]( {{< relref "space/space_elevator.md" >}}) and [Orbital Arrays]( {{< relref "space/orbital_array.md" >}}).
 
 ### **Cycle and Environmental Modifiers**
-If the player has researched **Numerology**, the current celestial cycle impacts the vessel's efficiency:
+If the player has researched [Numerology]( {{< relref "metaphysics/numerology.md" >}}), the current celestial cycle impacts the vessel's efficiency:
 *   [Dune Cycle:]( {{< relref "Cycles/Dune_Cycle.md" >}}) Uranium output is increased by **10%**.
 *   [Umbra Cycle:]( {{< relref "Cycles/Umbra_Cycle.md" >}}) Uranium output is reduced by **10%**.
 *   [Pollution:]( {{< relref "guides/Pollution.md" >}}) High levels of CO2 and pollution in the atmosphere can harm resource production and may reduce the effectiveness of the production bonuses applied to these structures.

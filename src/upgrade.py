@@ -1,13 +1,13 @@
 """make links for Hugo pages"""
 
 
+import argparse
+import glob
+import logging
 import os
 import re
 import shutil
-import argparse
-import logging
-import glob
-
+from typing import Optional
 logging.basicConfig(level=logging.INFO)
 
 
@@ -34,9 +34,9 @@ def get_existing_files (source_dir:str)->dict:
     return result
 
 
-def upgrade_file(path: str, source_dir, overwrite:bool, destination:str|None, backup:bool=False)->None:    
+def upgrade_file(path: str, source_dir, overwrite:bool, destination:Optional[str]=None, backup:bool=False)->None:
     """parse markdown file and replace bolded words with links to appropriate md file"""
-    global nr_changes 
+    global nr_changes
     nr_changes = 0
     existing_files = get_existing_files(source_dir)
     full_path = os.path.join(source_dir, path)
@@ -46,10 +46,10 @@ def upgrade_file(path: str, source_dir, overwrite:bool, destination:str|None, ba
     def replace_bold_with_link(match):
         global nr_changes
         original_text = match.group(1)
-        
+
         # Clean the link text to check for file existence.
         link_text_base = original_text.lower().replace(':', '')
-        
+
         # The filename to check for existence must match the cleaned names in the set
         candidate_filename = link_text_base.replace(' ','')
         if not candidate_filename.endswith('.md'):
@@ -69,7 +69,7 @@ def upgrade_file(path: str, source_dir, overwrite:bool, destination:str|None, ba
                 return f'[{original_text}]( '+ '{{< relref "' + existing_files[candidate_filename] + '" >}})'
         # It doesn't exist, so return the original bolded text
         return match.group(0)
-    
+
     new_content = bold_regex.sub(replace_bold_with_link, content)
     if nr_changes == 0:
         # print (f"No changes made to {path}")

@@ -13,7 +13,7 @@ Cath is the name of the solar system in which the star [Helios]( {{< relref "pla
 
 ### 2. The Cath Astrological Cycle
 
-Cath is one of the ten planetary cycles in the time system, with each cycle lasting five years. It is identified by the glyph ${⌾}$. The effects of this cycle are only triggered once the **Numerology** upgrade has been researched.
+Cath is one of the ten planetary cycles in the time system, with each cycle lasting five years. It is identified by the glyph ${⌾}$. The effects of this cycle are only triggered once the [Numerology]( {{< relref "metaphysics/numerology.md" >}}) upgrade has been researched.
 
 | Category | Detail |
 | :--- | :--- |

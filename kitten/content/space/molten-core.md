@@ -32,7 +32,7 @@ Uranium is generally considered the hardest limit to expand for Molten Core. You
 *   **Compile Paragon:** Paragon provides a passive **+0.1% storage bonus per unit** (and Burned Paragon is twice as effective after you reach the Dark Future).
 *   **Stack Storage Modifiers:** 
     *   Build [Sunforges]( {{< relref "space/Sun_Forge.md" >}}) in Helios (+1% metal and Uranium storage per level).
-    *   Buy **Event Horizons** (+10% global storage ratio per level) and [Void Rifts]( {{< relref "time/void-rift.md" >}}) (+2% global storage ratio per level).
+    *   Buy [Event Horizons]( {{< relref "transcendence/Event_horizon.md" >}}) (+10% global storage ratio per level) and [Void Rifts]( {{< relref "time/void-rift.md" >}}) (+2% global storage ratio per level).
 *   **Time skip to the T-Minus Cycle:** The T-Minus planetary cycle provides a temporary **+20% storage boost specifically to Cryostations**.
 
 #### **2. Scaling your Science Cap**

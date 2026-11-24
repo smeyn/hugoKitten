@@ -11,13 +11,13 @@ Here is a breakdown of how to increase your Oil storage capacity:
 
 ### Base Oil Storage
 
-The initial, default storage capacity for Oil is **1,500** [1].
+The initial, default storage capacity for Oil is **1,500**.
 
 ### Increasing Oil Storage Capacity
 
 You can increase the maximum limit of Oil through the following methods:
 
-1.  [Oil Wells:]( {{< relref "buildings/Oil_Well.md" >}}) The building used to produce oil, the [Oil Well]( {{< relref "oil_well.md" >}}), also increases your maximum oil storage. Each Oil Well provides **+1500 Max Oil** [2].
+1.  [Oil Wells:]( {{< relref "buildings/Oil_Well.md" >}}) The building used to produce oil, the [Oil Well]( {{< relref "oil_well.md" >}}), also increases your maximum oil storage. Each Oil Well provides **+1500 Max Oil**.
 
 2.  **Tankers (Crafted Ships):** Oil storage can be significantly increased by crafting and building [Tankers]( {{< relref "craft/Tanker.md" >}}).
     *   A [Tanker]( {{< relref "tanker.md" >}}) is a crafted item that increases the **maximum oil capacity by 500** [3, 4].

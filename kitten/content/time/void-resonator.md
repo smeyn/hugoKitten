@@ -12,10 +12,10 @@ Continuing our journey through late-game temporal structures, the [Void Resonato
 Its primary function is to transform how you generate religious prestige in the late game by creating a powerful bridge between time-skipping and faith.
 
 ### **The Order of the Void Synergy**
-The Void Resonator works hand-in-hand with the **Order of the Void** metaphysics upgrade. Normally, Order of the Void passively converts 10% of your faith production directly into Worship. 
+The Void Resonator works hand-in-hand with the [Order of the Void]( {{< relref "metaphysics/order_of_the_void.md" >}}) metaphysics upgrade. Normally, Order of the Void passively converts 10% of your faith production directly into Worship. 
 
 When you build Void Resonators, they multiply this effect. The game calculates the conversion using the following formula:
-\\[\text{Worship Generated} = \text{Faith Production} \times 0.1 \times (1 + (\text{Void Resonators} \times 0.1)) \text{}\\]
+   {Worship Generated} = {Faith Production} * 0.1 * (1 + ({Void Resonators} * 0.1)) 
 
 In other words, **each Void Resonator you construct adds a flat +10% bonus** to your passive Order of the Void conversion rate.
 
@@ -32,4 +32,4 @@ When you establish a high-level **Shatter Engine** (Resource Retrieval + Chrono 
 
 Instead of waiting on manual praises, simply skipping years will passively flood your pool with billions of units of Worship. This makes pushing your civilization up to **Transcendence Tier 20 and beyond** incredibly fast and effortless, permanently compounding your global production multipliers via the Solar Revolution bonus.
 
-*** 
+***

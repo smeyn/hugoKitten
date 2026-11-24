@@ -9,20 +9,20 @@ title = "Exogeology"
 
 ### 1. Prerequisites and Cost
 
-*   **Unlocking:** Exogeology is unlocked after successfully researching [Orbital Engineering]( {{< relref "orbital_engineering.md" >}}) [1].
-*   **Cost:** To research Exogeology, you must pay **275K Science** and **250 Blueprints** [1].
+*   **Unlocking:** Exogeology is unlocked after successfully researching [Orbital Engineering]( {{< relref "orbital_engineering.md" >}}).
+*   **Cost:** To research Exogeology, you must pay **275K Science** and **250 Blueprints**.
 
 ### 2. Unlocks and Follow-up Science
 
 Researching Exogeology unlocks several crucial elements and leads directly to the next phase of high-tier crafting:
 
-*   **Next Science Tier:** It unlocks **Exometallurgy** (formerly Advanced Exogeology), which is the science required to enable the crafting of [Eludium]( {{< relref "eludium.md" >}}) [2].
-*   **Housing Upgrade:** It unlocks the [Unobtainium Huts]( {{< relref "unobtainium_huts.md" >}}) upgrade [1]. This upgrade requires **200K Science**, **350 Unobtainium**, and **15K Titanium**, and reduces the Hut price ratio by 25% [3].
-*   **Storage and Production Upgrades:** It unlocks several specialized Workshop upgrades [1]:
-    *   [Unobtainium Reflectors:]( {{< relref "unobtainium_reflectors.md" >}}) These improve telescope reflectors, increasing the maximum science bonus gained from Observatories by an additional 2% per Observatory [4].
-    *   [Unobtainium Drill:]( {{< relref "unobtainium_drill.md" >}}) This improves the effectiveness of [Geologists]( {{< relref "job/Geologist.md" >}}) [4].
-    *   [Hydro Plant Turbines:]( {{< relref "hydro_plant_turbines.md" >}}) This upgrade makes Hydro Plants 15% more effective (increasing energy output from 5 Wt to 5.75 Wt) [4].
-    *   [Storage Bunkers:]( {{< relref "storage_bunkers.md" >}}) This is a vital storage upgrade that increases the maximum storage limit for wood, minerals, coal, iron, gold, and titanium from Warehouses, Barns, Harbors, and Mints by **20%** [5]. The storage bunkers upgrade requires **25K Science**, **500 Unobtainium**, and **1250 Concrete** [5].
+*   **Next Science Tier:** It unlocks **Exometallurgy** (formerly Advanced Exogeology), which is the science required to enable the crafting of [Eludium]( {{< relref "eludium.md" >}}).
+*   **Housing Upgrade:** It unlocks the [Unobtainium Huts]( {{< relref "unobtainium_huts.md" >}}) upgrade. This upgrade requires **200K Science**, **350 Unobtainium**, and **15K Titanium**, and reduces the Hut price ratio by 25%.
+*   **Storage and Production Upgrades:** It unlocks several specialized Workshop upgrades:
+    *   [Unobtainium Reflectors:]( {{< relref "unobtainium_reflectors.md" >}}) These improve telescope reflectors, increasing the maximum science bonus gained from Observatories by an additional 2% per Observatory.
+    *   [Unobtainium Drill:]( {{< relref "unobtainium_drill.md" >}}) This improves the effectiveness of [Geologists]( {{< relref "job/Geologist.md" >}}).
+    *   [Hydro Plant Turbines:]( {{< relref "hydro_plant_turbines.md" >}}) This upgrade makes Hydro Plants 15% more effective (increasing energy output from 5 Wt to 5.75 Wt).
+    *   [Storage Bunkers:]( {{< relref "storage_bunkers.md" >}}) This is a vital storage upgrade that increases the maximum storage limit for wood, minerals, coal, iron, gold, and titanium from Warehouses, Barns, Harbors, and Mints by **20%**. The storage bunkers upgrade requires **25K Science**, **500 Unobtainium**, and **1250 Concrete**.
 
 ### 3. Strategic Importance (The Unobtainium Era)
 

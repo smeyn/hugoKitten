@@ -18,7 +18,7 @@ Once the planet is reached, two specialized structures can be developed to scale
 *   [Hydroponics:]( {{< relref "techs/Hydroponics.md" >}}) Requires the **Hydroponics technology** and costs **1 Unobtainium and 500 Kerosene**. It increases **maximum catnip by 10%**, catnip production by **2.5%**, and provides a **1.0% bonus** to the kitten capacity of Terraforming Stations. Hydroponics also increases the overall **catnip storage capacity by 10%**, which stacks additively with the [Refrigeration]( {{< relref "upgrade/Refrigeration.md" >}}) upgrade.
 
 ### **The Yarn Cycle**
-"Yarn" is also the name of one of the ten five-year cycles in the game (represented by the glyph **⍧**). If **Numerology** has been researched, the Yarn cycle provides the following modifiers:
+"Yarn" is also the name of one of the ten five-year cycles in the game (represented by the glyph **⍧**). If [Numerology]( {{< relref "metaphysics/numerology.md" >}}) has been researched, the Yarn cycle provides the following modifiers:
 *   **Production Bonuses:** **Hydroponics catnip production is increased by 100%**.
 *   **Production Penalties:** **Research Vessel starchart production is reduced by 50%**.
 *   **Festival Effect:** If [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is also researched, holding a festival during the Yarn cycle provides a **2x multiplier to culture income**.

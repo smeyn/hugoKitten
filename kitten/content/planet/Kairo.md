@@ -30,7 +30,7 @@ Successfully completing the Kairo Mission unlocks the [Space Beacon]( {{< relref
 
 Kairo is one of the ten planetary cycles in the game's time system, lasting five years, and is symbolised by the glyph ${℣}$. Its effects are primarily related to space production and science structures.
 
-*   **Effects with Numerology:** When the **Numerology** upgrade is researched, the Kairo cycle generally imposes penalties on certain structures but provides a massive boost to Space Beacons:
+*   **Effects with Numerology:** When the [Numerology]( {{< relref "metaphysics/numerology.md" >}}) upgrade is researched, the Kairo cycle generally imposes penalties on certain structures but provides a massive boost to Space Beacons:
     *   **Space Beacon starchart production** is boosted by **+400%**.
     *   Space Elevator transfer production bonus (oil only) is decreased by $-50\%$.
     *   Satellite starchart production, Satellite observatory’s science bonus, and Space Station science bonus are all decreased by $-25\%$.

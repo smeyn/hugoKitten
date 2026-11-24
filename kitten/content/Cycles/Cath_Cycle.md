@@ -11,7 +11,7 @@ The [Cath cycle]( {{< relref "Cycles/Cath_Cycle.md" >}}) is the fifth of ten cyc
 *   **Color Coding:** The color of the glyph changes to denote the specific year within the five-year Cath cycle: **Red** (Year 0), **Orange-Yellow** (Year 1), **Green** (Year 2), **Blue** (Year 3), and **Violet** (Year 4).
 
 ### **Resource Multipliers (Requires Numerology)**
-If you have researched the **Numerology** metaphysics upgrade, the Cath cycle provides specific bonuses and penalties to space-based production:
+If you have researched the [Numerology]( {{< relref "metaphysics/numerology.md" >}}) metaphysics upgrade, the Cath cycle provides specific bonuses and penalties to space-based production:
 *   [Space Elevators:]( {{< relref "space/space_elevator.md" >}}) Provides a **+100% bonus** to the transferred production bonus, specifically for [Oil]( {{< relref "resource/oil.md" >}}).
 *   [Satellites:]( {{< relref "techs/Satellites.md" >}}) Provides a **+100% bonus** to starchart production and a **+100% bonus** to the Satellite observatory science bonus.
 *   [Space Stations:]( {{< relref "space/space-station.md" >}}) Provides a **+50% bonus** to science production.

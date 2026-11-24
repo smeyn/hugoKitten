@@ -1,7 +1,7 @@
 +++
 date = 2025-11-29T20:44:33.295594+11:00
 draft = false
-title = "Golden_Spire"
+title = "Golden Spire"
 
 +++
 [Golden Spire]( {{< relref "religion/Golden_Spire.md" >}}) is a religious upgrade within the **Order of the Sun** that significantly expands your colony's capacity to store faith by enhancing the effectiveness of your [Temples]( {{< relref "buildings/Temple.md" >}}).

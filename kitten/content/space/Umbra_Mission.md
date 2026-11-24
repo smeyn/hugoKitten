@@ -16,7 +16,7 @@ To launch the Umbra mission, your kittens must have already successfully explore
 Successfully completing the launch unlocks the **Umbra Planet** and the subsequent [Charon Mission]( {{< relref "space/Charon_Mission.md" >}}).
 
 ### **The Umbra Cycle and Festivals**
-"Umbra" is also one of the ten five-year celestial cycles (represented by the glyph **⍦**). If you have researched **Numerology** and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}), the cycle provides the following modifiers:
+"Umbra" is also one of the ten five-year celestial cycles (represented by the glyph **⍦**). If you have researched [Numerology]( {{< relref "metaphysics/numerology.md" >}}) and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}), the cycle provides the following modifiers:
 *   **Production Penalties:** During this cycle, Planet Cracker uranium output is reduced by **10%** and Hydraulic Fracturer oil output decreases by **25%**.
 *   **Production Boosts:** Energy production from **HR Harvesters** (located on the Umbra planet) is increased by **50%**.
 *   **Festival Multipliers:** Holding a festival during the Umbra cycle provides a **1.5x income multiplier** for coal, iron, titanium, and gold.

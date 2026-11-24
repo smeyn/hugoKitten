@@ -20,7 +20,7 @@ Once the technology is researched, several advanced structures become available 
 *   [Void Hoover:]( {{< relref "upgrade/void_hoover.md" >}}) Unlocked via Void Aspiration; increases the maximum amount of void you can gain during a [Temporal Paradox]( {{< relref "guides/temporal_paradox.md" >}}) day by 1.
 *   [Void Rift:]( {{< relref "buildings/void_rift.md" >}}) Unlocked via Void Aspiration; each rift increases your **global resource storage ratio by 2%** and boosts **HR Harvester** energy production by 10%.
 *   [Chronocontrol:]( {{< relref "time/chrono_control.md" >}}) Unlocked via Paradox Theory; increases the number of days a Temporal Paradox lasts.
-*   [Void Resonator:]( {{< relref "time/void-resonator.md" >}}) Unlocked via Paradox Theory; improves faith production and allows **Order of the Void** to trigger during a time skip.
+*   [Void Resonator:]( {{< relref "time/void-resonator.md" >}}) Unlocked via Paradox Theory; improves faith production and allows [Order of the Void]( {{< relref "metaphysics/order_of_the_void.md" >}}) to trigger during a time skip.
 
 ### **Strategic Importance**
 Void Space is a critical gatekeeper for the **Endgame Reset Loop**. It is the prerequisite for [Paradox Theory]( {{< relref "techs/Paradox_Theory.md" >}}), which unlocks [Resource Retrieval]( {{< relref "upgrade/resource-retrieval.md" >}})—the mechanic that allows you to gain a percentage of your yearly resources every time you shatter a Time Crystal. Furthermore, building a "Void Seed" through numerous [Void Rifts]( {{< relref "buildings/void_rift.md" >}}) is a primary strategy for reaching the massive **Unobtainium caps** (over 8 billion) required for self-sustaining positive resets in the late game.

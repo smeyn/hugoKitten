@@ -4,19 +4,24 @@ draft = false
 title = "Scholasticism"
 
 +++
-[Scholasticism]( {{< relref "religion/Scholasticism.md" >}}) is a religious upgrade within the **Order of the Sun** that repurposes your Temples to serve as scientific infrastructure. By investing in this upgrade, your colony can significantly increase its maximum science capacity through religious devotion.
 
-### **Acquisition and Costs**
-*   **Unlocking:** You must first research [Theology]( {{< relref "techs/Theology.md" >}}) to access the upgrade in the Religion tab.
-*   **Prerequisites:** Scholasticism only appears once you have accumulated a minimum of **300 Worship** (formerly known as "praised faith").
-*   **Cost:** The initial level of the upgrade costs **250 Faith**.
-*   **Price Scaling:** It features a **price ratio of 2.5**, meaning if you unlock the ability to purchase it multiple times, each subsequent level will cost 2.5 times more than the last.
+[Scholasticism]( {{< relref "scholasticism.md" >}}) is a religious upgrade available within the *Kittens Game*, found under the **Order of the Sun** in the Religion tab.
 
-### **Effects and Scaling**
-*   **Base Storage Bonus:** Upon purchase, every Temple in your village provides a flat **+500 bonus to maximum science storage**.
-*   **Transcendence Tiers:** If you have purchased the [Transcendence]( {{< relref "religion/Transcendence.md" >}}) upgrade, you can buy additional levels of Scholasticism. Each extra level increases the storage bonus by an additional **+100 max science per Temple**.
+This upgrade is crucial because, like other religious upgrades, it affects functionality outside of the Religion system.
 
-### **Strategic Utility**
-Scholasticism is a critical upgrade for overcoming the "science ceiling" often encountered in the mid-game. The sources indicate that as scientific research costs escalate—for example, requiring thousands of units for [Physics]( {{< relref "techs/Physics.md" >}}) or [Chemistry]( {{< relref "techs/Chemistry.md" >}})—standard bonfire buildings like Libraries and Academies may not provide enough storage on their own. 
+### Prerequisites and Cost
 
-By allowing Temples to contribute to science storage, Scholasticism provides a space-efficient way to reach higher caps. This is particularly useful because Temples are already desirable for their production of culture and faith. In specialized strategies, such as [Iron Will]( {{< relref "Challenges/ironWill.md" >}}) mode, religious bonuses like Scholasticism are even more vital for scientific advancement since population-based science generation is restricted.
+To purchase Scholasticism, you must meet the following requirements:
+
+*   **Prerequisite:** You must have accumulated **300 Worship**. Worship is converted from Faith by using the "Praise the sun!" action.
+*   **Cost:** The upgrade costs **250 Faith**.
+
+### Effects and Function
+
+The primary function of Scholasticism is to integrate your religious structures into your scientific development:
+
+*   **Science Contribution:** Scholasticism allows **Temples to contribute to Science**.
+*   **Maximum Science Bonus:** Specifically, it grants Temples an effect of **+500 maximum science**. This helps prevent the Science resource cap from becoming a bottleneck when researching advanced technologies.
+*   **Scaling:** The maximum science bonus provided by Temples is further increased by **+100 for each additional level** of Scholasticism purchased using [Transcendence]( {{< relref "religion/Transcendence.md" >}}).
+
+The ability to increase your maximum science cap is highly beneficial, as achieving high science limits (like the 125K needed for Concrete Huts) often requires numerous Science buildings such as Libraries, Academies, and Observatories. Scholasticism provides a direct boost to this vital resource capacity through existing Temple infrastructure.

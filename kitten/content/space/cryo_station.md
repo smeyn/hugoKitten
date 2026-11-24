@@ -30,7 +30,7 @@ The primary function of a Cryostation is its massive boost to resource caps. Eac
 The effectiveness of Cryostations is influenced by the following factors:
 *   **Celestial Cycles**: With Numerology researched, the **T-minus cycle** increases Cryostation storage by **+20%**, while the [Helios cycle]( {{< relref "Cycles/Helios_Cycle.md" >}}) reduces it by **-10%**.
 *   [Spaceports]( {{< relref "buildings/spaceport.md" >}}): Each Spaceport provides a **+0.85%** boost to the capacity of your Cryostations.
-*   **Global Modifiers**: Storage capacity is further enhanced by your current [Paragon]( {{< relref "resource/paragon.md" >}}) (0.1% per point), **Event Horizons** (+10% each), and [Void Rifts]( {{< relref "buildings/void_rift.md" >}}) (+2% each).
+*   **Global Modifiers**: Storage capacity is further enhanced by your current [Paragon]( {{< relref "resource/paragon.md" >}}) (0.1% per point), [Event Horizons]( {{< relref "transcendence/Event_horizon.md" >}}) (+10% each), and [Void Rifts]( {{< relref "buildings/void_rift.md" >}}) (+2% each).
 *   [Sunforges]( {{< relref "space/Sun_Forge.md" >}}): These improve the storage of base metals (iron, titanium, uranium) by 1% per building.
 
 ### **Distinction from Cryochambers**

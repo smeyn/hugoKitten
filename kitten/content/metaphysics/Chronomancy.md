@@ -9,7 +9,7 @@ title = 'Chronomancy'
 *   **Event Multiplier:** It provides a **1.1x multiplier** to the daily chance of both meteors and astronomical events. The sources explicitly note that this is a multiplicative bonus to the base chance, not a flat +10% addition.
 *   **Technological Prerequisites:** Purchasing Chronomancy is required to unlock two essential high-tier Metaphysics:
     *   [Anachronomancy:]( {{< relref "metaphysics/Anachronomancy.md" >}}) Allows Time Crystals and Chronophysics to persist across game resets.
-    *   **Astromancy:** Further doubles the chance of star events and increases the effectiveness of Observatories.
+    *   [Astromancy:]( {{< relref "metaphysics/Astromancy.md" >}}) Further doubles the chance of star events and increases the effectiveness of Observatories.
 
 ### **Strategic Utility**
 The value of Chronomancy depends on your current stage of progression:

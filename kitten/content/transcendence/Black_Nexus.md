@@ -31,6 +31,5 @@ In the mid-to-late game, the Black Nexus is a vital part of what players call th
 | Feature | Standard Effect | With Black Nexus |
 | :--- | :--- | :--- |
 | **TC to Relic Ratio** | 25:1 | 25 : (1 + Nexus × Pyramid) |
-| **Beacon Production** | 0.01 Relics/day | +10% boost per Pyramid level |
+| **Beacon Production** | 0.01 [Relic]( {{< relref "resource/relic.md" >}})s/day | +10% boost per Pyramid level |
 | **Unlock Level** | Theology Tech | **Transcendence Tier 3** |
-

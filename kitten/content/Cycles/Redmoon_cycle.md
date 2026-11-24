@@ -13,8 +13,8 @@ The impact of the Redmoon cycle depends on your researched [Metaphysics]( {{< re
 
 | Upgrade Required | Effect during Redmoon |
 | :--- | :--- |
-| **Numerology** | **+20% Unobtainium output** from Lunar Outposts. |
-| **Numerology** | **-50% Gigaflop consumption** for Entanglement Stations. |
+| [Numerology]( {{< relref "metaphysics/numerology.md" >}}) | **+20% Unobtainium output** from Lunar Outposts. |
+| [Numerology]( {{< relref "metaphysics/numerology.md" >}}) | **-50% Gigaflop consumption** for Entanglement Stations. |
 | [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) | Holding a [festival]( {{< relref "guides/festivals.md" >}}) provides an additional **x2 Unobtainium income**. |
 
 ### **The "Shatter into Redmoon" Strategy**

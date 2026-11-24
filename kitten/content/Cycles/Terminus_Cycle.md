@@ -8,7 +8,7 @@ The [Terminus cycle]( {{< relref "Cycles/Terminus_Cycle.md" >}}) (often referred
 ### **Cycle Mechanics and Effects**
 The effects of the Terminus cycle are activated only after researching specific Metaphysics technologies:
 
-*   **Numerology Effects:** Researching **Numerology** activates production and storage modifiers for space-based structures:
+*   **Numerology Effects:** Researching [Numerology]( {{< relref "metaphysics/numerology.md" >}}) activates production and storage modifiers for space-based structures:
     *   [Sunlifter:]( {{< relref "space/sunlifter.md" >}}) Energy output is reduced by **-50%**.
     *   [Cryostations:]( {{< relref "space/cryo_station.md" >}}) Storage capacity is increased by **+20%**.
 *   **Numeromancy (Festival) Effects:** If a festival is held during this cycle and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) is researched, the village receive a **2x multiplier (doubled income)** for [Oil]( {{< relref "resource/oil.md" >}}).

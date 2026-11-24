@@ -20,7 +20,7 @@ The HR Harvester is unique because its power output is not static; it provides a
 *   **Void Rift Synergy:** Each [Void Rift]( {{< relref "buildings/void_rift.md" >}}) (a structure in the Time tab) increases HR Harvester energy production by **10%**.
 
 ### **Environmental and Cycle Modifiers**
-The effectiveness of the harvester fluctuates based on the current cosmic cycle if **Numerology** has been researched:
+The effectiveness of the harvester fluctuates based on the current cosmic cycle if [Numerology]( {{< relref "metaphysics/numerology.md" >}}) has been researched:
 *   [Umbra Cycle:]( {{< relref "Cycles/Umbra_Cycle.md" >}}) Energy production is increased by **+50%**.
 *   [Dune Cycle:]( {{< relref "Cycles/Dune_Cycle.md" >}}) Energy production is reduced by **-25%**.
 

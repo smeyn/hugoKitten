@@ -28,7 +28,7 @@ Reaching Dune is a prerequisite for advanced societal and scientific development
 *   [Order of the Stars:]( {{< relref "Policy/Order_of_the_Stars.md" >}}) Increases faith production by 20% but restricts leaders to the priest job.
 
 ### **The Dune Cycle and Synergy**
-Dune is also one of the ten celestial cycles (represented by the glyph **⍫**). If you have researched **Numerology**, the Dune cycle provides specific modifiers to your space production:
+Dune is also one of the ten celestial cycles (represented by the glyph **⍫**). If you have researched [Numerology]( {{< relref "metaphysics/numerology.md" >}}), the Dune cycle provides specific modifiers to your space production:
 *   **Planet Cracker uranium output:** +10%.
 *   **Hydraulic Fracturer oil output:** +50%.
 *   **HR Harvester energy production:** -25% penalty.

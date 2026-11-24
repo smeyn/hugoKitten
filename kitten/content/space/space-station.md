@@ -37,7 +37,7 @@ Because Space Stations house active citizens, managing their power profile requi
 ---
 
 ### **4. Planetary Cycle Modifiers (With Numerology)**
-If you have researched **Numerology**, the active planetary cycle will directly scale the efficiency of your Space Stations' scientific capabilities:
+If you have researched [Numerology]( {{< relref "metaphysics/numerology.md" >}}), the active planetary cycle will directly scale the efficiency of your Space Stations' scientific capabilities:
 *   **Cath Cycle (⌾):** Temporarily boosts the Space Station science bonus by **+50%**.
 *   **Kairo Cycle (℣):** Temporarily penalises the Space Station science bonus by **-25%**.
 

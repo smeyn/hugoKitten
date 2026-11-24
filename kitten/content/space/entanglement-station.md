@@ -29,7 +29,7 @@ Hashes produced by the Entanglement Station are used to reverse engineer relics.
 This makes Entanglement Stations a vital tool for exponentially scaling your Type 1 Relic Engine in the late game.
 
 ### **4. Cycle Multipliers (With Numerology)**
-If you have researched **Numerology**, the active planetary cycle will directly modify how much processing power your stations consume:
+If you have researched [Numerology]( {{< relref "metaphysics/numerology.md" >}}), the active planetary cycle will directly modify how much processing power your stations consume:
 *   **Charon Cycle (⍙):** Gigaflop consumption is increased by **+100%** (consuming **0.2 Gflops/tick**).
 *   **Redmoon Cycle (⍜):** Gigaflop consumption is reduced by **-50%** (consuming only **0.05 Gflops/tick**).
 
@@ -58,7 +58,7 @@ Hashes produced by the Entanglement Station are used to reverse engineer relics.
 This makes Entanglement Stations a vital tool for exponentially scaling your Type 1 Relic Engine in the late game.
 
 ### **4. Cycle Multipliers (With Numerology)**
-If you have researched **Numerology**, the active planetary cycle will directly modify how much processing power your stations consume:
+If you have researched [Numerology]( {{< relref "metaphysics/numerology.md" >}}), the active planetary cycle will directly modify how much processing power your stations consume:
 *   **Charon Cycle (⍙):** Gigaflop consumption is increased by **+100%** (consuming **0.2 Gflops/tick**).
 *   **Redmoon Cycle (⍜):** Gigaflop consumption is reduced by **-50%** (consuming only **0.05 Gflops/tick**).
 

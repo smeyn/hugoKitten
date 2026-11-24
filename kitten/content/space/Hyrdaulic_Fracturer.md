@@ -19,7 +19,7 @@ The base effect of a Hydraulic Fracturer is the production of **2.5 oil per seco
 *   [Orbital Arrays:]( {{< relref "space/orbital_array.md" >}}) These provide a flat **2% bonus** to all space structures, including the Fracturer.
 
 ### **Environmental and Cyclical Modifiers**
-If you have researched **Numerology**, the current celestial cycle will drastically alter the efficiency of your oil production on Dune:
+If you have researched [Numerology]( {{< relref "metaphysics/numerology.md" >}}), the current celestial cycle will drastically alter the efficiency of your oil production on Dune:
 *   [Dune Cycle:]( {{< relref "Cycles/Dune_Cycle.md" >}}) Provides a massive **+50% boost** to oil output.
 *   [Umbra Cycle:]( {{< relref "Cycles/Umbra_Cycle.md" >}}) Imposes a **-25% penalty** to production.
 *   [Festivals:]( {{< relref "guides/festivals.md" >}}) Under the [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) upgrade, holding a festival during the **T-minus cycle** provides a **2x multiplier to oil income**, which further synergises with your Fracturer infrastructure.

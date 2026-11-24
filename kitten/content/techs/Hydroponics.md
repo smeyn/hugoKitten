@@ -20,7 +20,7 @@ Hydroponics provides three distinct types of bonuses that help manage late-game 
 *   **Terraforming Synergy:** Every unit provides a **+1.0% bonus** to the kitten capacity of [Terraforming Stations]( {{< relref "space/terraforming-station.md" >}}) (which normally house +1 kitten each).
 
 ### **Cycle Multipliers (Numerology)**
-If you have researched the **Numerology** metaphysics upgrade, the effectiveness of Hydroponics is dramatically altered by the current **Cycle**:
+If you have researched the [Numerology]( {{< relref "metaphysics/numerology.md" >}}) metaphysics upgrade, the effectiveness of Hydroponics is dramatically altered by the current **Cycle**:
 *   [Yarn Cycle:]( {{< relref "Cycles/yarn_Cycle.md" >}}) Production effectiveness is increased by **+100%** (doubled).
 *   [Piscine Cycle:]( {{< relref "Cycles/Piscine_Cycle.md" >}}) Production effectiveness is decreased by **-50%**.
 

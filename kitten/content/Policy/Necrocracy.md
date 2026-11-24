@@ -19,7 +19,7 @@ title = "Necrocracy"
 ---
 
 ### **Strategic Utility**
-Necrocracy is considered a niche but powerful choice for players in the deep **Late Game** or **End Game** phases.
+Necrocracy is considered a niche but powerful choice for players in the deep [Late Game]( {{< relref "guides/late_game.md" >}}) or **End Game** phases.
 
 *   **Production Scaling:** The primary draw is the production bonus tied to BLS. In the late game, players accumulate BLS through **Unicorn Tears** or trading, and buildings like [Black Cores]( {{< relref "transcendence/Black_Core.md" >}}) can increase the BLS limit.
 *   **Leviathan Energy:** The 5% boost to the **Leviathan Energy Cap** allows these elders to stay longer and provide better trade ratios when fed necrocorns.

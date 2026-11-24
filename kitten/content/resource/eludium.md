@@ -9,14 +9,14 @@ title = "Eludium"
 
 ### Characteristics and Acquisition
 
-1.  **Crafting:** Eludium is a composite alloy created by combining two other advanced resources [1]:
-    *   **2,500 Alloy** [2]
-    *   **1,000 Unobtainium** [2]
+1.  **Crafting:** Eludium is a composite alloy created by combining two other advanced resources:
+    *   **2,500 Alloy**
+    *   **1,000 Unobtainium**
     *   The crafting ability is unlocked by researching the **Exometallurgy** science (formerly Advanced Exogeology) [1, 3].
 
 2.  **Prerequisites for Crafting:**
-    *   **Exometallurgy Science:** Costs 325K Science and 350 Blueprints [3]. This technology is unlocked after researching [Exogeology]( {{< relref "exogeology.md" >}}) [3].
-    *   **Unobtainium Storage:** Achieving Eludium status requires substantial Unobtainium storage (1,000 Unobtainium) which means building multiple [Moon Bases]( {{< relref "space/moonbase.md" >}}) or a [Cryostation]( {{< relref "space/cryo_station.md" >}}) [4].
+    *   **Exometallurgy Science:** Costs 325K Science and 350 Blueprints. This technology is unlocked after researching [Exogeology]( {{< relref "exogeology.md" >}}).
+    *   **Unobtainium Storage:** Achieving Eludium status requires substantial Unobtainium storage (1,000 Unobtainium) which means building multiple [Moon Bases]( {{< relref "space/moonbase.md" >}}) or a [Cryostation]( {{< relref "space/cryo_station.md" >}}).
 
 ### Primary Uses
 
@@ -36,7 +36,7 @@ Eludium is required for constructing the highest tier of housing and for high-le
 
 ### Strategic Context
 
-The process of acquiring Eludium defines a major phase of the game progression, known as the **Eludium Era** [4].
+The process of acquiring Eludium defines a major phase of the game progression, known as the **Eludium Era**.
 
 *   This era requires increasing the Unobtainium Production Rate to a reasonable level, primarily through [Planet Crackers]( {{< relref "space/planet_cracker.md" >}}) (to generate Uranium) and [Lunar Outposts]( {{< relref "planet/lunar_outpost.md" >}}) (to convert Uranium to Unobtainium) [11].
 *   Achieving Eludium Huts is considered the next major checkpoint after [Concrete Huts]( {{< relref "concrete_huts.md" >}}) [12, 13]. Once Eludium Huts are built, the player is considered ready for the subsequent **Unicorn/Time Crystal Era**, provided the Unobtainium generation rate is high enough (around 1 Unobtainium per second or 1,100 Paragon plus the Renaissance upgrade) [14].

@@ -31,7 +31,7 @@ The successful mission unlocks the [Research Vessel]( {{< relref "space/research
 
 Piscine (${⎈}$) is one of the ten planetary cycles in the time system, each lasting five years.
 
-*   **Numerology Effect:** With the **Numerology** upgrade, the Piscine cycle offers contrasting effects on space production:
+*   **Numerology Effect:** With the [Numerology]( {{< relref "metaphysics/numerology.md" >}}) upgrade, the Piscine cycle offers contrasting effects on space production:
     *   **Research Vessel starchart production** is boosted by **+50%**.
     *   **Hydroponics Catnip Production** is decreased by **-50%**.
 *   **Festival Effect (Numeromancy):** If the [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) upgrade is researched, holding a [festival]( {{< relref "guides/festivals.md" >}}) during the Piscine cycle grants a powerful $\times 2$ multiplier to **Science income**.

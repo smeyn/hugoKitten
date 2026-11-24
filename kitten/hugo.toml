@@ -1,7 +1,9 @@
- 
-languageCode = 'en-us'
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+
 title = 'Kittens Overview'
-theme = "hugo-simple" 
+theme = "hugo-simple"
 sectionPagesMenu = 'main'
 Copyright = "stephan meyn 2026"
 
@@ -13,4 +15,9 @@ relativeURLs = true
 [pagination]
   disableAliases = false
   pagerSize = 30
-  path = 'page' 
+  path = 'page'
+
+[languages]
+[languages.en]
+  languageName = "English"
+  weight = 1

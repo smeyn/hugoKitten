@@ -15,7 +15,7 @@ Coal is generated directly by specialized buildings and indirectly by upgrading 
 
 | Building/Upgrade | Technology Requirement | Effect on Coal Production | Notes |
 | :--- | :--- | :--- | :--- |
-| [Quarry]( {{< relref "quarry.md" >}}) | [Geology]( {{< relref "geology.md" >}}) [1, 2] | Base production of **+0.015 Coal per Tick** [1]. | Quarries are listed as a source of coal [3]. |
+| [Quarry]( {{< relref "quarry.md" >}}) | [Geology]( {{< relref "geology.md" >}}) [1, 2] | Base production of **+0.015 Coal per Tick**. | Quarries are listed as a source of coal [3]. |
 | [Deep Mining]( {{< relref "deep_mining.md" >}}) | [Steel]( {{< relref "techs/Steel.md" >}}) [4] | [Mines]( {{< relref "buildings/Mine.md" >}}) produce an additional **+0.003 Coal per Tick** [5]. | Deep Mining is a workshop upgrade that allows Mines to produce coal [5]. |
 | [Coal Furnace]( {{< relref "coal_furnace.md" >}}) | [Steel]( {{< relref "techs/Steel.md" >}}) [4] | [Smelters]( {{< relref "buildings/Smelter.md" >}}) produce an additional **+0.005 Coal per Tick** [5]. | Coal Furnace is a workshop upgrade that enables Smelters to produce coal [3, 5]. |
 | [Electrolytic Smelting]( {{< relref "electrolytic_smelting.md" >}}) | [Metallurgy]( {{< relref "metallurgy.md" >}}) [6] | [Smelters]( {{< relref "buildings/Smelter.md" >}}) produce **+95% more iron and coal** [7]. | This workshop upgrade significantly boosts Smelter output [7]. |

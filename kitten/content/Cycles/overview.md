@@ -31,5 +31,5 @@ Each cycle lasts for **five years**. The active glyph will dynamically change co
 *   🔵 **Blue**: Year 3
 *   🟣 **Violet**: Year 4
 
-Once you research the **Numerology** and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) metaphysics upgrades, these cycles will actively alter your space structures' production rates and grant powerful, unique bonuses whenever you hold festivals.
+Once you research the [Numerology]( {{< relref "metaphysics/numerology.md" >}}) and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) metaphysics upgrades, these cycles will actively alter your space structures' production rates and grant powerful, unique bonuses whenever you hold festivals.
 

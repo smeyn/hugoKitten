@@ -18,7 +18,7 @@ Once Charon is reached, you can build [Entanglement Stations]( {{< relref "space
 *   **Strategic Utility:** Hashes are used to increase your **hashrate level**, which provides a **+25% bonus to [ relic production ]( {{< relref "guides/creating-relics.md">}})** from Space Beacons for every level achieved. This is a core component of the "Antimatter Phase" of the endgame, where players aim to automate and scale relic generation.
 
 ### **The Charon Cycle**
-"Charon" is also the first of the ten five-year celestial cycles, represented by the glyph **⍙**. If you have researched **Numerology** and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}), the cycle introduces the following global modifiers:
+"Charon" is also the first of the ten five-year celestial cycles, represented by the glyph **⍙**. If you have researched [Numerology]( {{< relref "metaphysics/numerology.md" >}}) and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}), the cycle introduces the following global modifiers:
 *   **Production Penalties:** During this cycle, **Lunar Outpost unobtainium output is reduced by 10%**. 
 *   **Operational Costs:** **Gigaflop consumption** for Entanglement Stations is increased by **+100%** (doubled).
 *   **Festival Bonus:** Holding a festival during the Charon cycle provides a **1.5x income multiplier** for **catnip, wood, and minerals**.

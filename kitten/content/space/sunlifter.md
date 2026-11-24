@@ -17,7 +17,7 @@ The Sunlifter provides two essential resources simultaneously:
 2.  **Antimatter Generation:** It produces **1 antimatter per year**. Antimatter is only generated at the change of the calendar year and only if your global energy production is **positive**.
 
 ### **Celestial Cycle Interactions**
-The effectiveness of Sunlifters is heavily influenced by the ten-cycle system if you have researched **Numerology**:
+The effectiveness of Sunlifters is heavily influenced by the ten-cycle system if you have researched [Numerology]( {{< relref "metaphysics/numerology.md" >}}):
 *   [Helios Cycle:]( {{< relref "Cycles/Helios_Cycle.md" >}}) Provides a **+50% bonus** to Sunlifter energy output.
 *   **T-minus Cycle:** Imposes a **-50% penalty** to Sunlifter energy output.
 

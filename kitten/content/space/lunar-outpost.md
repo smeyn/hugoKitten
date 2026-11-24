@@ -37,7 +37,7 @@ You can dramatically increase your Unobtainium yield per outpost through several
 *   **Cycle Modifiers (with Numerology):**
     *   **Charon Cycle (⍙):** Temporarily reduces Unobtainium production by **-10%**.
     *   **Redmoon Cycle (⍜):** Temporarily boosts Unobtainium production by **+20%**. 
-    *   *Strategic Tip:* If you have both **Numerology** and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) researched and run a Festival during the Redmoon Cycle, your Unobtainium production receives a massive **~2.5x global multiplier**. Many players use the Chronoforge to skip seasons and stay inside the Redmoon cycle indefinitely to farm Unobtainium.
+    *   *Strategic Tip:* If you have both [Numerology]( {{< relref "metaphysics/numerology.md" >}}) and [Numeromancy]( {{< relref "metaphysics/numeromancy.md" >}}) researched and run a Festival during the Redmoon Cycle, your Unobtainium production receives a massive **~2.5x global multiplier**. Many players use the Chronoforge to skip seasons and stay inside the Redmoon cycle indefinitely to farm Unobtainium.
 
 ---
 
