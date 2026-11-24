@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/time/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Tue, 11 Aug 2026 09:20:31 +0000</lastBuildDate>
+    <atom:link href="/time/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Void Resonator</title>
+      <link>/time/void-resonator/</link>
+      <pubDate>Tue, 11 Aug 2026 09:20:31 +0000</pubDate>
+      <guid>/time/void-resonator/</guid>
+      <description>&lt;p&gt;Continuing our journey through late-game temporal structures, the &lt;a href=&#34;../time/void-resonator/&#34;&gt;Void Resonator&lt;/a&gt; is an advanced, game-changing building located under the &lt;a href=&#34;../techs/void_space/&#34;&gt;Void Space&lt;/a&gt; section of your &lt;strong&gt;Time tab&lt;/strong&gt;. It is unlocked after researching the &lt;a href=&#34;../techs/paradox_theory/&#34;&gt;Paradox Theory&lt;/a&gt; technology (which costs 1,000,000 Science, 40 Time Crystals, and 250 Void).&lt;/p&gt;
+&lt;p&gt;Its primary function is to transform how you generate religious prestige in the late game by creating a powerful bridge between time-skipping and faith.&lt;/p&gt;
+&lt;h3 id=&#34;the-order-of-the-void-synergy&#34;&gt;&lt;strong&gt;The Order of the Void Synergy&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Void Resonator works hand-in-hand with the &lt;a href=&#34;../metaphysics/order_of_the_void/&#34;&gt;Order of the Void&lt;/a&gt; metaphysics upgrade. Normally, Order of the Void passively converts 10% of your faith production directly into Worship.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Continuing our journey through late-game temporal structures, the <a href="/time/void-resonator/">Void Resonator</a> is an advanced, game-changing building located under the <a href="/techs/void_space/">Void Space</a> section of your <strong>Time tab</strong>. It is unlocked after researching the <a href="/techs/paradox_theory/">Paradox Theory</a> technology (which costs 1,000,000 Science, 40 Time Crystals, and 250 Void).</p>
+<p>Its primary function is to transform how you generate religious prestige in the late game by creating a powerful bridge between time-skipping and faith.</p>
+<h3 id="the-order-of-the-void-synergy"><strong>The Order of the Void Synergy</strong></h3>
+<p>The Void Resonator works hand-in-hand with the <a href="/metaphysics/order_of_the_void/">Order of the Void</a> metaphysics upgrade. Normally, Order of the Void passively converts 10% of your faith production directly into Worship.</p>
+<p>When you build Void Resonators, they multiply this effect. The game calculates the conversion using the following formula:
+{Worship Generated} = {Faith Production} * 0.1 * (1 + ({Void Resonators} * 0.1))</p>
+<p>In other words, <strong>each Void Resonator you construct adds a flat +10% bonus</strong> to your passive Order of the Void conversion rate.</p>
+<h3 id="the-game-changer-time-skip-integration"><strong>The Game-Changer: Time-Skip Integration</strong></h3>
+<p>Crucially, Void Resonators <strong>allow the Order of the Void conversion to trigger every time you combust a Time Crystal to skip a year</strong>.</p>
+<p>Normally, time-skipping bypasses passive production ticks. But with Void Resonators active:</p>
+<ol>
+<li>Every time you shatter a Time Crystal, you advance the calendar by one year.</li>
+<li>The game calculates your massive yearly faith production.</li>
+<li>The Void Resonators instantly inject a huge portion of that faith directly into your <strong>Worship pool</strong>.</li>
+</ol>
+<h3 id="strategic-late-game-value"><strong>Strategic Late-Game Value</strong></h3>
+<p>When you establish a high-level <strong>Shatter Engine</strong> (Resource Retrieval + Chrono Furnaces), you will be skipping thousands of years in rapid succession. Void Resonators turn these time-skips into a passive faith-farming machine.</p>
+<p>Instead of waiting on manual praises, simply skipping years will passively flood your pool with billions of units of Worship. This makes pushing your civilization up to <strong>Transcendence Tier 20 and beyond</strong> incredibly fast and effortless, permanently compounding your global production multipliers via the Solar Revolution bonus.</p>
+<hr>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Void Rift</title>
+      <link>/time/void-rift/</link>
+      <pubDate>Tue, 11 Aug 2026 09:19:37 +0000</pubDate>
+      <guid>/time/void-rift/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../time/void-rift/&#34;&gt;Void Rift&lt;/a&gt; is an advanced, late-game structure found in the Void Space section of your &lt;strong&gt;Time&lt;/strong&gt; tab. Building on our recent look at Void Hoovers, these rifts are vital for scaling your global storage capacities and power output to break through deep late-game bottlenecks.&lt;/p&gt;
+&lt;h3 id=&#34;unlocking--costs&#34;&gt;&lt;strong&gt;Unlocking &amp;amp; Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To construct a Void Rift, you must first research the &lt;a href=&#34;../techs/void_space/&#34;&gt;Void Space&lt;/a&gt; technology and purchase the &lt;a href=&#34;../upgrade/void_aspiration/&#34;&gt;Void Aspiration&lt;/a&gt; workshop upgrade (which costs 15 Time Crystals and 2,000 Antimatter).&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/time/void-rift/">Void Rift</a> is an advanced, late-game structure found in the Void Space section of your <strong>Time</strong> tab. Building on our recent look at Void Hoovers, these rifts are vital for scaling your global storage capacities and power output to break through deep late-game bottlenecks.</p>
+<h3 id="unlocking--costs"><strong>Unlocking &amp; Costs</strong></h3>
+<p>To construct a Void Rift, you must first research the <a href="/techs/void_space/">Void Space</a> technology and purchase the <a href="/upgrade/void_aspiration/">Void Aspiration</a> workshop upgrade (which costs 15 Time Crystals and 2,000 Antimatter).</p>
+<p>Once unlocked, your first Void Rift costs:</p>
+<ul>
+<li><strong>75 Void</strong></li>
+<li><strong>Price Ratio:</strong> <strong>1.3</strong> — Like other void space structures, the cost scales aggressively with each subsequent build.</li>
+</ul>
+<hr>
+<h3 id="core-effects"><strong>Core Effects</strong></h3>
+<p>Each built Void Rift provides two highly valuable, passive multipliers:</p>
+<ol>
+<li><strong>Global Resource Storage Ratio (+2% per Rift):</strong> This increases your maximum capacity for every single resource in the game. Crucially, this bonus stacks additively with <a href="/transcendence/event_horizon/">Event Horizons</a> (which grant a massive +10% storage ratio per level) and multiplicatively with all other storage bonuses, such as your Paragon multipliers.</li>
+<li><strong>HR Harvester Energy Boost (+10% per Rift):</strong> It permanently boosts the energy production of your Hawking Radiation (HR) Harvesters (located on Umbra) by +10% per rift. Because HR Harvesters automatically generate more energy the further you skip into the &ldquo;Dark Future,&rdquo; Void Rifts make them highly competitive late-game power generators.</li>
+</ol>
+<hr>
+<h3 id="strategic-endgame-value"><strong>Strategic Endgame Value</strong></h3>
+<p>Though a 2% storage multiplier may seem modest initially, Void Rifts become indispensable in the deep endgame for two main reasons:</p>
+<ul>
+<li><strong>Shattering the Unobtainium Capacity Wall:</strong> To execute &ldquo;positive resets&rdquo; (where the resources carried over exceed the cost of constructing your next set of Chronospheres), you need to amass billions of units of Unobtainium. Since Moon Bases and Cryostations are the only buildings that grant base Unobtainium storage, Void Rifts and Event Horizons are the primary tools used to compound and scale your storage caps high enough to support 70+ Chronospheres.</li>
+<li><strong>Balancing Your Power Grid:</strong> As you scale your Gigaflop-producing AI Cores and Entanglement Stations, your active energy consumption will skyrocket. Investing in Void Rifts allows you to rely on HR Harvesters to generate massive amounts of power, keeping your grid positive even while running heavy quantum computing pipelines.</li>
+</ul>
+<hr>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Void Hoover</title>
+      <link>/time/void-hoover/</link>
+      <pubDate>Tue, 11 Aug 2026 09:18:57 +0000</pubDate>
+      <guid>/time/void-hoover/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Kittens Game&lt;/em&gt;, a &lt;a href=&#34;../time/void-hoover/&#34;&gt;Void Hoover&lt;/a&gt; is an advanced late-game Time structure located under the Void Space section of your Time tab. It is designed to maximize the amount of Void you gather during temporal anomalies.&lt;/p&gt;
+&lt;h3 id=&#34;1-prerequisites--unlocking&#34;&gt;&lt;strong&gt;1. Prerequisites &amp;amp; Unlocking&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To purchase a Void Hoover, you must progress through several layers of the late-game science and workshop trees:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Void Space Technology:&lt;/strong&gt; First, you must research the &lt;a href=&#34;../techs/void_space/&#34;&gt;Void Space&lt;/a&gt; technology (costs 800k Science, 30 Time Crystals, and 100 Void).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Void Aspiration Upgrade:&lt;/strong&gt; Unlocking the Void Space technology allows you to buy the &lt;a href=&#34;../upgrade/void_aspiration/&#34;&gt;Void Aspiration&lt;/a&gt; upgrade in your Workshop. This upgrade costs &lt;strong&gt;15 Time Crystals&lt;/strong&gt; and &lt;strong&gt;2,000 Antimatter&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Once Void Aspiration is purchased, the &lt;a href=&#34;../time/void-hoover/&#34;&gt;Void Hoover&lt;/a&gt; (along with Void Rifts) is permanently unlocked for construction.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-costs--price-ratio&#34;&gt;&lt;strong&gt;2. Costs &amp;amp; Price Ratio&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Constructing a Void Hoover requires premium late-game resources:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In <em>Kittens Game</em>, a <a href="/time/void-hoover/">Void Hoover</a> is an advanced late-game Time structure located under the Void Space section of your Time tab. It is designed to maximize the amount of Void you gather during temporal anomalies.</p>
+<h3 id="1-prerequisites--unlocking"><strong>1. Prerequisites &amp; Unlocking</strong></h3>
+<p>To purchase a Void Hoover, you must progress through several layers of the late-game science and workshop trees:</p>
+<ul>
+<li><strong>Void Space Technology:</strong> First, you must research the <a href="/techs/void_space/">Void Space</a> technology (costs 800k Science, 30 Time Crystals, and 100 Void).</li>
+<li><strong>Void Aspiration Upgrade:</strong> Unlocking the Void Space technology allows you to buy the <a href="/upgrade/void_aspiration/">Void Aspiration</a> upgrade in your Workshop. This upgrade costs <strong>15 Time Crystals</strong> and <strong>2,000 Antimatter</strong>.</li>
+<li>Once Void Aspiration is purchased, the <a href="/time/void-hoover/">Void Hoover</a> (along with Void Rifts) is permanently unlocked for construction.</li>
+</ul>
+<hr>
+<h3 id="2-costs--price-ratio"><strong>2. Costs &amp; Price Ratio</strong></h3>
+<p>Constructing a Void Hoover requires premium late-game resources:</p>
+<ul>
+<li><strong>10 Time Crystals</strong></li>
+<li><strong>250 Void</strong></li>
+<li><strong>1,000 Antimatter</strong></li>
+<li><strong>Price Ratio:</strong> <strong>1.25</strong> — Like many time-based structures, every subsequent Void Hoover you construct will cost 25% more than the previous level.</li>
+</ul>
+<hr>
+<h3 id="3-the-effect--strategic-value"><strong>3. The Effect &amp; Strategic Value</strong></h3>
+<ul>
+<li><strong>The Effect:</strong> Every level of Void Hoover permanently <strong>increases the maximum amount of Void you might gain on a Temporal Paradox day by +1</strong>.</li>
+</ul>
+<p>Active Chronospheres occasionally trigger a <a href="/guides/temporal_paradox/">Temporal Paradox</a> event. Because Void is a strictly capped and slow-to-generate resource in the mid-to-late game, Void Hoovers are essential for amplifying your Void income during these paradox windows. This accelerated Void generation feeds directly into other powerful endgame systems, allowing you to stockpile the massive amounts of Void needed to buy <a href="/time/void-rift/">Void Rifts</a> (which expand global storage capacity) and execute the <strong>Cryo Engine</strong> strategy (which requires 500 Void per repaired Cryochamber).</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Resource Retrieval</title>
+      <link>/time/resource-retrieval/</link>
+      <pubDate>Tue, 11 Aug 2026 09:17:46 +0000</pubDate>
+      <guid>/time/resource-retrieval/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../time/resource-retrieval/&#34;&gt;Resource Retrieval&lt;/a&gt; is an advanced, late-game Time upgrade that serves as the foundation for the self-sustaining endgame economy.&lt;/p&gt;
+&lt;p&gt;Here is a complete breakdown of its mechanics, costs, and strategic value:&lt;/p&gt;
+&lt;h3 id=&#34;1-how-to-unlock-it&#34;&gt;&lt;strong&gt;1. How to Unlock It&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To unlock Resource Retrieval, you must advance deep into the temporal science and tech trees:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First, research &lt;a href=&#34;../techs/void_space/&#34;&gt;Void Space&lt;/a&gt; (requires Tachyon Theory).&lt;/li&gt;
+&lt;li&gt;Then research &lt;a href=&#34;../techs/paradox_theory/&#34;&gt;Paradox Theory&lt;/a&gt; (costs 1,000,000 Science, 40 Time Crystals, and 250 Void).&lt;/li&gt;
+&lt;li&gt;This allows you to research &lt;strong&gt;Paradoxal Knowledge&lt;/strong&gt; science (requires 250 Void), which officially unlocks &lt;a href=&#34;../time/resource-retrieval/&#34;&gt;Resource Retrieval&lt;/a&gt; under the Time tab.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-costs-and-scaling&#34;&gt;&lt;strong&gt;2. Costs and Scaling&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Cost:&lt;/strong&gt; &lt;strong&gt;1,000 Time Crystals (TCs)&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; &lt;strong&gt;1.3&lt;/strong&gt;. Because of this steep price ratio, subsequent levels become progressively more expensive very quickly (e.g., level 2 costs 1,300 TCs, level 3 costs 1,690 TCs).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-core-effects-and-calculations&#34;&gt;&lt;strong&gt;3. Core Effects and Calculations&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Each level of Resource Retrieval lets you retrieve &lt;strong&gt;1% of your yearly resource production&lt;/strong&gt; every single time you shatter/combust a Time Crystal.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/time/resource-retrieval/">Resource Retrieval</a> is an advanced, late-game Time upgrade that serves as the foundation for the self-sustaining endgame economy.</p>
+<p>Here is a complete breakdown of its mechanics, costs, and strategic value:</p>
+<h3 id="1-how-to-unlock-it"><strong>1. How to Unlock It</strong></h3>
+<p>To unlock Resource Retrieval, you must advance deep into the temporal science and tech trees:</p>
+<ul>
+<li>First, research <a href="/techs/void_space/">Void Space</a> (requires Tachyon Theory).</li>
+<li>Then research <a href="/techs/paradox_theory/">Paradox Theory</a> (costs 1,000,000 Science, 40 Time Crystals, and 250 Void).</li>
+<li>This allows you to research <strong>Paradoxal Knowledge</strong> science (requires 250 Void), which officially unlocks <a href="/time/resource-retrieval/">Resource Retrieval</a> under the Time tab.</li>
+</ul>
+<h3 id="2-costs-and-scaling"><strong>2. Costs and Scaling</strong></h3>
+<ul>
+<li><strong>Base Cost:</strong> <strong>1,000 Time Crystals (TCs)</strong>.</li>
+<li><strong>Price Ratio:</strong> <strong>1.3</strong>. Because of this steep price ratio, subsequent levels become progressively more expensive very quickly (e.g., level 2 costs 1,300 TCs, level 3 costs 1,690 TCs).</li>
+</ul>
+<h3 id="3-core-effects-and-calculations"><strong>3. Core Effects and Calculations</strong></h3>
+<p>Each level of Resource Retrieval lets you retrieve <strong>1% of your yearly resource production</strong> every single time you shatter/combust a Time Crystal.</p>
+<ul>
+<li><strong>The &ldquo;Yearly&rdquo; Formula:</strong> The game calculates your &ldquo;yearly&rdquo; production of resources (such as Unobtainium or Alicorns) based on your active net production per second. Normally, this is your per-second rate <strong>divided by 800</strong>.</li>
+<li><strong>Chronosurge Boost:</strong> If you have purchased the <a href="/upgrade/chronosurge/">Chronosurge</a> workshop upgrade, your yearly resource calculations are improved—they are calculated as your per-second rate <strong>divided by 533</strong>, resulting in a much larger payout per skip.</li>
+<li><strong>Blazar Synergy:</strong> If you reach Transcendence-tier 15, you can purchase <a href="/transcendence/blazar/">Blazars</a> (costing 50,000 Relics). Blazars permanently and multiplicatively boost the resource yield from each level of your Resource Retrieval.</li>
+</ul>
+<h3 id="4-strategic-value-the"><strong>4. Strategic Value: The &ldquo;Shatter Engine&rdquo;</strong></h3>
+<p>The ultimate goal of purchasing Resource Retrieval is to build an infinite <strong>Shatter Engine</strong>, transitioning your civilization away from waiting on slow, passive resource generation:</p>
+<ul>
+<li><strong>The Infinite Loop:</strong> When you shatter a Time Crystal to skip a year, you instantly receive a massive dump of resources (especially Unobtainium and Alicorns). With enough levels of Resource Retrieval, the Unobtainium you retrieve can be traded to the Leviathans (Elders) and the Alicorns sacrificed to yield <strong>more than 1 Time Crystal</strong> in return.</li>
+<li><strong>The Sweet Spot:</strong> Players generally aim to reach <strong>level 6 or 7 of Resource Retrieval</strong> (requiring roughly 12,000 TCs in total) to cleanly break even and execute this loop indefinitely. If your base Unobtainium production is exceptionally high (over 100/sec), you can sometimes initiate the loop as early as level 3 to 5.</li>
+<li><strong>Chronoforge Automation:</strong> Once your Shatter Engine is profitable, you can scale your <a href="/time/chrono-furnace/">Chrono Furnaces</a> to quickly dissipate heat, allowing you to skip thousands of years in rapid succession to generate massive, overcapped stockpiles of resources.</li>
+</ul>
+<p>⏳ We can calculate the exact Time Crystal costs required to reach your target level of Resource Retrieval, or look at how to optimize your Unobtainium capacity to prepare for the transition.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Controlled Delay</title>
+      <link>/time/controlled-delay/</link>
+      <pubDate>Tue, 11 Aug 2026 09:17:11 +0000</pubDate>
+      <guid>/time/controlled-delay/</guid>
+      <description>&lt;h3 id=&#34;what-is-controlled-delay&#34;&gt;&lt;strong&gt;What is Controlled Delay?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;In &lt;em&gt;Kittens Game&lt;/em&gt;, &lt;a href=&#34;../time/controlled-delay/&#34;&gt;Controlled Delay&lt;/a&gt; is an advanced upgrade located in the &lt;a href=&#34;../upgrade/chronoforge/&#34;&gt;Chronoforge&lt;/a&gt; section of your &lt;strong&gt;Time&lt;/strong&gt; tab. It is designed to help you pace out automated time-skips in the late-to-end game.&lt;/p&gt;
+&lt;h3 id=&#34;prerequisites--unlocking&#34;&gt;&lt;strong&gt;Prerequisites &amp;amp; Unlocking&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Because Controlled Delay is a Chronoforge upgrade, it is hidden until you unlock its parent section:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;../techs/tachyon_theory/&#34;&gt;Tachyon Theory:&lt;/a&gt; You must first research the &lt;a href=&#34;../techs/tachyon_theory/&#34;&gt;Tachyon Theory&lt;/a&gt; technology on your Science tree (which requires researching Chronophysics beforehand).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chronoforge Workshop Upgrade:&lt;/strong&gt; Once Tachyon Theory is researched, you must purchase the &lt;a href=&#34;../upgrade/chronoforge/&#34;&gt;Chronoforge&lt;/a&gt; upgrade in your Workshop. This costs &lt;strong&gt;500,000 Science, 5 Relics, and 10 Time Crystals&lt;/strong&gt; and officially unlocks the Chronoforge sub-section on your Time tab.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Once the Chronoforge section is unlocked, Controlled Delay will be visible and available for purchase.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h3 id="what-is-controlled-delay"><strong>What is Controlled Delay?</strong></h3>
+<p>In <em>Kittens Game</em>, <a href="/time/controlled-delay/">Controlled Delay</a> is an advanced upgrade located in the <a href="/upgrade/chronoforge/">Chronoforge</a> section of your <strong>Time</strong> tab. It is designed to help you pace out automated time-skips in the late-to-end game.</p>
+<h3 id="prerequisites--unlocking"><strong>Prerequisites &amp; Unlocking</strong></h3>
+<p>Because Controlled Delay is a Chronoforge upgrade, it is hidden until you unlock its parent section:</p>
+<ol>
+<li><a href="/techs/tachyon_theory/">Tachyon Theory:</a> You must first research the <a href="/techs/tachyon_theory/">Tachyon Theory</a> technology on your Science tree (which requires researching Chronophysics beforehand).</li>
+<li><strong>Chronoforge Workshop Upgrade:</strong> Once Tachyon Theory is researched, you must purchase the <a href="/upgrade/chronoforge/">Chronoforge</a> upgrade in your Workshop. This costs <strong>500,000 Science, 5 Relics, and 10 Time Crystals</strong> and officially unlocks the Chronoforge sub-section on your Time tab.</li>
+</ol>
+<p>Once the Chronoforge section is unlocked, Controlled Delay will be visible and available for purchase.</p>
+<h3 id="cost--price-ratio"><strong>Cost &amp; Price Ratio</strong></h3>
+<ul>
+<li><a href="/resource/time_crystals/">Time Crystals:</a> 1</li>
+<li><a href="/craft/gear/">Gears:</a> 10</li>
+<li><strong>Price Ratio:</strong> <strong>1.0</strong> — Crucially, because the price ratio is a flat 1.0, the cost of this upgrade <strong>never increases</strong> as you purchase subsequent levels.</li>
+</ul>
+<h3 id="effects--strategic-value"><strong>Effects &amp; Strategic Value</strong></h3>
+<ul>
+<li><strong>Paced Automation:</strong> Each purchased level of Controlled Delay forces your <strong>Chrono Furnace automation to wait 0.2 seconds</strong> between using 500% fuel to trigger a time-skip.</li>
+<li><strong>Active Gameplay Window:</strong> This upgrade was explicitly created to allow you to perform meaningful in-game actions (such as praising, adoring, or trading) during Chrono Furnace automation. Without a Controlled Delay, a massive backlog of accumulated chrono furnace fuel would fire instantly, skipping time too quickly for you to safely interact with the game.</li>
+<li><strong>Limitations:</strong> Toggling the automation button on the Controlled Delay itself has no gameplay effect, and it has no impact on batch uses of the manual <strong>&ldquo;Use Temporal Energy&rdquo;</strong> button.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Chrono Control</title>
+      <link>/time/chrono_control/</link>
+      <pubDate>Tue, 11 Aug 2026 09:14:25 +0000</pubDate>
+      <guid>/time/chrono_control/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../time/chrono_control/&#34;&gt;Chronocontrol&lt;/a&gt; (or Chrono Control) is an advanced, late-game Time structure under the Void Space section of your Time tab. It plays a crucial role in managing time skips, temporal flux, and anomalies.&lt;/p&gt;
+&lt;p&gt;Here is a comprehensive breakdown of its prerequisites, costs, effects, and late-game synergies:&lt;/p&gt;
+&lt;h3 id=&#34;1-prerequisites--costs&#34;&gt;&lt;strong&gt;1. Prerequisites &amp;amp; Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To unlock Chronocontrol, you must first research the &lt;a href=&#34;../techs/paradox_theory/&#34;&gt;Paradox Theory&lt;/a&gt; technology, which costs 1,000,000 Science, 40 Time Crystals, and 250 Void.&lt;/p&gt;
+&lt;p&gt;Once unlocked, constructing your first Chronocontrol costs:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/time/chrono_control/">Chronocontrol</a> (or Chrono Control) is an advanced, late-game Time structure under the Void Space section of your Time tab. It plays a crucial role in managing time skips, temporal flux, and anomalies.</p>
+<p>Here is a comprehensive breakdown of its prerequisites, costs, effects, and late-game synergies:</p>
+<h3 id="1-prerequisites--costs"><strong>1. Prerequisites &amp; Costs</strong></h3>
+<p>To unlock Chronocontrol, you must first research the <a href="/techs/paradox_theory/">Paradox Theory</a> technology, which costs 1,000,000 Science, 40 Time Crystals, and 250 Void.</p>
+<p>Once unlocked, constructing your first Chronocontrol costs:</p>
+<ul>
+<li><strong>30 Time Crystals</strong></li>
+<li><strong>500 Void</strong></li>
+<li><strong>3,000 Temporal Flux</strong></li>
+<li><strong>Price Ratio:</strong> 1.25 (meaning subsequent structures cost 25% more)</li>
+<li><strong>Energy Consumption:</strong> Consumes <strong>15 Watts (Wt)</strong> of active power</li>
+</ul>
+<hr>
+<h3 id="2-core-effects--synergies"><strong>2. Core Effects &amp; Synergies</strong></h3>
+<ul>
+<li><strong>Temporal Paradox Extension:</strong> Chronocontrol directly increases the duration (in days) of a <a href="/guides/temporal_paradox/">Temporal Paradox</a>, an event occasionally triggered by active Chronospheres.</li>
+<li><strong>Distortion Synergy:</strong> Once you purchase the <a href="/upgrade/distortion/">Distortion</a> workshop upgrade (unlocked by Paradox Theory), each level of Chronocontrol adds an extra <strong>+3 days</strong> to your Temporal Paradoxes.</li>
+<li><strong>Unlocking Chronosurge:</strong> Building at least one Chronocontrol is a hard requirement to unlock the <a href="/upgrade/chronosurge/">Chronosurge</a> upgrade in your Workshop.</li>
+</ul>
+<hr>
+<h3 id="3-strategic-importance-the-active-flux-loop"><strong>3. Strategic Importance: The Active Flux Loop</strong></h3>
+<p>Unlocking and building Chronocontrol is the vital gateway to transitioning your temporal flux generation from passive to active.</p>
+<p>By building Chronocontrol and purchasing <a href="/upgrade/chronosurge/">Chronosurge</a> (which costs 25 Time Crystals, 100k Unobtainium, 750 Void, and 6,500 Temporal Flux), your Chronospheres will automatically gather <strong>1 temporal flux per year</strong>. Since shattering (combusting) a Time Crystal immediately advances the calendar by one year, every single time skip you perform will instantly generate flux. This is absolutely essential for the late-game <strong>&ldquo;Cryo Engine&rdquo;</strong> strategy, allowing you to instantly generate the massive amounts of flux (3,000 per chamber) required to repair used Cryochambers and carry over hundreds of kittens across resets to farm millions of Paragon.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Temporal Battery</title>
+      <link>/time/temporal-battery/</link>
+      <pubDate>Tue, 11 Aug 2026 09:12:12 +0000</pubDate>
+      <guid>/time/temporal-battery/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Kittens Game&lt;/em&gt;, the &lt;a href=&#34;../time/temporal-battery/&#34;&gt;Temporal Battery&lt;/a&gt; is a crucial Time tab upgrade designed to expand your temporal storage limits so you can utilize advanced temporal mechanics.&lt;/p&gt;
+&lt;h3 id=&#34;core-mechanics--costs&#34;&gt;&lt;strong&gt;Core Mechanics &amp;amp; Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Where to find it:&lt;/strong&gt; The &lt;strong&gt;Time&lt;/strong&gt; tab, which is unlocked after you research the &lt;a href=&#34;../techs/calendar/&#34;&gt;Calendar&lt;/a&gt; technology.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Cost:&lt;/strong&gt; Constructing your first Temporal Battery costs &lt;strong&gt;5 Time Crystals&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Price Ratio:&lt;/strong&gt; It has a price ratio of &lt;strong&gt;1.25&lt;/strong&gt;, meaning each subsequent level will cost 25% more Time Crystals than the last (e.g., the second level costs 6.25 TCs).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Effect:&lt;/strong&gt; Every level of Temporal Battery you purchase permanently increases your maximum &lt;strong&gt;Temporal Flux capacity by +25%&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;why-you-need-to-increase-your-temporal-flux-capacity&#34;&gt;&lt;strong&gt;Why You Need to Increase Your Temporal Flux Capacity&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;A high capacity for Temporal Flux is necessary to interact with two major late-game/end-game systems:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In <em>Kittens Game</em>, the <a href="/time/temporal-battery/">Temporal Battery</a> is a crucial Time tab upgrade designed to expand your temporal storage limits so you can utilize advanced temporal mechanics.</p>
+<h3 id="core-mechanics--costs"><strong>Core Mechanics &amp; Costs</strong></h3>
+<ul>
+<li><strong>Where to find it:</strong> The <strong>Time</strong> tab, which is unlocked after you research the <a href="/techs/calendar/">Calendar</a> technology.</li>
+<li><strong>The Cost:</strong> Constructing your first Temporal Battery costs <strong>5 Time Crystals</strong>.</li>
+<li><strong>The Price Ratio:</strong> It has a price ratio of <strong>1.25</strong>, meaning each subsequent level will cost 25% more Time Crystals than the last (e.g., the second level costs 6.25 TCs).</li>
+<li><strong>The Effect:</strong> Every level of Temporal Battery you purchase permanently increases your maximum <strong>Temporal Flux capacity by +25%</strong>.</li>
+</ul>
+<hr>
+<h3 id="why-you-need-to-increase-your-temporal-flux-capacity"><strong>Why You Need to Increase Your Temporal Flux Capacity</strong></h3>
+<p>A high capacity for Temporal Flux is necessary to interact with two major late-game/end-game systems:</p>
+<ol>
+<li><strong>Repairing Cryochambers (The Paragon/Kitten Carrying Loop):</strong>
+When you reset your game, each active Chronosphere lets you carry over a kitten in a Cryochamber, but this leaves the chambers in an unsealed &ldquo;used&rdquo; state. To repair a Used Cryochamber back to operating condition, you must pay <strong>3,000 Temporal Flux</strong>, <strong>100 Time Crystals</strong>, and <strong>500 Void</strong>. If you plan to carry over dozens of kittens (e.g., up to 71 kittens) to rapidly accumulate Paragon right at the start of a reset, you must build numerous Temporal Batteries to accommodate the massive temporal flux storage requirements.</li>
+<li><strong>Extended Use of Tempus Fugit:</strong>
+Tempus Fugit allows you to accelerate the game&rsquo;s tick rate and calendar speed by 50%, enabling you to collect resources much faster. However, running this active boost is incredibly expensive, consuming <strong>5 temporal flux per second</strong>. A tiny capacity cap will cause your reserve to evaporate almost instantly.</li>
+</ol>
+<hr>
+<h3 id="how-to-fill-your-upgraded-battery"><strong>How to Fill Your Upgraded Battery</strong></h3>
+<p>While the Temporal Battery only increases your <em>maximum capacity</em>, you can generate the actual Temporal Flux to fill it through several methods:</p>
+<ul>
+<li><strong>Offline Redshift (Passive):</strong> By default, you earn <strong>5 units of temporal flux per minute</strong> while the game is completely closed or paused.</li>
+<li><strong>Temporal Accelerators (Redshift Boost):</strong> This Time tab upgrade (costing 10 Time Crystals and 1,000 Relics) permanently increases the flux generated from offline redshift by <strong>5%</strong>.</li>
+<li><strong>Chronosurge (Active):</strong> Once you purchase this upgrade, your <a href="/buildings/chronosphere/">Chronospheres</a> will actively generate <strong>1 temporal flux per year</strong> on the calendar, letting you harvest flux actively rather than relying on offline wait times.</li>
+</ul>
+<hr>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Temporal Accelerator</title>
+      <link>/time/temporal-accelerator/</link>
+      <pubDate>Wed, 08 Apr 2026 09:18:33 +0000</pubDate>
+      <guid>/time/temporal-accelerator/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../time/temporal-accelerator/&#34;&gt;Temporal Accelerator&lt;/a&gt; is an advanced upgrade found in the Time tab that enhances various time manipulation mechanics and improves the performance of automated time skips.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; Purchasing your first Temporal Accelerator requires &lt;strong&gt;10 Time Crystals and 1,000 Relics&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; The cost of each subsequent accelerator scales with a 1.25 price ratio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects-and-mechanics&#34;&gt;&lt;strong&gt;Core Effects and Mechanics&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Time-Related Bonus:&lt;/strong&gt; It provides a 5% bonus to time-related effects. Specifically, this translates to a &lt;strong&gt;1.25% improvement to both your Chronomancy and Unicornmancy&lt;/strong&gt; upgrades, and a &lt;strong&gt;5% improvement to your Time Impedance&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Redshift Boost:&lt;/strong&gt; It increases the production of temporal flux you earn from &amp;ldquo;redshift&amp;rdquo; (the game&amp;rsquo;s offline progression mechanic) by &lt;strong&gt;5%&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lag Reduction:&lt;/strong&gt; For late-game players utilizing &amp;ldquo;Shatter Engines,&amp;rdquo; this upgrade offers a massive quality-of-life improvement. When you have time automation activated (such as with the Chrono Furnace), the Temporal Accelerator directly &lt;strong&gt;reduces the lag caused by rapidly smashing time crystals&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/time/temporal-accelerator/">Temporal Accelerator</a> is an advanced upgrade found in the Time tab that enhances various time manipulation mechanics and improves the performance of automated time skips.</p>
+<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<ul>
+<li><strong>Cost:</strong> Purchasing your first Temporal Accelerator requires <strong>10 Time Crystals and 1,000 Relics</strong>.</li>
+<li><strong>Price Ratio:</strong> The cost of each subsequent accelerator scales with a 1.25 price ratio.</li>
+</ul>
+<h3 id="core-effects-and-mechanics"><strong>Core Effects and Mechanics</strong></h3>
+<ul>
+<li><strong>Time-Related Bonus:</strong> It provides a 5% bonus to time-related effects. Specifically, this translates to a <strong>1.25% improvement to both your Chronomancy and Unicornmancy</strong> upgrades, and a <strong>5% improvement to your Time Impedance</strong>.</li>
+<li><strong>Redshift Boost:</strong> It increases the production of temporal flux you earn from &ldquo;redshift&rdquo; (the game&rsquo;s offline progression mechanic) by <strong>5%</strong>.</li>
+<li><strong>Lag Reduction:</strong> For late-game players utilizing &ldquo;Shatter Engines,&rdquo; this upgrade offers a massive quality-of-life improvement. When you have time automation activated (such as with the Chrono Furnace), the Temporal Accelerator directly <strong>reduces the lag caused by rapidly smashing time crystals</strong>.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Time Boiler</title>
+      <link>/time/time-boiler/</link>
+      <pubDate>Wed, 08 Apr 2026 09:18:12 +0000</pubDate>
+      <guid>/time/time-boiler/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../time/time-boiler/&#34;&gt;Time Boiler&lt;/a&gt; is an advanced time-manipulation upgrade that directly improves the functionality of the Chrono Furnace by expanding its maximum heat capacity. This upgrade is essential for late-game &amp;ldquo;mass shattering&amp;rdquo; strategies, allowing you to skip thousands of years and farm resources or paragon without hitting your heat limit as quickly.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Cost:&lt;/strong&gt; Your first Time Boiler requires a massive investment of &lt;strong&gt;25,000 Time Crystals&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; The cost scales with a price ratio of 1.25 for each subsequent purchase.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects-and-unique-scaling&#34;&gt;&lt;strong&gt;Core Effects and Unique Scaling&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Unlike most upgrades, Time Boilers operate with unique, exponential scaling mechanics for both their benefits and their energy requirements:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/time/time-boiler/">Time Boiler</a> is an advanced time-manipulation upgrade that directly improves the functionality of the Chrono Furnace by expanding its maximum heat capacity. This upgrade is essential for late-game &ldquo;mass shattering&rdquo; strategies, allowing you to skip thousands of years and farm resources or paragon without hitting your heat limit as quickly.</p>
+<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<ul>
+<li><strong>Base Cost:</strong> Your first Time Boiler requires a massive investment of <strong>25,000 Time Crystals</strong>.</li>
+<li><strong>Price Ratio:</strong> The cost scales with a price ratio of 1.25 for each subsequent purchase.</li>
+</ul>
+<h3 id="core-effects-and-unique-scaling"><strong>Core Effects and Unique Scaling</strong></h3>
+<p>Unlike most upgrades, Time Boilers operate with unique, exponential scaling mechanics for both their benefits and their energy requirements:</p>
+<ul>
+<li><strong>Base Effect:</strong> The very first Time Boiler you purchase grants a maximum heat expansion of 10 and consumes 1 Watt of energy.</li>
+<li><strong>Scaling Increases:</strong> For every Time Boiler you already own, the heat expansion granted by the <em>next</em> one increases by 20, and its energy cost increases by an additional 2 Watts.</li>
+<li><strong>Net Result:</strong> This compounding effect means that your total energy cost will equal the square of your Time Boilers, calculated as <strong>(Time Boilers)²</strong>, while your total heat expansion will equal <strong>10 * (Time Boilers)²</strong>.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Chrono Furnace</title>
+      <link>/time/chrono-furnace/</link>
+      <pubDate>Wed, 08 Apr 2026 09:15:30 +0000</pubDate>
+      <guid>/time/chrono-furnace/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../time/chrono-furnace/&#34;&gt;Chrono Furnace&lt;/a&gt; is a powerful late-game upgrade found in the Time tab that heavily enhances your ability to perform time skips (shattering Time Crystals).&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Before you can build a Chrono Furnace, you must first purchase the Chronoforge upgrade. Each Chrono Furnace has a base cost of &lt;strong&gt;25 Time Crystals and 5 Relics&lt;/strong&gt;, and scales with a 1.25 price ratio.&lt;/p&gt;
+&lt;h3 id=&#34;core-mechanics-and-effects&#34;&gt;&lt;strong&gt;Core Mechanics and Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Chrono Furnace serves several crucial functions for managing the &amp;ldquo;chronoheat&amp;rdquo; generated when you shatter Time Crystals:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/time/chrono-furnace/">Chrono Furnace</a> is a powerful late-game upgrade found in the Time tab that heavily enhances your ability to perform time skips (shattering Time Crystals).</p>
+<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<p>Before you can build a Chrono Furnace, you must first purchase the Chronoforge upgrade. Each Chrono Furnace has a base cost of <strong>25 Time Crystals and 5 Relics</strong>, and scales with a 1.25 price ratio.</p>
+<h3 id="core-mechanics-and-effects"><strong>Core Mechanics and Effects</strong></h3>
+<p>The Chrono Furnace serves several crucial functions for managing the &ldquo;chronoheat&rdquo; generated when you shatter Time Crystals:</p>
+<ul>
+<li><strong>Heat Capacity and Cooling:</strong> Each furnace increases your maximum chronoheat limit by 100 and passively dissipates heat at a rate of <strong>-0.02 chronoheat per tick</strong>.</li>
+<li><strong>Cooldown Reduction:</strong> It drastically reduces the cooldown time required between time skips. The cooldown is calculated as <strong>50 seconds / (Number of Chrono Furnaces + 1)</strong>. For example, owning 24 Chrono Furnaces allows you to shatter Time Crystals every 2 seconds.</li>
+<li><strong>Fuel and Automation:</strong> Chrono Furnaces automatically convert your accumulated chronoheat into <strong>chrono furnace fuel</strong>. If you toggle automation &ldquo;on,&rdquo; the furnace will automatically spend 500% of its stored fuel each tick to trigger a free time skip. You also have the option to toggle automation off, allowing you to hoard fuel and delay your time skips for a later burst.</li>
+</ul>
+<h3 id="synergies-and-related-upgrades"><strong>Synergies and Related Upgrades</strong></h3>
+<ul>
+<li><a href="/time/time-boiler/">Time Boilers:</a> An upgrade that expands the heat capacity of your Chrono Furnaces.</li>
+<li><a href="/time/controlled-delay/">Controlled Delay:</a> Because massive amounts of stored fuel can cause the furnace to fire too rapidly for you to click anything else, the Controlled Delay upgrade forces the automated Chrono Furnace to wait <strong>0.2 seconds between firing</strong>, allowing you to perform meaningful actions during the skips.</li>
+<li><strong>1000 Years Challenge:</strong> Completing this challenge increases the efficiency of converting chronoheat into Chrono Furnace fuel by <strong>10% per completion</strong>, and makes each shatter directly add a bit of heat to the furnace to offset lost heat generation.</li>
+</ul>
+<h3 id="strategic-importance"><strong>Strategic Importance</strong></h3>
+<p>In the deep endgame, Chrono Furnaces are a mandatory component of <strong>&ldquo;Shatter Engines&rdquo;</strong>. By building dozens of Chrono Furnaces alongside Resource Retrieval, you can rapidly and automatically skip thousands of years into the future, harvesting massive amounts of resources (like antimatter and unobtainium) in fractions of the real-world time it would normally take.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Fix Cryochambers</title>
+      <link>/time/fix-cryochambers/</link>
+      <pubDate>Tue, 07 Apr 2026 22:46:51 +0000</pubDate>
+      <guid>/time/fix-cryochambers/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../time/fix-cryochambers/&#34;&gt;Fix Cryochambers&lt;/a&gt; action allows you to repair a &lt;strong&gt;Used Cryochamber&lt;/strong&gt;, making it as good as new after it breaks from carrying a kitten through a game reset.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Costs and Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Repair Cost:&lt;/strong&gt; Fixing a single cryochamber costs a flat rate of &lt;strong&gt;100 Time Crystals, 500 Void, and 3,000 Temporal Flux&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; The repair button will only appear on your menu if you currently possess a Used Cryochamber and have already purchased the &lt;a href=&#34;../upgrade/chronoforge/&#34;&gt;Chronoforge&lt;/a&gt; upgrade.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Strategic Mechanics&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/time/fix-cryochambers/">Fix Cryochambers</a> action allows you to repair a <strong>Used Cryochamber</strong>, making it as good as new after it breaks from carrying a kitten through a game reset.</p>
+<p><strong>Costs and Requirements</strong></p>
+<ul>
+<li><strong>Repair Cost:</strong> Fixing a single cryochamber costs a flat rate of <strong>100 Time Crystals, 500 Void, and 3,000 Temporal Flux</strong>.</li>
+<li><strong>Prerequisites:</strong> The repair button will only appear on your menu if you currently possess a Used Cryochamber and have already purchased the <a href="/upgrade/chronoforge/">Chronoforge</a> upgrade.</li>
+</ul>
+<p><strong>Strategic Mechanics</strong></p>
+<ul>
+<li><strong>Bypassing Build Limits:</strong> By fixing broken chambers rather than just building new ones, you can actually accumulate more Cryochambers than your active number of Chronospheres. However, you should note that the maximum number of kittens you can bring back with you on your next reset is still strictly limited by your number of active Chronospheres.</li>
+<li><strong>Challenge Complications:</strong> If you use cryochambers to bring kittens into certain restrictive challenges (such as Atheism or Pacifism), you will not be able to reclaim your reserve resources to help pay for their repairs. This means you will be forced to generate all of the necessary Time Crystals, Void, and Temporal Flux entirely from scratch during that challenge run, or risk losing those kittens on your next reset.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cryochamber</title>
+      <link>/time/cryochamber/</link>
+      <pubDate>Tue, 07 Apr 2026 22:45:39 +0000</pubDate>
+      <guid>/time/cryochamber/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../time/cryochamber/&#34;&gt;Cryochambers&lt;/a&gt; are late-game Void Space structures that allow you to carry kittens over into your next game reset. Each Cryochamber houses one kitten, and upon resetting, the game will prioritise saving the kittens with the highest experience levels.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must research the &lt;a href=&#34;../techs/void_space/&#34;&gt;Void Space&lt;/a&gt; technology to unlock them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Standard Cost:&lt;/strong&gt; Building one costs &lt;strong&gt;2 Time Crystals, 100 Void, and 1 Karma&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost Reduction:&lt;/strong&gt; The Karma cost can be reduced by your burned paragon, with diminishing returns eventually capping at a 100% reduction.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;limits-and-capacity&#34;&gt;&lt;strong&gt;Limits and Capacity&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Normally, you &lt;strong&gt;cannot build more Cryochambers than your current number of active Chronospheres&lt;/strong&gt;. However, completing the &lt;strong&gt;Post Apocalypse challenge&lt;/strong&gt; increases the amount of operational Cryochambers you can support, effectively capping them at your number of Chronospheres plus your total Post Apocalypse challenge completions.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/time/cryochamber/">Cryochambers</a> are late-game Void Space structures that allow you to carry kittens over into your next game reset. Each Cryochamber houses one kitten, and upon resetting, the game will prioritise saving the kittens with the highest experience levels.</p>
+<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<ul>
+<li><strong>Prerequisite:</strong> You must research the <a href="/techs/void_space/">Void Space</a> technology to unlock them.</li>
+<li><strong>Standard Cost:</strong> Building one costs <strong>2 Time Crystals, 100 Void, and 1 Karma</strong>.</li>
+<li><strong>Cost Reduction:</strong> The Karma cost can be reduced by your burned paragon, with diminishing returns eventually capping at a 100% reduction.</li>
+</ul>
+<h3 id="limits-and-capacity"><strong>Limits and Capacity</strong></h3>
+<p>Normally, you <strong>cannot build more Cryochambers than your current number of active Chronospheres</strong>. However, completing the <strong>Post Apocalypse challenge</strong> increases the amount of operational Cryochambers you can support, effectively capping them at your number of Chronospheres plus your total Post Apocalypse challenge completions.</p>
+<h3 id="used-cryochambers-and-repairs"><strong>Used Cryochambers and Repairs</strong></h3>
+<p>After you reset the game and successfully carry your kittens over, your Cryochambers will break and become <strong>Used Cryochambers</strong>. In this state, they do absolutely nothing, but they can be repaired using the <a href="/time/fix-cryochambers/">Fix Cryochambers</a> action.</p>
+<ul>
+<li><strong>Repair Cost:</strong> Fixing a Used Cryochamber costs a flat rate of <strong>100 Time Crystals, 500 Void, and 3,000 Temporal Flux</strong>.</li>
+<li><strong>Prerequisite for Repair:</strong> You must have the <a href="/upgrade/chronoforge/">Chronoforge</a> upgrade for the repair button to appear on your menu.</li>
+<li><em>Strategy Note:</em> You can fix used chambers to theoretically own more Cryochambers than Chronospheres, but the number of kittens you can actually bring into the next run will always remain strictly limited by your active Chronosphere limit.</li>
+</ul>
+<h3 id="role-in-challenges"><strong>Role in Challenges</strong></h3>
+<ul>
+<li><strong>Atheism:</strong> The primary victory condition for the Atheism challenge is to reach space and reset the game with at least one active Cryochamber.</li>
+<li><strong>Post Apocalypse:</strong> In this highly polluted challenge timeline, having a high number of broken Cryochambers makes the game significantly harder by causing Catnip Fields to cost unobtainium. If you successfully bring kittens into this challenge via Cryochambers, you will also bring over a proportional store of catnip to help your newly transferred population survive.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Used Cryochamber</title>
+      <link>/time/used-chryochamber/</link>
+      <pubDate>Tue, 07 Apr 2026 22:41:02 +0000</pubDate>
+      <guid>/time/used-chryochamber/</guid>
+      <description>&lt;p&gt;A &lt;strong&gt;Used Cryochamber&lt;/strong&gt; is an &amp;ldquo;Unsealed Cryochamber&amp;rdquo; that is currently &amp;ldquo;Not in operating condition&amp;rdquo;. In this broken state, the structure &lt;strong&gt;does absolutely nothing, but it can be repaired&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Cryochambers become &amp;ldquo;used&amp;rdquo; after you perform a game reset and successfully utilize them to carry your kittens over into your new run.&lt;/p&gt;
+&lt;p&gt;To restore a Used Cryochamber and make it as good as new, you must use the &lt;a href=&#34;../time/fix-cryochambers/&#34;&gt;Fix Cryochambers&lt;/a&gt; action, which costs a flat rate of &lt;strong&gt;100 Time Crystals, 500 Void, and 3,000 Temporal Flux&lt;/strong&gt;. Keep in mind that the option to repair them will only appear on your menu if you have already purchased the &lt;a href=&#34;../upgrade/chronoforge/&#34;&gt;Chronoforge&lt;/a&gt; upgrade.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <strong>Used Cryochamber</strong> is an &ldquo;Unsealed Cryochamber&rdquo; that is currently &ldquo;Not in operating condition&rdquo;. In this broken state, the structure <strong>does absolutely nothing, but it can be repaired</strong>.</p>
+<p>Cryochambers become &ldquo;used&rdquo; after you perform a game reset and successfully utilize them to carry your kittens over into your new run.</p>
+<p>To restore a Used Cryochamber and make it as good as new, you must use the <a href="/time/fix-cryochambers/">Fix Cryochambers</a> action, which costs a flat rate of <strong>100 Time Crystals, 500 Void, and 3,000 Temporal Flux</strong>. Keep in mind that the option to repair them will only appear on your menu if you have already purchased the <a href="/upgrade/chronoforge/">Chronoforge</a> upgrade.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

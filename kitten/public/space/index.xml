@@ -1,0 +1,1756 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/space/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Sat, 29 Nov 2025 20:44:33 +1100</lastBuildDate>
+    <atom:link href="/space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Space Station</title>
+      <link>/space/space-station/</link>
+      <pubDate>Tue, 11 Aug 2026 09:39:51 +0000</pubDate>
+      <guid>/space/space-station/</guid>
+      <description>&lt;p&gt;Similar to the Moon Base, the &lt;a href=&#34;../space/space-station/&#34;&gt;Space Station&lt;/a&gt; (or Deploy Space Station) is a critical orbital structure designed to scale your housing and science limits beyond Cath-bound buildings. It is located under the &lt;a href=&#34;../planet/cath/&#34;&gt;Cath&lt;/a&gt; section of your Space tab.&lt;/p&gt;
+&lt;h3 id=&#34;1-unlocking--costs&#34;&gt;&lt;strong&gt;1. Unlocking &amp;amp; Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To deploy a Space Station, you must first complete the &lt;a href=&#34;../space/orbital_launch/&#34;&gt;Orbital Launch&lt;/a&gt; space mission (unlocked by Rocketry) and research the &lt;a href=&#34;../techs/orbital_engineering/&#34;&gt;Orbital Engineering&lt;/a&gt; technology.&lt;/p&gt;
+&lt;p&gt;Constructing each station requires:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;425 Starcharts&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;750 Alloy&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;150,000 Science&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;35,000 Oil&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; &lt;strong&gt;1.12&lt;/strong&gt; (and &lt;strong&gt;1.05&lt;/strong&gt; for Oil). Because it is a Space structure, it does not benefit from Bonfire metaphysics price reductions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-core-effects--energy-needs&#34;&gt;&lt;strong&gt;2. Core Effects &amp;amp; Energy Needs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Maximum Kittens: +2&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Science Bonus: +50%&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Energy Consumption: 10 Watts (Wt)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;3-critical-mechanics-deficit-vs-manual-disabling&#34;&gt;&lt;strong&gt;3. Critical Mechanics: Deficit vs. Manual Disabling&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Because Space Stations house active citizens, managing their power profile requires careful attention to avoid catastrophic happiness drops:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Similar to the Moon Base, the <a href="/space/space-station/">Space Station</a> (or Deploy Space Station) is a critical orbital structure designed to scale your housing and science limits beyond Cath-bound buildings. It is located under the <a href="/planet/cath/">Cath</a> section of your Space tab.</p>
+<h3 id="1-unlocking--costs"><strong>1. Unlocking &amp; Costs</strong></h3>
+<p>To deploy a Space Station, you must first complete the <a href="/space/orbital_launch/">Orbital Launch</a> space mission (unlocked by Rocketry) and research the <a href="/techs/orbital_engineering/">Orbital Engineering</a> technology.</p>
+<p>Constructing each station requires:</p>
+<ul>
+<li><strong>425 Starcharts</strong></li>
+<li><strong>750 Alloy</strong></li>
+<li><strong>150,000 Science</strong></li>
+<li><strong>35,000 Oil</strong></li>
+<li><strong>Price Ratio:</strong> <strong>1.12</strong> (and <strong>1.05</strong> for Oil). Because it is a Space structure, it does not benefit from Bonfire metaphysics price reductions.</li>
+</ul>
+<hr>
+<h3 id="2-core-effects--energy-needs"><strong>2. Core Effects &amp; Energy Needs</strong></h3>
+<ul>
+<li><strong>Maximum Kittens: +2</strong></li>
+<li><strong>Science Bonus: +50%</strong></li>
+<li><strong>Energy Consumption: 10 Watts (Wt)</strong></li>
+</ul>
+<hr>
+<h3 id="3-critical-mechanics-deficit-vs-manual-disabling"><strong>3. Critical Mechanics: Deficit vs. Manual Disabling</strong></h3>
+<p>Because Space Stations house active citizens, managing their power profile requires careful attention to avoid catastrophic happiness drops:</p>
+<ul>
+<li><strong>The Energy Deficit Safety Net:</strong> If your global energy grid slips into a deficit (negative net energy), your Space Stations will experience a penalty to their Science production bonus. However, the game protects your population—the stations&rsquo; non-productive aspects remain fully functional, meaning <strong>they will continue to safely house and support your 2 kittens</strong> even if you have 0 power.</li>
+<li><strong>The Danger of Manual Disabling:</strong> If you <strong>manually toggle off</strong> or disable a Space Station to free up 10 Wt of electricity, <strong>you will instantly lose its housing capacity</strong>. This forces your population over the limit, triggering a massive unhappiness penalty of <strong>-2% happiness per homeless kitten</strong>. This severe dip can cripple your global production multipliers.</li>
+</ul>
+<hr>
+<h3 id="4-planetary-cycle-modifiers-with-numerology"><strong>4. Planetary Cycle Modifiers (With Numerology)</strong></h3>
+<p>If you have researched <a href="/metaphysics/numerology/">Numerology</a>, the active planetary cycle will directly scale the efficiency of your Space Stations&rsquo; scientific capabilities:</p>
+<ul>
+<li><strong>Cath Cycle (⌾):</strong> Temporarily boosts the Space Station science bonus by <strong>+50%</strong>.</li>
+<li><strong>Kairo Cycle (℣):</strong> Temporarily penalises the Space Station science bonus by <strong>-25%</strong>.</li>
+</ul>
+<hr>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Moonbase</title>
+      <link>/space/moonbase/</link>
+      <pubDate>Tue, 11 Aug 2026 09:39:08 +0000</pubDate>
+      <guid>/space/moonbase/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../space/moonbase/&#34;&gt;Moon Base&lt;/a&gt; is a highly valuable, mid-to-late game Space structure located on &lt;a href=&#34;../planet/redmoon/&#34;&gt;Redmoon&lt;/a&gt;. Its primary function is to act as a massive storage locker, letting you scale your resource caps to bypass the harsh limits of Cath-based buildings.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-unlocking--mission-requirements&#34;&gt;&lt;strong&gt;1. Unlocking &amp;amp; Mission Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To unlock the Moon Base, you must first complete the &lt;a href=&#34;../space/moon_mission/&#34;&gt;Moon Mission&lt;/a&gt; under your Space tab, which costs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;500 Starcharts&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5,000 Titanium&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;125,000 Science&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;45,000 Oil&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Completing this mission permanently unlocks both the Lunar Outpost (for gathering Unobtainium) and the Moon Base under the Redmoon celestial section.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/space/moonbase/">Moon Base</a> is a highly valuable, mid-to-late game Space structure located on <a href="/planet/redmoon/">Redmoon</a>. Its primary function is to act as a massive storage locker, letting you scale your resource caps to bypass the harsh limits of Cath-based buildings.</p>
+<hr>
+<h3 id="1-unlocking--mission-requirements"><strong>1. Unlocking &amp; Mission Requirements</strong></h3>
+<p>To unlock the Moon Base, you must first complete the <a href="/space/moon_mission/">Moon Mission</a> under your Space tab, which costs:</p>
+<ul>
+<li><strong>500 Starcharts</strong></li>
+<li><strong>5,000 Titanium</strong></li>
+<li><strong>125,000 Science</strong></li>
+<li><strong>45,000 Oil</strong></li>
+</ul>
+<p>Completing this mission permanently unlocks both the Lunar Outpost (for gathering Unobtainium) and the Moon Base under the Redmoon celestial section.</p>
+<hr>
+<h3 id="2-construction-costs--price-ratio"><strong>2. Construction Costs &amp; Price Ratio</strong></h3>
+<p>Constructing your first Moon Base requires a steep entry investment of mid-game materials:</p>
+<ul>
+<li><strong>700 Starcharts</strong></li>
+<li><strong>9,500 Titanium</strong></li>
+<li><strong>250 Concrete</strong></li>
+<li><strong>100,000 Science</strong></li>
+<li><strong>50 Unobtainium</strong></li>
+<li><strong>70,000 Oil</strong></li>
+<li><strong>Price Ratio:</strong> <strong>1.12</strong> (and <strong>1.05</strong> for Oil). Because it is a Space structure, <strong>it does not benefit from Bonfire metaphysics price-reduction upgrades</strong> like Golden Ratio or Renaissance.</li>
+</ul>
+<hr>
+<h3 id="3-core-storage-effects"><strong>3. Core Storage Effects</strong></h3>
+<p>Each Moon Base provides a flat, massive upgrade to your maximum caps across almost all major resources:</p>
+<ul>
+<li><strong>Maximum Catnip:</strong> +45,000</li>
+<li><strong>Maximum Wood:</strong> +25,000</li>
+<li><strong>Maximum Minerals:</strong> +30,000</li>
+<li><strong>Maximum Coal:</strong> +3,500</li>
+<li><strong>Maximum Iron:</strong> +9,000</li>
+<li><strong>Maximum Titanium:</strong> +1,250</li>
+<li><strong>Maximum Oil:</strong> +3,500</li>
+<li><strong>Maximum Unobtainium:</strong> +150</li>
+</ul>
+<hr>
+<h3 id="4-energy-consumption--deficit-behavior"><strong>4. Energy Consumption &amp; Deficit Behavior</strong></h3>
+<ul>
+<li><strong>Base Power Draw:</strong> Each Moon Base consumes <strong>10 Watts (Wt)</strong> of active power.</li>
+<li><strong>The Deficit Penalty:</strong> If your global energy grid slips into a deficit (negative energy), your active Moon Bases will still function, but <strong>if you manually disable them to save power, you will instantly lose their entire storage capacity</strong>, potentially capping your resources and causing excess stockpiles to evaporate.</li>
+</ul>
+<hr>
+<h3 id="5-key-late-game-synergies--upgrades"><strong>5. Key Late-Game Synergies &amp; Upgrades</strong></h3>
+<p>Because Moon Bases are one of only two structures in the entire game that expand your base <strong>Unobtainium capacity</strong> (the other being Cryostations), scaling them is critical to executing the late-game Chronosphere loop. You can exponentially boost their effectiveness using these key upgrades:</p>
+<ul>
+<li><strong>Antimatter Bases (Workshop Upgrade):</strong> Costs 15 Eludium and 250 Antimatter. This permanently slashes the energy consumption of your Moon Bases by 50%, bringing their power draw down to <strong>5 Wt</strong> each.</li>
+<li><strong>AI Bases (Workshop Upgrade):</strong> Unlocked after Antimatter Bases. This links your Moon Bases to your quantum computing grid, causing every active <a href="/buildings/ai_core/">AI Core</a> to increase the storage capacity of your Moon Bases by <strong>+10%</strong> (which rises to <strong>+11%</strong> if you have the <em>Transkittenism</em> policy active).</li>
+<li><a href="/buildings/spaceport/">Spaceports:</a> Upgrading your Warehouses into Spaceports provides a passive <strong>+0.85% bonus</strong> to all Moon Base storage capacities per Spaceport built.</li>
+<li><strong>Global Multipliers:</strong> In the endgame, the flat storage additions of your Moon Bases are multiplied heavily by your <strong>Paragon reserves</strong> (+0.1% per point), <a href="/transcendence/event_horizon/">Event Horizons</a> (+10% global storage per level), and <a href="/time/void-rift/">Void Rifts</a> (+2% global storage per level).</li>
+</ul>
+<hr>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Lunar Outpost</title>
+      <link>/space/lunar-outpost/</link>
+      <pubDate>Tue, 11 Aug 2026 09:38:04 +0000</pubDate>
+      <guid>/space/lunar-outpost/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../planet/lunar_outpost/&#34;&gt;Lunar Outpost&lt;/a&gt; is an orbital structure located on &lt;a href=&#34;../planet/redmoon/&#34;&gt;Redmoon&lt;/a&gt; (accessible after completing the Moon Mission). It serves as your primary gateway to the late-game economy, acting as the baseline source for gathering &lt;a href=&#34;../resource/unobtainium/&#34;&gt;Unobtainium&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;1-construction-costs--price-ratio&#34;&gt;&lt;strong&gt;1. Construction Costs &amp;amp; Price Ratio&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/star_charts/&#34;&gt;Starcharts:&lt;/a&gt; 650&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/uranium/&#34;&gt;Uranium:&lt;/a&gt; 500&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../craft/alloy/&#34;&gt;Alloy:&lt;/a&gt; 750&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../craft/concrete/&#34;&gt;Concrete:&lt;/a&gt; 150&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/science/&#34;&gt;Science:&lt;/a&gt; 100k&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/oil/&#34;&gt;Oil:&lt;/a&gt; 55k&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; &lt;strong&gt;1.12&lt;/strong&gt; (and &lt;strong&gt;1.05&lt;/strong&gt; for Oil). Like all Space structures, Lunar Outposts &lt;strong&gt;do not&lt;/strong&gt; benefit from Bonfire tab price reductions (such as Golden Ratio or Renaissance).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-core-effects--consumption&#34;&gt;&lt;strong&gt;2. Core Effects &amp;amp; Consumption&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Each active Lunar Outpost operates with the following rates:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/planet/lunar_outpost/">Lunar Outpost</a> is an orbital structure located on <a href="/planet/redmoon/">Redmoon</a> (accessible after completing the Moon Mission). It serves as your primary gateway to the late-game economy, acting as the baseline source for gathering <a href="/resource/unobtainium/">Unobtainium</a>.</p>
+<h3 id="1-construction-costs--price-ratio"><strong>1. Construction Costs &amp; Price Ratio</strong></h3>
+<ul>
+<li><a href="/resource/star_charts/">Starcharts:</a> 650</li>
+<li><a href="/resource/uranium/">Uranium:</a> 500</li>
+<li><a href="/craft/alloy/">Alloy:</a> 750</li>
+<li><a href="/craft/concrete/">Concrete:</a> 150</li>
+<li><a href="/resource/science/">Science:</a> 100k</li>
+<li><a href="/resource/oil/">Oil:</a> 55k</li>
+<li><strong>Price Ratio:</strong> <strong>1.12</strong> (and <strong>1.05</strong> for Oil). Like all Space structures, Lunar Outposts <strong>do not</strong> benefit from Bonfire tab price reductions (such as Golden Ratio or Renaissance).</li>
+</ul>
+<hr>
+<h3 id="2-core-effects--consumption"><strong>2. Core Effects &amp; Consumption</strong></h3>
+<p>Each active Lunar Outpost operates with the following rates:</p>
+<ul>
+<li><strong>Unobtainium Production:</strong> <strong>+0.035 / second</strong></li>
+<li><strong>Uranium Consumption:</strong> <strong>-1.75 / second</strong></li>
+<li><strong>Energy Consumption:</strong> <strong>5 Watts (Wt)</strong> of power</li>
+</ul>
+<p>If you do not have enough active Uranium to support the outpost, it will still run slowly (at a rate bottlenecked by your incoming Uranium) rather than shutting down entirely.</p>
+<hr>
+<h3 id="3-scaling-and-production-boosts"><strong>3. Scaling and Production Boosts</strong></h3>
+<p>You can dramatically increase your Unobtainium yield per outpost through several synergistic mechanisms:</p>
+<ul>
+<li><strong>Microwarp Reactors (Workshop Upgrade):</strong> Costs 50 Eludium. Once researched, it boosts the Unobtainium production of all Lunar Outposts by <strong>+75%</strong>.</li>
+<li><strong>Space Manufacturing (Workshop Upgrade):</strong> Allows your Factories to amplify the effects of your <a href="/space/space_elevator/">Space Elevators</a> (+1% space structure bonus each) and <a href="/space/orbital_array/">Orbital Arrays</a> (+2% bonus each). This compounding space production multiplier is the main way to skyrocket your overall Unobtainium yield.</li>
+<li><strong>Cycle Modifiers (with Numerology):</strong>
+<ul>
+<li><strong>Charon Cycle (⍙):</strong> Temporarily reduces Unobtainium production by <strong>-10%</strong>.</li>
+<li><strong>Redmoon Cycle (⍜):</strong> Temporarily boosts Unobtainium production by <strong>+20%</strong>.</li>
+<li><em>Strategic Tip:</em> If you have both <a href="/metaphysics/numerology/">Numerology</a> and <a href="/metaphysics/numeromancy/">Numeromancy</a> researched and run a Festival during the Redmoon Cycle, your Unobtainium production receives a massive <strong>~2.5x global multiplier</strong>. Many players use the Chronoforge to skip seasons and stay inside the Redmoon cycle indefinitely to farm Unobtainium.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="4-overcoming-the-uranium-deficit"><strong>4. Overcoming the Uranium Deficit</strong></h3>
+<p>The primary bottleneck when starting up Lunar Outposts is their heavy Uranium consumption. Because one outpost consumes Uranium 140 times faster than a single standard Accelerator can produce it (+0.0125/sec), you will quickly deplete your reserves. To counteract this:</p>
+<ol>
+<li><strong>Trade with Dragons:</strong> Continually trade your Titanium with Dragons to purchase massive amounts of Uranium to feed your outposts.</li>
+<li><a href="/space/planet_cracker/">Planet Crackers:</a> Build Planet Crackers on Dune (which produce +1.5/sec Uranium) to actively balance out the drain.</li>
+<li><strong>Redshift (Offline progression):</strong> If offline progression is enabled in your settings, the game prevents your resources from dropping to zero during offline calculation. Consequently, your Lunar Outposts will run as if they have infinite Uranium, allowing you to generate Unobtainium at maximum speed while offline.</li>
+</ol>
+<hr>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Research Vessel</title>
+      <link>/space/research-vessel/</link>
+      <pubDate>Tue, 11 Aug 2026 09:36:47 +0000</pubDate>
+      <guid>/space/research-vessel/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../space/research-vessel/&#34;&gt;Research Vessel&lt;/a&gt; is an advanced, orbital structure constructed on the aquatic planet &lt;a href=&#34;../planet/piscine/&#34;&gt;Piscine&lt;/a&gt;. It serves as a major scientific booster and is the premier mid-to-late game structure for passive starchart generation.&lt;/p&gt;
+&lt;p&gt;Here is a full breakdown of its costs, effects, upgrades, and cycle modifiers:&lt;/p&gt;
+&lt;h3 id=&#34;1-unlocking--costs&#34;&gt;&lt;strong&gt;1. Unlocking &amp;amp; Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To construct a Research Vessel, you must first reach its home planet by launching the &lt;a href=&#34;../space/piscine_mission/&#34;&gt;Piscine Mission&lt;/a&gt; under your Space tab. Once unlocked, each Research Vessel has the following base costs:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/space/research-vessel/">Research Vessel</a> is an advanced, orbital structure constructed on the aquatic planet <a href="/planet/piscine/">Piscine</a>. It serves as a major scientific booster and is the premier mid-to-late game structure for passive starchart generation.</p>
+<p>Here is a full breakdown of its costs, effects, upgrades, and cycle modifiers:</p>
+<h3 id="1-unlocking--costs"><strong>1. Unlocking &amp; Costs</strong></h3>
+<p>To construct a Research Vessel, you must first reach its home planet by launching the <a href="/space/piscine_mission/">Piscine Mission</a> under your Space tab. Once unlocked, each Research Vessel has the following base costs:</p>
+<ul>
+<li><strong>100 Starcharts</strong></li>
+<li><strong>2,500 Alloy</strong></li>
+<li><strong>12,500 Titanium</strong></li>
+<li><strong>250 Kerosene</strong></li>
+<li><strong>Price Ratio:</strong> <strong>1.15</strong>. Like all other space structures, Research Vessels <strong>do not benefit</strong> from Bonfire-tab price ratio reductions (such as Golden Ratio or Renaissance), meaning each subsequent build strictly costs 15% more.</li>
+</ul>
+<hr>
+<h3 id="2-core-effects"><strong>2. Core Effects</strong></h3>
+<p>Each active Research Vessel provides:</p>
+<ul>
+<li><strong>Max Science +10,000:</strong> This significant boost helps you dramatically expand your overall science capacity to unlock late-game exometallurgy and exophysics milestones.</li>
+<li><strong>Starchart Production (+0.05/sec):</strong> It serves as an incredibly efficient, automated source of starcharts, which is key for funding further space exploration.</li>
+</ul>
+<hr>
+<h3 id="3-upgrades--synergies"><strong>3. Upgrades &amp; Synergies</strong></h3>
+<p>You can drastically amplify the Max Science capacity of your vessels by purchasing specialized antimatter and void-themed Workshop upgrades:</p>
+<ul>
+<li><a href="/upgrade/antimatter_reactors/">Antimatter Reactors:</a> Boosts maximum Science from Research Vessels and Space Beacons by <strong>+95%</strong>.</li>
+<li><a href="/upgrade/advanced_am_reactors/">Advanced AM Reactors:</a> Upgrades this bonus to <strong>+150%</strong>.</li>
+<li><a href="/upgrade/void_reactors/">Void Reactors:</a> Upgrades the bonus to a massive <strong>+400%</strong>.</li>
+</ul>
+<hr>
+<h3 id="4-cycle-multipliers-with-numerology"><strong>4. Cycle Multipliers (With Numerology)</strong></h3>
+<p>If you have researched the <a href="/metaphysics/numerology/">Numerology</a> metaphysics upgrade, the active planetary cycle will directly scale the starchart generation of your vessels:</p>
+<ul>
+<li><strong>Piscine Cycle ():</strong> Provides a <strong>+50%</strong> boost to Research Vessel starchart production.</li>
+<li><strong>Yarn Cycle (⍧):</strong> Imposes a <strong>-50%</strong> penalty to Research Vessel starchart production.</li>
+</ul>
+<hr>
+<h3 id="5-black-sky-challenge-interaction"><strong>5. Black Sky Challenge Interaction</strong></h3>
+<p>During the <strong>Black Sky</strong> challenge, <strong>Research Vessels do not produce any starcharts</strong>. This design prevents you from easily bypassing the challenge&rsquo;s primary bottleneck, forcing you to find alternative methods for accumulating starcharts.</p>
+<hr>
+<p>🛰️ I can break down the requirements and costs of the next planetary mission, <strong>Terminus</strong>, and its <a href="/space/cryo_station/">Cryostation</a> structures to help you plan your next step into deep space.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Containment Chamber</title>
+      <link>/space/containment-chamber/</link>
+      <pubDate>Tue, 11 Aug 2026 09:35:48 +0000</pubDate>
+      <guid>/space/containment-chamber/</guid>
+      <description>&lt;p&gt;In &lt;strong&gt;Kittens Game&lt;/strong&gt;, the &lt;a href=&#34;../space/containment-chamber/&#34;&gt;Containment Chamber&lt;/a&gt; is an essential mid-to-late game Space structure located under the &lt;a href=&#34;../planet/helios/&#34;&gt;Helios&lt;/a&gt; mission tab. It is the primary means of scaling your maximum capacity for &lt;a href=&#34;../resource/antimatter/&#34;&gt;Antimatter&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;costs-and-scaling&#34;&gt;&lt;strong&gt;Costs and Scaling&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Cost:&lt;/strong&gt; &lt;strong&gt;500,000 Science&lt;/strong&gt; and &lt;strong&gt;2,500 Kerosene&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; &lt;strong&gt;1.125&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Space Penalty:&lt;/strong&gt; Because it is a Space structure, Containment Chambers &lt;strong&gt;do not&lt;/strong&gt; benefit from Bonfire metaphysics price-reduction upgrades (such as Golden Ratio or Renaissance).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects--the-power-problem&#34;&gt;&lt;strong&gt;Core Effects &amp;amp; The Power Problem&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Antimatter Storage:&lt;/strong&gt; Each built chamber increases your maximum antimatter capacity by &lt;strong&gt;+100&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Energy Consumption:&lt;/strong&gt; Each active chamber consumes a massive &lt;strong&gt;50 Watts (Wt)&lt;/strong&gt; of power.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Because of this steep energy requirement, Containment Chambers quickly become a massive strain on your active power grid. If your power grid falls into a deficit (negative energy), your &lt;a href=&#34;../space/sunlifter/&#34;&gt;Sunlifters&lt;/a&gt; will completely stop generating antimatter. Managing your energy surplus with clean power sources like Sunlifters (generating 30 Wt each) or Centaurus Tectonics (generating 25 Wt each) is crucial to keeping these chambers running.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In <strong>Kittens Game</strong>, the <a href="/space/containment-chamber/">Containment Chamber</a> is an essential mid-to-late game Space structure located under the <a href="/planet/helios/">Helios</a> mission tab. It is the primary means of scaling your maximum capacity for <a href="/resource/antimatter/">Antimatter</a>.</p>
+<h3 id="costs-and-scaling"><strong>Costs and Scaling</strong></h3>
+<ul>
+<li><strong>Base Cost:</strong> <strong>500,000 Science</strong> and <strong>2,500 Kerosene</strong>.</li>
+<li><strong>Price Ratio:</strong> <strong>1.125</strong>.</li>
+<li><strong>The Space Penalty:</strong> Because it is a Space structure, Containment Chambers <strong>do not</strong> benefit from Bonfire metaphysics price-reduction upgrades (such as Golden Ratio or Renaissance).</li>
+</ul>
+<h3 id="core-effects--the-power-problem"><strong>Core Effects &amp; The Power Problem</strong></h3>
+<ul>
+<li><strong>Antimatter Storage:</strong> Each built chamber increases your maximum antimatter capacity by <strong>+100</strong>.</li>
+<li><strong>Energy Consumption:</strong> Each active chamber consumes a massive <strong>50 Watts (Wt)</strong> of power.</li>
+</ul>
+<p>Because of this steep energy requirement, Containment Chambers quickly become a massive strain on your active power grid. If your power grid falls into a deficit (negative energy), your <a href="/space/sunlifter/">Sunlifters</a> will completely stop generating antimatter. Managing your energy surplus with clean power sources like Sunlifters (generating 30 Wt each) or Centaurus Tectonics (generating 25 Wt each) is crucial to keeping these chambers running.</p>
+<h3 id="synergy-with-heatsinks"><strong>Synergy with Heatsinks</strong></h3>
+<p>Building <a href="/space/heatsink/">Heatsinks</a> (also under Helios) directly enhances your existing chambers:</p>
+<ul>
+<li>Each Heatsink increases the antimatter storage capacity of your Containment Chambers by <strong>+2%</strong>.</li>
+<li>However, each Heatsink also increases their energy consumption by <strong>+1%</strong>.</li>
+</ul>
+<h3 id="strategic-value-reaching-the-5000-antimatter-cap"><strong>Strategic Value: Reaching the 5,000 Antimatter Cap</strong></h3>
+<p>The ultimate goal of building Containment Chambers is to raise your maximum antimatter capacity to <strong>5,000</strong>. This threshold is critical for the automated endgame Relic Engine:</p>
+<ol>
+<li><strong>Unlocking Relic Stations:</strong> You must have a maximum capacity of at least 5,000 antimatter to buy the <a href="/upgrade/relic_station/">Relic Station</a> upgrade in your Workshop.</li>
+<li><strong>Avoiding the Relic Penalty:</strong> If your maximum storage capacity is below 5,000, your relic station production is penalized by <strong>-0.02% for every single unit</strong> of capacity you are short of that threshold.</li>
+</ol>
+<p>To efficiently hit this 5,000 cap, you must balance the Science cost of your chambers against the Thorium and Relic costs of Heatsinks. The most common and recommended configuration is to build <strong>29 Containment Chambers</strong> and <strong>34 Heatsinks</strong> (which requires 13.5M Science and 526k Thorium). While your science cap may seem like a barrier to building this many chambers, it can be easily expanded by compiling massive stacks of <a href="/resource/compendium/">Compendiums</a>.</p>
+<hr>
+<p>🧩 Since Kerosene and Science are the key gating resources for building your chambers, we can calculate the best configurations for your Libraries, Data Centers, and Bio Labs to help you expand your Science cap comfortably.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Heatsink</title>
+      <link>/space/heatsink/</link>
+      <pubDate>Tue, 11 Aug 2026 09:34:41 +0000</pubDate>
+      <guid>/space/heatsink/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Kittens Game&lt;/em&gt;, a &lt;a href=&#34;../space/heatsink/&#34;&gt;Heatsink&lt;/a&gt; is an advanced Space structure located in the &lt;a href=&#34;../planet/helios/&#34;&gt;Helios&lt;/a&gt; section of your Space tab. It is officially unlocked once you complete the &lt;a href=&#34;../space/helios_mission/&#34;&gt;Helios Mission&lt;/a&gt;, which costs 3,000 Starcharts, 15,000 Titanium, 250,000 Science, and 1,250 Kerosene.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-construction-costs--scaling&#34;&gt;&lt;strong&gt;1. Construction Costs &amp;amp; Scaling&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Cost:&lt;/strong&gt; &lt;strong&gt;125,000 Science&lt;/strong&gt;, &lt;strong&gt;12,500 Thorium&lt;/strong&gt;, &lt;strong&gt;1 Relic&lt;/strong&gt;, and &lt;strong&gt;5,000 Kerosene&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; &lt;strong&gt;1.12&lt;/strong&gt;. Like other Space structures, it does not benefit from Bonfire metaphysics price reductions, meaning every subsequent Heatsink will strictly cost 12% more than the last.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-effects--mechanics&#34;&gt;&lt;strong&gt;2. Effects &amp;amp; Mechanics&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Heatsinks do not store antimatter on their own; instead, they enhance your existing &lt;a href=&#34;../space/containment-chamber/&#34;&gt;Containment Chambers&lt;/a&gt;:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In <em>Kittens Game</em>, a <a href="/space/heatsink/">Heatsink</a> is an advanced Space structure located in the <a href="/planet/helios/">Helios</a> section of your Space tab. It is officially unlocked once you complete the <a href="/space/helios_mission/">Helios Mission</a>, which costs 3,000 Starcharts, 15,000 Titanium, 250,000 Science, and 1,250 Kerosene.</p>
+<hr>
+<h3 id="1-construction-costs--scaling"><strong>1. Construction Costs &amp; Scaling</strong></h3>
+<ul>
+<li><strong>Base Cost:</strong> <strong>125,000 Science</strong>, <strong>12,500 Thorium</strong>, <strong>1 Relic</strong>, and <strong>5,000 Kerosene</strong>.</li>
+<li><strong>Price Ratio:</strong> <strong>1.12</strong>. Like other Space structures, it does not benefit from Bonfire metaphysics price reductions, meaning every subsequent Heatsink will strictly cost 12% more than the last.</li>
+</ul>
+<hr>
+<h3 id="2-effects--mechanics"><strong>2. Effects &amp; Mechanics</strong></h3>
+<p>Heatsinks do not store antimatter on their own; instead, they enhance your existing <a href="/space/containment-chamber/">Containment Chambers</a>:</p>
+<ul>
+<li><strong>Antimatter Storage Capacity (+2% per Heatsink):</strong> This percentage boost is applied to your Containment Chambers&rsquo; base storage (each base chamber holds 100 antimatter).</li>
+<li><strong>Containment Chamber Energy Consumption (+1% per Heatsink):</strong> Each level increases the power consumption of your active Containment Chambers, which normally require a hefty 50 Watts (Wt) of power each.</li>
+</ul>
+<p>Additionally, Heatsinks are highly useful in the late-game for increasing your <strong>Chronoforge heat cooldown</strong>, allowing you to dissipate heat faster when performing mass time-skips.</p>
+<hr>
+<h3 id="3-strategic-importance-smashing-the-5000-antimatter-wall"><strong>3. Strategic Importance: Smashing the 5,000 Antimatter Wall</strong></h3>
+<p>The primary purpose of mass-producing Heatsinks in the late game is to help expand your <strong>maximum Antimatter capacity to 5,000</strong>. This threshold is crucial for two reasons:</p>
+<ol>
+<li><strong>Unlocking Relic Stations:</strong> You must have a maximum capacity of at least 5,000 antimatter to purchase the <a href="/upgrade/relic_station/">Relic Station</a> upgrade in your Workshop (which officially kicks off your automated endgame Relic engine).</li>
+<li><strong>Avoiding the Relic Penalty:</strong> If your maximum antimatter storage cap is <strong>below 5,000</strong>, your relic station production is penalized by <strong>-0.02% for every single unit</strong> of capacity you are short of that threshold.</li>
+</ol>
+<h4 id="optimal-setup-configurations"><strong>Optimal Setup Configurations</strong></h4>
+<p>To reach the 5,000 antimatter storage limit, players must balance the high Science cost of Containment Chambers (CCs) against the high Thorium and Relic cost of Heatsinks. For example, in an Iron Will endless run, two common efficient configurations to reach the 5k cap are:</p>
+<ul>
+<li><strong>34 Heatsinks</strong> (costing roughly 526,000 Thorium in total) and <strong>29 Containment Chambers</strong> (costing 13.5M Science).</li>
+<li><strong>37 Heatsinks and 28 Containment Chambers</strong>, though the Thorium costs for this alternative path are often considered too prohibitive.</li>
+</ul>
+<hr>
+<h3 id="4-the-energy-conundrum"><strong>4. The Energy Conundrum</strong></h3>
+<p>Because Heatsinks increase the power draw of your Containment Chambers, expanding your storage cap this way will put an immense strain on your active energy grid. You must ensure you have highly built-up energy sources—such as <a href="/space/sunlifter/">Sunlifters</a> on Helios (which generate 30 Wt) or <a href="/space/tectonic/">Tectonic</a> structures on Centaurus—to keep your grid positive. If your active power grid slips into a deficit, your Sunlifters <strong>will not produce any antimatter</strong>.</p>
+<hr>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Space Beacon</title>
+      <link>/space/space-beacon/</link>
+      <pubDate>Tue, 11 Aug 2026 09:31:43 +0000</pubDate>
+      <guid>/space/space-beacon/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../space/space-beacon/&#34;&gt;Space Beacon&lt;/a&gt; is an advanced, orbital structure constructed on the dwarf planet &lt;a href=&#34;../planet/kairo/&#34;&gt;Kairo&lt;/a&gt;. It plays a major role in the late game, serving as a massive booster for your maximum Science cap, a passive source of Starcharts, and most importantly, the hardware foundation for your automated endgame &lt;strong&gt;Relic Engine&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-cost-and-scaling&#34;&gt;&lt;strong&gt;1. Cost and Scaling&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Found in the Space tab under the &lt;a href=&#34;../planet/kairo/&#34;&gt;Kairo&lt;/a&gt; section.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Base Cost:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;25,000 Starcharts&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;50 Antimatter&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;25,000 Alloy&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;7,500 Kerosene&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; &lt;strong&gt;1.15&lt;/strong&gt;. Like all Space structures, Space Beacons &lt;strong&gt;do not&lt;/strong&gt; benefit from Bonfire-tab price ratio reductions (such as Golden Ratio or Renaissance). Each subsequent beacon will strictly cost 15% more than the previous one.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-core-passive-effects&#34;&gt;&lt;strong&gt;2. Core Passive Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Each active Space Beacon provides:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/space/space-beacon/">Space Beacon</a> is an advanced, orbital structure constructed on the dwarf planet <a href="/planet/kairo/">Kairo</a>. It plays a major role in the late game, serving as a massive booster for your maximum Science cap, a passive source of Starcharts, and most importantly, the hardware foundation for your automated endgame <strong>Relic Engine</strong>.</p>
+<hr>
+<h3 id="1-cost-and-scaling"><strong>1. Cost and Scaling</strong></h3>
+<ul>
+<li><strong>Location:</strong> Found in the Space tab under the <a href="/planet/kairo/">Kairo</a> section.</li>
+<li><strong>Base Cost:</strong>
+<ul>
+<li><strong>25,000 Starcharts</strong></li>
+<li><strong>50 Antimatter</strong></li>
+<li><strong>25,000 Alloy</strong></li>
+<li><strong>7,500 Kerosene</strong></li>
+</ul>
+</li>
+<li><strong>Price Ratio:</strong> <strong>1.15</strong>. Like all Space structures, Space Beacons <strong>do not</strong> benefit from Bonfire-tab price ratio reductions (such as Golden Ratio or Renaissance). Each subsequent beacon will strictly cost 15% more than the previous one.</li>
+</ul>
+<hr>
+<h3 id="2-core-passive-effects"><strong>2. Core Passive Effects</strong></h3>
+<p>Each active Space Beacon provides:</p>
+<ul>
+<li><strong>Max Science +25,000:</strong> This huge boost helps you push through massive science caps to reach late-game exophysics and exometallurgy milestones.</li>
+<li><strong>Starchart Production (+0.125/sec):</strong> Provides a steady, passive income of Starcharts.</li>
+</ul>
+<hr>
+<h3 id="3-the-relic-station-upgrade-type-1-relic-engine"><strong>3. The Relic Station Upgrade (Type 1 Relic Engine)</strong></h3>
+<p>The primary goal of building Space Beacons in the late game is to host <a href="/upgrade/relic_station/">Relic Stations</a> (a Workshop upgrade costing 100 Eludium and 5,000 Antimatter). Once researched, your Space Beacons will automatically reverse engineer and <strong>generate 0.01 Relics per day</strong>.</p>
+<p>This passive relic generation can be scaled exponentially through several synergistic mechanics:</p>
+<ul>
+<li><strong>Black Nexus Synergy:</strong> Each level of Black Nexus boosts your Space Beacon relic production by <strong>+10% per active Black Pyramid</strong>.</li>
+<li><strong>Hashes/Hashrate Synergy:</strong> By running Entanglement Stations, you generate Hashes to gain hashrate levels. Each level grants a multiplicative <strong>+25% bonus</strong> to Space Beacon relic production.</li>
+<li><strong>The Antimatter Storage Requirement:</strong> Relic production scales dynamically with your maximum antimatter capacity. If your maximum antimatter storage cap is <strong>below 5,000</strong>, your relic production is penalized by <strong>-0.02% for every single unit</strong> you are short of that threshold.</li>
+</ul>
+<hr>
+<h3 id="4-science-cap-multipliers"><strong>4. Science Cap Multipliers</strong></h3>
+<p>You can dramatically boost the +25k Science storage bonus of your Space Beacons by purchasing specialized Workshop upgrades:</p>
+<ul>
+<li><a href="/upgrade/antimatter_reactors/">Antimatter Reactors:</a> Boosts maximum Science from Research Vessels and Space Beacons by <strong>+95%</strong>.</li>
+<li><a href="/upgrade/advanced_am_reactors/">Advanced AM Reactors:</a> Upgrades this bonus to <strong>+150%</strong>.</li>
+<li><a href="/upgrade/void_reactors/">Void Reactors:</a> Upgrades this bonus to a massive <strong>+400%</strong>.</li>
+</ul>
+<hr>
+<h3 id="5-black-sky-challenge"><strong>5. Black Sky Challenge</strong></h3>
+<p>Space Beacons are also the focal point of the <strong>Black Sky</strong> challenge (where astronomical events are entirely disabled). To successfully complete this challenge, your ultimate goal is to build at least <strong>one Space Beacon</strong> (with the requirement increasing by +1 beacon for each subsequent completion of the challenge).</p>
+<hr>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hydroponics</title>
+      <link>/space/hydroponics/</link>
+      <pubDate>Tue, 11 Aug 2026 09:30:41 +0000</pubDate>
+      <guid>/space/hydroponics/</guid>
+      <description>&lt;p&gt;Building on our look at Yarn&amp;rsquo;s space housing, &lt;a href=&#34;../space/hydroponics/&#34;&gt;Hydroponics&lt;/a&gt; is an advanced, late-game space structure constructed on the planet &lt;a href=&#34;../planet/yarn/&#34;&gt;Yarn&lt;/a&gt;. It acts as a massive scaling mechanism for both your food supply and population capacity in the late game.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-unlocking--construction-costs&#34;&gt;&lt;strong&gt;1. Unlocking &amp;amp; Construction Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To build Hydroponics, you must first complete the &lt;a href=&#34;../space/yarn_mission/&#34;&gt;Yarn Mission&lt;/a&gt; and research the corresponding technology on your Science tree:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hydroponics Technology:&lt;/strong&gt; Costs &lt;strong&gt;1M Science&lt;/strong&gt; and &lt;strong&gt;25 Relics&lt;/strong&gt; (unlocked by &lt;em&gt;Terraformation&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Structure Construction Cost:&lt;/strong&gt; Each Hydroponics building costs &lt;strong&gt;1 Unobtainium&lt;/strong&gt; and &lt;strong&gt;500 Kerosene&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; &lt;strong&gt;1.15&lt;/strong&gt;. Because it is a space structure, &lt;strong&gt;it does not benefit from Bonfire metaphysics price reductions&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-core-effects--mechanics&#34;&gt;&lt;strong&gt;2. Core Effects &amp;amp; Mechanics&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Each Hydroponics station provides three distinct multipliers:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Building on our look at Yarn&rsquo;s space housing, <a href="/space/hydroponics/">Hydroponics</a> is an advanced, late-game space structure constructed on the planet <a href="/planet/yarn/">Yarn</a>. It acts as a massive scaling mechanism for both your food supply and population capacity in the late game.</p>
+<hr>
+<h3 id="1-unlocking--construction-costs"><strong>1. Unlocking &amp; Construction Costs</strong></h3>
+<p>To build Hydroponics, you must first complete the <a href="/space/yarn_mission/">Yarn Mission</a> and research the corresponding technology on your Science tree:</p>
+<ul>
+<li><strong>Hydroponics Technology:</strong> Costs <strong>1M Science</strong> and <strong>25 Relics</strong> (unlocked by <em>Terraformation</em>).</li>
+<li><strong>Structure Construction Cost:</strong> Each Hydroponics building costs <strong>1 Unobtainium</strong> and <strong>500 Kerosene</strong>.</li>
+<li><strong>Price Ratio:</strong> <strong>1.15</strong>. Because it is a space structure, <strong>it does not benefit from Bonfire metaphysics price reductions</strong>.</li>
+</ul>
+<hr>
+<h3 id="2-core-effects--mechanics"><strong>2. Core Effects &amp; Mechanics</strong></h3>
+<p>Each Hydroponics station provides three distinct multipliers:</p>
+<ul>
+<li><strong>Catnip Production (+2.5% per building):</strong> Grants a global multiplier to your catnip generation.</li>
+<li><strong>Catnip Storage Capacity (+10% per building):</strong> Expands your maximum catnip cap. This bonus stacks additively with the <a href="/upgrade/refrigeration/">Refrigeration</a> workshop upgrade (+75% max catnip). For example, if you have researched Refrigeration and own 50 Hydroponics, your global catnip storage capacity is boosted by <strong>+575%</strong>.</li>
+<li><strong>Terraforming Station Synergy (+1.0% per building):</strong> Permanently increases the kitten housing bonus of your <a href="/space/terraforming-station/">Terraforming Stations</a> by +1.0% per structure.</li>
+</ul>
+<hr>
+<h3 id="3-strategic-late-game-value"><strong>3. Strategic Late-Game Value</strong></h3>
+<h4 id="taming-the-happiness-consumption-spike"><strong>Taming the Happiness Consumption Spike</strong></h4>
+<p>As your civilization matures, keeping your kittens happy is vital to scaling your global output. However, keeping happiness high (e.g., above 100%) dramatically increases catnip consumption. A community sitting at <strong>420% happiness</strong> suffers a massive <strong>320% increase in kitten catnip consumption</strong>.</p>
+<p>By mass-producing Hydroponics, you can compound your passive food production so heavily that you can easily sustain hundreds of hyper-productive, highly happy kittens without risking sudden winter starvations.</p>
+<h4 id="the-yarn--piscine-cycle-factors"><strong>The Yarn &amp; Piscine Cycle Factors</strong></h4>
+<p>If you have researched <a href="/metaphysics/numerology/">Numerology</a>, your active planetary cycle will directly scale the efficiency of your hydroponic farms:</p>
+<ul>
+<li><strong>Yarn Cycle (⍧):</strong> Temporarily boosts Hydroponics catnip production by <strong>+100%</strong>.</li>
+<li><strong>Piscine Cycle ():</strong> Temporarily penalises Hydroponics catnip production by <strong>-50%</strong>.</li>
+</ul>
+<h4 id="orbital-population-scaling"><strong>Orbital Population Scaling</strong></h4>
+<p>By pairing your Hydroponics with <a href="/space/terraforming-station/">Terraforming Stations</a>, you can squeeze maximum housing out of orbit. Compounding this loop is one of the premier ways to push your overall kitten population well past standard limits. This populates your priestly ranks in the late game, enabling you to farm massive amounts of Faith and Paragon during resets.</p>
+<hr>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Terraforming Station</title>
+      <link>/space/terraforming-station/</link>
+      <pubDate>Tue, 11 Aug 2026 09:30:08 +0000</pubDate>
+      <guid>/space/terraforming-station/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../space/terraforming-station/&#34;&gt;Terraforming Stations&lt;/a&gt; are highly advanced, late-game space structures located on the planet &lt;a href=&#34;../planet/yarn/&#34;&gt;Yarn&lt;/a&gt;. They act as a specialized way to expand your maximum population limit from orbit.&lt;/p&gt;
+&lt;p&gt;Here is a complete breakdown of how to unlock, fund, and optimize these structures:&lt;/p&gt;
+&lt;h3 id=&#34;1-unlocking--costs&#34;&gt;&lt;strong&gt;1. Unlocking &amp;amp; Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Before you can build Terraforming Stations, you must travel to their home planet and research the necessary technology:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Mission:&lt;/strong&gt; Complete the &lt;a href=&#34;../space/yarn_mission/&#34;&gt;Yarn Mission&lt;/a&gt; in your Space tab (costs 7,500 Starcharts, 35,000 Titanium, 350,000 Science, and 12,000 Kerosene).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite Tech:&lt;/strong&gt; Research the &lt;a href=&#34;../techs/terraformation/&#34;&gt;Terraformation&lt;/a&gt; technology, which costs 750,000 Science and 5 Relics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Base Cost:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;25 Antimatter&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5,000 Uranium&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5,000 Kerosene&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; &lt;strong&gt;1.25&lt;/strong&gt;. Because it is a Space structure, &lt;strong&gt;Terraforming Stations do not benefit from Metaphysics price ratio reductions&lt;/strong&gt; (such as Golden Ratio or Renaissance). Each subsequent station will strictly cost 25% more than the last.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-core-effect--lore&#34;&gt;&lt;strong&gt;2. Core Effect &amp;amp; Lore&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Max Kittens +1:&lt;/strong&gt; Every station you build permanently increases your maximum kitten capacity by 1.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lore Description:&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Explode a charge of antimatter to melt yarn ice and throw oxygen into the atmosphere.&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;3-endgame-synergies&#34;&gt;&lt;strong&gt;3. Endgame Synergies&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;While a flat +1 kitten cap per station is modest given the high resource costs, you can amplify their housing capacity using late-game upgrades:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/space/terraforming-station/">Terraforming Stations</a> are highly advanced, late-game space structures located on the planet <a href="/planet/yarn/">Yarn</a>. They act as a specialized way to expand your maximum population limit from orbit.</p>
+<p>Here is a complete breakdown of how to unlock, fund, and optimize these structures:</p>
+<h3 id="1-unlocking--costs"><strong>1. Unlocking &amp; Costs</strong></h3>
+<p>Before you can build Terraforming Stations, you must travel to their home planet and research the necessary technology:</p>
+<ul>
+<li><strong>The Mission:</strong> Complete the <a href="/space/yarn_mission/">Yarn Mission</a> in your Space tab (costs 7,500 Starcharts, 35,000 Titanium, 350,000 Science, and 12,000 Kerosene).</li>
+<li><strong>Prerequisite Tech:</strong> Research the <a href="/techs/terraformation/">Terraformation</a> technology, which costs 750,000 Science and 5 Relics.</li>
+<li><strong>Base Cost:</strong>
+<ul>
+<li><strong>25 Antimatter</strong></li>
+<li><strong>5,000 Uranium</strong></li>
+<li><strong>5,000 Kerosene</strong></li>
+</ul>
+</li>
+<li><strong>Price Ratio:</strong> <strong>1.25</strong>. Because it is a Space structure, <strong>Terraforming Stations do not benefit from Metaphysics price ratio reductions</strong> (such as Golden Ratio or Renaissance). Each subsequent station will strictly cost 25% more than the last.</li>
+</ul>
+<hr>
+<h3 id="2-core-effect--lore"><strong>2. Core Effect &amp; Lore</strong></h3>
+<ul>
+<li><strong>Max Kittens +1:</strong> Every station you build permanently increases your maximum kitten capacity by 1.</li>
+<li><strong>Lore Description:</strong> <em>&ldquo;Explode a charge of antimatter to melt yarn ice and throw oxygen into the atmosphere.&rdquo;</em></li>
+</ul>
+<hr>
+<h3 id="3-endgame-synergies"><strong>3. Endgame Synergies</strong></h3>
+<p>While a flat +1 kitten cap per station is modest given the high resource costs, you can amplify their housing capacity using late-game upgrades:</p>
+<ul>
+<li><strong>Hydroponics Boost (+1.0% per structure):</strong> Building <a href="/space/hydroponics/">Hydroponics</a> on Yarn (which costs 1 Unobtainium and 500 Kerosene) permanently increases the kitten housing bonus of your Terraforming Stations by <strong>+1.0%</strong> per Hydroponics structure. Compounding these two structures is one of the premier ways to squeeze extra population out of your space empire.</li>
+<li><strong>Post Apocalypse Policy Reward (+0.1% bonus):</strong> Completing the <strong>Post Apocalypse challenge</strong> unlocks a special late-game policy that awards a permanent <strong>+0.1% housing bonus specifically to your Terraforming Stations</strong>.</li>
+</ul>
+<hr>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Entanglement Station</title>
+      <link>/space/entanglement-station/</link>
+      <pubDate>Tue, 11 Aug 2026 09:29:12 +0000</pubDate>
+      <guid>/space/entanglement-station/</guid>
+      <description>&lt;p&gt;Building on our recent discussion about the AI Core balancing act, the &lt;a href=&#34;../space/entanglement-station/&#34;&gt;Entanglement Station&lt;/a&gt; is a highly specialized late-game space structure located in the &lt;a href=&#34;../planet/charon/&#34;&gt;Charon&lt;/a&gt; planetary system.&lt;/p&gt;
+&lt;p&gt;Its primary function is to generate entangled particles (qbits) to drive your quantum computing systems, enabling you to &amp;ldquo;perform a cryptographical attack on the elders&amp;rsquo; encryption algorithms&amp;rdquo;.&lt;/p&gt;
+&lt;h3 id=&#34;1-unlocking-and-costs&#34;&gt;&lt;strong&gt;1. Unlocking and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To construct Entanglement Stations, you must first research the &lt;a href=&#34;../techs/quantum_cryptography/&#34;&gt;Quantum Cryptography&lt;/a&gt; technology (which costs 1.25M Science and 1,024 Relics).&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Building on our recent discussion about the AI Core balancing act, the <a href="/space/entanglement-station/">Entanglement Station</a> is a highly specialized late-game space structure located in the <a href="/planet/charon/">Charon</a> planetary system.</p>
+<p>Its primary function is to generate entangled particles (qbits) to drive your quantum computing systems, enabling you to &ldquo;perform a cryptographical attack on the elders&rsquo; encryption algorithms&rdquo;.</p>
+<h3 id="1-unlocking-and-costs"><strong>1. Unlocking and Costs</strong></h3>
+<p>To construct Entanglement Stations, you must first research the <a href="/techs/quantum_cryptography/">Quantum Cryptography</a> technology (which costs 1.25M Science and 1,024 Relics).</p>
+<p>Once unlocked, each station is highly resource-intensive to build:</p>
+<ul>
+<li><strong>Base Cost:</strong> <strong>1,250 Relics</strong>, <strong>5,250 Antimatter</strong>, and <strong>5,000 Eludium</strong>.</li>
+<li><strong>Price Ratio:</strong> <strong>1.15</strong>. (As a space structure, it does not benefit from Metaphysics price reductions).</li>
+</ul>
+<h3 id="2-core-operations--stats"><strong>2. Core Operations &amp; Stats</strong></h3>
+<ul>
+<li><strong>Energy Consumption:</strong> Consumes <strong>25 Watts (Wt)</strong> of active power.</li>
+<li><strong>Gigaflop Consumption:</strong> Consumes <strong>0.1 Gigaflops</strong> per tick.</li>
+<li><strong>Hash Production:</strong> Generates <strong>0.1 Hashes</strong> per tick.</li>
+</ul>
+<h3 id="3-strategic-value-the-hashrate-relic-multiplier"><strong>3. Strategic Value: The Hashrate Relic Multiplier</strong></h3>
+<p>Hashes produced by the Entanglement Station are used to reverse engineer relics. This process establishes <strong>Hashrate Levels</strong>. Each Hashrate Level provides a multiplicative <strong>+25% bonus to your automated relic production</strong> from Space Beacons upgraded with Relic Stations.</p>
+<p>This makes Entanglement Stations a vital tool for exponentially scaling your Type 1 Relic Engine in the late game.</p>
+<h3 id="4-cycle-multipliers-with-numerology"><strong>4. Cycle Multipliers (With Numerology)</strong></h3>
+<p>If you have researched <a href="/metaphysics/numerology/">Numerology</a>, the active planetary cycle will directly modify how much processing power your stations consume:</p>
+<ul>
+<li><strong>Charon Cycle (⍙):</strong> Gigaflop consumption is increased by <strong>+100%</strong> (consuming <strong>0.2 Gflops/tick</strong>).</li>
+<li><strong>Redmoon Cycle (⍜):</strong> Gigaflop consumption is reduced by <strong>-50%</strong> (consuming only <strong>0.05 Gflops/tick</strong>).</li>
+</ul>
+<h3 id="5-the-gigaflop-balancing-act"><strong>5. The Gigaflop Balancing Act</strong></h3>
+<p>Because a single <a href="/buildings/ai_core/">AI Core</a> produces <strong>+0.02 Gigaflops per tick</strong> and a standard Entanglement Station consumes <strong>0.1 Gigaflops per tick</strong>, maintaining a ratio of <strong>5 AI Cores to 1 Entanglement Station</strong> keeps your Gigaflop accumulation flat. If you lack the Transkittenism policy, failing to balance this ratio will cause Gigaflops to pile up, increasing your AI level and eventually triggering the AI Apocalypse at AI Level 15.</p>
+<p>🌌 Since Entanglement Stations rely heavily on high antimatter capacities, we could calculate how many Containment Chambers and Heatsinks you need to comfortably reach the 5,000 antimatter storage required to run your relic stations without penalty.Building on our recent discussion about the AI Core balancing act, the <a href="/space/entanglement-station/">Entanglement Station</a> is a highly specialized late-game space structure located in the <a href="/planet/charon/">Charon</a> planetary system.</p>
+<p>Its primary function is to generate entangled particles (qbits) to drive your quantum computing systems, enabling you to &ldquo;perform a cryptographical attack on the elders&rsquo; encryption algorithms&rdquo;.</p>
+<h3 id="1-unlocking-and-costs-1"><strong>1. Unlocking and Costs</strong></h3>
+<p>To construct Entanglement Stations, you must first research the <a href="/techs/quantum_cryptography/">Quantum Cryptography</a> technology (which costs 1.25M Science and 1,024 Relics).</p>
+<p>Once unlocked, each station is highly resource-intensive to build:</p>
+<ul>
+<li><strong>Base Cost:</strong> <strong>1,250 Relics</strong>, <strong>5,250 Antimatter</strong>, and <strong>5,000 Eludium</strong>.</li>
+<li><strong>Price Ratio:</strong> <strong>1.15</strong>. (As a space structure, it does not benefit from Metaphysics price reductions).</li>
+</ul>
+<h3 id="2-core-operations--stats-1"><strong>2. Core Operations &amp; Stats</strong></h3>
+<ul>
+<li><strong>Energy Consumption:</strong> Consumes <strong>25 Watts (Wt)</strong> of active power.</li>
+<li><strong>Gigaflop Consumption:</strong> Consumes <strong>0.1 Gigaflops</strong> per tick.</li>
+<li><strong>Hash Production:</strong> Generates <strong>0.1 Hashes</strong> per tick.</li>
+</ul>
+<h3 id="3-strategic-value-the-hashrate-relic-multiplier-1"><strong>3. Strategic Value: The Hashrate Relic Multiplier</strong></h3>
+<p>Hashes produced by the Entanglement Station are used to reverse engineer relics. This process establishes <strong>Hashrate Levels</strong>. Each Hashrate Level provides a multiplicative <strong>+25% bonus to your automated relic production</strong> from Space Beacons upgraded with Relic Stations.</p>
+<p>This makes Entanglement Stations a vital tool for exponentially scaling your Type 1 Relic Engine in the late game.</p>
+<h3 id="4-cycle-multipliers-with-numerology-1"><strong>4. Cycle Multipliers (With Numerology)</strong></h3>
+<p>If you have researched <a href="/metaphysics/numerology/">Numerology</a>, the active planetary cycle will directly modify how much processing power your stations consume:</p>
+<ul>
+<li><strong>Charon Cycle (⍙):</strong> Gigaflop consumption is increased by <strong>+100%</strong> (consuming <strong>0.2 Gflops/tick</strong>).</li>
+<li><strong>Redmoon Cycle (⍜):</strong> Gigaflop consumption is reduced by <strong>-50%</strong> (consuming only <strong>0.05 Gflops/tick</strong>).</li>
+</ul>
+<h3 id="5-the-gigaflop-balancing-act-1"><strong>5. The Gigaflop Balancing Act</strong></h3>
+<p>Because a single <a href="/buildings/ai_core/">AI Core</a> produces <strong>+0.02 Gigaflops per tick</strong> and a standard Entanglement Station consumes <strong>0.1 Gigaflops per tick</strong>, maintaining a ratio of <strong>5 AI Cores to 1 Entanglement Station</strong> keeps your Gigaflop accumulation flat. If you lack the Transkittenism policy, failing to balance this ratio will cause Gigaflops to pile up, increasing your AI level and eventually triggering the AI Apocalypse at AI Level 15.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tectonic</title>
+      <link>/space/tectonic/</link>
+      <pubDate>Tue, 11 Aug 2026 09:28:28 +0000</pubDate>
+      <guid>/space/tectonic/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../space/tectonic/&#34;&gt;Tectonic&lt;/a&gt; is an advanced, power-generating Space structure located in the &lt;a href=&#34;../planet/centaurus_system/&#34;&gt;Centaurus System&lt;/a&gt;. It allows your feline civilization to tap into massive amounts of geothermal energy by literally ripping open the planet near the star Centaurus.&lt;/p&gt;
+&lt;h3 id=&#34;1-cost-and-scaling&#34;&gt;&lt;strong&gt;1. Cost and Scaling&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Constructing a Tectonic structure represents a major milestone due to its high, premium resource requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Cost:&lt;/strong&gt; 600,000 Science, 500 Antimatter, and 75,000 Thorium.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must first research the &lt;a href=&#34;../techs/terraformation/&#34;&gt;Terraformation&lt;/a&gt; technology to unlock it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; &lt;strong&gt;1.25&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Space Penalty:&lt;/strong&gt; Like all Space structures, Tectonics &lt;strong&gt;do not benefit&lt;/strong&gt; from Metaphysics price ratio reductions (such as Golden Ratio or Renaissance). Each subsequent level will strictly cost 25% more than the last.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-effects-and-synergies&#34;&gt;&lt;strong&gt;2. Effects and Synergies&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;High-Yield Power Generation:&lt;/strong&gt; Each active Tectonic structure produces a flat &lt;strong&gt;+25 Watts (Wt)&lt;/strong&gt; of energy to help power your grid.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Molten Core Synergy:&lt;/strong&gt; As we recently discussed, every level of &lt;a href=&#34;../space/molten-core/&#34;&gt;Molten Core&lt;/a&gt; you purchase in the Centaurus System permanently improves the energy output of your Tectonic structures by &lt;strong&gt;+5%&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Energy Challenge Requirement:&lt;/strong&gt; Building at least one Tectonic structure is a mandatory milestone to successfully complete the &lt;strong&gt;Energy Challenge&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-strategic-value-and-the-late-game-transition&#34;&gt;&lt;strong&gt;3. Strategic Value and the Late-Game Transition&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;In the mid-to-late game, Tectonics are highly sought after because they represent one of the most concentrated, reliable power sources available. However, their relative value shifts as you transition into the deep endgame:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/space/tectonic/">Tectonic</a> is an advanced, power-generating Space structure located in the <a href="/planet/centaurus_system/">Centaurus System</a>. It allows your feline civilization to tap into massive amounts of geothermal energy by literally ripping open the planet near the star Centaurus.</p>
+<h3 id="1-cost-and-scaling"><strong>1. Cost and Scaling</strong></h3>
+<p>Constructing a Tectonic structure represents a major milestone due to its high, premium resource requirements:</p>
+<ul>
+<li><strong>Base Cost:</strong> 600,000 Science, 500 Antimatter, and 75,000 Thorium.</li>
+<li><strong>Prerequisite:</strong> You must first research the <a href="/techs/terraformation/">Terraformation</a> technology to unlock it.</li>
+<li><strong>Price Ratio:</strong> <strong>1.25</strong>.</li>
+<li><strong>The Space Penalty:</strong> Like all Space structures, Tectonics <strong>do not benefit</strong> from Metaphysics price ratio reductions (such as Golden Ratio or Renaissance). Each subsequent level will strictly cost 25% more than the last.</li>
+</ul>
+<h3 id="2-effects-and-synergies"><strong>2. Effects and Synergies</strong></h3>
+<ul>
+<li><strong>High-Yield Power Generation:</strong> Each active Tectonic structure produces a flat <strong>+25 Watts (Wt)</strong> of energy to help power your grid.</li>
+<li><strong>Molten Core Synergy:</strong> As we recently discussed, every level of <a href="/space/molten-core/">Molten Core</a> you purchase in the Centaurus System permanently improves the energy output of your Tectonic structures by <strong>+5%</strong>.</li>
+<li><strong>Energy Challenge Requirement:</strong> Building at least one Tectonic structure is a mandatory milestone to successfully complete the <strong>Energy Challenge</strong>.</li>
+</ul>
+<h3 id="3-strategic-value-and-the-late-game-transition"><strong>3. Strategic Value and the Late-Game Transition</strong></h3>
+<p>In the mid-to-late game, Tectonics are highly sought after because they represent one of the most concentrated, reliable power sources available. However, their relative value shifts as you transition into the deep endgame:</p>
+<ul>
+<li><strong>The Production Bottleneck:</strong> Mass-building Tectonics can become highly taxing on your Antimatter storage and Thorium crafting pipelines.</li>
+<li><strong>The Hawking Radiation (HR) Shift:</strong> Once you establish a high-level Shatter Engine and begin time-skipping heavily, your calendar will reach the &ldquo;Dark Future&rdquo; (Year 40,000+). Because of the extreme calendar depth, the energy output of your <strong>HR Harvesters</strong> on Umbra will scale so massively that they will eventually eclipse your Tectonic structures, rendering Tectonics less critical for raw power in the deep endgame.</li>
+</ul>
+<hr>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Molten Core</title>
+      <link>/space/molten-core/</link>
+      <pubDate>Tue, 11 Aug 2026 09:27:21 +0000</pubDate>
+      <guid>/space/molten-core/</guid>
+      <description>&lt;h3 id=&#34;what-is-molten-core&#34;&gt;&lt;strong&gt;What is Molten Core?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;../space/molten-core/&#34;&gt;Molten Core&lt;/a&gt; is an advanced Space structure located in the &lt;a href=&#34;../planet/centaurus_system/&#34;&gt;Centaurus System&lt;/a&gt; (unlocked via the Centaurus Mission). It serves as a power-amplification mechanism for your interstellar energy grid.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite Technology:&lt;/strong&gt; &lt;a href=&#34;../techs/exophysics/&#34;&gt;Exophysics&lt;/a&gt; (which costs 25M Science and 500 Relics to research).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Effect:&lt;/strong&gt; Every level of Molten Core purchased permanently improves the energy production of your Centaurus &lt;a href=&#34;../space/tectonic/&#34;&gt;Tectonic&lt;/a&gt; structures by &lt;strong&gt;+5%&lt;/strong&gt;. Since a base Tectonic structure generates 25 Wt of energy, Molten Cores help you squeeze massive amounts of additional power out of your existing setup.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cost-and-scaling&#34;&gt;&lt;strong&gt;Cost and Scaling&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Cost (Level 1):&lt;/strong&gt; &lt;strong&gt;25M Science&lt;/strong&gt; and &lt;strong&gt;5M Uranium&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; &lt;strong&gt;1.25&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Space Structure Penalty:&lt;/strong&gt; Unlike your Bonfire tab buildings, &lt;strong&gt;Space structures do not benefit from Metaphysics price ratio reductions&lt;/strong&gt; (such as Golden Ratio or Renaissance). The price ratio remains a flat, unforgiving &lt;strong&gt;1.25 multiplier&lt;/strong&gt; for every single level you buy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Scaling Problem:&lt;/strong&gt; Because of this aggressive scaling, the Science and Uranium costs quickly balloon. For example, by the time you want to purchase Level 11, the cost will have soared to over &lt;strong&gt;230M Science&lt;/strong&gt;, along with a massive Uranium requirement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;how-to-overcome-the-science-and-uranium-bottlenecks&#34;&gt;&lt;strong&gt;How to Overcome the Science and Uranium Bottlenecks&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Many players hit a massive wall when trying to purchase multiple levels of Molten Core. To reach the extreme science and uranium caps needed, you must stack several multiplicative systems:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h3 id="what-is-molten-core"><strong>What is Molten Core?</strong></h3>
+<p><a href="/space/molten-core/">Molten Core</a> is an advanced Space structure located in the <a href="/planet/centaurus_system/">Centaurus System</a> (unlocked via the Centaurus Mission). It serves as a power-amplification mechanism for your interstellar energy grid.</p>
+<ul>
+<li><strong>Prerequisite Technology:</strong> <a href="/techs/exophysics/">Exophysics</a> (which costs 25M Science and 500 Relics to research).</li>
+<li><strong>The Effect:</strong> Every level of Molten Core purchased permanently improves the energy production of your Centaurus <a href="/space/tectonic/">Tectonic</a> structures by <strong>+5%</strong>. Since a base Tectonic structure generates 25 Wt of energy, Molten Cores help you squeeze massive amounts of additional power out of your existing setup.</li>
+</ul>
+<hr>
+<h3 id="cost-and-scaling"><strong>Cost and Scaling</strong></h3>
+<ul>
+<li><strong>Base Cost (Level 1):</strong> <strong>25M Science</strong> and <strong>5M Uranium</strong>.</li>
+<li><strong>Price Ratio:</strong> <strong>1.25</strong>.</li>
+<li><strong>The Space Structure Penalty:</strong> Unlike your Bonfire tab buildings, <strong>Space structures do not benefit from Metaphysics price ratio reductions</strong> (such as Golden Ratio or Renaissance). The price ratio remains a flat, unforgiving <strong>1.25 multiplier</strong> for every single level you buy.</li>
+<li><strong>The Scaling Problem:</strong> Because of this aggressive scaling, the Science and Uranium costs quickly balloon. For example, by the time you want to purchase Level 11, the cost will have soared to over <strong>230M Science</strong>, along with a massive Uranium requirement.</li>
+</ul>
+<hr>
+<h3 id="how-to-overcome-the-science-and-uranium-bottlenecks"><strong>How to Overcome the Science and Uranium Bottlenecks</strong></h3>
+<p>Many players hit a massive wall when trying to purchase multiple levels of Molten Core. To reach the extreme science and uranium caps needed, you must stack several multiplicative systems:</p>
+<h4 id="1-smashing-the-uranium-cap-the-true-bottleneck"><strong>1. Smashing the Uranium Cap (The True Bottleneck)</strong></h4>
+<p>Uranium is generally considered the hardest limit to expand for Molten Core. You can expand your maximum Uranium storage using these strategies:</p>
+<ul>
+<li><strong>Expand Base Storage:</strong> Max out <a href="/buildings/reactor/">Reactors</a> (+250 max Uranium each) and <a href="/space/cryo_station/">Cryostations</a> on T-Minus (+5,000 max Uranium each).</li>
+<li><strong>Compile Paragon:</strong> Paragon provides a passive <strong>+0.1% storage bonus per unit</strong> (and Burned Paragon is twice as effective after you reach the Dark Future).</li>
+<li><strong>Stack Storage Modifiers:</strong>
+<ul>
+<li>Build <a href="/space/sun_forge/">Sunforges</a> in Helios (+1% metal and Uranium storage per level).</li>
+<li>Buy <a href="/transcendence/event_horizon/">Event Horizons</a> (+10% global storage ratio per level) and <a href="/time/void-rift/">Void Rifts</a> (+2% global storage ratio per level).</li>
+</ul>
+</li>
+<li><strong>Time skip to the T-Minus Cycle:</strong> The T-Minus planetary cycle provides a temporary <strong>+20% storage boost specifically to Cryostations</strong>.</li>
+</ul>
+<h4 id="2-scaling-your-science-cap"><strong>2. Scaling your Science Cap</strong></h4>
+<p>Unlocking a 250M+ Science cap is highly achievable if you focus on your library and computer networks:</p>
+<ul>
+<li><strong>Craft Compendiums:</strong> Every Compendium you hold in stock adds a flat <strong>+10 to your maximum Science cap</strong> (up to 100% of your building-based storage). Buy <strong>Codex Levi</strong> and <strong>Black Libraries</strong> t your Libraries:** Convert Libraries into <strong>Data Centers</strong> and purchase the <strong>Uplink</strong> upgrade (+1% max science per Bio Lab) and <strong>Machine Learning</strong> upgrade (+10% effectiveness per AI Core).</li>
+<li><strong>Max out Observatories:</strong> Upgrading them with <a href="/upgrade/astrolabe/">Astrolabe</a> (+50% storage), plus <strong>Titanium, Unobtainium, and Eludium Reflectors</strong>, will add +2% Library/Data Center effectiveness per Observatory.</li>
+<li><strong>Boost Space Science Structures:</strong> Construct <a href="/space/research-vessel/">Research Vessels</a> (+10k base Science) and <a href="/space/space-beacon/">Space Beacons</a> (+25k base Science). Maximize them using <a href="/upgrade/antimatter_reactors/">Antimatter Reactors</a> (+95% science), <a href="/upgrade/advanced_am_reactors/">Advanced AM Reactors</a> (+150%), and <a href="/upgrade/void_reactors/">Void Reactors</a> (+400% science).</li>
+</ul>
+<hr>
+<h3 id="is-molten-core-worth-it"><strong>Is Molten Core Worth It?</strong></h3>
+<p>While Molten Core is highly beneficial for boosting Tectonic energy, it is generally considered a late-endgame luxury. By the time you can comfortably afford high levels of Molten Core, you will likely have established a high-level <strong>Shatter Engine</strong>. In the very late game, skipping thousands of years will make your <strong>Hawking Radiation (HR) Harvesters</strong> on Umbra (which scale based on the Dark Future years) produce far more energy than Centaurus Tectonics, reducing your dependency on Molten Cores.</p>
+<p>⚡ I can help you check your current power consumers and calculate your energy grid&rsquo;s balance to see if it&rsquo;s time to transition to Hawking Radiation Harvesters.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Navigation Relay</title>
+      <link>/space/navigation_relay/</link>
+      <pubDate>Wed, 22 Apr 2026 20:35:10 +0000</pubDate>
+      <guid>/space/navigation_relay/</guid>
+      <description>&lt;p&gt;Part of the locked Space Exploration Tee.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;Kittens Game&lt;/strong&gt;, the &lt;a href=&#34;../space/navigation_relay/&#34;&gt;Navigation Relay&lt;/a&gt; is a mid-to-late game &lt;strong&gt;Workshop upgrade&lt;/strong&gt; that significantly enhances your space-based logistics. It is designed to work in tandem with your &lt;a href=&#34;../techs/satellites/&#34;&gt;Satellites&lt;/a&gt; to make space exploration and resource management much more efficient.&lt;/p&gt;
+&lt;h3 id=&#34;key-effects&#34;&gt;Key Effects&lt;/h3&gt;
+&lt;p&gt;The Navigation Relay serves as a force multiplier for your orbital network:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Satellite Efficiency:&lt;/strong&gt; It provides a &lt;strong&gt;+15% bonus&lt;/strong&gt; to the effectiveness of your &lt;a href=&#34;../techs/satellites/&#34;&gt;Satellites&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Starchart Generation:&lt;/strong&gt; Because it boosts Satellite efficiency, it indirectly increases your &lt;strong&gt;Starchart production&lt;/strong&gt;. This is crucial for launching the &amp;ldquo;Long Range Spaceships&amp;rdquo; and outer-system missions like &lt;a href=&#34;../space/jupiter/&#34;&gt;Jupiter&lt;/a&gt; and &lt;strong&gt;Saturn&lt;/strong&gt; that we discussed earlier.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Energy Management:&lt;/strong&gt; By making your existing Satellites more effective, you can often generate the starcharts you need without having to build as many individual units, saving you on the scaling &lt;a href=&#34;../craft/alloy/&#34;&gt;Alloy&lt;/a&gt; and &lt;a href=&#34;../resource/science/&#34;&gt;Science&lt;/a&gt; costs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;unlock-requirements--cost&#34;&gt;Unlock Requirements &amp;amp; Cost&lt;/h3&gt;
+&lt;p&gt;To see the Navigation Relay in your Workshop, you must have advanced into the &lt;strong&gt;Space&lt;/strong&gt; era:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Part of the locked Space Exploration Tee.</p>
+<p>In <strong>Kittens Game</strong>, the <a href="/space/navigation_relay/">Navigation Relay</a> is a mid-to-late game <strong>Workshop upgrade</strong> that significantly enhances your space-based logistics. It is designed to work in tandem with your <a href="/techs/satellites/">Satellites</a> to make space exploration and resource management much more efficient.</p>
+<h3 id="key-effects">Key Effects</h3>
+<p>The Navigation Relay serves as a force multiplier for your orbital network:</p>
+<ul>
+<li><strong>Satellite Efficiency:</strong> It provides a <strong>+15% bonus</strong> to the effectiveness of your <a href="/techs/satellites/">Satellites</a>.</li>
+<li><strong>Starchart Generation:</strong> Because it boosts Satellite efficiency, it indirectly increases your <strong>Starchart production</strong>. This is crucial for launching the &ldquo;Long Range Spaceships&rdquo; and outer-system missions like <a href="/space/jupiter/">Jupiter</a> and <strong>Saturn</strong> that we discussed earlier.</li>
+<li><strong>Energy Management:</strong> By making your existing Satellites more effective, you can often generate the starcharts you need without having to build as many individual units, saving you on the scaling <a href="/craft/alloy/">Alloy</a> and <a href="/resource/science/">Science</a> costs.</li>
+</ul>
+<hr>
+<h3 id="unlock-requirements--cost">Unlock Requirements &amp; Cost</h3>
+<p>To see the Navigation Relay in your Workshop, you must have advanced into the <strong>Space</strong> era:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Requirement</th>
+					<th style="text-align: left">Type</th>
+					<th style="text-align: left">Cost / Detail</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Satellite</strong></td>
+					<td style="text-align: left">Space Building</td>
+					<td style="text-align: left">You must have at least one <strong>Satellite</strong> deployed.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/techs/orbital_engineering/">Orbital Engineering</a></td>
+					<td style="text-align: left">Technology</td>
+					<td style="text-align: left">The primary scientific prerequisite.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/resource/science/">Science</a></td>
+					<td style="text-align: left">Resource</td>
+					<td style="text-align: left"><strong>150,000 Science</strong></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/resource/star_charts/">Starcharts</a></td>
+					<td style="text-align: left">Resource</td>
+					<td style="text-align: left"><strong>1,500 Starcharts</strong></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/craft/alloy/">Alloy</a></td>
+					<td style="text-align: left">Resource</td>
+					<td style="text-align: left"><strong>1,000 Alloy</strong></td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="strategic-context">Strategic Context</h3>
+<p>Given your current focus on <a href="/upgrade/enriched_uranium/">Enriched Uranium</a> and managing <strong>Temporal Distortion</strong>, the Navigation Relay is a &ldquo;maintenance&rdquo; upgrade that ensures your foundation remains solid as you push into the Dark Future.</p>
+<ol>
+<li><strong>Scaling for the Farther Ring:</strong> As missions to <a href="/space/jupiter/">Jupiter</a> and beyond require thousands of Starcharts, the 15% boost from the Navigation Relay (especially when stacked with the <a href="/upgrade/hubble_space_telescope/">Hubble Space Telescope</a>) is essential to prevent a &ldquo;Starchart drought.&rdquo;</li>
+<li><strong>Antimatter Preparation:</strong> To build <a href="/space/containment-chamber/">Containment Chambers</a> for Antimatter, you need massive Science caps. Since Satellites contribute to your Science cap via the <a href="/upgrade/satellite_radio/">Satellite Radio</a> upgrade, the Navigation Relay helps push those caps even higher.</li>
+<li><strong>Efficiency:</strong> It is a relatively &ldquo;cheap&rdquo; upgrade compared to the cost of building 10 additional Satellites in the late game, making it a high-priority purchase after a reset.</li>
+</ol>
+<blockquote>
+<p><strong>Expert Tip:</strong> If you have already started farming <a href="/resource/void/">Void</a>, the Navigation Relay helps stabilize your Starchart income so you can keep your <a href="/space/research-vessel/">Research Vessels</a> and <a href="/space/space-beacon/">Space Beacons</a> active even when the timeline is experiencing Distortion.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Jupiter</title>
+      <link>/space/jupiter/</link>
+      <pubDate>Wed, 22 Apr 2026 20:27:17 +0000</pubDate>
+      <guid>/space/jupiter/</guid>
+      <description>&lt;p&gt;In &lt;strong&gt;Kittens Game&lt;/strong&gt;, &lt;a href=&#34;../space/jupiter/&#34;&gt;Jupiter&lt;/a&gt; is a pivotal location in the &lt;strong&gt;Space tab&lt;/strong&gt; that marks your transition from basic lunar exploration to heavy industrialization. It is the primary gateway to the &amp;ldquo;Farther Ring&amp;rdquo; of the solar system.&lt;/p&gt;
+&lt;h3 id=&#34;key-buildings--missions&#34;&gt;Key Buildings &amp;amp; Missions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jupiter Mission:&lt;/strong&gt; Launching this mission unlocks the planet. It is relatively expensive in the mid-game, requiring a significant amount of &lt;a href=&#34;../resource/star_charts/&#34;&gt;Starcharts&lt;/a&gt; and &lt;strong&gt;Rocket Fuel&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Saturn Mission:&lt;/strong&gt; Reaching Jupiter is a strict prerequisite for advancing to Saturn and the outer reaches of the system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HE-Fuel (Hydro-Electric Fuel):&lt;/strong&gt; Jupiter allows you to start utilizing hydrogen-based resources more effectively, which is essential for scaling your &lt;a href=&#34;../techs/rocketry/&#34;&gt;Rocketry&lt;/a&gt; efforts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;strategic-importance&#34;&gt;Strategic Importance&lt;/h3&gt;
+&lt;p&gt;For a player at your stage—managing &lt;a href=&#34;../upgrade/enriched_uranium/&#34;&gt;Enriched Uranium&lt;/a&gt; and &lt;a href=&#34;../upgrade/distortion/&#34;&gt;Distortion&lt;/a&gt;—Jupiter serves a few specialized roles:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In <strong>Kittens Game</strong>, <a href="/space/jupiter/">Jupiter</a> is a pivotal location in the <strong>Space tab</strong> that marks your transition from basic lunar exploration to heavy industrialization. It is the primary gateway to the &ldquo;Farther Ring&rdquo; of the solar system.</p>
+<h3 id="key-buildings--missions">Key Buildings &amp; Missions</h3>
+<ul>
+<li><strong>Jupiter Mission:</strong> Launching this mission unlocks the planet. It is relatively expensive in the mid-game, requiring a significant amount of <a href="/resource/star_charts/">Starcharts</a> and <strong>Rocket Fuel</strong>.</li>
+<li><strong>Saturn Mission:</strong> Reaching Jupiter is a strict prerequisite for advancing to Saturn and the outer reaches of the system.</li>
+<li><strong>HE-Fuel (Hydro-Electric Fuel):</strong> Jupiter allows you to start utilizing hydrogen-based resources more effectively, which is essential for scaling your <a href="/techs/rocketry/">Rocketry</a> efforts.</li>
+</ul>
+<hr>
+<h3 id="strategic-importance">Strategic Importance</h3>
+<p>For a player at your stage—managing <a href="/upgrade/enriched_uranium/">Enriched Uranium</a> and <a href="/upgrade/distortion/">Distortion</a>—Jupiter serves a few specialized roles:</p>
+<ol>
+<li><strong>Science Cap Scaling:</strong> Jupiter-related missions and buildings are often the key to pushing your <strong>Science Max</strong> into the range required for <a href="/resource/antimatter/">Antimatter</a> and <a href="/resource/relic/">Relic</a> technologies.</li>
+<li><strong>Unobtainium Boost:</strong> While the Moon is your first source, Jupiter (and its moons in certain versions/mods) provides the infrastructure needed to automate and accelerate your <a href="/resource/unobtainium/">Unobtainium</a> grind.</li>
+<li><a href="/space/space_elevator/">Space Elevators:</a> Improving your presence at Jupiter often complements your <a href="/space/space_elevator/">Space Elevators</a>, reducing the friction of moving resources between the ground and your orbital stations.</li>
+</ol>
+<h3 id="managing-the-starchart-bottleneck">Managing the Starchart Bottleneck</h3>
+<p>If you are struggling to afford the Jupiter mission or its upgrades, remember the <a href="/upgrade/hubble_space_telescope/">Hubble Space Telescope</a> upgrade we discussed. It will provide the 30% boost to your <a href="/techs/satellites/">Satellites</a> and <a href="/space/research-vessel/">Research Vessels</a> needed to generate the thousands of starcharts required for Jupiter operations.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sun Forge</title>
+      <link>/space/sun_forge/</link>
+      <pubDate>Sat, 14 Mar 2026 02:32:53 +0000</pubDate>
+      <guid>/space/sun_forge/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../space/sun_forge/&#34;&gt;Sunforge&lt;/a&gt; is a late-game space structure located on the star &lt;a href=&#34;../planet/helios/&#34;&gt;Helios&lt;/a&gt; that provides a global multiplier to your civilization&amp;rsquo;s metal storage capacity.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-building-requirements&#34;&gt;&lt;strong&gt;Acquisition and Building Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mission Unlock:&lt;/strong&gt; You must first complete the &lt;a href=&#34;../space/helios_mission/&#34;&gt;Helios Mission&lt;/a&gt;, which costs &lt;strong&gt;3,000 starcharts, 15,000 titanium, 250,000 science, and 1,250 kerosene&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Construction Costs:&lt;/strong&gt; Building a Sunforge requires the following resources:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/science/&#34;&gt;Science:&lt;/a&gt; 100,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/relic/&#34;&gt;Relic:&lt;/a&gt; 1&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/kerosene/&#34;&gt;Kerosene:&lt;/a&gt; 1,250&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/antimatter/&#34;&gt;Antimatter:&lt;/a&gt; 250&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.12.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects&#34;&gt;&lt;strong&gt;Core Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Sunforge provides a &lt;strong&gt;+1% bonus to the storage capacity of all base metals&lt;/strong&gt;. This storage boost specifically applies to:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/space/sun_forge/">Sunforge</a> is a late-game space structure located on the star <a href="/planet/helios/">Helios</a> that provides a global multiplier to your civilization&rsquo;s metal storage capacity.</p>
+<h3 id="acquisition-and-building-requirements"><strong>Acquisition and Building Requirements</strong></h3>
+<ul>
+<li><strong>Mission Unlock:</strong> You must first complete the <a href="/space/helios_mission/">Helios Mission</a>, which costs <strong>3,000 starcharts, 15,000 titanium, 250,000 science, and 1,250 kerosene</strong>.</li>
+<li><strong>Construction Costs:</strong> Building a Sunforge requires the following resources:
+<ul>
+<li><a href="/resource/science/">Science:</a> 100,000</li>
+<li><a href="/resource/relic/">Relic:</a> 1</li>
+<li><a href="/resource/kerosene/">Kerosene:</a> 1,250</li>
+<li><a href="/resource/antimatter/">Antimatter:</a> 250</li>
+</ul>
+</li>
+<li><strong>Price Ratio:</strong> 1.12.</li>
+</ul>
+<h3 id="core-effects"><strong>Core Effects</strong></h3>
+<p>The Sunforge provides a <strong>+1% bonus to the storage capacity of all base metals</strong>. This storage boost specifically applies to:</p>
+<ul>
+<li><a href="/resource/iron/">Iron</a></li>
+<li><a href="/resource/titanium/">Titanium</a></li>
+<li><a href="/resource/gold/">Gold</a></li>
+<li><a href="/resource/uranium/">Uranium</a></li>
+<li><a href="/resource/unobtainium/">Unobtainium</a></li>
+</ul>
+<h3 id="strategic-importance"><strong>Strategic Importance</strong></h3>
+<ul>
+<li><strong>Late-Game Scaling:</strong> While a 1% bonus per building may seem small, Sunforges are critical in the late game for breaking through resource caps that terrestrial buildings (like Barns or Warehouses) can no longer effectively expand.</li>
+<li><strong>Unobtainium Benchmarks:</strong> Sunforges are a key component in reaching the massive <strong>8.14 billion unobtainium capacity</strong> required to build <strong>100 Chronospheres</strong>. This capacity is necessary to establish a &ldquo;positive reset&rdquo; loop, where you start each new run with more resources than you spent on Chronospheres in the previous one.</li>
+<li><strong>Endgame Estimates:</strong> Advanced strategy guides suggest that during a deep endgame run, players should aim for approximately <strong>100 Sunforges</strong> to provide a massive cumulative boost to their storage limits.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Space Shuttle</title>
+      <link>/space/space_shuttle/</link>
+      <pubDate>Thu, 12 Mar 2026 06:04:38 +0000</pubDate>
+      <guid>/space/space_shuttle/</guid>
+      <description>&lt;p&gt;Part of the locked space exploration tree.&lt;/p&gt;
+&lt;p&gt;Staffed with science crew&lt;/p&gt;
+&lt;p&gt;Prices:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/antimatter/&#34;&gt;antimatter&lt;/a&gt;: 50&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/eludium/&#34;&gt;eludium&lt;/a&gt; 500
+Note: this is marked as TBD&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Part of the locked space exploration tree.</p>
+<p>Staffed with science crew</p>
+<p>Prices:</p>
+<ul>
+<li><a href="/resource/antimatter/">antimatter</a>: 50</li>
+<li><a href="/resource/eludium/">eludium</a> 500
+Note: this is marked as TBD</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>HR Harvester</title>
+      <link>/space/hr_harvster/</link>
+      <pubDate>Wed, 04 Mar 2026 20:44:33 +1100</pubDate>
+      <guid>/space/hr_harvster/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;HR Harvester&lt;/strong&gt; (Hawking Radiation Harvester) is an advanced late-game space structure located at the black hole &lt;a href=&#34;../planet/umbra/&#34;&gt;Umbra&lt;/a&gt;. It functions as a dynamic energy generator that operates on the energy of black hole evaporation.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Helios system, orbiting &lt;a href=&#34;../planet/umbra/&#34;&gt;Umbra&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Science/Mission Prerequisite:&lt;/strong&gt; Accessing Umbra requires a mission costing 25k Starcharts, 500k Science, 25k Kerosene, and 15k Thorium.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Construction Cost:&lt;/strong&gt; &lt;strong&gt;25 Relics&lt;/strong&gt; and &lt;strong&gt;1,250 Antimatter&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;energy-production-mechanics&#34;&gt;&lt;strong&gt;Energy Production Mechanics&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The HR Harvester is unique because its power output is not static; it provides a base of &lt;strong&gt;1 Watt&lt;/strong&gt; that increases indefinitely based on the age of your civilization and specific late-game upgrades.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <strong>HR Harvester</strong> (Hawking Radiation Harvester) is an advanced late-game space structure located at the black hole <a href="/planet/umbra/">Umbra</a>. It functions as a dynamic energy generator that operates on the energy of black hole evaporation.</p>
+<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<ul>
+<li><strong>Location:</strong> Helios system, orbiting <a href="/planet/umbra/">Umbra</a>.</li>
+<li><strong>Science/Mission Prerequisite:</strong> Accessing Umbra requires a mission costing 25k Starcharts, 500k Science, 25k Kerosene, and 15k Thorium.</li>
+<li><strong>Construction Cost:</strong> <strong>25 Relics</strong> and <strong>1,250 Antimatter</strong>.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+</ul>
+<h3 id="energy-production-mechanics"><strong>Energy Production Mechanics</strong></h3>
+<p>The HR Harvester is unique because its power output is not static; it provides a base of <strong>1 Watt</strong> that increases indefinitely based on the age of your civilization and specific late-game upgrades.</p>
+<ul>
+<li><strong>Dark Future Scaling:</strong> The energy output is primarily driven by a &ldquo;year bonus&rdquo; that activates once the calendar passes <strong>Year 40,000</strong>.
+<ul>
+<li>The bonus increases based on the number of years passed beyond 40,000, including years gained by <strong>shattering Time Crystals</strong>.</li>
+<li>While the rate of increase slows down over time (following a square root formula), there is <strong>no upper limit</strong> to how high the energy production can go.</li>
+</ul>
+</li>
+<li><strong>Void Rift Synergy:</strong> Each <a href="/buildings/void_rift/">Void Rift</a> (a structure in the Time tab) increases HR Harvester energy production by <strong>10%</strong>.</li>
+</ul>
+<h3 id="environmental-and-cycle-modifiers"><strong>Environmental and Cycle Modifiers</strong></h3>
+<p>The effectiveness of the harvester fluctuates based on the current cosmic cycle if <a href="/metaphysics/numerology/">Numerology</a> has been researched:</p>
+<ul>
+<li><a href="/cycles/umbra_cycle/">Umbra Cycle:</a> Energy production is increased by <strong>+50%</strong>.</li>
+<li><a href="/cycles/dune_cycle/">Dune Cycle:</a> Energy production is reduced by <strong>-25%</strong>.</li>
+</ul>
+<h3 id="strategic-importance"><strong>Strategic Importance</strong></h3>
+<ul>
+<li><strong>Energy Challenge:</strong> Building at least one HR Harvester is a mandatory requirement for completing the <strong>Energy Challenge</strong>.</li>
+<li><strong>Endgame Power Grid:</strong> Because its production scales with years, it eventually becomes a vital source of power for energy-intensive endgame structures like <a href="/buildings/ai_core/">AI Cores</a> and <a href="/space/entanglement-station/">Entanglement Stations</a>, especially during &ldquo;Deep Runs&rdquo; where the year count reaches into the hundreds of thousands.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Orbital Array</title>
+      <link>/space/orbital_array/</link>
+      <pubDate>Thu, 22 Jan 2026 16:40:36 +1100</pubDate>
+      <guid>/space/orbital_array/</guid>
+      <description>&lt;p&gt;An &lt;a href=&#34;../space/orbital_array/&#34;&gt;Orbital Array&lt;/a&gt; is a high-tier space structure in the Cath solar system that provides a &lt;strong&gt;2% bonus to all space structures&lt;/strong&gt;. While powerful, it is an energy-intensive building, consuming &lt;strong&gt;20 Watts&lt;/strong&gt; of power per unit.&lt;/p&gt;
+&lt;h3 id=&#34;construction-requirements&#34;&gt;&lt;strong&gt;Construction Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To build an Orbital Array, you must have unlocked the &lt;a href=&#34;../space/piscine_mission/&#34;&gt;Piscine mission&lt;/a&gt;. The base resource costs are substantial:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/science/&#34;&gt;Science:&lt;/a&gt; 250,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/eludium/&#34;&gt;Eludium:&lt;/a&gt; 100&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/kerosene/&#34;&gt;Kerosene:&lt;/a&gt; 500&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Starchart:&lt;/strong&gt; 2,000&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-synergies-and-scaling&#34;&gt;&lt;strong&gt;Strategic Synergies and Scaling&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The primary utility of the Orbital Array is scaling late-game resource production, particularly &lt;a href=&#34;../resource/unobtainium/&#34;&gt;Unobtainium&lt;/a&gt; from Lunar Outposts. Its effectiveness is significantly amplified by the following:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>An <a href="/space/orbital_array/">Orbital Array</a> is a high-tier space structure in the Cath solar system that provides a <strong>2% bonus to all space structures</strong>. While powerful, it is an energy-intensive building, consuming <strong>20 Watts</strong> of power per unit.</p>
+<h3 id="construction-requirements"><strong>Construction Requirements</strong></h3>
+<p>To build an Orbital Array, you must have unlocked the <a href="/space/piscine_mission/">Piscine mission</a>. The base resource costs are substantial:</p>
+<ul>
+<li><a href="/resource/science/">Science:</a> 250,000</li>
+<li><a href="/resource/eludium/">Eludium:</a> 100</li>
+<li><a href="/resource/kerosene/">Kerosene:</a> 500</li>
+<li><strong>Starchart:</strong> 2,000</li>
+<li><strong>Price Ratio:</strong> 1.15</li>
+</ul>
+<h3 id="strategic-synergies-and-scaling"><strong>Strategic Synergies and Scaling</strong></h3>
+<p>The primary utility of the Orbital Array is scaling late-game resource production, particularly <a href="/resource/unobtainium/">Unobtainium</a> from Lunar Outposts. Its effectiveness is significantly amplified by the following:</p>
+<ul>
+<li><a href="/upgrade/space_manufacturing/">Space Manufacturing:</a> Once this workshop upgrade is researched, <strong>Factories</strong> provide a bonus to the effectiveness of Orbital Arrays. The bonus is calculated as <strong>3.75% per factory</strong> (or 4.5% with the Factory Logistics upgrade).</li>
+<li><strong>Production Formula:</strong> The global space production bonus is calculated using the number of Space Elevators and Orbital Arrays, meaning they work together to exponentially increase output from structures like Planet Crackers and Lunar Outposts.</li>
+</ul>
+<h3 id="efficiency-and-profitability-analysis"><strong>Efficiency and Profitability Analysis</strong></h3>
+<p>In endgame strategy, players often debate whether Orbital Arrays are worth the high <a href="/resource/eludium/">Eludium</a> cost during short runs:</p>
+<ul>
+<li><strong>Short Runs vs. Long Runs:</strong> In runs shorter than 30 to 60 minutes, most strategic guides suggest <strong>ignoring Orbital Arrays</strong> and Moon Bases, instead prioritizing Space Elevators because they are more cost-effective.</li>
+<li><strong>The Eludium Bottleneck:</strong> Because Eludium is a crafted resource, its cost effectively consumes 1,000 Unobtainium per unit (modified by craft ratio). Consequently, an array is only considered profitable if the remaining time in the run allows it to generate more Unobtainium than was spent on its construction.</li>
+<li><strong>Break-even Calculation:</strong> To determine if an array is &ldquo;worth it,&rdquo; players can calculate their <strong>OF</strong> (Outposts multiplied by Factories) and compare the projected Unobtainium gain against the cost of the next array level.</li>
+</ul>
+<h3 id="role-in-the"><strong>Role in the &ldquo;Path to Infinity&rdquo;</strong></h3>
+<p>During the final &ldquo;Phase 4&rdquo; of development—aimed at achieving a self-sustaining reset loop—Orbital Arrays are essential for maximizing the <strong>Unobtainium generation rate</strong>. This rate is critical for trading with Leviathans for <a href="/resource/time_crystals/">Time Crystals</a> and <a href="/resource/relic/">Relics</a>, which eventually allow the player to bypass traditional resource mining altogether.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cryo Station</title>
+      <link>/space/cryo_station/</link>
+      <pubDate>Thu, 22 Jan 2026 16:33:26 +1100</pubDate>
+      <guid>/space/cryo_station/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../space/cryo_station/&#34;&gt;Cryostation&lt;/a&gt; is a vast, high-tier space storage facility located on the ice giant &lt;strong&gt;Terminus&lt;/strong&gt;. It is a critical structure for mid-to-late-game progression, specifically for overcoming the storage bottlenecks required to enter the Eludium era and establish Chronosphere resets.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Unlocking&lt;/strong&gt;: To build a Cryostation, you must first successfully complete the &lt;a href=&#34;../space/t-minus_mission/&#34;&gt;T-minus mission&lt;/a&gt; (which requires 2,500 starcharts, 12k titanium, 225k science, and 750 kerosene).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Construction Cost&lt;/strong&gt;: Each station costs &lt;strong&gt;200k Science, 25 Eludium, 1,500 Concrete, and 500 Kerosene&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio&lt;/strong&gt;: It features a relatively low price ratio of &lt;strong&gt;1.12&lt;/strong&gt;, making it easier to stack compared to terrestrial storage buildings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;storage-capabilities&#34;&gt;&lt;strong&gt;Storage Capabilities&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The primary function of a Cryostation is its massive boost to resource caps. Each station provides the following base storage increases:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/space/cryo_station/">Cryostation</a> is a vast, high-tier space storage facility located on the ice giant <strong>Terminus</strong>. It is a critical structure for mid-to-late-game progression, specifically for overcoming the storage bottlenecks required to enter the Eludium era and establish Chronosphere resets.</p>
+<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<ul>
+<li><strong>Unlocking</strong>: To build a Cryostation, you must first successfully complete the <a href="/space/t-minus_mission/">T-minus mission</a> (which requires 2,500 starcharts, 12k titanium, 225k science, and 750 kerosene).</li>
+<li><strong>Construction Cost</strong>: Each station costs <strong>200k Science, 25 Eludium, 1,500 Concrete, and 500 Kerosene</strong>.</li>
+<li><strong>Price Ratio</strong>: It features a relatively low price ratio of <strong>1.12</strong>, making it easier to stack compared to terrestrial storage buildings.</li>
+</ul>
+<h3 id="storage-capabilities"><strong>Storage Capabilities</strong></h3>
+<p>The primary function of a Cryostation is its massive boost to resource caps. Each station provides the following base storage increases:</p>
+<ul>
+<li><strong>Wood and Minerals</strong>: +200,000</li>
+<li><a href="/resource/titanium/">Titanium</a>: +7,500</li>
+<li><a href="/resource/oil/">Oil</a>: +7,500</li>
+<li><a href="/resource/uranium/">Uranium</a>: +5,000</li>
+<li><a href="/resource/iron/">Iron</a>: +50,000</li>
+<li><a href="/resource/coal/">Coal</a>: +25,000</li>
+<li><a href="/resource/unobtainium/">Unobtainium</a>: +750</li>
+<li><strong>Note</strong>: Unlike Moon Bases, Cryostations <strong>do not provide any catnip storage</strong>.</li>
+</ul>
+<h3 id="strategic-importance"><strong>Strategic Importance</strong></h3>
+<ul>
+<li><strong>The Titanium Bottleneck</strong>: Cryostations are one of the most effective ways to increase titanium storage, which is necessary to reach the <strong>125k cap</strong> required to research <a href="/upgrade/space_manufacturing/">Space Manufacturing</a>.</li>
+<li><strong>Unobtainium Era</strong>: They are essential for reaching the <strong>1,000 unobtainium storage</strong> threshold needed to craft Eludium effectively.</li>
+<li><strong>Endgame Chronospheres</strong>: In the late game, Cryostations (along with Moon Bases) are the only buildings that provide unobtainium capacity. They are vital for reaching the multi-billion unobtainium caps required for massive <a href="/buildings/chronosphere/">Chronosphere</a> resets.</li>
+</ul>
+<h3 id="environmental-and-scaling-modifiers"><strong>Environmental and Scaling Modifiers</strong></h3>
+<p>The effectiveness of Cryostations is influenced by the following factors:</p>
+<ul>
+<li><strong>Celestial Cycles</strong>: With Numerology researched, the <strong>T-minus cycle</strong> increases Cryostation storage by <strong>+20%</strong>, while the <a href="/cycles/helios_cycle/">Helios cycle</a> reduces it by <strong>-10%</strong>.</li>
+<li><a href="/buildings/spaceport/">Spaceports</a>: Each Spaceport provides a <strong>+0.85%</strong> boost to the capacity of your Cryostations.</li>
+<li><strong>Global Modifiers</strong>: Storage capacity is further enhanced by your current <a href="/resource/paragon/">Paragon</a> (0.1% per point), <a href="/transcendence/event_horizon/">Event Horizons</a> (+10% each), and <a href="/buildings/void_rift/">Void Rifts</a> (+2% each).</li>
+<li><a href="/space/sun_forge/">Sunforges</a>: These improve the storage of base metals (iron, titanium, uranium) by 1% per building.</li>
+</ul>
+<h3 id="distinction-from-cryochambers"><strong>Distinction from Cryochambers</strong></h3>
+<p>It is important not to confuse <a href="/space/cryo_station/">Cryostations</a> with <a href="/time/cryochamber/">Cryochambers</a>. While Cryostations are for resource storage, <a href="/time/cryochamber/">Cryochambers</a> are found in the Time tab and are used to house and carry over individual kittens into your next game reset. Cryochambers require Time Crystals, Void, and Karma to build and are limited by the number of active Chronospheres you possess.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Space Elevator</title>
+      <link>/space/space_elevator/</link>
+      <pubDate>Thu, 22 Jan 2026 16:05:25 +1100</pubDate>
+      <guid>/space/space_elevator/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../space/space_elevator/&#34;&gt;Space Elevator&lt;/a&gt; is a foundational space structure in the sources, situated on the planet Cath, that serves as a critical bridge between terrestrial industry and orbital expansion. It is unlocked following a successful &lt;a href=&#34;../space/orbital_launch/&#34;&gt;Orbital Launch&lt;/a&gt; and requires the research of both &lt;strong&gt;Orbital Engineering and Nanotechnology&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;costs-and-core-effects&#34;&gt;&lt;strong&gt;Costs and Core Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The structure requires &lt;strong&gt;6,000 Titanium, 75,000 Science, and 50 Unobtainium&lt;/strong&gt; to construct, featuring a price ratio of &lt;strong&gt;1.15&lt;/strong&gt;. Its primary benefits include:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/space/space_elevator/">Space Elevator</a> is a foundational space structure in the sources, situated on the planet Cath, that serves as a critical bridge between terrestrial industry and orbital expansion. It is unlocked following a successful <a href="/space/orbital_launch/">Orbital Launch</a> and requires the research of both <strong>Orbital Engineering and Nanotechnology</strong>.</p>
+<h3 id="costs-and-core-effects"><strong>Costs and Core Effects</strong></h3>
+<p>The structure requires <strong>6,000 Titanium, 75,000 Science, and 50 Unobtainium</strong> to construct, featuring a price ratio of <strong>1.15</strong>. Its primary benefits include:</p>
+<ul>
+<li><strong>Oil Efficiency:</strong> It reduces the oil requirements for space missions and buildings by <strong>5%</strong> per level. This effect is subject to diminishing returns and is capped at a <strong>75% reduction</strong>.</li>
+<li><strong>Space Structure Bonus:</strong> It provides a flat <strong>1% bonus</strong> to the effectiveness of all other space structures.</li>
+<li><strong>Production Transfer:</strong> It transfers <strong>0.1% of your global production</strong> specifically to <strong>Hydraulic Fracturers</strong> and <strong>Spice Refineries</strong> on Dune.</li>
+</ul>
+<h3 id="strategic-synergies-and-scaling"><strong>Strategic Synergies and Scaling</strong></h3>
+<p>The true utility of Space Elevators depends heavily on late-game technological integration. The sources emphasize that Space Elevators are <strong>not particularly worth their cost</strong> until the <a href="/upgrade/space_manufacturing/">Space Manufacturing</a> workshop upgrade is researched.</p>
+<ul>
+<li><strong>Space Manufacturing Interaction:</strong> Once unlocked, each <a href="/buildings/factory/">Factory</a> provides a bonus to space production (3.75% per factory, or 4.5% with <a href="/upgrade/factory_logistics/">Factory Logistics</a>) that amplifies the base bonus provided by Space Elevators.</li>
+<li><strong>Cycle Modifiers:</strong> If <a href="/metaphysics/numerology/">Numerology</a> is researched, the <a href="/cycles/cath_cycle/">Cath cycle</a> doubles the transferred production bonus for oil, while the <a href="/cycles/kairo_cycle/">Kairo cycle</a> reduces the overall transferred production bonus by <strong>50%</strong>.</li>
+</ul>
+<h3 id="endgame-utility-and-management"><strong>Endgame Utility and Management</strong></h3>
+<p>In the late game, Space Elevators become a primary driver for <a href="/resource/unobtainium/">Unobtainium</a> and <strong>Time Crystal</strong> farming.</p>
+<ul>
+<li><strong>Unobtainium Production:</strong> They are essential for boosting the output of <a href="/planet/lunar_outpost/">Lunar Outposts</a>. Strategic advice suggests prioritizing the purchase of Space Elevators over Moon Bases and Orbital Arrays during short runs.</li>
+<li><strong>Profitability Calculations:</strong> Advanced players use a &ldquo;break-even&rdquo; formula to determine if building another elevator is worth it based on the remaining time in a run. For example, if the calculated gain in unobtainium is greater than half the construction cost, it is profitable to build and later sell the structure.</li>
+<li><strong>Reset Procedure:</strong> Because Space Elevators do not carry over during a reset, the sources recommend <strong>selling them all</strong> immediately before resetting to reclaim 50% of the invested resources.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Spice refinery</title>
+      <link>/space/spice_refinery/</link>
+      <pubDate>Thu, 22 Jan 2026 16:04:51 +1100</pubDate>
+      <guid>/space/spice_refinery/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../space/spice_refinery/&#34;&gt;Spice Refinery&lt;/a&gt; is a space-based industrial structure located on the planet &lt;a href=&#34;../planet/dune/&#34;&gt;Dune&lt;/a&gt;. It is designed to refine the planet&amp;rsquo;s sand into &lt;a href=&#34;../resource/spice/&#34;&gt;Spice&lt;/a&gt;, a rare and psychoactive luxury resource.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Spice Refinery becomes available once you have successfully completed the &lt;a href=&#34;../space/dune_mission/&#34;&gt;Dune Mission&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Resource Requirements:&lt;/strong&gt; 500 Starcharts, 500 Alloy, 75,000 Science, and 125 Kerosene.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;production-and-synergies&#34;&gt;&lt;strong&gt;Production and Synergies&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Output:&lt;/strong&gt; Each refinery produces &lt;strong&gt;0.125 Spice per second&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Space Elevator Synergy:&lt;/strong&gt; Space Elevators provide a specialized bonus to Spice Refineries, granting them &lt;strong&gt;0.1% of your global production&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automation:&lt;/strong&gt; While not directly listed as having specific &amp;ldquo;upgrades&amp;rdquo; like the Planet Cracker, its production can be amplified by general space production modifiers such as &lt;a href=&#34;../space/orbital_array/&#34;&gt;Orbital Arrays&lt;/a&gt; (+2%) and &lt;a href=&#34;../upgrade/space_manufacturing/&#34;&gt;Space Manufacturing&lt;/a&gt; (bonus based on factory craft ratio).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-utility-of-spice&#34;&gt;&lt;strong&gt;The Utility of Spice&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Spice is a &amp;ldquo;Rare Resource&amp;rdquo; that plays a critical role in colony happiness and late-game utility:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/space/spice_refinery/">Spice Refinery</a> is a space-based industrial structure located on the planet <a href="/planet/dune/">Dune</a>. It is designed to refine the planet&rsquo;s sand into <a href="/resource/spice/">Spice</a>, a rare and psychoactive luxury resource.</p>
+<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<p>The Spice Refinery becomes available once you have successfully completed the <a href="/space/dune_mission/">Dune Mission</a>.</p>
+<ul>
+<li><strong>Resource Requirements:</strong> 500 Starcharts, 500 Alloy, 75,000 Science, and 125 Kerosene.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+</ul>
+<h3 id="production-and-synergies"><strong>Production and Synergies</strong></h3>
+<ul>
+<li><strong>Base Output:</strong> Each refinery produces <strong>0.125 Spice per second</strong>.</li>
+<li><strong>Space Elevator Synergy:</strong> Space Elevators provide a specialized bonus to Spice Refineries, granting them <strong>0.1% of your global production</strong>.</li>
+<li><strong>Automation:</strong> While not directly listed as having specific &ldquo;upgrades&rdquo; like the Planet Cracker, its production can be amplified by general space production modifiers such as <a href="/space/orbital_array/">Orbital Arrays</a> (+2%) and <a href="/upgrade/space_manufacturing/">Space Manufacturing</a> (bonus based on factory craft ratio).</li>
+</ul>
+<h3 id="the-utility-of-spice"><strong>The Utility of Spice</strong></h3>
+<p>Spice is a &ldquo;Rare Resource&rdquo; that plays a critical role in colony happiness and late-game utility:</p>
+<ul>
+<li><strong>Happiness Bonus:</strong> Each unit of spice provides a <strong>+10% happiness boost</strong>.</li>
+<li><strong>Consumption:</strong> Like other rare resources (furs and ivory), spice is <strong>gradually consumed</strong> over time. Consumption rates can be managed through Policy/:
+<ul>
+<li><a href="/policy/stoicism/">Stoicism:</a> Reduces spice consumption by <strong>50%</strong>.</li>
+<li><strong>Epicureanism/Extravagance:</strong> Increases the happiness benefit of spice (up to 5 happiness points) but causes it to be consumed much faster (up to 200% rate).</li>
+</ul>
+</li>
+<li><strong>Brewery Interaction:</strong> Spice is a required input for <strong>Breweries</strong>, which consume <strong>0.1 spice per tick</strong> to provide bonuses to festivals, such as increased happiness and kitten arrival speed.</li>
+</ul>
+<h3 id="strategic-importance"><strong>Strategic Importance</strong></h3>
+<p>In the mid-to-late game, the Spice Refinery is the primary method for <strong>automating</strong> spice acquisition. Prior to reaching Dune, spice is only obtainable as a rare, random drop from <a href="/guides/trading/">trading</a> with other civilizations. By building refineries, you ensure a stable supply to maintain high kitten happiness and power your Breweries without relying on the RNG of trade.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hyrdaulic Fracturer</title>
+      <link>/space/hyrdaulic_fracturer/</link>
+      <pubDate>Thu, 22 Jan 2026 16:03:06 +1100</pubDate>
+      <guid>/space/hyrdaulic_fracturer/</guid>
+      <description>&lt;p&gt;A &lt;strong&gt;Hydraulic Fracturer&lt;/strong&gt; is a high-tier space structure situated on the planet &lt;a href=&#34;../planet/dune/&#34;&gt;Dune&lt;/a&gt; that produces a high-pressure stream of &lt;a href=&#34;../resource/oil/&#34;&gt;oil&lt;/a&gt;. It is a critical component of late-game resource management, specifically for sustaining the heavy oil requirements of the &lt;strong&gt;Eludium Era&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To access this building, you must first reach the Space tab by researching &lt;a href=&#34;../techs/rocketry/&#34;&gt;Rocketry&lt;/a&gt; and successfully complete the &lt;a href=&#34;../space/dune_mission/&#34;&gt;Dune Mission&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mission Requirements:&lt;/strong&gt; 1,000 Starcharts, 7,000 Titanium, 175k Science, and 75 Kerosene.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Building Cost:&lt;/strong&gt; Each Hydraulic Fracturer costs &lt;strong&gt;750 Starcharts, 1,025 Alloy, 150k Science, and 100 Kerosene&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; The building has a price ratio of &lt;strong&gt;1.18&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;production-and-scaling&#34;&gt;&lt;strong&gt;Production and Scaling&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The base effect of a Hydraulic Fracturer is the production of &lt;strong&gt;2.5 oil per second&lt;/strong&gt;. While powerful, its true utility comes from several late-game scaling mechanisms:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <strong>Hydraulic Fracturer</strong> is a high-tier space structure situated on the planet <a href="/planet/dune/">Dune</a> that produces a high-pressure stream of <a href="/resource/oil/">oil</a>. It is a critical component of late-game resource management, specifically for sustaining the heavy oil requirements of the <strong>Eludium Era</strong>.</p>
+<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<p>To access this building, you must first reach the Space tab by researching <a href="/techs/rocketry/">Rocketry</a> and successfully complete the <a href="/space/dune_mission/">Dune Mission</a>.</p>
+<ul>
+<li><strong>Mission Requirements:</strong> 1,000 Starcharts, 7,000 Titanium, 175k Science, and 75 Kerosene.</li>
+<li><strong>Building Cost:</strong> Each Hydraulic Fracturer costs <strong>750 Starcharts, 1,025 Alloy, 150k Science, and 100 Kerosene</strong>.</li>
+<li><strong>Price Ratio:</strong> The building has a price ratio of <strong>1.18</strong>.</li>
+</ul>
+<h3 id="production-and-scaling"><strong>Production and Scaling</strong></h3>
+<p>The base effect of a Hydraulic Fracturer is the production of <strong>2.5 oil per second</strong>. While powerful, its true utility comes from several late-game scaling mechanisms:</p>
+<ul>
+<li><a href="/upgrade/space_manufacturing/">Space Manufacturing:</a> Sources indicate that Hydraulic Fracturers are &ldquo;not particularly effective&rdquo; until the <a href="/upgrade/space_manufacturing/">Space Manufacturing</a> workshop upgrade is researched. Once active, <strong>Factories</strong> provide a bonus to space production (equivalent to 75% of the factory craft ratio), which significantly amplifies the output of these structures.</li>
+<li><a href="/space/space_elevator/">Space Elevators:</a> These terrestrial structures provide a unique synergy, granting <strong>0.1% of your global production</strong> specifically to Hydraulic Fracturers and Spice Refineries.</li>
+<li><a href="/space/orbital_array/">Orbital Arrays:</a> These provide a flat <strong>2% bonus</strong> to all space structures, including the Fracturer.</li>
+</ul>
+<h3 id="environmental-and-cyclical-modifiers"><strong>Environmental and Cyclical Modifiers</strong></h3>
+<p>If you have researched <a href="/metaphysics/numerology/">Numerology</a>, the current celestial cycle will drastically alter the efficiency of your oil production on Dune:</p>
+<ul>
+<li><a href="/cycles/dune_cycle/">Dune Cycle:</a> Provides a massive <strong>+50% boost</strong> to oil output.</li>
+<li><a href="/cycles/umbra_cycle/">Umbra Cycle:</a> Imposes a <strong>-25% penalty</strong> to production.</li>
+<li><a href="/guides/festivals/">Festivals:</a> Under the <a href="/metaphysics/numeromancy/">Numeromancy</a> upgrade, holding a festival during the <strong>T-minus cycle</strong> provides a <strong>2x multiplier to oil income</strong>, which further synergises with your Fracturer infrastructure.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>As you transition into the late game, oil becomes a significant bottleneck for producing <a href="/resource/kerosene/">Kerosene</a> and maintaining <a href="/space/research-vessel/">Research Vessels</a>. While early-game oil management relies on Oil Wells and Bio Labs, the Hydraulic Fracturer is the primary method for scaling oil production to the levels required for deep-space exploration and <a href="/resource/antimatter/">Antimatter</a> generation. Strategic advice suggests that if your oil is constantly hitting its cap, you should consider using <a href="/job/engineer/">Engineers</a> to automate the conversion of oil into Kerosene to ensure your Fracturers never halt production.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Planet Cracker</title>
+      <link>/space/planet_cracker/</link>
+      <pubDate>Thu, 22 Jan 2026 16:01:37 +1100</pubDate>
+      <guid>/space/planet_cracker/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../space/planet_cracker/&#34;&gt;Planet Cracker&lt;/a&gt; (specifically the USS Mining Vessel &lt;em&gt;Hissmeowra&lt;/em&gt;) is a massive space-based mining structure used to extract large quantities of &lt;a href=&#34;../resource/uranium/&#34;&gt;Uranium&lt;/a&gt; from the planet Dune. It is a critical component for transitioning into the &lt;strong&gt;Eludium Era&lt;/strong&gt;, as it provides the steady Uranium supply required for &lt;a href=&#34;../planet/lunar_outpost/&#34;&gt;Lunar Outposts&lt;/a&gt; to refine into &lt;a href=&#34;../resource/unobtainium/&#34;&gt;Unobtainium&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The structure is found in the Space tab once the player has successfully landed on &lt;a href=&#34;../planet/dune/&#34;&gt;Dune&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must complete the &lt;a href=&#34;../space/dune_mission/&#34;&gt;Dune Mission&lt;/a&gt; (which costs 1,000 Starcharts, 7,000 Titanium, 175k Science, and 75 Kerosene).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; Each Planet Cracker costs &lt;strong&gt;2,500 Starcharts, 1,750 Alloy, 125,000 Science, and 50 Kerosene&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.18.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects&#34;&gt;&lt;strong&gt;Core Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Uranium Production:&lt;/strong&gt; Generates &lt;strong&gt;1.5 Uranium per second&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Uranium Storage:&lt;/strong&gt; Increases your maximum Uranium capacity by &lt;strong&gt;1,750&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capacity Boost:&lt;/strong&gt; Upgrading a Warehouse to a &lt;a href=&#34;../buildings/spaceport/&#34;&gt;Spaceport&lt;/a&gt; increases the capacity of Planet Crackers by &lt;strong&gt;0.85%&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;upgrades-and-scaling&#34;&gt;&lt;strong&gt;Upgrades and Scaling&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The effectiveness of a Planet Cracker can be significantly enhanced through various technological and industrial milestones:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/space/planet_cracker/">Planet Cracker</a> (specifically the USS Mining Vessel <em>Hissmeowra</em>) is a massive space-based mining structure used to extract large quantities of <a href="/resource/uranium/">Uranium</a> from the planet Dune. It is a critical component for transitioning into the <strong>Eludium Era</strong>, as it provides the steady Uranium supply required for <a href="/planet/lunar_outpost/">Lunar Outposts</a> to refine into <a href="/resource/unobtainium/">Unobtainium</a>.</p>
+<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<p>The structure is found in the Space tab once the player has successfully landed on <a href="/planet/dune/">Dune</a>.</p>
+<ul>
+<li><strong>Prerequisite:</strong> You must complete the <a href="/space/dune_mission/">Dune Mission</a> (which costs 1,000 Starcharts, 7,000 Titanium, 175k Science, and 75 Kerosene).</li>
+<li><strong>Cost:</strong> Each Planet Cracker costs <strong>2,500 Starcharts, 1,750 Alloy, 125,000 Science, and 50 Kerosene</strong>.</li>
+<li><strong>Price Ratio:</strong> 1.18.</li>
+</ul>
+<h3 id="core-effects"><strong>Core Effects</strong></h3>
+<ul>
+<li><strong>Uranium Production:</strong> Generates <strong>1.5 Uranium per second</strong>.</li>
+<li><strong>Uranium Storage:</strong> Increases your maximum Uranium capacity by <strong>1,750</strong>.</li>
+<li><strong>Capacity Boost:</strong> Upgrading a Warehouse to a <a href="/buildings/spaceport/">Spaceport</a> increases the capacity of Planet Crackers by <strong>0.85%</strong>.</li>
+</ul>
+<h3 id="upgrades-and-scaling"><strong>Upgrades and Scaling</strong></h3>
+<p>The effectiveness of a Planet Cracker can be significantly enhanced through various technological and industrial milestones:</p>
+<ul>
+<li><a href="/upgrade/planet_busters/">Planet Busters:</a> This upgrade, available via the <strong>Exometallurgy</strong> (Advanced Exogeology) technology, increases the Uranium output of Planet Crackers by <strong>100%</strong> (effectively doubling it).</li>
+<li><a href="/upgrade/space_manufacturing/">Space Manufacturing:</a> Once researched, <strong>Factories</strong> provide a bonus to Planet Crackers (and other space structures) based on your factory craft ratio.</li>
+<li><strong>Space Production Bonus:</strong> Output is also boosted by the combined bonuses from <a href="/space/space_elevator/">Space Elevators</a> and <a href="/space/orbital_array/">Orbital Arrays</a>.</li>
+</ul>
+<h3 id="cycle-and-environmental-modifiers"><strong>Cycle and Environmental Modifiers</strong></h3>
+<p>If the player has researched <a href="/metaphysics/numerology/">Numerology</a>, the current celestial cycle impacts the vessel&rsquo;s efficiency:</p>
+<ul>
+<li><a href="/cycles/dune_cycle/">Dune Cycle:</a> Uranium output is increased by <strong>10%</strong>.</li>
+<li><a href="/cycles/umbra_cycle/">Umbra Cycle:</a> Uranium output is reduced by <strong>10%</strong>.</li>
+<li><a href="/guides/pollution/">Pollution:</a> High levels of CO2 and pollution in the atmosphere can harm resource production and may reduce the effectiveness of the production bonuses applied to these structures.</li>
+</ul>
+<h3 id="strategic-importance"><strong>Strategic Importance</strong></h3>
+<p>The Planet Cracker is the most efficient method for generating the massive amounts of Uranium needed in the late game. For context, a <a href="/planet/lunar_outpost/">Lunar Outpost</a> consumes Uranium at a rate of <strong>1.75 per second</strong>, meaning a single un-upgraded Planet Cracker (producing 1.5/sec) almost entirely offsets the cost of one outpost. Without this stable supply, players must rely on Accelerators or trading with Dragons, which are significantly slower and less reliable for sustaining large-scale Unobtainium production.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sunlifter</title>
+      <link>/space/sunlifter/</link>
+      <pubDate>Thu, 22 Jan 2026 15:47:56 +1100</pubDate>
+      <guid>/space/sunlifter/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../space/sunlifter/&#34;&gt;Sunlifter&lt;/a&gt; is a high-tier space structure built in the center of the Helios solar system, serving as the primary engine for &lt;strong&gt;antimatter production&lt;/strong&gt; and late-game energy generation. It is a critical component for transitioning into the Relic era and completing high-level challenges.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To construct a Sunlifter, you must first complete the &lt;a href=&#34;../space/helios_mission/&#34;&gt;Helios Mission&lt;/a&gt; (3,000 starcharts, 15k titanium, 250k science, and 1,250 kerosene).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Structure Cost:&lt;/strong&gt; 500k Science, 225 Eludium, and 2,500 Kerosene.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenge Requirement:&lt;/strong&gt; Building at least one Sunlifter is a mandatory goal for completing the &lt;strong&gt;Energy Challenge&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-functions&#34;&gt;&lt;strong&gt;Core Functions&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Sunlifter provides two essential resources simultaneously:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/space/sunlifter/">Sunlifter</a> is a high-tier space structure built in the center of the Helios solar system, serving as the primary engine for <strong>antimatter production</strong> and late-game energy generation. It is a critical component for transitioning into the Relic era and completing high-level challenges.</p>
+<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<p>To construct a Sunlifter, you must first complete the <a href="/space/helios_mission/">Helios Mission</a> (3,000 starcharts, 15k titanium, 250k science, and 1,250 kerosene).</p>
+<ul>
+<li><strong>Structure Cost:</strong> 500k Science, 225 Eludium, and 2,500 Kerosene.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+<li><strong>Challenge Requirement:</strong> Building at least one Sunlifter is a mandatory goal for completing the <strong>Energy Challenge</strong>.</li>
+</ul>
+<h3 id="core-functions"><strong>Core Functions</strong></h3>
+<p>The Sunlifter provides two essential resources simultaneously:</p>
+<ol>
+<li><strong>Energy Production:</strong> It generates <strong>30 Watts</strong> of energy. Alongside Hydro Plants, Sunlifters are the main focus for power generation in the late game.</li>
+<li><strong>Antimatter Generation:</strong> It produces <strong>1 antimatter per year</strong>. Antimatter is only generated at the change of the calendar year and only if your global energy production is <strong>positive</strong>.</li>
+</ol>
+<h3 id="celestial-cycle-interactions"><strong>Celestial Cycle Interactions</strong></h3>
+<p>The effectiveness of Sunlifters is heavily influenced by the ten-cycle system if you have researched <a href="/metaphysics/numerology/">Numerology</a>:</p>
+<ul>
+<li><a href="/cycles/helios_cycle/">Helios Cycle:</a> Provides a <strong>+50% bonus</strong> to Sunlifter energy output.</li>
+<li><strong>T-minus Cycle:</strong> Imposes a <strong>-50% penalty</strong> to Sunlifter energy output.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<ul>
+<li><strong>The Relic Era:</strong> Sunlifters are vital for reaching the <strong>5,000 antimatter cap</strong> required for <a href="/upgrade/relic_station/">Relic Stations</a>. To achieve this cap, you will typically need to power a vast array of Heatsinks and Containment Chambers, which require massive energy surpluses provided by Sunlifters.</li>
+<li><strong>Time Skipping:</strong> Because antimatter is granted only once per year, players often use <a href="/resource/time_crystals/">Time Crystals</a> to &ldquo;shatter&rdquo; or skip years. This triggers the year-change logic repeatedly, allowing you to harvest antimatter from your Sunlifters much faster than waiting in real-time.</li>
+<li><strong>Late-Game Power:</strong> While Reactors provide significant power, they consume Thorium; Sunlifters provide a stable, &ldquo;clean&rdquo; alternative that is essential for maintaining the energy required for <a href="/space/heatsink/">Heatsinks</a> and <a href="/space/containment-chamber/">Containment Chambers</a>.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Centaurus System Mission</title>
+      <link>/space/centaurus_system_mission/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/space/centaurus_system_mission/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../space/centaurus_system_mission/&#34;&gt;Centaurus System Mission&lt;/a&gt; is a high-tier late-game space project that allows your kittens to travel to a warm, faraway star system. It represents one of the final stages of stellar exploration before reaching the theoretical &amp;ldquo;end of the universe&amp;rdquo;.&lt;/p&gt;
+&lt;h3 id=&#34;mission-logistics-and-costs&#34;&gt;&lt;strong&gt;Mission Logistics and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Unlock Prerequisite:&lt;/strong&gt; You must first successfully complete the &lt;strong&gt;Rorschach Mission&lt;/strong&gt; to unlock Centaurus.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resource Requirements:&lt;/strong&gt; The launch requires &lt;strong&gt;100k Starcharts&lt;/strong&gt;, &lt;strong&gt;40k Titanium&lt;/strong&gt;, &lt;strong&gt;400k Science&lt;/strong&gt;, &lt;strong&gt;50k Kerosene&lt;/strong&gt;, and &lt;strong&gt;50k Thorium&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Travel Time:&lt;/strong&gt; The base travel time is &lt;strong&gt;120,000 game-days&lt;/strong&gt;, which is approximately &lt;strong&gt;2 days, 18 hours, and 40 minutes&lt;/strong&gt; in real-time. This can be reduced by a factor of &lt;strong&gt;75&lt;/strong&gt; (bringing it down to roughly 53 minutes) if you have researched both &lt;a href=&#34;../resource/thorium/&#34;&gt;Thorium&lt;/a&gt; and &lt;a href=&#34;../upgrade/antimatter_drive/&#34;&gt;Antimatter Drives&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;unlocked-infrastructure&#34;&gt;&lt;strong&gt;Unlocked Infrastructure&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Successfully reaching the Centaurus System provides access to powerful energy-generating structures:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/space/centaurus_system_mission/">Centaurus System Mission</a> is a high-tier late-game space project that allows your kittens to travel to a warm, faraway star system. It represents one of the final stages of stellar exploration before reaching the theoretical &ldquo;end of the universe&rdquo;.</p>
+<h3 id="mission-logistics-and-costs"><strong>Mission Logistics and Costs</strong></h3>
+<ul>
+<li><strong>Unlock Prerequisite:</strong> You must first successfully complete the <strong>Rorschach Mission</strong> to unlock Centaurus.</li>
+<li><strong>Resource Requirements:</strong> The launch requires <strong>100k Starcharts</strong>, <strong>40k Titanium</strong>, <strong>400k Science</strong>, <strong>50k Kerosene</strong>, and <strong>50k Thorium</strong>.</li>
+<li><strong>Travel Time:</strong> The base travel time is <strong>120,000 game-days</strong>, which is approximately <strong>2 days, 18 hours, and 40 minutes</strong> in real-time. This can be reduced by a factor of <strong>75</strong> (bringing it down to roughly 53 minutes) if you have researched both <a href="/resource/thorium/">Thorium</a> and <a href="/upgrade/antimatter_drive/">Antimatter Drives</a>.</li>
+</ul>
+<h3 id="unlocked-infrastructure"><strong>Unlocked Infrastructure</strong></h3>
+<p>Successfully reaching the Centaurus System provides access to powerful energy-generating structures:</p>
+<ul>
+<li><a href="/space/tectonic/">Tectonic:</a> A massive industrial project that rips open the planet near the Centaurus star to collect magma energy. It costs <strong>600k Science</strong>, <strong>500 Antimatter</strong>, and <strong>75k Thorium</strong> to build and provides a base <strong>+25 Energy Production</strong>. It requires the <a href="/techs/terraformation/">Terraformation</a> technology.</li>
+<li><a href="/space/molten-core/">Molten Core:</a> An advanced upgrade that costs <strong>25M Science</strong> and <strong>5M Uranium</strong>. Each level of Molten Core improves the effectiveness of Tectonic structures by <strong>5%</strong>. It requires the <a href="/techs/exophysics/">Exophysics</a> technology.</li>
+</ul>
+<h3 id="strategic-progression"><strong>Strategic Progression</strong></h3>
+<ul>
+<li><strong>Challenge Unlocks:</strong> Completing the Centaurus Mission is the mandatory prerequisite to unlock the <strong>Energy Challenge</strong>. This challenge doubles energy consumption but rewards players with a permanent reduction in production penalties caused by negative energy.</li>
+<li><a href="/planet/furthest_ring/">Furthest Ring:</a> Reaching the Centaurus System is the final requirement before you can launch the mission to the <a href="/planet/furthest_ring/">Furthest Ring</a>, described as the end of the universe.</li>
+<li><strong>Endgame Utility:</strong> Because this mission and its associated buildings require massive amounts of <strong>Thorium, Antimatter, and Science</strong>, it is typically undertaken only after the player has established a robust &ldquo;Shatter Engine&rdquo; and significant science storage through structures like <a href="/space/space-beacon/">Space Beacons</a>.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Charon Mission</title>
+      <link>/space/charon_mission/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/space/charon_mission/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../space/charon_mission/&#34;&gt;Charon Mission&lt;/a&gt; is a significant late-game space project that takes your kittens to a small, incredibly dense dwarf planet on the far edge of the Helios system. Known colloquially as &amp;ldquo;&lt;strong&gt;The Gates of Death&lt;/strong&gt;&amp;rdquo; due to its hostile and barren environment, it represents one of the final frontiers of planetary exploration before reaching the Centaurus system.&lt;/p&gt;
+&lt;h3 id=&#34;mission-requirements-and-unlocks&#34;&gt;&lt;strong&gt;Mission Requirements and Unlocks&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must successfully complete the &lt;a href=&#34;../space/umbra_mission/&#34;&gt;Umbra Mission&lt;/a&gt; before the Charon Mission becomes available.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Launch Costs:&lt;/strong&gt; This project requires a massive stockpile of advanced resources: &lt;strong&gt;75,000 Starcharts&lt;/strong&gt;, &lt;strong&gt;750,000 Science&lt;/strong&gt;, &lt;strong&gt;35,000 Kerosene&lt;/strong&gt;, and &lt;strong&gt;35,000 Thorium&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlocks:&lt;/strong&gt; Successfully landing on the planet unlocks the &lt;strong&gt;Charon Planet&lt;/strong&gt; tab and the ability to construct the &lt;a href=&#34;../space/entanglement-station/&#34;&gt;Entanglement Station&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;entanglement-stations&#34;&gt;&lt;a href=&#34;../space/entanglement-station/&#34;&gt;Entanglement Stations&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Once Charon is reached, you can build &lt;a href=&#34;../space/entanglement-station/&#34;&gt;Entanglement Stations&lt;/a&gt;, which are essential for advanced quantum computing and hashrate generation.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/space/charon_mission/">Charon Mission</a> is a significant late-game space project that takes your kittens to a small, incredibly dense dwarf planet on the far edge of the Helios system. Known colloquially as &ldquo;<strong>The Gates of Death</strong>&rdquo; due to its hostile and barren environment, it represents one of the final frontiers of planetary exploration before reaching the Centaurus system.</p>
+<h3 id="mission-requirements-and-unlocks"><strong>Mission Requirements and Unlocks</strong></h3>
+<ul>
+<li><strong>Prerequisite:</strong> You must successfully complete the <a href="/space/umbra_mission/">Umbra Mission</a> before the Charon Mission becomes available.</li>
+<li><strong>Launch Costs:</strong> This project requires a massive stockpile of advanced resources: <strong>75,000 Starcharts</strong>, <strong>750,000 Science</strong>, <strong>35,000 Kerosene</strong>, and <strong>35,000 Thorium</strong>.</li>
+<li><strong>Unlocks:</strong> Successfully landing on the planet unlocks the <strong>Charon Planet</strong> tab and the ability to construct the <a href="/space/entanglement-station/">Entanglement Station</a>.</li>
+</ul>
+<h3 id="entanglement-stations"><a href="/space/entanglement-station/">Entanglement Stations</a></h3>
+<p>Once Charon is reached, you can build <a href="/space/entanglement-station/">Entanglement Stations</a>, which are essential for advanced quantum computing and hashrate generation.</p>
+<ul>
+<li><strong>Cost:</strong> Each station costs <strong>1,250 Relics</strong>, <strong>5,250 Antimatter</strong>, and <strong>5,000 Eludium</strong>.</li>
+<li><strong>Function:</strong> These stations consume 25 Wt of energy and <strong>0.1 gigaflops per tick</strong> (produced by AI Cores) to generate <strong>0.1 hashes per tick</strong>.</li>
+<li><strong>Strategic Utility:</strong> Hashes are used to increase your <strong>hashrate level</strong>, which provides a <strong>+25% bonus to <a href="/guides/creating-relics/"> relic production </a></strong> from Space Beacons for every level achieved. This is a core component of the &ldquo;Antimatter Phase&rdquo; of the endgame, where players aim to automate and scale relic generation.</li>
+</ul>
+<h3 id="the-charon-cycle"><strong>The Charon Cycle</strong></h3>
+<p>&ldquo;Charon&rdquo; is also the first of the ten five-year celestial cycles, represented by the glyph <strong>⍙</strong>. If you have researched <a href="/metaphysics/numerology/">Numerology</a> and <a href="/metaphysics/numeromancy/">Numeromancy</a>, the cycle introduces the following global modifiers:</p>
+<ul>
+<li><strong>Production Penalties:</strong> During this cycle, <strong>Lunar Outpost unobtainium output is reduced by 10%</strong>.</li>
+<li><strong>Operational Costs:</strong> <strong>Gigaflop consumption</strong> for Entanglement Stations is increased by <strong>+100%</strong> (doubled).</li>
+<li><strong>Festival Bonus:</strong> Holding a festival during the Charon cycle provides a <strong>1.5x income multiplier</strong> for <strong>catnip, wood, and minerals</strong>.</li>
+</ul>
+<h3 id="strategic-considerations"><strong>Strategic Considerations</strong></h3>
+<p>The Charon Mission is often viewed as a major resource gate because of its <a href="/resource/thorium/">Thorium</a> and <strong>Starchart</strong> requirements. By this stage, players generally rely on a robust &ldquo;Shatter Engine&rdquo; to skip through non-productive years and harvest enough antimatter to afford the Entanglement Stations. Additionally, because Entanglement Stations consume gigaflops, players must carefully balance the number of <a href="/buildings/ai_core/">AI Cores</a> and stations to prevent an <strong>AI Apocalypse</strong>, ensuring that gigaflop production stays ahead of consumption without allowing the AI level to reach critical thresholds.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Dune Mission</title>
+      <link>/space/dune_mission/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/space/dune_mission/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../space/dune_mission/&#34;&gt;Dune Mission&lt;/a&gt; is a mid-to-late game space project that involves launching a rocket to explore Dune, described as a large, lifeless planet covered by sand and volcanic rock. It serves as a critical bridge for industrial scaling, particularly in stabilizing the uranium and oil supplies required for advanced space exploration.&lt;/p&gt;
+&lt;h3 id=&#34;mission-requirements-and-logistics&#34;&gt;&lt;strong&gt;Mission Requirements and Logistics&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To access the Dune mission, you must have first successfully completed the &lt;a href=&#34;../space/moon_mission/&#34;&gt;Moon mission&lt;/a&gt;. The specific resource costs for the launch include:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/space/dune_mission/">Dune Mission</a> is a mid-to-late game space project that involves launching a rocket to explore Dune, described as a large, lifeless planet covered by sand and volcanic rock. It serves as a critical bridge for industrial scaling, particularly in stabilizing the uranium and oil supplies required for advanced space exploration.</p>
+<h3 id="mission-requirements-and-logistics"><strong>Mission Requirements and Logistics</strong></h3>
+<p>To access the Dune mission, you must have first successfully completed the <a href="/space/moon_mission/">Moon mission</a>. The specific resource costs for the launch include:</p>
+<ul>
+<li><a href="/resource/star_charts/">Starcharts:</a> 1,000.</li>
+<li><a href="/resource/titanium/">Titanium:</a> 7,000.</li>
+<li><a href="/resource/science/">Science:</a> 175,000.</li>
+<li><a href="/resource/kerosene/">Kerosene:</a> 75.</li>
+</ul>
+<p>The base travel time for the mission is <strong>356 game-days</strong>, which equates to approximately <strong>11 minutes and 52 seconds</strong> in real-time. This duration can be reduced significantly by researching drive upgrades such as the <a href="/upgrade/antimatter_drive/">Antimatter Drive</a> or <a href="/upgrade/thorium_drive/">Thorium Drive</a>.</p>
+<h3 id="unlocked-infrastructure-and-resources"><strong>Unlocked Infrastructure and Resources</strong></h3>
+<p>Successfully exploring Dune unlocks the <a href="/space/helios_mission/">Helios mission</a> and provides access to several vital space structures:</p>
+<ul>
+<li><a href="/space/planet_cracker/">Planet Cracker:</a> A massive mining vessel that produces <strong>1.5 uranium per second</strong> and increases uranium storage by <strong>1,750</strong>. This is a primary source of uranium needed to power <a href="/planet/lunar_outpost/">Lunar Outposts</a> for unobtainium production.</li>
+<li><strong>Hydraulic Fracturer:</strong> Produces oil at a rate of <strong>2.5 per second</strong>. While helpful for oil management, these structures are notably more effective once you have researched <a href="/upgrade/space_manufacturing/">Space Manufacturing</a>.</li>
+<li><a href="/space/spice_refinery/">Spice Refinery:</a> Refines the planet&rsquo;s sand into <a href="/resource/spice/">Spice</a> at 0.125 per second. Spice is a rare luxury resource that provides a <strong>+10% happiness boost</strong> but is gradually consumed over time.</li>
+</ul>
+<h3 id="technological-and-policy-unlocks"><strong>Technological and Policy Unlocks</strong></h3>
+<p>Reaching Dune is a prerequisite for advanced societal and scientific developments. It allows the research of <strong>Cosmological Technocracy</strong> and unlocks the ability to enact high-tier Policy/:</p>
+<ul>
+<li><a href="/policy/technocracy/">Technocracy:</a> Increases the science cap by 20%.</li>
+<li><a href="/policy/cosmological_libertarianism/">Cosmological Libertarianism:</a> Increases unobtainium production by 15%.</li>
+<li><a href="/policy/order_of_the_stars/">Order of the Stars:</a> Increases faith production by 20% but restricts leaders to the priest job.</li>
+</ul>
+<h3 id="the-dune-cycle-and-synergy"><strong>The Dune Cycle and Synergy</strong></h3>
+<p>Dune is also one of the ten celestial cycles (represented by the glyph <strong>⍫</strong>). If you have researched <a href="/metaphysics/numerology/">Numerology</a>, the Dune cycle provides specific modifiers to your space production:</p>
+<ul>
+<li><strong>Planet Cracker uranium output:</strong> +10%.</li>
+<li><strong>Hydraulic Fracturer oil output:</strong> +50%.</li>
+<li><strong>HR Harvester energy production:</strong> -25% penalty.</li>
+<li><strong>Festival Effect:</strong> If <a href="/metaphysics/numeromancy/">Numeromancy</a> is researched, holding a festival during the Dune cycle provides a <strong>2x multiplier to uranium income</strong>.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>The mission marks the transition into the <strong>Eludium Era</strong>. Because Planet Crackers provide a more stable and faster uranium supply than terrestrial Accelerators or trading with Dragons, the Dune mission is essential for players looking to mass-produce <a href="/resource/unobtainium/">unobtainium</a> and eventually <a href="/resource/eludium/">eludium</a>. Additionally, the spice produced here provides a reliable way to maintain kitten happiness as populations grow larger.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Furthest Ring</title>
+      <link>/space/furthest_ring/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/space/furthest_ring/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../planet/furthest_ring/&#34;&gt;Furthest Ring&lt;/a&gt; is the final space mission currently available in the sources, famously described as &amp;ldquo;&lt;strong&gt;the end of the universe&lt;/strong&gt;&amp;rdquo;. It represents the ultimate frontier of exploration for your kitten civilisation, situated far beyond the Centaurus System.&lt;/p&gt;
+&lt;h3 id=&#34;mission-costs-and-prerequisites&#34;&gt;&lt;strong&gt;Mission Costs and Prerequisites&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Launching a rocket to the Furthest Ring requires an astronomical amount of high-tier resources, far exceeding any previous mission:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/star_charts/&#34;&gt;Starcharts:&lt;/a&gt; 500,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/science/&#34;&gt;Science:&lt;/a&gt; 1.25 Million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/kerosene/&#34;&gt;Kerosene:&lt;/a&gt; 75,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/thorium/&#34;&gt;Thorium:&lt;/a&gt; 75,000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To even see this mission in the Ground Control tab, you must first successfully complete the &lt;a href=&#34;../space/centaurus_system_mission/&#34;&gt;Centaurus System mission&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/planet/furthest_ring/">Furthest Ring</a> is the final space mission currently available in the sources, famously described as &ldquo;<strong>the end of the universe</strong>&rdquo;. It represents the ultimate frontier of exploration for your kitten civilisation, situated far beyond the Centaurus System.</p>
+<h3 id="mission-costs-and-prerequisites"><strong>Mission Costs and Prerequisites</strong></h3>
+<p>Launching a rocket to the Furthest Ring requires an astronomical amount of high-tier resources, far exceeding any previous mission:</p>
+<ul>
+<li><a href="/resource/star_charts/">Starcharts:</a> 500,000</li>
+<li><a href="/resource/science/">Science:</a> 1.25 Million</li>
+<li><a href="/resource/kerosene/">Kerosene:</a> 75,000</li>
+<li><a href="/resource/thorium/">Thorium:</a> 75,000</li>
+</ul>
+<p>To even see this mission in the Ground Control tab, you must first successfully complete the <a href="/space/centaurus_system_mission/">Centaurus System mission</a>.</p>
+<h3 id="the-travel-time-challenge"><strong>The Travel Time Challenge</strong></h3>
+<p>The most defining characteristic of the Furthest Ring is its extreme distance. The base travel time is <strong>725,200,000 game-days</strong>. Even with the most advanced propulsion technologies researched, the journey is incredibly long:</p>
+<ul>
+<li><strong>Drive Reductions:</strong> By researching both <a href="/upgrade/thorium_drive/">Thorium Drives</a> and <a href="/upgrade/antimatter_drive/">Antimatter Drives</a>, travel times are divided by 75.</li>
+<li><strong>Real-Time Duration:</strong> Even with these upgrades, the trip takes approximately <strong>223 days, 19 hours, and 51 minutes</strong> of real-world time (representing over 24,000 in-game years).</li>
+<li><strong>Acceleration:</strong> To progress this mission within a reasonable timeframe, you would typically need to rely on <strong>combusting Time Crystals</strong> to skip through years rapidly.</li>
+</ul>
+<h3 id="functionality-and-content"><strong>Functionality and Content</strong></h3>
+<p>Despite its name and the massive investment required, the Furthest Ring serves more as a symbolic endgame milestone than a functional colony site in the current version of the sources:</p>
+<ul>
+<li><strong>No Structures:</strong> As of version 1.4.6.2.b, there are <strong>no structures</strong> that can be built in the Furthest Ring.</li>
+<li><strong>Interface:</strong> Later updates (v1.4.8.5) introduced a <strong>text-based interface</strong> for players who reach the destination, though its specific unlocks remain listed as &ldquo;TBD&rdquo; (To Be Determined).</li>
+<li><strong>Offline Interaction:</strong> When the game is in offline mode, the sources note that the interface will simply state that the &ldquo;<strong>Furthest ring is empty</strong>&rdquo;.</li>
+</ul>
+<p>Because of the extreme time and resource requirements, reaching the Furthest Ring is considered a long-term goal for the most advanced, late-game &ldquo;Phase 4&rdquo; civilisations that have already established a self-sustaining <strong>positive chrono-reset engine</strong>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Helios Mission</title>
+      <link>/space/helios_mission/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/space/helios_mission/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../space/helios_mission/&#34;&gt;Helios Mission&lt;/a&gt; is a significant mid-to-late game space project that involves launching a rocket to the G2V spectral type star at the centre of the Cath solar system. Completing this mission is a prerequisite for moving further into the star system, specifically unlocking the &lt;a href=&#34;../space/yarn_mission/&#34;&gt;Yarn Mission&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;mission-requirements-and-logistics&#34;&gt;&lt;strong&gt;Mission Requirements and Logistics&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To launch the Helios mission, you must have first successfully completed the &lt;a href=&#34;../space/dune_mission/&#34;&gt;Dune Mission&lt;/a&gt;. The specific resource requirements are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/star_charts/&#34;&gt;Starcharts:&lt;/a&gt; 3,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/titanium/&#34;&gt;Titanium:&lt;/a&gt; 15,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/science/&#34;&gt;Science:&lt;/a&gt; 250,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/kerosene/&#34;&gt;Kerosene:&lt;/a&gt; 1,250&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The travel time for the mission is &lt;strong&gt;1,200 game-days&lt;/strong&gt;, which equates to approximately &lt;strong&gt;40 minutes&lt;/strong&gt; in real-time. This duration can be reduced significantly by researching drive upgrades such as the &lt;a href=&#34;../upgrade/antimatter_drive/&#34;&gt;Antimatter Drive&lt;/a&gt; or &lt;a href=&#34;../upgrade/thorium_drive/&#34;&gt;Thorium Drive&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/space/helios_mission/">Helios Mission</a> is a significant mid-to-late game space project that involves launching a rocket to the G2V spectral type star at the centre of the Cath solar system. Completing this mission is a prerequisite for moving further into the star system, specifically unlocking the <a href="/space/yarn_mission/">Yarn Mission</a>.</p>
+<h3 id="mission-requirements-and-logistics"><strong>Mission Requirements and Logistics</strong></h3>
+<p>To launch the Helios mission, you must have first successfully completed the <a href="/space/dune_mission/">Dune Mission</a>. The specific resource requirements are:</p>
+<ul>
+<li><a href="/resource/star_charts/">Starcharts:</a> 3,000</li>
+<li><a href="/resource/titanium/">Titanium:</a> 15,000</li>
+<li><a href="/resource/science/">Science:</a> 250,000</li>
+<li><a href="/resource/kerosene/">Kerosene:</a> 1,250</li>
+</ul>
+<p>The travel time for the mission is <strong>1,200 game-days</strong>, which equates to approximately <strong>40 minutes</strong> in real-time. This duration can be reduced significantly by researching drive upgrades such as the <a href="/upgrade/antimatter_drive/">Antimatter Drive</a> or <a href="/upgrade/thorium_drive/">Thorium Drive</a>.</p>
+<h3 id="unlocked-structures-and-infrastructure"><strong>Unlocked Structures and Infrastructure</strong></h3>
+<p>The primary importance of the Helios mission is the gateway it provides to advanced energy and <strong>antimatter production</strong>. Successfully completing the mission unlocks four critical space structures:</p>
+<ul>
+<li><a href="/space/sunlifter/">Sunlifter:</a> The primary source of antimatter, producing 1 unit per year while also generating 30 Watts of energy.</li>
+<li><a href="/space/containment-chamber/">Containment Chamber:</a> Provides base storage for up to 100 units of antimatter, though it consumes 50 Watts of energy.</li>
+<li><a href="/space/heatsink/">Heatsink:</a> Increases the antimatter storage capacity of Containment Chambers by +2%.</li>
+<li><a href="/space/sun_forge/">Sunforge:</a> Enhances the storage capacity of base metals (iron, titanium, gold, uranium, and unobtainium) by 1% per building.</li>
+</ul>
+<h3 id="the-helios-cycle"><strong>The Helios Cycle</strong></h3>
+<p>If you have researched <a href="/metaphysics/numerology/">Numerology</a>, the &ldquo;Helios&rdquo; cycle (one of ten 5-year cycles in the game) provides specific benefits to your infrastructure. During this cycle:</p>
+<ul>
+<li><strong>Sunlifter energy output</strong> is increased by <strong>50%</strong>.</li>
+<li><strong>Cryostation storage</strong> is reduced by <strong>10%</strong>.</li>
+<li>If <a href="/metaphysics/numeromancy/">Numeromancy</a> is also researched, holding a festival during the Helios cycle provides <strong>double Faith income</strong> and a <strong>1.25x multiplier to Unicorn income</strong>.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>The Helios mission marks the transition into the <strong>Relic Era</strong>. To obtain the 5,000 antimatter capacity required for <a href="/upgrade/relic_station/">Relic Stations</a>, players must typically invest heavily in Helios-based structures, specifically building enough <a href="/space/heatsink/">Heatsinks</a> (often up to 34 or 37) and <a href="/space/containment-chamber/">Containment Chambers</a> to reach the necessary cap. Furthermore, building a Sunlifter is a mandatory goal for completing the <strong>Energy Challenge</strong>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Kairo Mission</title>
+      <link>/space/kairo_mission/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/space/kairo_mission/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../space/kairo_mission/&#34;&gt;Kairo Mission&lt;/a&gt; is a late-game space project that involves travelling to a dwarf planet located at the far end of the Cath solar system. Completing this mission is a crucial step for advancing your colony’s scientific capacity and transitioning into the relic-production phase of the game.&lt;/p&gt;
+&lt;h3 id=&#34;mission-logistics-and-costs&#34;&gt;&lt;strong&gt;Mission Logistics and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To launch a rocket to Kairo, you must have successfully completed the &lt;a href=&#34;../space/t-minus_mission/&#34;&gt;T-minus mission&lt;/a&gt;. The resource requirements for the launch are substantial:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/space/kairo_mission/">Kairo Mission</a> is a late-game space project that involves travelling to a dwarf planet located at the far end of the Cath solar system. Completing this mission is a crucial step for advancing your colony’s scientific capacity and transitioning into the relic-production phase of the game.</p>
+<h3 id="mission-logistics-and-costs"><strong>Mission Logistics and Costs</strong></h3>
+<p>To launch a rocket to Kairo, you must have successfully completed the <a href="/space/t-minus_mission/">T-minus mission</a>. The resource requirements for the launch are substantial:</p>
+<ul>
+<li><a href="/resource/star_charts/">Starcharts:</a> 5,000</li>
+<li><a href="/resource/titanium/">Titanium:</a> 20,000</li>
+<li><a href="/resource/science/">Science:</a> 300,000</li>
+<li><a href="/resource/kerosene/">Kerosene:</a> 7,500</li>
+</ul>
+<p>The mission has a travel time of <strong>5,000 game-days</strong>, which is approximately <strong>2 hours, 46 minutes, and 40 seconds</strong> in real-time. This duration can be significantly reduced by researching drive upgrades like the Thorium or Antimatter Drives.</p>
+<h3 id="unlocks-and-infrastructure"><strong>Unlocks and Infrastructure</strong></h3>
+<p>Successfully exploring Kairo provides access to the following:</p>
+<ul>
+<li><strong>The Rorschach Mission:</strong> Unlocks the next stage of deep-space exploration.</li>
+<li><a href="/space/space-beacon/">Space Beacons:</a> This is the primary infrastructure unlocked by the mission. Each Space Beacon costs 25,000 Starcharts, 50 Antimatter, 25,000 Alloy, and 7,500 Kerosene.
+<ul>
+<li><strong>Science Boost:</strong> Every Space Beacon provides a massive <strong>+25,000 bonus to maximum science storage</strong>.</li>
+<li><strong>Starchart Production:</strong> They generate <strong>0.125 starcharts per second</strong>.</li>
+<li><strong>Relic Production:</strong> Once upgraded with a <a href="/upgrade/relic_station/">Relic Station</a>, Space Beacons become a primary source of passive relics, yielding <strong>0.01 relics per day</strong> (scaled by your current antimatter storage).</li>
+</ul>
+</li>
+</ul>
+<h3 id="the-kairo-cycle"><strong>The Kairo Cycle</strong></h3>
+<p>Kairo is also the name of one of the <strong>ten five-year cycles</strong> that govern the Cath solar system. If you have researched <a href="/metaphysics/numerology/">Numerology</a> and <a href="/metaphysics/numeromancy/">Numeromancy</a>, the Kairo cycle and associated festivals provide unique modifiers:</p>
+<ul>
+<li><strong>Space Modifiers:</strong> During this cycle, the Space Beacon’s starchart production is boosted by <strong>+400%</strong>, though it imposes a <strong>-25% to -50% penalty</strong> on the science bonuses of Space Stations and Satellites, as well as the Space Elevator&rsquo;s production bonus.</li>
+<li><strong>Festival Effect:</strong> Holding a festival during the Kairo cycle provides a massive <strong>5x multiplier to starchart income</strong>.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>In the late game, the Kairo mission is essential for overcoming the <strong>science storage ceiling</strong>. While early-game buildings like Libraries and Academies provide modest caps, the +25,000 boost from each Space Beacon is necessary to afford the multi-million science costs of endgame technologies. Additionally, Space Beacons are the foundation of the <strong>&ldquo;Type 1 Relic Engine,&rdquo;</strong> where they are used alongside Relic Stations and Black Nexuses to automate relic generation.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Moon Mission</title>
+      <link>/space/moon_mission/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/space/moon_mission/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../space/moon_mission/&#34;&gt;Moon Mission&lt;/a&gt; is a pivotal space project in &lt;em&gt;Kittens Game&lt;/em&gt; that involves launching a rocket to &lt;a href=&#34;../planet/redmoon/&#34;&gt;Redmoon&lt;/a&gt;, a satellite of the planet Cath. It represents the first major step into space exploration beyond orbital deployment and is the primary gateway to the &lt;strong&gt;Unobtainium Era&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;mission-requirements-and-logistics&#34;&gt;&lt;strong&gt;Mission Requirements and Logistics&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; You must first research &lt;a href=&#34;../techs/rocketry/&#34;&gt;Rocketry&lt;/a&gt; and successfully complete the &lt;a href=&#34;../space/orbital_launch/&#34;&gt;Orbital Launch&lt;/a&gt; mission.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resource Costs:&lt;/strong&gt; The launch requires &lt;strong&gt;500 Starcharts&lt;/strong&gt;, &lt;strong&gt;5000 Titanium&lt;/strong&gt;, &lt;strong&gt;125k Science&lt;/strong&gt;, and &lt;strong&gt;45k Oil&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Travel Time:&lt;/strong&gt; The journey to Redmoon takes &lt;strong&gt;30 game-days&lt;/strong&gt;, which is approximately &lt;strong&gt;1 minute&lt;/strong&gt; in real-time. This can be further reduced by drive upgrades like the Antimatter or Thorium Drives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;unlocks-and-infrastructure&#34;&gt;&lt;strong&gt;Unlocks and Infrastructure&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Successfully completing the Moon Mission is essential for unlocking the infrastructure required to produce and store advanced materials:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/space/moon_mission/">Moon Mission</a> is a pivotal space project in <em>Kittens Game</em> that involves launching a rocket to <a href="/planet/redmoon/">Redmoon</a>, a satellite of the planet Cath. It represents the first major step into space exploration beyond orbital deployment and is the primary gateway to the <strong>Unobtainium Era</strong>.</p>
+<h3 id="mission-requirements-and-logistics"><strong>Mission Requirements and Logistics</strong></h3>
+<ul>
+<li><strong>Prerequisites:</strong> You must first research <a href="/techs/rocketry/">Rocketry</a> and successfully complete the <a href="/space/orbital_launch/">Orbital Launch</a> mission.</li>
+<li><strong>Resource Costs:</strong> The launch requires <strong>500 Starcharts</strong>, <strong>5000 Titanium</strong>, <strong>125k Science</strong>, and <strong>45k Oil</strong>.</li>
+<li><strong>Travel Time:</strong> The journey to Redmoon takes <strong>30 game-days</strong>, which is approximately <strong>1 minute</strong> in real-time. This can be further reduced by drive upgrades like the Antimatter or Thorium Drives.</li>
+</ul>
+<h3 id="unlocks-and-infrastructure"><strong>Unlocks and Infrastructure</strong></h3>
+<p>Successfully completing the Moon Mission is essential for unlocking the infrastructure required to produce and store advanced materials:</p>
+<ul>
+<li><a href="/planet/lunar_outpost/">Lunar Outpost:</a> A nuclear-powered mining facility that is the primary source of <a href="/resource/unobtainium/">Unobtainium</a>. It consumes 1.75 uranium per second to produce 0.035 unobtainium per second.</li>
+<li><a href="/space/moonbase/">Moon Base:</a> A vital storage building that provides a base capacity of <strong>+150 Unobtainium</strong>, along with significant boosts to other resources such as <strong>Catnip (+45k)</strong>, Wood (+25k), and Titanium (+1250).</li>
+<li><strong>Subsequent Missions:</strong> Completing the Moon Mission is a prerequisite for launching missions to <a href="/planet/dune/">Dune</a> and <a href="/planet/piscine/">Piscine</a>.</li>
+</ul>
+<h3 id="strategic-importance"><strong>Strategic Importance</strong></h3>
+<ul>
+<li><strong>The Unobtainium Bottleneck:</strong> Progressing past the mid-game is heavily gated by <a href="/resource/unobtainium/">Unobtainium</a>, which is required for Metaphysics upgrades and the high-tier <a href="/resource/eludium/">Eludium</a> alloy.</li>
+<li><strong>Oil Management:</strong> A major hurdle for this mission is oil storage. While the mission itself costs 45k oil, building the first <a href="/space/moonbase/">Moon Base</a> (which is necessary to store enough unobtainium for <a href="/upgrade/unobtainium_huts/">Unobtainium Huts</a>) requires <strong>70k oil</strong>. Players often need to build numerous Oil Wells or tankers to reach these caps.</li>
+<li><strong>Resource Scaling:</strong> The effectiveness of Moon Bases can be significantly boosted by the <a href="/upgrade/ai_bases/">AI Bases</a> upgrade, which adds a 10% storage bonus per <a href="/buildings/ai_core/">AI Core</a>.</li>
+<li><strong>Challenges:</strong> In the <strong>Black Sky Challenge</strong>, the starchart requirement for the preceding Orbital Launch is removed, but science and oil costs are significantly increased, making the path to the Moon Mission more difficult.</li>
+</ul>
+<h3 id="economic-utility"><strong>Economic Utility</strong></h3>
+<p>Beyond unobtainium, the <strong>Catnip storage</strong> provided by Moon Bases (45k) is critical for surviving the harsh food penalties of <strong>Winter</strong> in the late game, especially during challenges like &ldquo;Winter Has Come&rdquo; where the seasonal cycle is permanently frozen in winter.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Orbital Launch</title>
+      <link>/space/orbital_launch/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/space/orbital_launch/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../space/orbital_launch/&#34;&gt;Orbital Launch&lt;/a&gt; mission serves as the critical gateway in the sources, transitioning the colony from terrestrial development to the &lt;strong&gt;Space era&lt;/strong&gt;. It is the first project available in the &amp;ldquo;Ground Control&amp;rdquo; section of the Space tab once the &lt;a href=&#34;../techs/rocketry/&#34;&gt;Rocketry&lt;/a&gt; technology has been researched. For a standard game run, the launch requires a stockpile of &lt;strong&gt;250 Starcharts, 5,000 Catpower, 100,000 Science, and 15,000 Oil&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;requirements-and-challenge-variations&#34;&gt;&lt;strong&gt;Requirements and Challenge Variations&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The resource demands for this mission change significantly depending on the active game mode:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/space/orbital_launch/">Orbital Launch</a> mission serves as the critical gateway in the sources, transitioning the colony from terrestrial development to the <strong>Space era</strong>. It is the first project available in the &ldquo;Ground Control&rdquo; section of the Space tab once the <a href="/techs/rocketry/">Rocketry</a> technology has been researched. For a standard game run, the launch requires a stockpile of <strong>250 Starcharts, 5,000 Catpower, 100,000 Science, and 15,000 Oil</strong>.</p>
+<h3 id="requirements-and-challenge-variations"><strong>Requirements and Challenge Variations</strong></h3>
+<p>The resource demands for this mission change significantly depending on the active game mode:</p>
+<ul>
+<li><strong>Standard Costs:</strong> As noted, the primary hurdles are the science and oil caps.</li>
+<li><strong>Black Sky Challenge:</strong> In this mode, the Starchart requirement is removed entirely (0). However, to compensate, the mission requires <strong>1.1 million Science, 55,000 Catpower, and 165,000 Oil</strong>, representing an 11-fold increase for non-starchart resources.</li>
+</ul>
+<h3 id="unlocks-and-infrastructure"><strong>Unlocks and Infrastructure</strong></h3>
+<p>Successfully completing the Orbital Launch provides access to the foundational structures and locations of the star system:</p>
+<ul>
+<li><strong>Missions and Locations:</strong> It unlocks the <a href="/space/moon_mission/">Moon Mission</a> and makes the planet <a href="/planet/cath/">Cath</a> accessible.</li>
+<li><strong>Satellite Deployment:</strong> Players can begin deploying <a href="/techs/satellites/">Satellites</a>, which consume energy to provide a passive income of <a href="/resource/star_charts/">Starcharts</a> (0.005/sec) and increase the science storage capacity of Observatories by 5%.</li>
+<li><a href="/space/space_elevator/">Space Elevator:</a> This structure is essential for long-term expansion as it provides a <strong>1% bonus to all space structures</strong> and reduces the oil requirements for future space missions and buildings by 5% (up to a 75% discount with diminishing returns).</li>
+<li><a href="/space/space-station/">Space Stations:</a> These provide a 50% science bonus and housing for <strong>+2 kittens</strong>.</li>
+</ul>
+<h3 id="strategic-considerations"><strong>Strategic Considerations</strong></h3>
+<ul>
+<li><strong>The Oil Bottleneck:</strong> Strategic guides highlight that <strong>Oil management</strong> is the dominant constraint at this stage. While the launch itself costs 15,000 Oil, the next mission requires 45,000, and the first Moon Base requires 70,000, necessitating a rapid increase in <a href="/buildings/oil_well/">Oil Wells</a> and storage.</li>
+<li><strong>Resource Pivot:</strong> This milestone marks the end of &ldquo;Phase 1&rdquo; and &ldquo;Phase 2&rdquo; of the game; once space is unlocked, common terrestrial resources begin to matter less as the economy shifts toward <strong>Uranium, Unobtainium, and Antimatter</strong>.</li>
+<li><strong>Iron Will Mode:</strong> In this specialized mode, achieving an Orbital Launch is a prerequisite for obtaining the <strong>Space Oddity</strong> gold star achievement. Players in this mode often find the Catpower and Gold requirements for space missions particularly challenging due to the lack of a kitten workforce.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Piscine Mission</title>
+      <link>/space/piscine_mission/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/space/piscine_mission/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../space/piscine_mission/&#34;&gt;Piscine Mission&lt;/a&gt; is a mid-to-late game space project involving travel to a gigantic aquatic planet characterised by an acidic body and a methane atmosphere. It is a critical milestone for expanding your colony&amp;rsquo;s scientific and astronomical infrastructure.&lt;/p&gt;
+&lt;h3 id=&#34;requirements-and-logistics&#34;&gt;&lt;strong&gt;Requirements and Logistics&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; Players must first successfully complete the &lt;a href=&#34;../space/moon_mission/&#34;&gt;Moon Mission&lt;/a&gt; to unlock the Piscine project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Launch Costs:&lt;/strong&gt; The mission requires &lt;strong&gt;1500 Starcharts, 9000 Titanium, 200,000 Science, and 250 Kerosene&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Travel Time:&lt;/strong&gt; The journey to Piscine takes &lt;strong&gt;256 game-days&lt;/strong&gt;, which is approximately &lt;strong&gt;8 minutes and 32 seconds&lt;/strong&gt; in real-time. This duration can be reduced using advanced drives like the Antimatter or Thorium Drives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;critical-unlocks-and-infrastructure&#34;&gt;&lt;strong&gt;Critical Unlocks and Infrastructure&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Successfully exploring Piscine is the gateway to some of the most powerful starchart-generating structures in the star system:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/space/piscine_mission/">Piscine Mission</a> is a mid-to-late game space project involving travel to a gigantic aquatic planet characterised by an acidic body and a methane atmosphere. It is a critical milestone for expanding your colony&rsquo;s scientific and astronomical infrastructure.</p>
+<h3 id="requirements-and-logistics"><strong>Requirements and Logistics</strong></h3>
+<ul>
+<li><strong>Prerequisites:</strong> Players must first successfully complete the <a href="/space/moon_mission/">Moon Mission</a> to unlock the Piscine project.</li>
+<li><strong>Launch Costs:</strong> The mission requires <strong>1500 Starcharts, 9000 Titanium, 200,000 Science, and 250 Kerosene</strong>.</li>
+<li><strong>Travel Time:</strong> The journey to Piscine takes <strong>256 game-days</strong>, which is approximately <strong>8 minutes and 32 seconds</strong> in real-time. This duration can be reduced using advanced drives like the Antimatter or Thorium Drives.</li>
+</ul>
+<h3 id="critical-unlocks-and-infrastructure"><strong>Critical Unlocks and Infrastructure</strong></h3>
+<p>Successfully exploring Piscine is the gateway to some of the most powerful starchart-generating structures in the star system:</p>
+<ul>
+<li><a href="/space/research-vessel/">Research Vessels:</a> These mobile space stations provide a base <strong>+10,000 science storage</strong> and generate <strong>0.05 starcharts per second</strong>. The sources identify these vessels as the <strong>most efficient method for generating starcharts</strong>, outperforming Satellites by a factor of ten.</li>
+<li><a href="/space/orbital_array/">Orbital Arrays:</a> This space structure provides a <strong>2% bonus to all space structures</strong>, though it consumes a significant 20 Watts of energy.</li>
+<li><strong>Future Exploration:</strong> Completing this mission is required to unlock the <a href="/space/t-minus_mission/">T-minus mission</a>.</li>
+</ul>
+<h3 id="the-piscine-cycle"><strong>The Piscine Cycle</strong></h3>
+<p>In the game’s ten-cycle celestial system, the Piscine cycle (identified by the glyph <strong>⎈</strong>) introduces specific modifiers that players should manage strategically:</p>
+<ul>
+<li><strong>Hydroponics production</strong> suffers a <strong>-50% penalty</strong> to catnip generation.</li>
+<li><strong>Research Vessel starchart production</strong> is boosted by <strong>+50%</strong>.</li>
+<li><strong>Science Multiplier:</strong> If <a href="/metaphysics/numeromancy/">Numeromancy</a> is researched, holding a festival during the Piscine cycle provides a <strong>2x multiplier to Science income</strong>.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<ul>
+<li><strong>Solving the Starchart Bottleneck:</strong> The primary reason to rush the Piscine Mission is to transition from manual &ldquo;astronomical event&rdquo; clicking to the automated starchart production provided by Research Vessels. This is essential for building the massive trade fleets of <a href="/craft/trade_ship/">Trade Ships</a> required for late-game titanium and blueprint acquisitions.</li>
+<li><strong>Science Progression:</strong> With upgrades like <a href="/upgrade/antimatter_reactors/">Antimatter Reactors</a>, the science storage of Research Vessels can be boosted by up to <strong>400%</strong>, providing a massive foundation for multi-million science technologies.</li>
+<li><strong>Challenge Note:</strong> It is important to note that Research Vessels <strong>do not produce starcharts while in a Black Sky Challenge</strong>, as this would circumvent the core difficulty of that mode.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Rorschach Mission</title>
+      <link>/space/rorschach/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/space/rorschach/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../space/rorschach/&#34;&gt;Rorschach&lt;/a&gt;   is a late-game celestial body in the Helios star system, specifically described as the &lt;strong&gt;biggest comet near Helios&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;the-rorschach-mission&#34;&gt;&lt;strong&gt;The Rorschach Mission&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To explore Rorschach, you must first successfully complete the &lt;a href=&#34;../space/kairo_mission/&#34;&gt;Kairo Mission&lt;/a&gt;. The mission represents a significant investment in late-game resources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/star_charts/&#34;&gt;Starcharts:&lt;/a&gt; 15,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/titanium/&#34;&gt;Titanium:&lt;/a&gt; 80,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/science/&#34;&gt;Science:&lt;/a&gt; 500,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/kerosene/&#34;&gt;Kerosene:&lt;/a&gt; 25,000.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;While travel times for space missions can be significantly reduced by researching &lt;a href=&#34;../upgrade/thorium_drive/&#34;&gt;Thorium Drives&lt;/a&gt; (divided by 50) or &lt;a href=&#34;../upgrade/antimatter_drive/&#34;&gt;Antimatter Drives&lt;/a&gt; (divided by 25), the base travel time for Rorschach is not explicitly listed alongside the other missions in the provided technical logs.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/space/rorschach/">Rorschach</a>   is a late-game celestial body in the Helios star system, specifically described as the <strong>biggest comet near Helios</strong>.</p>
+<h3 id="the-rorschach-mission"><strong>The Rorschach Mission</strong></h3>
+<p>To explore Rorschach, you must first successfully complete the <a href="/space/kairo_mission/">Kairo Mission</a>. The mission represents a significant investment in late-game resources:</p>
+<ul>
+<li><a href="/resource/star_charts/">Starcharts:</a> 15,000</li>
+<li><a href="/resource/titanium/">Titanium:</a> 80,000</li>
+<li><a href="/resource/science/">Science:</a> 500,000</li>
+<li><a href="/resource/kerosene/">Kerosene:</a> 25,000.</li>
+</ul>
+<p>While travel times for space missions can be significantly reduced by researching <a href="/upgrade/thorium_drive/">Thorium Drives</a> (divided by 50) or <a href="/upgrade/antimatter_drive/">Antimatter Drives</a> (divided by 25), the base travel time for Rorschach is not explicitly listed alongside the other missions in the provided technical logs.</p>
+<h3 id="strategic-impact-and-unlocks"><strong>Strategic Impact and Unlocks</strong></h3>
+<p>The primary function of the Rorschach mission is to serve as a gateway to the furthest reaches of the star system:</p>
+<ul>
+<li><strong>Expanded Vision:</strong> Upon completion, the sources note that while Rorschach is &ldquo;impenetrable,&rdquo; its discovery allows your kittens to <strong>&ldquo;see farther&rdquo;</strong>.</li>
+<li><strong>Centaurus Mission:</strong> Successfully exploring Rorschach is the mandatory prerequisite to unlock the <strong>Centaurus Mission</strong>, which leads to a warm, faraway star system.</li>
+</ul>
+<h3 id="context-in-late-game-progression"><strong>Context in Late-Game Progression</strong></h3>
+<p>In the broader &ldquo;Phase 4&rdquo; of game progression, Rorschach is part of the deep-space exploration arc that follows the stabilization of the <a href="/resource/unobtainium/">Unobtainium</a> and <a href="/resource/antimatter/">Antimatter</a> economies. Because the mission requires a substantial <strong>80,000 Titanium</strong>, players often need to have reached the &ldquo;Titanium Era&rdquo; high-storage milestones—such as building numerous <strong>Moon Bases, Cryostations,</strong> or <a href="/buildings/accelerator/">Accelerators</a> with the <strong>Energy Rift</strong> upgrade—to satisfy the mission&rsquo;s resource caps.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>T Minus Mission</title>
+      <link>/space/t-minus_mission/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/space/t-minus_mission/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../space/t-minus_mission/&#34;&gt;T-minus mission&lt;/a&gt; is a significant mid-to-late-game space project in &lt;em&gt;Kittens Game&lt;/em&gt; that involves travelling to &lt;strong&gt;Terminus&lt;/strong&gt;, described as a &lt;strong&gt;supermassive ice giant&lt;/strong&gt; located at the far end of the Helios solar system. This mission serves as a critical bridge between the mid-game industry and the advanced resource management required for late-game space exploration.&lt;/p&gt;
+&lt;h3 id=&#34;mission-logistics-and-costs&#34;&gt;&lt;strong&gt;Mission Logistics and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To launch a mission to Terminus, you must first successfully complete the &lt;a href=&#34;../space/piscine_mission/&#34;&gt;Piscine mission&lt;/a&gt;. The resource requirements for the launch are as follows:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/space/t-minus_mission/">T-minus mission</a> is a significant mid-to-late-game space project in <em>Kittens Game</em> that involves travelling to <strong>Terminus</strong>, described as a <strong>supermassive ice giant</strong> located at the far end of the Helios solar system. This mission serves as a critical bridge between the mid-game industry and the advanced resource management required for late-game space exploration.</p>
+<h3 id="mission-logistics-and-costs"><strong>Mission Logistics and Costs</strong></h3>
+<p>To launch a mission to Terminus, you must first successfully complete the <a href="/space/piscine_mission/">Piscine mission</a>. The resource requirements for the launch are as follows:</p>
+<ul>
+<li><a href="/resource/star_charts/">Starcharts:</a> 2,500</li>
+<li><a href="/resource/titanium/">Titanium:</a> 12,000</li>
+<li><a href="/resource/science/">Science:</a> 225,000</li>
+<li><a href="/resource/kerosene/">Kerosene:</a> 750</li>
+</ul>
+<p>The base travel time for the mission is <strong>2,500 game-days</strong>, which is approximately <strong>1 hour, 23 minutes, and 20 seconds</strong> in real-time. As with other missions, this duration can be divided by 25 with an Antimatter Drive, 50 with a Thorium Drive, or <strong>75 if both are researched</strong>.</p>
+<h3 id="critical-unlocks-cryostations"><strong>Critical Unlocks: Cryostations</strong></h3>
+<p>Successfully completing the T-minus mission unlocks the <a href="/space/kairo_mission/">Kairo mission</a> and the <strong>T-Minus planet</strong>, but its most strategically vital unlock is the <a href="/space/cryo_station/">Cryostation</a>. Cryostations are massive storage facilities that provide essential boosts to your global caps:</p>
+<ul>
+<li><strong>Storage Gains:</strong> Each station increases the maximum capacity for <strong>Wood and Minerals (+200K)</strong>, <strong>Iron (+50K)</strong>, <strong>Titanium (+7,500)</strong>, <strong>Uranium (+5,000)</strong>, <strong>Oil (+7,500)</strong>, <strong>Unobtainium (+750)</strong>, and <strong>Coal (+25K)</strong>.</li>
+<li><strong>Titanium Bottleneck:</strong> Cryostations are identified as one of the most effective ways to increase titanium storage, which is necessary to reach the <strong>125K cap</strong> required for the <a href="/upgrade/space_manufacturing/">Space Manufacturing</a> upgrade.</li>
+<li><strong>Unobtainium Progression:</strong> Because they provide 750 unobtainium storage each, they are also a primary method for reaching the 1,000-unit threshold required for the <strong>Eludium Era</strong>.</li>
+</ul>
+<h3 id="the-t-minus-cycle"><strong>The T-minus Cycle</strong></h3>
+<p>&ldquo;T-minus&rdquo; is also one of the ten five-year cycles within the Helios system, represented by the glyph <strong>⍝</strong>. If you have researched <a href="/metaphysics/numerology/">Numerology</a> or <a href="/metaphysics/numeromancy/">Numeromancy</a>, this cycle introduces specific global modifiers:</p>
+<ul>
+<li><strong>Production and Storage:</strong> During this cycle, <strong>Sunlifter energy output is reduced by 50%</strong>, but <strong>Cryostation storage capacity is increased by 20%</strong>.</li>
+<li><strong>Festival Effect:</strong> Holding a festival during the T-minus cycle provides an <strong>Oil income x2</strong> multiplier.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>In the broader progression of the game, the T-minus mission is a gateway to &ldquo;Phase 4,&rdquo; where the player begins to focus on <strong>chrono-optimization and geometric growth</strong>. By providing a massive leap in storage capacity through Cryostations, it allows kittens to store the high-tier materials (like Eludium and Unobtainium) needed to build <a href="/buildings/chronosphere/">Chronospheres</a> and prepare for self-sustaining resets.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Umbra Mission</title>
+      <link>/space/umbra_mission/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/space/umbra_mission/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../space/umbra_mission/&#34;&gt;Umbra Mission&lt;/a&gt; is a late-game space project focused on exploring the supermassive black hole located at the centre of the Helios system. It represents a significant step into the furthest reaches of the star system, transitioning the colony into the deepest &amp;ldquo;Phase 3&amp;rdquo; of developmental progression.&lt;/p&gt;
+&lt;h3 id=&#34;mission-logistics-and-prerequisites&#34;&gt;&lt;strong&gt;Mission Logistics and Prerequisites&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To launch the Umbra mission, your kittens must have already successfully explored &lt;a href=&#34;../planet/yarn/&#34;&gt;Yarn&lt;/a&gt;. The resource requirements are substantial, reflecting the mission&amp;rsquo;s late-game status:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/space/umbra_mission/">Umbra Mission</a> is a late-game space project focused on exploring the supermassive black hole located at the centre of the Helios system. It represents a significant step into the furthest reaches of the star system, transitioning the colony into the deepest &ldquo;Phase 3&rdquo; of developmental progression.</p>
+<h3 id="mission-logistics-and-prerequisites"><strong>Mission Logistics and Prerequisites</strong></h3>
+<p>To launch the Umbra mission, your kittens must have already successfully explored <a href="/planet/yarn/">Yarn</a>. The resource requirements are substantial, reflecting the mission&rsquo;s late-game status:</p>
+<ul>
+<li><a href="/resource/star_charts/">Starcharts:</a> 25,000</li>
+<li><a href="/resource/science/">Science:</a> 500,000</li>
+<li><a href="/resource/kerosene/">Kerosene:</a> 25,000</li>
+<li><a href="/resource/thorium/">Thorium:</a> 15,000</li>
+</ul>
+<p>Successfully completing the launch unlocks the <strong>Umbra Planet</strong> and the subsequent <a href="/space/charon_mission/">Charon Mission</a>.</p>
+<h3 id="the-umbra-cycle-and-festivals"><strong>The Umbra Cycle and Festivals</strong></h3>
+<p>&ldquo;Umbra&rdquo; is also one of the ten five-year celestial cycles (represented by the glyph <strong>⍦</strong>). If you have researched <a href="/metaphysics/numerology/">Numerology</a> and <a href="/metaphysics/numeromancy/">Numeromancy</a>, the cycle provides the following modifiers:</p>
+<ul>
+<li><strong>Production Penalties:</strong> During this cycle, Planet Cracker uranium output is reduced by <strong>10%</strong> and Hydraulic Fracturer oil output decreases by <strong>25%</strong>.</li>
+<li><strong>Production Boosts:</strong> Energy production from <strong>HR Harvesters</strong> (located on the Umbra planet) is increased by <strong>50%</strong>.</li>
+<li><strong>Festival Multipliers:</strong> Holding a festival during the Umbra cycle provides a <strong>1.5x income multiplier</strong> for coal, iron, titanium, and gold.</li>
+</ul>
+<h3 id="umbra-infrastructure-hr-harvesters"><strong>Umbra Infrastructure: HR Harvesters</strong></h3>
+<p>The primary structure available on the Umbra planet is the <strong>HR Harvester</strong> (Hawking Radiation Harvester). These are unique energy-producing structures with the following characteristics:</p>
+<ul>
+<li><strong>Cost:</strong> 25 Relics and 1,250 Antimatter.</li>
+<li><strong>Energy Generation:</strong> They generate energy based on black hole evaporation, providing a base of <strong>1 Watt</strong> that increases over time.</li>
+<li><strong>Scaling:</strong> The output is boosted by <strong>Dark Future years</strong> (years beyond 40,000) and <a href="/buildings/void_rift/">Void Rifts</a>, which provide a <strong>+10% boost per rift</strong>.</li>
+</ul>
+<h3 id="strategic-context"><strong>Strategic Context</strong></h3>
+<p>In the broader scope of the sources&rsquo; endgame guides, the Umbra mission is part of the &ldquo;Mid-Game&rdquo; transition into chasing relics and established cryptotheology. Because the mission requires <strong>15,000 Thorium</strong>, it necessitates a stable uranium-to-thorium refinement pipeline and high science caps, which are typically supported by earlier structures like <a href="/space/space-beacon/">Space Beacons</a> and <a href="/space/research-vessel/">Research Vessels</a>. Furthermore, the mission marks the point where <a href="/resource/antimatter/">Antimatter</a> becomes a primary construction material for planetary infrastructure.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Yarn Mission</title>
+      <link>/space/yarn_mission/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/space/yarn_mission/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../space/yarn_mission/&#34;&gt;Yarn Mission&lt;/a&gt; is a late-game space exploration project that involves travelling to Yarn, a &lt;strong&gt;Class M planet&lt;/strong&gt; within the Helios star system. It is described as having a moderate climate, oxygen atmosphere, and seas.&lt;/p&gt;
+&lt;h3 id=&#34;mission-logistics-and-unlocks&#34;&gt;&lt;strong&gt;Mission Logistics and Unlocks&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; Players must successfully complete the &lt;a href=&#34;../space/helios_mission/&#34;&gt;Helios Mission&lt;/a&gt; before the Yarn Mission becomes available in the &amp;ldquo;Ground Control&amp;rdquo; section of the Space tab.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Launch Costs:&lt;/strong&gt; The mission requires a significant investment of resources: &lt;strong&gt;7,500 Starcharts, 35,000 Titanium, 350,000 Science, and 12,000 Kerosene&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Travel Time:&lt;/strong&gt; The base travel time is &lt;strong&gt;3,800 game-days&lt;/strong&gt;, which is approximately &lt;strong&gt;2 hours, 6 minutes, and 40 seconds&lt;/strong&gt; in real-time. This duration can be reduced significantly by researching &lt;a href=&#34;../resource/thorium/&#34;&gt;Thorium&lt;/a&gt; or &lt;a href=&#34;../upgrade/antimatter_drive/&#34;&gt;Antimatter Drives&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sequential Unlocks:&lt;/strong&gt; Completing this mission unlocks the &lt;strong&gt;Yarn Planet&lt;/strong&gt; and the subsequent mission to &lt;a href=&#34;../planet/umbra/&#34;&gt;Umbra&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;yarn-infrastructure&#34;&gt;&lt;strong&gt;Yarn Infrastructure&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Once the planet is reached, two specialized structures can be developed to scale the colony’s population and agricultural efficiency:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/space/yarn_mission/">Yarn Mission</a> is a late-game space exploration project that involves travelling to Yarn, a <strong>Class M planet</strong> within the Helios star system. It is described as having a moderate climate, oxygen atmosphere, and seas.</p>
+<h3 id="mission-logistics-and-unlocks"><strong>Mission Logistics and Unlocks</strong></h3>
+<ul>
+<li><strong>Prerequisites:</strong> Players must successfully complete the <a href="/space/helios_mission/">Helios Mission</a> before the Yarn Mission becomes available in the &ldquo;Ground Control&rdquo; section of the Space tab.</li>
+<li><strong>Launch Costs:</strong> The mission requires a significant investment of resources: <strong>7,500 Starcharts, 35,000 Titanium, 350,000 Science, and 12,000 Kerosene</strong>.</li>
+<li><strong>Travel Time:</strong> The base travel time is <strong>3,800 game-days</strong>, which is approximately <strong>2 hours, 6 minutes, and 40 seconds</strong> in real-time. This duration can be reduced significantly by researching <a href="/resource/thorium/">Thorium</a> or <a href="/upgrade/antimatter_drive/">Antimatter Drives</a>.</li>
+<li><strong>Sequential Unlocks:</strong> Completing this mission unlocks the <strong>Yarn Planet</strong> and the subsequent mission to <a href="/planet/umbra/">Umbra</a>.</li>
+</ul>
+<h3 id="yarn-infrastructure"><strong>Yarn Infrastructure</strong></h3>
+<p>Once the planet is reached, two specialized structures can be developed to scale the colony’s population and agricultural efficiency:</p>
+<ul>
+<li><a href="/space/terraforming-station/">Terraforming Station:</a> Costs <strong>25 Antimatter, 5,000 Uranium, and 5,000 Kerosene</strong>. It provides <strong>+1 maximum kitten</strong> capacity.</li>
+<li><a href="/techs/hydroponics/">Hydroponics:</a> Requires the <strong>Hydroponics technology</strong> and costs <strong>1 Unobtainium and 500 Kerosene</strong>. It increases <strong>maximum catnip by 10%</strong>, catnip production by <strong>2.5%</strong>, and provides a <strong>1.0% bonus</strong> to the kitten capacity of Terraforming Stations. Hydroponics also increases the overall <strong>catnip storage capacity by 10%</strong>, which stacks additively with the <a href="/upgrade/refrigeration/">Refrigeration</a> upgrade.</li>
+</ul>
+<h3 id="the-yarn-cycle"><strong>The Yarn Cycle</strong></h3>
+<p>&ldquo;Yarn&rdquo; is also the name of one of the ten five-year cycles in the game (represented by the glyph <strong>⍧</strong>). If <a href="/metaphysics/numerology/">Numerology</a> has been researched, the Yarn cycle provides the following modifiers:</p>
+<ul>
+<li><strong>Production Bonuses:</strong> <strong>Hydroponics catnip production is increased by 100%</strong>.</li>
+<li><strong>Production Penalties:</strong> <strong>Research Vessel starchart production is reduced by 50%</strong>.</li>
+<li><strong>Festival Effect:</strong> If <a href="/metaphysics/numeromancy/">Numeromancy</a> is also researched, holding a festival during the Yarn cycle provides a <strong>2x multiplier to culture income</strong>.</li>
+</ul>
+<h3 id="strategic-importance"><strong>Strategic Importance</strong></h3>
+<p>In the late game, terraforming Yarn is a primary strategy for players aiming to maximize their <strong>kitten population</strong> (potentially reaching upwards of 60,000 kittens) to farm larger amounts of <a href="/resource/paragon/">Paragon</a> during long runs. This is achieved by stacking <a href="/space/terraforming-station/">Terraforming Stations</a> and leveraging the scaling bonuses from <a href="/techs/hydroponics/">Hydroponics</a> and <a href="/buildings/ai_core/">AI Cores</a>.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

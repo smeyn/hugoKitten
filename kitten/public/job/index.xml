@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/job/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/job/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scholar</title>
+      <link>/job/scholar/</link>
+      <pubDate>Tue, 07 Apr 2026 23:53:43 +0000</pubDate>
+      <guid>/job/scholar/</guid>
+      <description>&lt;p&gt;+0.175 science per second&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../job/scholar/&#34;&gt;Scholars&lt;/a&gt; are a specialized job for your kittens that becomes available after you construct your first &lt;a href=&#34;../buildings/library/&#34;&gt;Library&lt;/a&gt; (which requires 25 Wood). Their primary function is to generate &lt;a href=&#34;../resource/science/&#34;&gt;Science&lt;/a&gt;, which is essential for purchasing new technologies and unlocking Workshop upgrades.&lt;/p&gt;
+&lt;h3 id=&#34;core-production&#34;&gt;&lt;strong&gt;Core Production&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Each kitten actively assigned as a Scholar generates a base output of &lt;strong&gt;+0.035 Science per tick&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;upgrades-and-late-game-utility&#34;&gt;&lt;strong&gt;Upgrades and Late-Game Utility&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;While their main purpose is Science generation, Scholars gain a massive secondary utility in the late game through the &lt;a href=&#34;../upgrade/astrophysicists/&#34;&gt;Astrophysicists&lt;/a&gt; workshop upgrade.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>+0.175 science per second</p>
+<p><a href="/job/scholar/">Scholars</a> are a specialized job for your kittens that becomes available after you construct your first <a href="/buildings/library/">Library</a> (which requires 25 Wood). Their primary function is to generate <a href="/resource/science/">Science</a>, which is essential for purchasing new technologies and unlocking Workshop upgrades.</p>
+<h3 id="core-production"><strong>Core Production</strong></h3>
+<p>Each kitten actively assigned as a Scholar generates a base output of <strong>+0.035 Science per tick</strong>.</p>
+<h3 id="upgrades-and-late-game-utility"><strong>Upgrades and Late-Game Utility</strong></h3>
+<p>While their main purpose is Science generation, Scholars gain a massive secondary utility in the late game through the <a href="/upgrade/astrophysicists/">Astrophysicists</a> workshop upgrade.</p>
+<ul>
+<li><a href="/upgrade/astrophysicists/">Astrophysicists:</a> Costing 250,000 Science and 350 Unobtainium, this upgrade enables each of your Scholar kittens to passively produce <strong>+0.0005 starcharts per second</strong>.</li>
+</ul>
+<p>Because starcharts can become a major bottleneck for space exploration and ship building, reallocating extra kittens to the Scholar job is an effective late-game strategy to boost your starchart generation without relying solely on manual astronomical events.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Priest</title>
+      <link>/job/priest/</link>
+      <pubDate>Tue, 07 Apr 2026 23:52:31 +0000</pubDate>
+      <guid>/job/priest/</guid>
+      <description>&lt;p&gt;+0.0075 faith per second&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../job/priest/&#34;&gt;[Priests] ( /job/priest/)&lt;/a&gt; are a specialized job for your kittens that becomes available after you research the &lt;a href=&#34;../techs/theology/&#34;&gt;Theology&lt;/a&gt; science technology. Their primary role is to generate &lt;a href=&#34;../resource/faith/&#34;&gt;Faith&lt;/a&gt;, which is the fundamental resource used in the game&amp;rsquo;s Religion tab.&lt;/p&gt;
+&lt;h3 id=&#34;core-production&#34;&gt;&lt;strong&gt;Core Production&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Output:&lt;/strong&gt; A kitten assigned as a Priest natively produces &lt;strong&gt;0.0015 faith per tick&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-importance-the-late-game&#34;&gt;&lt;strong&gt;Strategic Importance: The Late Game&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;While [Priests] ( /job/priest/) are introduced in the mid-game, they become arguably the most important job assignment in the deep late game. As you progress into the Relic and Unicorn eras, most conventional resources matter less, and your primary goal shifts to maximizing your global production via the &lt;a href=&#34;../religion/solar_revolution/&#34;&gt;Solar Revolution&lt;/a&gt; religion upgrade.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>+0.0075 faith per second</p>
+<p><a href="/job/priest/">[Priests] ( /job/priest/)</a> are a specialized job for your kittens that becomes available after you research the <a href="/techs/theology/">Theology</a> science technology. Their primary role is to generate <a href="/resource/faith/">Faith</a>, which is the fundamental resource used in the game&rsquo;s Religion tab.</p>
+<h3 id="core-production"><strong>Core Production</strong></h3>
+<ul>
+<li><strong>Base Output:</strong> A kitten assigned as a Priest natively produces <strong>0.0015 faith per tick</strong>.</li>
+</ul>
+<h3 id="strategic-importance-the-late-game"><strong>Strategic Importance: The Late Game</strong></h3>
+<p>While [Priests] ( /job/priest/) are introduced in the mid-game, they become arguably the most important job assignment in the deep late game. As you progress into the Relic and Unicorn eras, most conventional resources matter less, and your primary goal shifts to maximizing your global production via the <a href="/religion/solar_revolution/">Solar Revolution</a> religion upgrade.</p>
+<p>To fuel this, you will eventually assign almost all of your kittens as [Priests] ( /job/priest/). The massive amounts of faith they generate are continually converted into Worship (by using the &ldquo;Praise the Sun&rdquo; action), which can exponentially boost your entire civilization&rsquo;s production by up to +1000%.</p>
+<h3 id="upgrades-and-boosts"><strong>Upgrades and Boosts</strong></h3>
+<p>You can improve the effectiveness of your [Priests] ( /job/priest/) through specific upgrades:</p>
+<ul>
+<li><a href="/religion/solar_chant/">Solar Chant:</a> This religion upgrade increases your total faith production by <strong>+10%</strong>. You can purchase additional levels of Solar Chant after you unlock Transcendence, with each level granting another +10% boost.</li>
+<li><a href="/metaphysics/order_of_the_void/">Order of the Void:</a> This Metaphysics upgrade (which costs 75 Paragon) fundamentally changes how [Priests] ( /job/priest/) work. Once purchased, all of your [Priests] ( /job/priest/) (and any other faith-producing structures) will automatically generate an additional <strong>10% of their faith output directly as Worship</strong>. This acts as a powerful passive engine for building your Solar Revolution bonus.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Miner</title>
+      <link>/job/miner/</link>
+      <pubDate>Tue, 07 Apr 2026 23:51:38 +0000</pubDate>
+      <guid>/job/miner/</guid>
+      <description>&lt;p&gt;adds +0.25 mineral per second&lt;/p&gt;
+&lt;p&gt;Quote: &amp;ldquo;I don&amp;rsquo;t really understand how can I hold a pick with my paws&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../job/miner/&#34;&gt;Miners&lt;/a&gt; are a specialized job you can assign to your kittens, serving as your civilization&amp;rsquo;s primary workforce for generating &lt;strong&gt;Minerals&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-prerequisites&#34;&gt;&lt;strong&gt;Acquisition and Prerequisites&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To employ Miners, you must first research the &lt;a href=&#34;../techs/mining/&#34;&gt;Mining&lt;/a&gt; science technology, which grants you the ability to construct a &lt;a href=&#34;../buildings/mine/&#34;&gt;Mine&lt;/a&gt;. Building your first Mine officially unlocks the Miner job, while also providing a permanent &lt;strong&gt;+20% boost to your overall mineral production&lt;/strong&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>adds +0.25 mineral per second</p>
+<p>Quote: &ldquo;I don&rsquo;t really understand how can I hold a pick with my paws&rdquo;</p>
+<p><a href="/job/miner/">Miners</a> are a specialized job you can assign to your kittens, serving as your civilization&rsquo;s primary workforce for generating <strong>Minerals</strong>.</p>
+<h3 id="acquisition-and-prerequisites"><strong>Acquisition and Prerequisites</strong></h3>
+<p>To employ Miners, you must first research the <a href="/techs/mining/">Mining</a> science technology, which grants you the ability to construct a <a href="/buildings/mine/">Mine</a>. Building your first Mine officially unlocks the Miner job, while also providing a permanent <strong>+20% boost to your overall mineral production</strong>.</p>
+<h3 id="core-production"><strong>Core Production</strong></h3>
+<p>Each kitten actively assigned as a Miner natively generates <strong>0.05 minerals per tick</strong>.</p>
+<h3 id="strategic-importance"><strong>Strategic Importance</strong></h3>
+<p>Minerals are a fundamental resource necessary for purchasing and crafting a wide variety of advanced buildings and expansions for your village. When balancing your workforce during the early stages of the game, a highly recommended strategy is to <strong>employ about half as many Miners as you have Woodcutters</strong>. Because wood is required to build the Mines that boost your mineral output, maintaining this specific ratio typically results in a stable and equal production rate of both wood and minerals.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Geologist</title>
+      <link>/job/geologist/</link>
+      <pubDate>Tue, 07 Apr 2026 23:50:51 +0000</pubDate>
+      <guid>/job/geologist/</guid>
+      <description>&lt;p&gt;adds +0.075 coal per second (may be upgraded)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../job/geologist/&#34;&gt;Geologists&lt;/a&gt; are a specialized job you can assign to your kittens that primarily provides a steady source of coal, and later, gold.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-prerequisites&#34;&gt;&lt;strong&gt;Acquisition and Prerequisites&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Unlock:&lt;/strong&gt; The Geologist job becomes available once you research the &lt;a href=&#34;../techs/geology/&#34;&gt;Geology&lt;/a&gt; science technology.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; Reaching Geology requires progressing past the Navigation technology and saving up &lt;strong&gt;65,000 Science&lt;/strong&gt; and &lt;strong&gt;65 Compendiums&lt;/strong&gt;. Because of the high science capacity required, it is generally considered a mid-game job.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-production&#34;&gt;&lt;strong&gt;Core Production&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Output:&lt;/strong&gt; A Geologist natively produces &lt;strong&gt;+0.015 coal per tick&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strategic Use:&lt;/strong&gt; Early in the mid-game, coal can be a major bottleneck (especially since active Steamworks consume it heavily), making Geologists an excellent way to increase coal income without relying solely on Smelters or Mines. If you lack coal for vital mid-game structures like Oil Wells, assigning more Geologists is a standard strategy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;upgrades-and-boosts&#34;&gt;&lt;strong&gt;Upgrades and Boosts&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Geologists can be significantly improved through specific Workshop upgrades, effectively turning them into the backbone of your late-game trade economy:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>adds +0.075 coal per second (may be upgraded)</p>
+<p><a href="/job/geologist/">Geologists</a> are a specialized job you can assign to your kittens that primarily provides a steady source of coal, and later, gold.</p>
+<h3 id="acquisition-and-prerequisites"><strong>Acquisition and Prerequisites</strong></h3>
+<ul>
+<li><strong>Unlock:</strong> The Geologist job becomes available once you research the <a href="/techs/geology/">Geology</a> science technology.</li>
+<li><strong>Cost:</strong> Reaching Geology requires progressing past the Navigation technology and saving up <strong>65,000 Science</strong> and <strong>65 Compendiums</strong>. Because of the high science capacity required, it is generally considered a mid-game job.</li>
+</ul>
+<h3 id="core-production"><strong>Core Production</strong></h3>
+<ul>
+<li><strong>Base Output:</strong> A Geologist natively produces <strong>+0.015 coal per tick</strong>.</li>
+<li><strong>Strategic Use:</strong> Early in the mid-game, coal can be a major bottleneck (especially since active Steamworks consume it heavily), making Geologists an excellent way to increase coal income without relying solely on Smelters or Mines. If you lack coal for vital mid-game structures like Oil Wells, assigning more Geologists is a standard strategy.</li>
+</ul>
+<h3 id="upgrades-and-boosts"><strong>Upgrades and Boosts</strong></h3>
+<p>Geologists can be significantly improved through specific Workshop upgrades, effectively turning them into the backbone of your late-game trade economy:</p>
+<ul>
+<li><a href="/upgrade/geodesy/">Geodesy:</a> Arguably the most important upgrade for this job. Costing 90,000 Science, 250 Titanium, and 500 Starcharts, Geodesy increases coal output by +0.0075 per tick and allows Geologists to <strong>passively generate gold</strong> at a rate of +0.0008 per tick (or +0.004 per second). Once you reach the Space phase, you will likely assign the vast majority of your kittens as Geologists, using their gold production to fuel massive trades with Zebras for titanium and iron.</li>
+<li><a href="/upgrade/mining_drill/">Mining Drill:</a> Costs 100k Science, 1,750 Titanium, and 750 Steel. It increases Geologist coal production by +0.01 per tick, and gold production by +0.0005 per tick (provided you have already researched Geodesy).</li>
+<li><a href="/upgrade/unobtainium_drill/">Unobtainium Drill:</a> Costs 250k Science, 250 Unobtainium, and 1,250 Alloy. It adds another +0.015 coal per tick and +0.0005 gold per tick.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hunter</title>
+      <link>/job/hunter/</link>
+      <pubDate>Tue, 07 Apr 2026 23:48:46 +0000</pubDate>
+      <guid>/job/hunter/</guid>
+      <description>&lt;p&gt;produces +0.3 catpower per second&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re so cute we purr at our prey until it dies&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../job/hunter/&#34;&gt;Hunters&lt;/a&gt; are a specialized job for your kittens that becomes available after you research the &lt;a href=&#34;../techs/archery/&#34;&gt;Archery&lt;/a&gt; technology. Their primary function is to slowly generate &lt;a href=&#34;../resource/cat_power/&#34;&gt;Catpower&lt;/a&gt;, which they produce at a base rate of &lt;strong&gt;0.06 per tick&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;the-hunting-mechanic&#34;&gt;&lt;strong&gt;The Hunting Mechanic&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Whenever you accumulate 100 Catpower, you can initiate a hunt. Interestingly, you do not actually need to have any kittens actively assigned to the Hunter job to perform a hunt; you only need to have the required 100 Catpower saved up.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>produces +0.3 catpower per second</p>
+<p>We&rsquo;re so cute we purr at our prey until it dies</p>
+<p><a href="/job/hunter/">Hunters</a> are a specialized job for your kittens that becomes available after you research the <a href="/techs/archery/">Archery</a> technology. Their primary function is to slowly generate <a href="/resource/cat_power/">Catpower</a>, which they produce at a base rate of <strong>0.06 per tick</strong>.</p>
+<h3 id="the-hunting-mechanic"><strong>The Hunting Mechanic</strong></h3>
+<p>Whenever you accumulate 100 Catpower, you can initiate a hunt. Interestingly, you do not actually need to have any kittens actively assigned to the Hunter job to perform a hunt; you only need to have the required 100 Catpower saved up.</p>
+<p>Hunting is essential for progressing through the game because it yields several rare and valuable resources:</p>
+<ul>
+<li><strong>Furs and Ivory:</strong> These are the most common drops you will receive. Simply possessing these luxury items grants a <strong>+10% boost to your kittens&rsquo; happiness</strong> for each resource type. However, Furs and Ivory will gradually degrade over time, so it is best to use them (such as crafting Furs into Parchment) rather than hoarding them.</li>
+<li><strong>Unicorns:</strong> Every hunt has a <strong>5% chance</strong> to yield a Unicorn, which eventually allows you to build Unicorn Pastures.</li>
+<li><strong>Gold (Iron Will Mode):</strong> If you are playing the kitten-less Iron Will mode and have the Gold Ore upgrade, each hunt has a <strong>25% chance</strong> to yield gold.</li>
+<li><strong>Bloodstones (Iron Will Mode):</strong> In Iron Will mode, if you have at least 10 Zebras, every hunt has a 0.05% chance to drop a bloodstone (this chance increases to 5% if you currently possess zero bloodstones).</li>
+</ul>
+<p><em>Note: Hunting is completely disabled if you are attempting the Pacifism challenge.</em></p>
+<h3 id="upgrades-and-boosts"><strong>Upgrades and Boosts</strong></h3>
+<p>You can improve your Hunters and the hunting mechanic through two distinct upgrade paths in the Workshop:</p>
+<ul>
+<li><strong>Catpower Production Boosts:</strong> Upgrades such as the <a href="/upgrade/composite_bow/">Composite Bow</a> (+50%), <a href="/upgrade/crossbow/">Crossbow</a> (+25%), and <a href="/upgrade/railgun/">Railgun</a> (+25%) directly increase the amount of Catpower your assigned Hunters generate per tick.</li>
+<li><strong>Hunting Yield Boosts:</strong> Upgrades such as <a href="/upgrade/bolas/">Bolas</a>, <a href="/upgrade/hunting_armour/">Hunting Armour</a>, <a href="/upgrade/steel_armour/">Steel Armour</a>, <a href="/upgrade/alloy_armour/">Alloy Armour</a>, and <a href="/upgrade/nanosuits/">Nanosuits</a> increase your civilization&rsquo;s overall &ldquo;Hunting bonus&rdquo;. This bonus stacks additively and directly multiplies the amount of Furs, Ivory, and other random resources you receive every time you spend 100 Catpower to execute a hunt.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Farmer</title>
+      <link>/job/farmer/</link>
+      <pubDate>Tue, 07 Apr 2026 23:45:43 +0000</pubDate>
+      <guid>/job/farmer/</guid>
+      <description>&lt;p&gt;produces +5 catnip per second&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../job/farmer/&#34;&gt;Farmers&lt;/a&gt; are one of the earliest specialized jobs you can assign to your kittens. Unlocked by researching &lt;a href=&#34;../techs/agriculture/&#34;&gt;Agriculture&lt;/a&gt;, they serve as your civilization&amp;rsquo;s primary defense against starvation during the early game.&lt;/p&gt;
+&lt;h3 id=&#34;core-production-and-mechanics&#34;&gt;&lt;strong&gt;Core Production and Mechanics&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Output:&lt;/strong&gt; A Farmer produces &lt;strong&gt;1 catnip per tick&lt;/strong&gt; (which equates to 5 catnip per second).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Net Gain:&lt;/strong&gt; Because every working kitten natively consumes 0.85 catnip per tick, assigning a kitten as a Farmer yields a net gain of &lt;strong&gt;0.15 catnip per tick&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-importance-surviving-winter&#34;&gt;&lt;strong&gt;Strategic Importance: Surviving Winter&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The most critical attribute of Farmers is that their production is &lt;strong&gt;completely immune to seasonal and weather penalties&lt;/strong&gt;.
+While your Catnip Fields will suffer a devastating production drop of up to -75% (or -90% in a Cold Winter), Farmers will continue producing at their full, regular rate. In the early stages of the game, a standard and vital strategy is to reallocate all or most of your kittens to the Farmer job just before Winter arrives to ensure your village does not starve.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>produces +5 catnip per second</p>
+<p><a href="/job/farmer/">Farmers</a> are one of the earliest specialized jobs you can assign to your kittens. Unlocked by researching <a href="/techs/agriculture/">Agriculture</a>, they serve as your civilization&rsquo;s primary defense against starvation during the early game.</p>
+<h3 id="core-production-and-mechanics"><strong>Core Production and Mechanics</strong></h3>
+<ul>
+<li><strong>Base Output:</strong> A Farmer produces <strong>1 catnip per tick</strong> (which equates to 5 catnip per second).</li>
+<li><strong>Net Gain:</strong> Because every working kitten natively consumes 0.85 catnip per tick, assigning a kitten as a Farmer yields a net gain of <strong>0.15 catnip per tick</strong>.</li>
+</ul>
+<h3 id="strategic-importance-surviving-winter"><strong>Strategic Importance: Surviving Winter</strong></h3>
+<p>The most critical attribute of Farmers is that their production is <strong>completely immune to seasonal and weather penalties</strong>.
+While your Catnip Fields will suffer a devastating production drop of up to -75% (or -90% in a Cold Winter), Farmers will continue producing at their full, regular rate. In the early stages of the game, a standard and vital strategy is to reallocate all or most of your kittens to the Farmer job just before Winter arrives to ensure your village does not starve.</p>
+<p>As you construct more Catnip Fields, Pastures, and Aqueducts to bolster your passive catnip generation, you can gradually reduce your reliance on Farmers. Eventually, you may only need to keep a single kitten employed as a Farmer to maintain a positive food balance.</p>
+<h3 id="upgrades-and-boosts"><strong>Upgrades and Boosts</strong></h3>
+<p>You can increase the efficiency of your Farmers through several Workshop upgrades and buildings:</p>
+<ul>
+<li><a href="/upgrade/mineral_hoes/">Mineral Hoes:</a> Increases Farmer production by <strong>+50%</strong>.</li>
+<li><a href="/upgrade/iron_hoes/">Iron Hoes:</a> Increases Farmer production by an additional <strong>+30%</strong>.</li>
+<li><em>Note on Stacking:</em> These two hoe upgrades stack additively with each other.</li>
+<li><a href="/buildings/aqueduct/">Aqueducts:</a> Building an Aqueduct provides a <strong>+3% boost</strong> to your total catnip production, which directly scales the catnip generated by your Farmers.</li>
+<li><strong>Leadership:</strong> If you assign a Farmer as your <strong>Leader</strong>, their rank will provide a multiplier to your farming output, meaning you will need far fewer kittens working as Farmers to feed your population.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Engineer</title>
+      <link>/job/engineer/</link>
+      <pubDate>Thu, 12 Mar 2026 07:12:33 +0000</pubDate>
+      <guid>/job/engineer/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Kittens Game&lt;/em&gt;, the &lt;a href=&#34;../job/engineer/&#34;&gt;Engineer&lt;/a&gt; is a specialised kitten job focused on &lt;strong&gt;automating the crafting process&lt;/strong&gt; in the Workshop.&lt;/p&gt;
+&lt;h3 id=&#34;unlocking-and-assignment&#34;&gt;&lt;strong&gt;Unlocking and Assignment&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; To assign kittens as Engineers, you must first research the &lt;a href=&#34;../techs/mechanization/&#34;&gt;Mechanization&lt;/a&gt; technology (costs 115k Science and 45 Blueprints).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assignment:&lt;/strong&gt; Once unlocked, kittens can be assigned to the Engineer job in the Village tab.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Note on Traits:&lt;/strong&gt; The &lt;strong&gt;Artisan&lt;/strong&gt; trait was previously named &amp;ldquo;Engineer&amp;rdquo; but was changed to avoid confusion with this job role. While the Artisan trait provides a global bonus to crafting efficiency, the Engineer job performs the physical automation of crafts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-functionality-automation&#34;&gt;&lt;strong&gt;Core Functionality: Automation&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The primary role of Engineers is to &lt;strong&gt;automate the conversion of resources&lt;/strong&gt; that would otherwise hit their storage caps.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In <em>Kittens Game</em>, the <a href="/job/engineer/">Engineer</a> is a specialised kitten job focused on <strong>automating the crafting process</strong> in the Workshop.</p>
+<h3 id="unlocking-and-assignment"><strong>Unlocking and Assignment</strong></h3>
+<ul>
+<li><strong>Prerequisite:</strong> To assign kittens as Engineers, you must first research the <a href="/techs/mechanization/">Mechanization</a> technology (costs 115k Science and 45 Blueprints).</li>
+<li><strong>Assignment:</strong> Once unlocked, kittens can be assigned to the Engineer job in the Village tab.</li>
+<li><strong>Note on Traits:</strong> The <strong>Artisan</strong> trait was previously named &ldquo;Engineer&rdquo; but was changed to avoid confusion with this job role. While the Artisan trait provides a global bonus to crafting efficiency, the Engineer job performs the physical automation of crafts.</li>
+</ul>
+<h3 id="core-functionality-automation"><strong>Core Functionality: Automation</strong></h3>
+<p>The primary role of Engineers is to <strong>automate the conversion of resources</strong> that would otherwise hit their storage caps.</p>
+<ul>
+<li><strong>Crafting Points:</strong> Each assigned kitten provides &ldquo;Engineer points&rdquo; to the Workshop&rsquo;s automated crafting pool.</li>
+<li><strong>Resource Management:</strong> They are particularly vital for managing resources like <a href="/resource/oil/">Oil</a>, which they can automatically convert into <a href="/resource/kerosene/">Kerosene</a> to prevent production from halting due to full storage.</li>
+<li><strong>Late-Game Utility:</strong> As the game progresses and manual crafting becomes tedious, players typically shift a larger portion of their population into Engineer and Priest roles to handle massive resource throughput.</li>
+</ul>
+<h3 id="upgrades-and-effectiveness"><strong>Upgrades and Effectiveness</strong></h3>
+<p>The efficiency of Engineers—often measured in &ldquo;know-how&rdquo;—can be significantly enhanced through various Workshop upgrades:</p>
+<ul>
+<li><strong>Know-How Progression:</strong> Multiple upgrades increase the effectiveness of different &ldquo;classes&rdquo; of Engineers:
+<ul>
+<li><a href="/upgrade/factory_optimization/">Factory Optimization:</a> Increases know-how for Class 1 (10) and Class 2 (2).</li>
+<li><a href="/upgrade/space_engineers/">Space Engineers:</a> Increases know-how for Class 1 (10), Class 2 (5), and adds Class 3 and 4 (2 each).</li>
+<li><a href="/upgrade/ai_engineers/">AI Engineers:</a> Further expands know-how across classes 1 through 5.</li>
+<li><a href="/upgrade/factory_robotics/">Factory Robotics:</a> Provides another boost to Classes 1, 2, and 3.</li>
+</ul>
+</li>
+<li><strong>Neural Network:</strong> This critical upgrade <strong>doubles Engineer effectiveness</strong> and allows kittens to learn skills from the &ldquo;noosphere&rdquo;.</li>
+<li><a href="/upgrade/antimatter_fission/">Antimatter Fission:</a> Specifically makes Engineers <strong>25% more effective at producing Eludium</strong>.</li>
+</ul>
+<h3 id="temporal-capabilities"><strong>Temporal Capabilities</strong></h3>
+<p>In the late game, Engineers gain the ability to function outside of normal time:</p>
+<ul>
+<li><a href="/upgrade/chronoengineers/">Chronoengineers:</a> This upgrade allows Engineers to <strong>continue crafting during time skips</strong> (combusting Time Crystals).</li>
+<li><strong>Resource Retrieval Synergy:</strong> When working during a time skip, their crafting is based on the <a href="/upgrade/resource-retrieval/">Resource Retrieval</a> level, ensuring they can produce materials even as years are bypassed.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Woodcutter</title>
+      <link>/job/woodcutter/</link>
+      <pubDate>Sun, 30 Nov 2025 00:19:28 +0000</pubDate>
+      <guid>/job/woodcutter/</guid>
+      <description>&lt;p&gt;Produces +0.09 wood per second&lt;/p&gt;
+&lt;p&gt;Quote: &amp;ldquo;Must. Not. Scratch.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../job/woodcutter/&#34;&gt;Woodcutters&lt;/a&gt; are one of the very first specialised jobs you can assign to your kittens, and they serve as the foundation of your early-game economy by continuously harvesting &lt;strong&gt;Wood&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;base-production-and-acquisition&#34;&gt;&lt;strong&gt;Base Production and Acquisition&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Output:&lt;/strong&gt; A kitten actively assigned as a Woodcutter natively generates &lt;strong&gt;+0.0018 wood per tick&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlock Requirement:&lt;/strong&gt; To employ Woodcutters, you must first gather Catnip, refine it into Wood, and use that Wood to construct your first &lt;a href=&#34;../buildings/hut/&#34;&gt;Hut&lt;/a&gt;. Once kittens begin arriving in your Small Village tab, you can assign them to the Woodcutter job.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;upgrades-and-boosts-the-axe-chain&#34;&gt;&lt;strong&gt;Upgrades and Boosts (The Axe Chain)&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;You can drastically improve the effectiveness of your Woodcutters through a dedicated series of Workshop technologies known as the &amp;ldquo;axe chain&amp;rdquo;. These upgrades provide massive percentage-based boosts to their output:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Produces +0.09 wood per second</p>
+<p>Quote: &ldquo;Must. Not. Scratch.&rdquo;</p>
+<p><a href="/job/woodcutter/">Woodcutters</a> are one of the very first specialised jobs you can assign to your kittens, and they serve as the foundation of your early-game economy by continuously harvesting <strong>Wood</strong>.</p>
+<h3 id="base-production-and-acquisition"><strong>Base Production and Acquisition</strong></h3>
+<ul>
+<li><strong>Base Output:</strong> A kitten actively assigned as a Woodcutter natively generates <strong>+0.0018 wood per tick</strong>.</li>
+<li><strong>Unlock Requirement:</strong> To employ Woodcutters, you must first gather Catnip, refine it into Wood, and use that Wood to construct your first <a href="/buildings/hut/">Hut</a>. Once kittens begin arriving in your Small Village tab, you can assign them to the Woodcutter job.</li>
+</ul>
+<h3 id="upgrades-and-boosts-the-axe-chain"><strong>Upgrades and Boosts (The Axe Chain)</strong></h3>
+<p>You can drastically improve the effectiveness of your Woodcutters through a dedicated series of Workshop technologies known as the &ldquo;axe chain&rdquo;. These upgrades provide massive percentage-based boosts to their output:</p>
+<ul>
+<li><a href="/upgrade/mineral_axe/">Mineral Axe</a> +70% effectiveness.</li>
+<li><a href="/upgrade/iron_axe/">Iron Axe:</a> +50% effectiveness.</li>
+<li><a href="/upgrade/steel_axe/">Steel Axe:</a> +50% effectiveness.</li>
+<li><a href="/upgrade/titanium_axe/">Titanium Axe:</a> +50% effectiveness.</li>
+<li><a href="/upgrade/alloy_axe/">Alloy Axe:</a> +50% effectiveness.</li>
+<li><a href="/upgrade/unobtainium_axe/">Unobtainium Axe:</a> The final upgrade in the Woodcutter tool chain.</li>
+</ul>
+<h3 id="strategic-management"><strong>Strategic Management</strong></h3>
+<ul>
+<li><strong>The Early Game Grind:</strong> Before you unlock advanced buildings, wood will accumulate very slowly. It is highly recommended to heavily focus your workforce on wood production until you can afford <a href="/buildings/lumber_mill/">Lumber Mills</a>.</li>
+<li><strong>Multiplicative Synergy:</strong> The percentage bonuses granted by the workshop axe upgrades stack multiplicatively with the bonuses provided by your Lumber Mills. This means combining both upgrade paths will exponentially skyrocket your Woodcutters&rsquo; yields.</li>
+<li><strong>Workforce Ratios:</strong> When balancing your early-to-mid game economy, a standard community strategy is to <strong>employ half as many Miners as you have Woodcutters</strong>. Because wood is constantly required to build the structures that boost mineral output, this 2:1 ratio generally maintains a stable and parallel growth of both resources.</li>
+<li><strong>Leader Synergy:</strong> If you are desperately bottlenecked by wood, you can assign a Woodcutter as your village <strong>Leader</strong> and promote them with gold. A highly ranked leader provides such a massive percentage boost to their specific job that it can be the equivalent of adding up to 11 extra kittens to your woodcutting workforce.</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

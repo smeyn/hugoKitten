@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/craft/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Wed, 24 Dec 2025 12:41:34 +1100</lastBuildDate>
+    <atom:link href="/craft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gear</title>
+      <link>/craft/gear/</link>
+      <pubDate>Tue, 10 Mar 2026 22:33:15 +0000</pubDate>
+      <guid>/craft/gear/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../craft/gear/&#34;&gt;Gears&lt;/a&gt; are a critical mid-to-late-game craftable resource in &lt;em&gt;Kittens Game&lt;/em&gt;, functioning as an integral component for buildings and upgrades that increase &lt;strong&gt;automation&lt;/strong&gt; and industrial efficiency.&lt;/p&gt;
+&lt;h3 id=&#34;production-and-acquisition&#34;&gt;&lt;strong&gt;Production and Acquisition&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Recipe:&lt;/strong&gt; One Gear is crafted in the Workshop using &lt;strong&gt;15 Steel&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; You must first research the &lt;a href=&#34;../craft/steel/&#34;&gt;Steel&lt;/a&gt; science technology to unlock Gear crafting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Crafting Efficiency:&lt;/strong&gt; Kittens with the &lt;strong&gt;Metallurgist&lt;/strong&gt; trait provide a specific &lt;strong&gt;+0.1 bonus&lt;/strong&gt; to your &lt;code&gt;craftRatio&lt;/code&gt; for Gears when assigned as the village leader.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-building-requirements&#34;&gt;&lt;strong&gt;Primary Building Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Gears are a mandatory material for constructing several industrial and resource-gathering structures:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/craft/gear/">Gears</a> are a critical mid-to-late-game craftable resource in <em>Kittens Game</em>, functioning as an integral component for buildings and upgrades that increase <strong>automation</strong> and industrial efficiency.</p>
+<h3 id="production-and-acquisition"><strong>Production and Acquisition</strong></h3>
+<ul>
+<li><strong>Recipe:</strong> One Gear is crafted in the Workshop using <strong>15 Steel</strong>.</li>
+<li><strong>Prerequisites:</strong> You must first research the <a href="/craft/steel/">Steel</a> science technology to unlock Gear crafting.</li>
+<li><strong>Crafting Efficiency:</strong> Kittens with the <strong>Metallurgist</strong> trait provide a specific <strong>+0.1 bonus</strong> to your <code>craftRatio</code> for Gears when assigned as the village leader.</li>
+</ul>
+<h3 id="primary-building-requirements"><strong>Primary Building Requirements</strong></h3>
+<p>Gears are a mandatory material for constructing several industrial and resource-gathering structures:</p>
+<ul>
+<li><a href="/buildings/steamworks/">Steamworks:</a> Requires <strong>20 Gears</strong>.</li>
+<li><a href="/buildings/magneto/">Magnetos:</a> Requires <strong>5 Gears</strong>.</li>
+<li><a href="/buildings/oil_well/">Oil Wells:</a> Requires <strong>25 Gears</strong>.</li>
+</ul>
+<h3 id="key-workshop-upgrades"><strong>Key Workshop Upgrades</strong></h3>
+<p>Gears are heavily utilized in the Workshop, particularly for upgrades that automate manual tasks or enhance industrial output:</p>
+<ul>
+<li><strong>Printing &amp; Pressing:</strong> Upgrades like the <a href="/upgrade/printing_press/">Printing Press</a> (45 Gears), <a href="/upgrade/offset_press/">Offset Press</a> (250 Gears), and <a href="/upgrade/photolithography/">Photolithography</a> (1,250 Gears) allow Steamworks to automatically generate manuscripts.</li>
+<li><strong>Industrial Automation:</strong> <a href="/upgrade/workshop_automation/">Workshop Automation</a> (25 Gears) and <a href="/upgrade/advanced_automation/">Advanced Automation</a> (75 Gears) enable Steamworks to automatically craft slabs and beams.</li>
+<li><strong>Production Boosts:</strong> Upgrades such as <a href="/upgrade/steel_plants/">Steel Plants</a> (750 Gears) and <a href="/upgrade/rotary_kiln/">Rotary Kiln</a> (500 Gears) improve the efficiency of Calciners.</li>
+<li><strong>Environmental &amp; Efficiency:</strong> <a href="/upgrade/carbon_sequestration/">Carbon Sequestration</a> (125 Gears) reduces factory pollution, while <a href="/upgrade/robotic_assistance/">Robotic Assistance</a> (10,000 Gears) significantly reduces kitten catnip consumption.</li>
+</ul>
+<h3 id="strategic-importance"><strong>Strategic Importance</strong></h3>
+<p>Gears represent the transition from manual resource management to <strong>automated industrial cycles</strong>. Because Gears are crafted from Steel (which is itself a refined resource), it is highly recommended to <strong>maximize your Workshops</strong> and Factories to achieve a high craft ratio. This ensures you produce multiple Gears for the same amount of Steel, which is vital for overcoming the &ldquo;Theology hurdle&rdquo; and establishing a robust industrial base.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Concrete</title>
+      <link>/craft/concrete/</link>
+      <pubDate>Tue, 10 Mar 2026 22:32:01 +0000</pubDate>
+      <guid>/craft/concrete/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../craft/concrete/&#34;&gt;Concrete&lt;/a&gt; is a critical mid-to-late-game craftable resource used primarily for advanced infrastructure, storage expansion, and space exploration. Its acquisition marks the beginning of the &amp;ldquo;Concrete Era,&amp;rdquo; which is a major milestone in a player&amp;rsquo;s first run.&lt;/p&gt;
+&lt;h3 id=&#34;production-and-unlocking&#34;&gt;&lt;strong&gt;Production and Unlocking&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must first research the &lt;a href=&#34;../techs/mechanization/&#34;&gt;Mechanization&lt;/a&gt; science technology (115K Science, 45 Blueprints) to unlock the ability to craft concrete and assign &lt;a href=&#34;../job/engineer/&#34;&gt;Engineers&lt;/a&gt; to automate its production.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recipe:&lt;/strong&gt; Crafting one unit of concrete requires &lt;strong&gt;2,500 Slabs&lt;/strong&gt; and &lt;strong&gt;25 Steel&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trait Bonus:&lt;/strong&gt; Kittens with the &lt;strong&gt;Chemist&lt;/strong&gt; trait provide a specific bonus to crafting efficiency for concrete when assigned as a leader.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;major-upgrades&#34;&gt;&lt;strong&gt;Major Upgrades&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Concrete is essential for several Workshop upgrades that significantly boost village capacity:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/craft/concrete/">Concrete</a> is a critical mid-to-late-game craftable resource used primarily for advanced infrastructure, storage expansion, and space exploration. Its acquisition marks the beginning of the &ldquo;Concrete Era,&rdquo; which is a major milestone in a player&rsquo;s first run.</p>
+<h3 id="production-and-unlocking"><strong>Production and Unlocking</strong></h3>
+<ul>
+<li><strong>Prerequisite:</strong> You must first research the <a href="/techs/mechanization/">Mechanization</a> science technology (115K Science, 45 Blueprints) to unlock the ability to craft concrete and assign <a href="/job/engineer/">Engineers</a> to automate its production.</li>
+<li><strong>Recipe:</strong> Crafting one unit of concrete requires <strong>2,500 Slabs</strong> and <strong>25 Steel</strong>.</li>
+<li><strong>Trait Bonus:</strong> Kittens with the <strong>Chemist</strong> trait provide a specific bonus to crafting efficiency for concrete when assigned as a leader.</li>
+</ul>
+<h3 id="major-upgrades"><strong>Major Upgrades</strong></h3>
+<p>Concrete is essential for several Workshop upgrades that significantly boost village capacity:</p>
+<ul>
+<li><a href="/upgrade/concrete_huts/">Concrete Huts:</a> Reduces the price ratio of Huts by <strong>0.3 (30%)</strong>, allowing for a much larger kitten population.</li>
+<li><a href="/upgrade/concrete_pillars/">Concrete Pillars:</a> Increases the maximum storage of wood, minerals, and iron in Barns and Warehouses by <strong>5%</strong>, and gold/titanium by <strong>5%</strong>.</li>
+<li><a href="/upgrade/concrete_barns/">Concrete Barns:</a> Increases the storage capacity of Barns by <strong>75%</strong>.</li>
+<li><a href="/upgrade/concrete_warehouses/">Concrete Warehouses:</a> Increases the storage capacity of Warehouses by <strong>35%</strong>.</li>
+</ul>
+<h3 id="construction-uses"><strong>Construction Uses</strong></h3>
+<p>Many advanced buildings and space structures require concrete as a primary material:</p>
+<ul>
+<li><strong>Industrial/Science:</strong> Factories (15), Reactors (50), Accelerators (125), Hydro Plants (100), and Data Centers (10).</li>
+<li><strong>Space Infrastructure:</strong> Lunar Outposts (150), Moon Bases (250), and Cryostations (1,500).</li>
+</ul>
+<h3 id="strategic-importance"><strong>Strategic Importance</strong></h3>
+<p>The &ldquo;Concrete Era&rdquo; is often the target for a player&rsquo;s <strong>first reset</strong>. Strategy guides generally recommend pushing until you can afford <a href="/upgrade/concrete_huts/">Concrete Huts</a> and reach at least <strong>130 kittens</strong>. This ensures you gain at least <strong>60 Paragon</strong>, providing a substantial production and storage boost for your next run. To reach the 125K science cap required for Concrete Huts, players often research <a href="/techs/biology/">Biology</a> to build <a href="/buildings/bio_lab/">Bio Labs</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Compendium</title>
+      <link>/craft/compendium/</link>
+      <pubDate>Wed, 28 Jan 2026 16:50:56 +1100</pubDate>
+      <guid>/craft/compendium/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../resource/compendium/&#34;&gt;Compendium&lt;/a&gt; is a mid-game craftable resource that represents the &amp;ldquo;sum of all modern knowledge of catkind&amp;rdquo;. It is primarily used to expand your &lt;strong&gt;Science storage capacity&lt;/strong&gt;, which is essential for unlocking late-game technologies and space missions.&lt;/p&gt;
+&lt;h3 id=&#34;production-and-costs&#34;&gt;&lt;strong&gt;Production and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To craft a Compendium, you must first research the &lt;a href=&#34;../techs/philosophy/&#34;&gt;Philosophy&lt;/a&gt; technology.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 50 Manuscripts and 10,000 Science.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Crafting Efficiency:&lt;/strong&gt; Like other workshop resources, the number of Compendiums produced per craft is significantly increased by your &lt;a href=&#34;../buildings/workshop/&#34;&gt;Workshop&lt;/a&gt; and &lt;a href=&#34;../buildings/factory/&#34;&gt;Factory&lt;/a&gt; craft bonuses.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Metaphysics Bonus:&lt;/strong&gt; The &lt;strong&gt;Codex Logos&lt;/strong&gt; upgrade (50 Paragon) adds +25% to the craft ratio and provides a x1.1 multiplier to Compendium crafting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-effects&#34;&gt;&lt;strong&gt;Primary Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Science Storage:&lt;/strong&gt; Each Compendium provides a permanent &lt;strong&gt;+10 bonus to your maximum Science cap&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storage Cap:&lt;/strong&gt; By default, the maximum bonus you can receive from Compendiums is capped at 100% of your total science storage from buildings.
+&lt;ul&gt;
+&lt;li&gt;In &lt;a href=&#34;../challenges/ironwill/&#34;&gt;Iron Will&lt;/a&gt; mode, this cap is significantly higher (1000%).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Centres&lt;/strong&gt; increase the &amp;ldquo;Compendium Cap&amp;rdquo; by 1,000 each.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;../upgrade/uplink/&#34;&gt;Uplink&lt;/a&gt; and &lt;a href=&#34;../upgrade/starlink/&#34;&gt;Starlink&lt;/a&gt; workshop upgrades further increase this cap by +1% per &lt;a href=&#34;../buildings/bio_lab/&#34;&gt;Bio Lab&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-utility&#34;&gt;&lt;strong&gt;Strategic Utility&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Compendiums act as a bridge between the industrial era and the space era, where technology costs begin to exceed the storage limits of standard buildings.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/resource/compendium/">Compendium</a> is a mid-game craftable resource that represents the &ldquo;sum of all modern knowledge of catkind&rdquo;. It is primarily used to expand your <strong>Science storage capacity</strong>, which is essential for unlocking late-game technologies and space missions.</p>
+<h3 id="production-and-costs"><strong>Production and Costs</strong></h3>
+<p>To craft a Compendium, you must first research the <a href="/techs/philosophy/">Philosophy</a> technology.</p>
+<ul>
+<li><strong>Cost:</strong> 50 Manuscripts and 10,000 Science.</li>
+<li><strong>Crafting Efficiency:</strong> Like other workshop resources, the number of Compendiums produced per craft is significantly increased by your <a href="/buildings/workshop/">Workshop</a> and <a href="/buildings/factory/">Factory</a> craft bonuses.</li>
+<li><strong>Metaphysics Bonus:</strong> The <strong>Codex Logos</strong> upgrade (50 Paragon) adds +25% to the craft ratio and provides a x1.1 multiplier to Compendium crafting.</li>
+</ul>
+<h3 id="primary-effects"><strong>Primary Effects</strong></h3>
+<ul>
+<li><strong>Science Storage:</strong> Each Compendium provides a permanent <strong>+10 bonus to your maximum Science cap</strong>.</li>
+<li><strong>Storage Cap:</strong> By default, the maximum bonus you can receive from Compendiums is capped at 100% of your total science storage from buildings.
+<ul>
+<li>In <a href="/challenges/ironwill/">Iron Will</a> mode, this cap is significantly higher (1000%).</li>
+<li><strong>Data Centres</strong> increase the &ldquo;Compendium Cap&rdquo; by 1,000 each.</li>
+<li>The <a href="/upgrade/uplink/">Uplink</a> and <a href="/upgrade/starlink/">Starlink</a> workshop upgrades further increase this cap by +1% per <a href="/buildings/bio_lab/">Bio Lab</a>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>Compendiums act as a bridge between the industrial era and the space era, where technology costs begin to exceed the storage limits of standard buildings.</p>
+<ul>
+<li><strong>Technological Gatekeeper:</strong> Compendiums are a required component for researching critical sciences, including:
+<ul>
+<li><a href="/techs/architecture/">Architecture</a> (10 Compendiums)</li>
+<li><a href="/techs/physics/">Physics</a> (35 Compendiums)</li>
+<li><a href="/techs/chemistry/">Chemistry</a> (50 Compendiums)</li>
+<li><a href="/techs/acoustics/">Acoustics</a> (60 Compendiums)</li>
+<li><a href="/techs/geology/">Geology</a> (65 Compendiums)</li>
+<li><a href="/techs/biology/">Biology</a> (100 Compendiums)</li>
+</ul>
+</li>
+<li><strong>Grinding Blueprints:</strong> Compendiums are the raw material for crafting <a href="/resource/blueprint/">Blueprints</a> (25,000 Science + 25 Compendiums), which are necessary for advanced industrial and space structures.</li>
+<li><strong>Chronosphere Resets:</strong> When resetting with <a href="/buildings/chronosphere/">Chronospheres</a>, carrying over a large stockpile of Compendiums is vital. Because they preserve your science cap, you can immediately research expensive technologies in the next run without waiting to rebuild massive amounts of libraries and observatories.</li>
+</ul>
+<h3 id="optimization-tip"><strong>Optimization Tip</strong></h3>
+<p>To grind Compendiums efficiently, focus on maximizing your <a href="/resource/culture/">Culture</a> and <a href="/resource/cat_power/">Catpower</a> production first. This allows you to mass-produce <a href="/resource/manuscript/">Manuscripts</a>, which are the primary bottleneck for Compendium crafting. Once your Science cap is full, use the &ldquo;Craft All&rdquo; function in the Workshop to convert those manuscripts into Compendiums.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tanker</title>
+      <link>/craft/tanker/</link>
+      <pubDate>Mon, 19 Jan 2026 20:44:33 +1100</pubDate>
+      <guid>/craft/tanker/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../craft/tanker/&#34;&gt;Tanker&lt;/a&gt; is a high-tier craftable resource in &lt;em&gt;Kittens Game&lt;/em&gt; primarily used to expand your colony&amp;rsquo;s maximum &lt;a href=&#34;../resource/oil/&#34;&gt;Oil&lt;/a&gt; storage capacity. Each Tanker built provides a flat increase of &lt;strong&gt;+500 to the oil cap&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-cost&#34;&gt;&lt;strong&gt;Acquisition and Cost&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Tankers are unlocked by researching &lt;a href=&#34;../techs/robotics/&#34;&gt;Robotics&lt;/a&gt;. Because they require a significant amount of materials, they are considered a relatively expensive method of increasing storage. The crafting cost for a single Tanker is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;200 Trade Ships&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1250 Alloy&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5 Blueprints&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-utility-and-advice&#34;&gt;&lt;strong&gt;Strategic Utility and Advice&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;While Tankers provide a reliable way to boost your oil limit, strategic guides offer specific warnings regarding their efficiency:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/craft/tanker/">Tanker</a> is a high-tier craftable resource in <em>Kittens Game</em> primarily used to expand your colony&rsquo;s maximum <a href="/resource/oil/">Oil</a> storage capacity. Each Tanker built provides a flat increase of <strong>+500 to the oil cap</strong>.</p>
+<h3 id="acquisition-and-cost"><strong>Acquisition and Cost</strong></h3>
+<p>Tankers are unlocked by researching <a href="/techs/robotics/">Robotics</a>. Because they require a significant amount of materials, they are considered a relatively expensive method of increasing storage. The crafting cost for a single Tanker is:</p>
+<ul>
+<li><strong>200 Trade Ships</strong></li>
+<li><strong>1250 Alloy</strong></li>
+<li><strong>5 Blueprints</strong></li>
+</ul>
+<h3 id="strategic-utility-and-advice"><strong>Strategic Utility and Advice</strong></h3>
+<p>While Tankers provide a reliable way to boost your oil limit, strategic guides offer specific warnings regarding their efficiency:</p>
+<ul>
+<li><strong>The Oil Well Alternative:</strong> In some stages of the game (specifically during the Iron Will 40k run), relying on Tankers to reach oil caps is often deemed <strong>suboptimal</strong>. It is generally recommended to focus on grinding out the <a href="/craft/steel/">Steel</a> necessary to build more <a href="/buildings/oil_well/">Oil Wells</a> instead, as they are often more resource-effective for reaching cap requirements.</li>
+<li><strong>Automation:</strong> Once you have Engineers, you can assign them to <strong>automatically craft Tankers</strong> (as well as Kerosene) to prevent your oil from capping and production from halting while you are away from the game.</li>
+</ul>
+<h3 id="preservation-and-resets"><strong>Preservation and Resets</strong></h3>
+<p>As a crafted resource, Tankers are <strong>normally lost upon resetting</strong> the game. However, they can be preserved across runs if the player has:</p>
+<ol>
+<li><a href="/buildings/chronosphere/">Chronospheres:</a> At least one active Chronosphere.</li>
+<li><a href="/upgrade/flux_condensator/">Flux Condensator:</a> This workshop upgrade allows Chronospheres to carry over a portion of crafted resources, including Tankers.</li>
+</ol>
+<p>The amount preserved is calculated as a fraction based on the number of Chronospheres and the square root of the quantity of Tankers possessed prior to the reset. This makes them vital for &ldquo;Positive Resets&rdquo; in the late game, where players aim to start a new run with high storage capacities already intact.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Alloy</title>
+      <link>/craft/alloy/</link>
+      <pubDate>Wed, 24 Dec 2025 09:52:22 +1100</pubDate>
+      <guid>/craft/alloy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../craft/alloy/&#34;&gt;Alloy&lt;/a&gt; is a crucial craftable resource in &lt;em&gt;Kittens Game&lt;/em&gt;, marking a mid-to-late game phase of infrastructure development.&lt;/p&gt;
+&lt;h3 id=&#34;resource-details&#34;&gt;Resource Details&lt;/h3&gt;
+&lt;p&gt;Alloy is a composite material refined from other metals and is categorised as a &lt;strong&gt;craftable resource&lt;/strong&gt;.&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Detail&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Specification&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Prerequisite Technology&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../techs/chemistry/&#34;&gt;Chemistry&lt;/a&gt;, which itself requires Physics.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Crafting Cost&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;75 Steel&lt;/strong&gt; and &lt;strong&gt;10 Titanium&lt;/strong&gt;.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Unlocks&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;The crafting of Alloy is unlocked by the &lt;a href=&#34;../techs/chemistry/&#34;&gt;Chemistry&lt;/a&gt; technology.&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;uses-and-strategic-importance&#34;&gt;Uses and Strategic Importance&lt;/h3&gt;
+&lt;p&gt;Alloy is necessary for constructing advanced buildings, structures, and various Workshop upgrades:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/craft/alloy/">Alloy</a> is a crucial craftable resource in <em>Kittens Game</em>, marking a mid-to-late game phase of infrastructure development.</p>
+<h3 id="resource-details">Resource Details</h3>
+<p>Alloy is a composite material refined from other metals and is categorised as a <strong>craftable resource</strong>.</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Detail</th>
+					<th style="text-align: left">Specification</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Prerequisite Technology</strong></td>
+					<td style="text-align: left"><a href="/techs/chemistry/">Chemistry</a>, which itself requires Physics.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Crafting Cost</strong></td>
+					<td style="text-align: left"><strong>75 Steel</strong> and <strong>10 Titanium</strong>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Unlocks</strong></td>
+					<td style="text-align: left">The crafting of Alloy is unlocked by the <a href="/techs/chemistry/">Chemistry</a> technology.</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="uses-and-strategic-importance">Uses and Strategic Importance</h3>
+<p>Alloy is necessary for constructing advanced buildings, structures, and various Workshop upgrades:</p>
+<ol>
+<li><strong>Buildings:</strong>
+<ul>
+<li><a href="/buildings/bio_lab/">Bio Lab:</a> Requires 25 Alloy and 100 Slab to build, significantly boosting Science production and storage.</li>
+<li><a href="/buildings/magneto/">Magneto:</a> Requires 10 Alloy, 5 Gear, and 1 Blueprint to construct, providing a crucial <strong>+2% Global Production</strong> boost and generating 5 Energy.</li>
+</ul>
+</li>
+<li><strong>Workshop Upgrades:</strong> Alloy is the prerequisite material for several high-tier upgrades:
+<ul>
+<li><a href="/upgrade/alloy_saw/">Alloy Saw:</a> Requires Alloy and improves Lumber Mill efficiency by $+15%$.</li>
+<li><a href="/upgrade/alloy_axe/">Alloy Axe:</a> Requires Alloy and makes Woodcutters $50%$ more effective.</li>
+<li><strong>Alloy Barns/Warehouses:</strong> Required for various storage upgrades.</li>
+<li><strong>Alloy Armour/Nanosuits:</strong> Required for advanced Hunting bonuses.</li>
+</ul>
+</li>
+</ol>
+<h3 id="progression-in-the-alloy-era">Progression in the &ldquo;Alloy Era&rdquo;</h3>
+<p>The point where Alloy becomes readily available signals a major checkpoint in the game&rsquo;s progression.</p>
+<ul>
+<li><strong>Technology Path:</strong> Getting to the Alloy era requires a specific scientific path: Navigation $\to$ Physics $\to$ <a href="/techs/chemistry/">Chemistry</a>.</li>
+<li><strong>Resource Bottlenecks:</strong> Alloy requires substantial amounts of <a href="/resource/titanium/">Titanium</a>, which must be acquired primarily through trading slabs with <a href="/civilisations/zebras/">Zebras</a>. This titanium requirement mandates ongoing construction of Trade Ships and Observatories (to acquire Starcharts).</li>
+<li><strong>Strategic Focus:</strong> Once Alloy is unlocked, strategic focus shifts to purchasing <strong>Alloy buildings</strong> and the associated upgrades to boost storage and production. The next major goal after the Alloy era is typically achieving <a href="/upgrade/concrete_huts/">Concrete Huts</a>.</li>
+<li><strong>Trait Bonus:</strong> Kittens with the <strong>Metallurgist</strong> trait, when assigned as a leader, provide a specific bonus to metal crafting efficiency, increasing the craft ratio for resources including Alloy by $+0.1$.</li>
+</ul>
+<p>Finally, Alloy is also a component, alongside Unobtainium, in crafting the late-game resource <a href="/resource/eludium/">Eludium</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Bloodstone</title>
+      <link>/craft/bloodstone/</link>
+      <pubDate>Wed, 24 Dec 2025 09:52:22 +1100</pubDate>
+      <guid>/craft/bloodstone/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../craft/bloodstone/&#34;&gt;Bloodstone&lt;/a&gt; is classified as an &lt;strong&gt;uncommon resource&lt;/strong&gt; in &lt;em&gt;Kittens Game&lt;/em&gt; that plays a role in late-game crafting and unlocks specific buildings associated with the Zebras,. It is poetically described as &lt;strong&gt;a strange jewelry claimed to be made of time and a blood of elder gods&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-methods&#34;&gt;Acquisition Methods&lt;/h3&gt;
+&lt;p&gt;Bloodstone can be acquired through hunting and crafted using advanced resources:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Hunting:&lt;/strong&gt; Bloodstone has a chance to be found when engaging in hunting, provided you have at least &lt;strong&gt;10 Zebras&lt;/strong&gt;,. In the &lt;a href=&#34;../challenges/ironwill/&#34;&gt;Iron Will&lt;/a&gt; challenge mode, the chance to yield a bloodstone during a hunt is &lt;strong&gt;0.05%&lt;/strong&gt; if you already have it. However, this chance increases significantly to &lt;strong&gt;5% if you do not already have bloodstone&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Crafting:&lt;/strong&gt; Bloodstone is a craftable item unlocked by the &lt;a href=&#34;../buildings/zebra_forge/&#34;&gt;Zebra Forge&lt;/a&gt;. The crafting cost is high, requiring temporal and elder resources: &lt;strong&gt;5,000 Time Crystal&lt;/strong&gt; and &lt;strong&gt;10,000 Relic&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/craft/bloodstone/">Bloodstone</a> is classified as an <strong>uncommon resource</strong> in <em>Kittens Game</em> that plays a role in late-game crafting and unlocks specific buildings associated with the Zebras,. It is poetically described as <strong>a strange jewelry claimed to be made of time and a blood of elder gods</strong>.</p>
+<h3 id="acquisition-methods">Acquisition Methods</h3>
+<p>Bloodstone can be acquired through hunting and crafted using advanced resources:</p>
+<ol>
+<li>
+<p><strong>Hunting:</strong> Bloodstone has a chance to be found when engaging in hunting, provided you have at least <strong>10 Zebras</strong>,. In the <a href="/challenges/ironwill/">Iron Will</a> challenge mode, the chance to yield a bloodstone during a hunt is <strong>0.05%</strong> if you already have it. However, this chance increases significantly to <strong>5% if you do not already have bloodstone</strong>.</p>
+</li>
+<li>
+<p><strong>Crafting:</strong> Bloodstone is a craftable item unlocked by the <a href="/buildings/zebra_forge/">Zebra Forge</a>. The crafting cost is high, requiring temporal and elder resources: <strong>5,000 Time Crystal</strong> and <strong>10,000 Relic</strong>.</p>
+</li>
+</ol>
+<h3 id="uses-and-buildings">Uses and Buildings</h3>
+<p>Bloodstone is a prerequisite resource for several Zebra structures and other craftable materials:</p>
+<ul>
+<li><a href="/buildings/zebra_outpost/">Zebra Outpost:</a> Requires 1 Bloodstone.</li>
+<li><a href="/buildings/zebra_workshop/">Zebra Workshop:</a> Requires 5 Bloodstone.</li>
+<li><a href="/buildings/zebra_forge/">Zebra Forge:</a> Requires 50 Bloodstone. The Zebra Forge itself unlocks the ability to craft Bloodstone, as well as <a href="/craft/t-mythril/">T-Mythril</a>.</li>
+<li><a href="/craft/t-mythril/">T-Mythril:</a> Bloodstone is a component in crafting T-Mythril,.</li>
+</ul>
+<h3 id="persistence">Persistence</h3>
+<p>As a craftable resource, Bloodstone is retained across game resets, but only conditionally. It is carried over if the player has Chronospheres built and the <a href="/upgrade/flux_condensator/">Flux Condensator</a> workshop upgrade researched. The amount carried over is subject to diminishing returns.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>T Mythril</title>
+      <link>/craft/t-mythril/</link>
+      <pubDate>Wed, 24 Dec 2025 09:52:22 +1100</pubDate>
+      <guid>/craft/t-mythril/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../craft/t-mythril/&#34;&gt;T-Mythril&lt;/a&gt; is a late-game craftable resource in &lt;em&gt;Kittens Game&lt;/em&gt;, specifically associated with the Zebra civilisation structures and resource conversion.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-crafting&#34;&gt;Acquisition and Crafting&lt;/h3&gt;
+&lt;p&gt;T-Mythril crafting is unlocked by constructing the &lt;a href=&#34;../buildings/zebra_forge/&#34;&gt;Zebra Forge&lt;/a&gt; building.&lt;/p&gt;
+&lt;p&gt;The resource cost to craft T-Mythril is high, involving advanced resources, unicorn resources, and titanium:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;5 Bloodstone&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1,000 Ivory&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;500 Titanium&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a href=&#34;../buildings/zebra_forge/&#34;&gt;Zebra Forge&lt;/a&gt; itself is a major structure, costing 50 Bloodstone, and is necessary to unlock the ability to craft both T-Mythril and Bloodstone.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/craft/t-mythril/">T-Mythril</a> is a late-game craftable resource in <em>Kittens Game</em>, specifically associated with the Zebra civilisation structures and resource conversion.</p>
+<h3 id="acquisition-and-crafting">Acquisition and Crafting</h3>
+<p>T-Mythril crafting is unlocked by constructing the <a href="/buildings/zebra_forge/">Zebra Forge</a> building.</p>
+<p>The resource cost to craft T-Mythril is high, involving advanced resources, unicorn resources, and titanium:</p>
+<ul>
+<li><strong>5 Bloodstone</strong></li>
+<li><strong>1,000 Ivory</strong></li>
+<li><strong>500 Titanium</strong></li>
+</ul>
+<p>The <a href="/buildings/zebra_forge/">Zebra Forge</a> itself is a major structure, costing 50 Bloodstone, and is necessary to unlock the ability to craft both T-Mythril and Bloodstone.</p>
+<h3 id="uses-in-infrastructure">Uses in Infrastructure</h3>
+<p>T-Mythril is primarily used to build the <a href="/buildings/ivory_temple/">Ivory Temple</a>:</p>
+<ul>
+<li><strong>Ivory Temple Cost:</strong> 1 T-Mythril and 100 Ivory.</li>
+<li><strong>Effect:</strong> The Ivory Temple serves as a resource converter, continuously consuming <strong>100 Ivory per tick</strong> and producing <strong>1 Mineral per tick</strong>.</li>
+<li><strong>Automation:</strong> The Ivory Temple structure also has an automation upgrade (Whispers) that doubles both ivory consumption and mineral production, while also generating a minuscule amount of T-Mythril (0.00005 per tick).</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Blueprint</title>
+      <link>/craft/blueprint/</link>
+      <pubDate>Thu, 11 Dec 2025 21:37:16 +1100</pubDate>
+      <guid>/craft/blueprint/</guid>
+      <description>&lt;p&gt;see &lt;a href=&#34;../resource/blueprint/&#34;&gt;BluePrint&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>see <a href="/resource/blueprint/">BluePrint</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Steel</title>
+      <link>/craft/steel/</link>
+      <pubDate>Thu, 11 Dec 2025 21:34:29 +1100</pubDate>
+      <guid>/craft/steel/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../craft/steel/&#34;&gt;Steel&lt;/a&gt; is a mid-game technology and a critical craftable resource in &lt;em&gt;Kittens Game&lt;/em&gt;, marking a major step toward industrialization and advanced building construction.&lt;/p&gt;
+&lt;p&gt;Here is a comprehensive overview of Steel based on the sources:&lt;/p&gt;
+&lt;h3 id=&#34;steel-technology&#34;&gt;Steel Technology&lt;/h3&gt;
+&lt;p&gt;The technology named &lt;a href=&#34;../craft/steel/&#34;&gt;Steel&lt;/a&gt; has the following characteristics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; It is unlocked after researching &lt;a href=&#34;../techs/writing/&#34;&gt;Writing&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; Researching Steel requires &lt;strong&gt;12,000 Science&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strategic Timing:&lt;/strong&gt; Steel is one of the three &amp;ldquo;specialist Techs&amp;rdquo; available after Writing (alongside Philosophy and Machinery). Strategic advice suggests researching &lt;a href=&#34;../craft/steel/&#34;&gt;Steel&lt;/a&gt; first among these three options to acquire useful upgrades that strengthen your economy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;steel-resource-crafting-and-composition&#34;&gt;Steel Resource (Crafting and Composition)&lt;/h3&gt;
+&lt;p&gt;Steel is a &lt;strong&gt;Craftable Resource&lt;/strong&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/craft/steel/">Steel</a> is a mid-game technology and a critical craftable resource in <em>Kittens Game</em>, marking a major step toward industrialization and advanced building construction.</p>
+<p>Here is a comprehensive overview of Steel based on the sources:</p>
+<h3 id="steel-technology">Steel Technology</h3>
+<p>The technology named <a href="/craft/steel/">Steel</a> has the following characteristics:</p>
+<ul>
+<li><strong>Prerequisite:</strong> It is unlocked after researching <a href="/techs/writing/">Writing</a>.</li>
+<li><strong>Cost:</strong> Researching Steel requires <strong>12,000 Science</strong>.</li>
+<li><strong>Strategic Timing:</strong> Steel is one of the three &ldquo;specialist Techs&rdquo; available after Writing (alongside Philosophy and Machinery). Strategic advice suggests researching <a href="/craft/steel/">Steel</a> first among these three options to acquire useful upgrades that strengthen your economy.</li>
+</ul>
+<h3 id="steel-resource-crafting-and-composition">Steel Resource (Crafting and Composition)</h3>
+<p>Steel is a <strong>Craftable Resource</strong>.</p>
+<ul>
+<li><strong>Composition:</strong> Steel is made by combining <strong>100 Iron</strong> and <strong>100 Coal</strong>.</li>
+<li><strong>Acquisition:</strong> The research of the Steel technology <strong>enables the resource Steel</strong>.</li>
+<li><a href="/guides/trading/">Trading:</a> Steel can also be acquired through trade, notably from <a href="/civilisations/griffins/">Griffins</a>, who sell 25 Steel per trade once you reach Embassy Level 5. Griffins buy Wood.</li>
+</ul>
+<h3 id="key-unlocks-and-upgrades">Key Unlocks and Upgrades</h3>
+<p>Researching Steel unlocks critical Workshop Upgrades, many of which focus on resource efficiency and early Coal production:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Upgrade Name</th>
+					<th style="text-align: left">Cost Components (Examples)</th>
+					<th style="text-align: left">Primary Effect</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><a href="/upgrade/coal_furnace/">Coal Furnace</a></td>
+					<td style="text-align: left">Science, Minerals, Iron, Beam</td>
+					<td style="text-align: left">Allows <a href="/buildings/smelter/">Smelters</a> to produce <strong>0.005 Coal per tick</strong> while burning wood.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/upgrade/deep_mining/">Deep Mining</a></td>
+					<td style="text-align: left">Science, Iron, Beam</td>
+					<td style="text-align: left">Allows <a href="/buildings/mine/">Mines</a> to produce <strong>0.003 Coal per tick</strong>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/upgrade/steel_axe/">Steel Axe</a></td>
+					<td style="text-align: left">Science, Steel</td>
+					<td style="text-align: left">Makes <strong>Woodcutters 50% more effective</strong>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/upgrade/reinforced_warehouses/">Reinforced Warehouses</a></td>
+					<td style="text-align: left">Science, Plate, Steel, Scaffold</td>
+					<td style="text-align: left">Increases resource storage in Warehouses, Barns, Harbours, and Mints by <strong>25%</strong>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/upgrade/steel_armour/">Steel Armour</a></td>
+					<td style="text-align: left">Science, Steel</td>
+					<td style="text-align: left">Provides a <strong>+0.5 Hunting bonus</strong>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/upgrade/steel_saw/">Steel Saw</a></td>
+					<td style="text-align: left">Science, Steel</td>
+					<td style="text-align: left">Improves <strong>Lumber Mill efficiency by 20%</strong>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/upgrade/high_pressure_engine/">High Pressure Engine</a></td>
+					<td style="text-align: left">Science, Gear, Blueprint</td>
+					<td style="text-align: left">Reduces <strong>Steamworks coal consumption by 20%</strong>.</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="usage-in-buildings-and-crafting">Usage in Buildings and Crafting</h3>
+<p>Steel is crucial for moving beyond basic construction into industrial and specialized buildings:</p>
+<ul>
+<li><strong>Advanced Materials:</strong> Steel is required for crafting <a href="/craft/gear/">Gears</a>.</li>
+<li><strong>Industrial Buildings:</strong>
+<ul>
+<li>The <a href="/buildings/steamworks/">Steamworks</a> building requires 65 Steel (along with 20 Gear and 1 Blueprint).</li>
+<li>The <a href="/buildings/quarry/">Quarry</a> building requires 125 Steel.</li>
+<li>The <a href="/buildings/calciner/">Calciner</a> building requires 100 Steel.</li>
+</ul>
+</li>
+<li><strong>Housing:</strong> It is required for the mid-game <a href="/buildings/mansion/">Mansion</a> building (75 Steel).</li>
+<li><strong>Crafting:</strong> Steel is a component of <a href="/craft/concrete/">Concrete</a>, which is crafted from 25 Steel and 2500 Slab.</li>
+</ul>
+<h3 id="strategic-notes">Strategic Notes</h3>
+<ul>
+<li><strong>Early Coal:</strong> Steel is essential because it unlocks the upgrades (<a href="/upgrade/coal_furnace/">Coal Furnace</a> and <a href="/upgrade/deep_mining/">Deep Mining</a>) necessary to begin accumulating <a href="/resource/coal/">Coal</a>. Coal is required to craft Steel itself, and to power industrial structures like the Steamworks.</li>
+<li><strong>Iron Priority:</strong> Once Steel is researched and the coal-producing upgrades are acquired, players are often advised to let Coal production max out. This is because the <a href="/resource/iron/">Iron</a> used to produce Coal is highly valuable and better prioritized for building <a href="/buildings/lumber_mill/">Lumber Mills</a> and <strong>Observatories</strong>.</li>
+<li><strong>Trade Importance:</strong> Trading with Zebras yields Iron, which can then be converted into Steel. This trade route helps maintain a supply of Steel, especially once it becomes a bottleneck for future buildings.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Trade_Ship</title>
+      <link>/craft/trade_ship/</link>
+      <pubDate>Thu, 11 Dec 2025 21:34:29 +1100</pubDate>
+      <guid>/craft/trade_ship/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../craft/trade_ship/&#34;&gt;Trade Ships&lt;/a&gt; are a craftable resource in &lt;em&gt;Kittens Game&lt;/em&gt; essential for enabling trade with other civilisations, particularly for acquiring late-game bottleneck resources like titanium.&lt;/p&gt;
+&lt;h3 id=&#34;unlocking-and-crafting&#34;&gt;Unlocking and Crafting&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; Trade Ships are unlocked after researching &lt;a href=&#34;../techs/navigation/&#34;&gt;Navigation&lt;/a&gt; science, which itself requires &lt;a href=&#34;../techs/astronomy/&#34;&gt;Astronomy&lt;/a&gt; (28K Science, 65 Manuscripts) and &lt;strong&gt;100 Manuscripts&lt;/strong&gt; to research.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Crafting Cost:&lt;/strong&gt; Crafting a single Trade Ship requires:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;100 Scaffold&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;150 Plate&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;25 Starchart&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost Reduction:&lt;/strong&gt; The starchart requirement to craft Trade Ships can be reduced by the &lt;a href=&#34;../upgrade/satellite_navigation/&#34;&gt;Satellite Navigation&lt;/a&gt; upgrade, offering a 1.25% discount per active Satellite, up to a maximum discount of 75%. At 45 Satellites, the cost reaches 10.9375 Starcharts, where diminishing returns begin.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;functionality-and-strategic-importance&#34;&gt;Functionality and Strategic Importance&lt;/h3&gt;
+&lt;p&gt;Trade Ships serve several critical roles in resource acquisition and infrastructure:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/craft/trade_ship/">Trade Ships</a> are a craftable resource in <em>Kittens Game</em> essential for enabling trade with other civilisations, particularly for acquiring late-game bottleneck resources like titanium.</p>
+<h3 id="unlocking-and-crafting">Unlocking and Crafting</h3>
+<ul>
+<li><strong>Prerequisite:</strong> Trade Ships are unlocked after researching <a href="/techs/navigation/">Navigation</a> science, which itself requires <a href="/techs/astronomy/">Astronomy</a> (28K Science, 65 Manuscripts) and <strong>100 Manuscripts</strong> to research.</li>
+<li><strong>Crafting Cost:</strong> Crafting a single Trade Ship requires:
+<ul>
+<li><strong>100 Scaffold</strong></li>
+<li><strong>150 Plate</strong></li>
+<li><strong>25 Starchart</strong></li>
+</ul>
+</li>
+<li><strong>Cost Reduction:</strong> The starchart requirement to craft Trade Ships can be reduced by the <a href="/upgrade/satellite_navigation/">Satellite Navigation</a> upgrade, offering a 1.25% discount per active Satellite, up to a maximum discount of 75%. At 45 Satellites, the cost reaches 10.9375 Starcharts, where diminishing returns begin.</li>
+</ul>
+<h3 id="functionality-and-strategic-importance">Functionality and Strategic Importance</h3>
+<p>Trade Ships serve several critical roles in resource acquisition and infrastructure:</p>
+<ol>
+<li><strong>Enabling Exploration and Trade:</strong> Owning at least <strong>one Trade Ship</strong> is the prerequisite for discovering and trading with the <a href="/civilisations/zebras/">Zebras</a>.</li>
+<li><strong>Acquisition of Titanium:</strong> Trade Ships are critical for solving the titanium bottleneck. Zebras sell Titanium in amounts determined by the number of Trade Ships you possess, via the formula (0.03 * Trade Ships) + 1.5. Importantly, this amount of titanium acquired is <strong>not</strong> affected by normal trading bonuses like those from Tradeposts.</li>
+<li><strong>Storage Enhancement:</strong> Trade Ships enhance the storage capacity of <a href="/buildings/harbour/">Harbours</a> through the <a href="/upgrade/expanded_cargo/">Expanded Cargo</a> Workshop upgrade. Each Trade Ship provides a +1% bonus to Harbour capacity, subject to diminishing returns past 168.75% and a maximum limit of 225%. This limit can be further increased by +5% per active <a href="/buildings/reactor/">Reactor</a> if the <a href="/upgrade/reactor_vessel/">Reactor Vessel</a> upgrade is researched.</li>
+<li><strong>Mid-Game Progression:</strong> Accumulating Trade Ships accelerates the titanium and iron acquisition necessary for constructing advanced buildings, such as <strong>Observatories</strong>. Due to the high iron requirement of Observatories, gaining titanium from Zebras allows you to stock up on resources needed to progress to the next technological tier.</li>
+</ol>
+<h3 id="strategic-notes">Strategic Notes</h3>
+<ul>
+<li>Trade Ships are listed as a <strong>craftable resource</strong> that increases oil limit when crafted into a <a href="/craft/tanker/">Tanker</a>.</li>
+<li>Starcharts are a significant bottleneck for this stage of the game, making the acquisition of Observatories—which increase the chance of astronomical events and subsequent starchart production—a high priority to sustain Trade Ship construction.</li>
+<li>In the endgame, Trade Ships are sometimes ignored in favor of mints for Blueprint generation, but later become the <strong>fastest possible reset method</strong> when trading is used to acquire the blueprints needed for Chronospheres.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Kerosene Resource</title>
+      <link>/craft/kerosene/</link>
+      <pubDate>Sat, 29 Nov 2025 20:46:28 +1100</pubDate>
+      <guid>/craft/kerosene/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../resource/kerosene/&#34;&gt;Kerosene&lt;/a&gt; is a high-tier craftable resource in &lt;em&gt;Kittens Game&lt;/em&gt; that serves as the essential &lt;strong&gt;rocket fuel&lt;/strong&gt; for late-game space exploration. It is produced by refining &lt;a href=&#34;../resource/oil/&#34;&gt;oil&lt;/a&gt; and is required to fund most space missions and construct advanced orbital infrastructure.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-cost&#34;&gt;&lt;strong&gt;Acquisition and Cost&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Unlocking:&lt;/strong&gt; You must research the &lt;a href=&#34;../techs/oil_processing/&#34;&gt;Oil Processing&lt;/a&gt; technology (215k Science, 150 Blueprints), which is available only after completing &lt;a href=&#34;../techs/rocketry/&#34;&gt;Rocketry&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Crafting Cost:&lt;/strong&gt; Each unit of kerosene costs &lt;strong&gt;7,500 oil&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Refinement Bonuses:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../upgrade/factory_processing/&#34;&gt;Factory Processing:&lt;/a&gt; This workshop upgrade (available via Oil Processing) increases the effectiveness of kerosene refinement by &lt;strong&gt;5% per Factory&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chemist Trait:&lt;/strong&gt; Assigning a kitten with the &lt;strong&gt;Chemist trait&lt;/strong&gt; as your Leader provides a &lt;strong&gt;+0.075 craft ratio bonus&lt;/strong&gt; to kerosene production.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-uses-in-space&#34;&gt;&lt;strong&gt;Primary Uses in Space&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Kerosene is mandatory for nearly all activities beyond the initial orbital launch:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/resource/kerosene/">Kerosene</a> is a high-tier craftable resource in <em>Kittens Game</em> that serves as the essential <strong>rocket fuel</strong> for late-game space exploration. It is produced by refining <a href="/resource/oil/">oil</a> and is required to fund most space missions and construct advanced orbital infrastructure.</p>
+<h3 id="acquisition-and-cost"><strong>Acquisition and Cost</strong></h3>
+<ul>
+<li><strong>Unlocking:</strong> You must research the <a href="/techs/oil_processing/">Oil Processing</a> technology (215k Science, 150 Blueprints), which is available only after completing <a href="/techs/rocketry/">Rocketry</a>.</li>
+<li><strong>Crafting Cost:</strong> Each unit of kerosene costs <strong>7,500 oil</strong>.</li>
+<li><strong>Refinement Bonuses:</strong>
+<ul>
+<li><a href="/upgrade/factory_processing/">Factory Processing:</a> This workshop upgrade (available via Oil Processing) increases the effectiveness of kerosene refinement by <strong>5% per Factory</strong>.</li>
+<li><strong>Chemist Trait:</strong> Assigning a kitten with the <strong>Chemist trait</strong> as your Leader provides a <strong>+0.075 craft ratio bonus</strong> to kerosene production.</li>
+</ul>
+</li>
+</ul>
+<h3 id="primary-uses-in-space"><strong>Primary Uses in Space</strong></h3>
+<p>Kerosene is mandatory for nearly all activities beyond the initial orbital launch:</p>
+<ul>
+<li><strong>Space Missions:</strong> It is required for missions to <a href="/planet/dune/">Dune</a> (75 kerosene), <a href="/planet/piscine/">Piscine</a> (250), <a href="/planet/helios/">Helios</a> (1,250), <a href="/planet/t_minus/">T-minus</a> (750), <a href="/planet/kairo/">Kairo</a> (7,500), and beyond.</li>
+<li><strong>Orbital Structures:</strong> Large quantities are needed for high-tier buildings, most notably <a href="/space/space-beacon/">Space Beacons</a> (7,500), <a href="/space/heatsink/">Heatsinks</a> (5,000), <a href="/space/terraforming-station/">Terraforming Stations</a> (5,000), and <a href="/space/sunlifter/">Sunlifters</a> (2,500).</li>
+<li><strong>Infrastructure Upgrades:</strong> It is a required material for upgrading Warehouses into <a href="/buildings/spaceport/">Spaceports</a> (1,000 kerosene).</li>
+</ul>
+<h3 id="strategic-management-and-automation"><strong>Strategic Management and Automation</strong></h3>
+<p>Because oil production is often slow but kerosene requirements are massive, managing the oil-to-kerosene pipeline is a common late-game bottleneck.</p>
+<ul>
+<li><strong>Engineer Automation:</strong> Once you have <a href="/job/engineer/">Engineers</a>, you can assign them to <strong>automatically craft kerosene</strong>. This is highly recommended to prevent oil from hitting its storage cap and halting production while you are away from the game.</li>
+<li><strong>Storage Requirements:</strong> To reach the 7,500 oil threshold for a single craft, you will likely need to build numerous <a href="/buildings/oil_well/">Oil Wells</a> or <a href="/craft/tanker/">Tankers</a>.</li>
+</ul>
+<h3 id="preservation-and-resets"><strong>Preservation and Resets</strong></h3>
+<p>As a crafted resource, kerosene is <strong>normally lost when you reset</strong> the game. However, it can be preserved across runs if you possess:</p>
+<ol>
+<li><a href="/buildings/chronosphere/">Chronospheres:</a> Each active sphere preserves a portion of your resources.</li>
+<li><a href="/upgrade/flux_condensator/">Flux Condensator:</a> This specific workshop upgrade (unlocked via Chronophysics) is required for Chronospheres to carry over <strong>crafted resources</strong> like kerosene.</li>
+</ol>
+<p>The amount of kerosene saved is determined by the number of Chronospheres and the square root of your total kerosene at the time of reset. This preservation is essential for <strong>&ldquo;Positive Resets,&rdquo;</strong> allowing you to bypass the early-game oil grind and return to space immediately in a new run.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Eludium</title>
+      <link>/craft/eludium/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/craft/eludium/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../resource/eludium/&#34;&gt;Eludium&lt;/a&gt; is an extremely rare and expensive high-tier crafted resource in &lt;em&gt;Kittens Game&lt;/em&gt;, described as a composite of &lt;a href=&#34;../resource/unobtainium/&#34;&gt;Unobtainium&lt;/a&gt; and &lt;a href=&#34;../craft/alloy/&#34;&gt;Alloy&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-production&#34;&gt;&lt;strong&gt;Acquisition and Production&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Unlocking:&lt;/strong&gt; Eludium is unlocked through the &lt;strong&gt;Exometallurgy&lt;/strong&gt; science (formerly known as Advanced Exogeology).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Crafting Recipe:&lt;/strong&gt; Crafting one unit of eludium requires &lt;strong&gt;1,000 Unobtainium&lt;/strong&gt; and &lt;strong&gt;2,500 Alloy&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Production Multipliers:&lt;/strong&gt; The yield is significantly boosted by your overall &lt;a href=&#34;../buildings/workshop/&#34;&gt;Workshop&lt;/a&gt; craft ratio. Furthermore, kittens with the &lt;strong&gt;Chemist&lt;/strong&gt; trait provide a specific crafting bonus (+0.075) for eludium, and the &lt;a href=&#34;../upgrade/antimatter_fission/&#34;&gt;Antimatter Fission&lt;/a&gt; workshop upgrade makes &lt;a href=&#34;../job/engineer/&#34;&gt;Engineers&lt;/a&gt; 25% more effective at producing it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-infrastructure-and-buildings&#34;&gt;&lt;strong&gt;Strategic Infrastructure and Buildings&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Eludium is a critical component for late-game population scaling and advanced industrial structures:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/resource/eludium/">Eludium</a> is an extremely rare and expensive high-tier crafted resource in <em>Kittens Game</em>, described as a composite of <a href="/resource/unobtainium/">Unobtainium</a> and <a href="/craft/alloy/">Alloy</a>.</p>
+<h3 id="acquisition-and-production"><strong>Acquisition and Production</strong></h3>
+<ul>
+<li><strong>Unlocking:</strong> Eludium is unlocked through the <strong>Exometallurgy</strong> science (formerly known as Advanced Exogeology).</li>
+<li><strong>Crafting Recipe:</strong> Crafting one unit of eludium requires <strong>1,000 Unobtainium</strong> and <strong>2,500 Alloy</strong>.</li>
+<li><strong>Production Multipliers:</strong> The yield is significantly boosted by your overall <a href="/buildings/workshop/">Workshop</a> craft ratio. Furthermore, kittens with the <strong>Chemist</strong> trait provide a specific crafting bonus (+0.075) for eludium, and the <a href="/upgrade/antimatter_fission/">Antimatter Fission</a> workshop upgrade makes <a href="/job/engineer/">Engineers</a> 25% more effective at producing it.</li>
+</ul>
+<h3 id="strategic-infrastructure-and-buildings"><strong>Strategic Infrastructure and Buildings</strong></h3>
+<p>Eludium is a critical component for late-game population scaling and advanced industrial structures:</p>
+<ul>
+<li><a href="/upgrade/eludium_huts/">Eludium Huts:</a> This bonfire upgrade reduces the price ratio of <a href="/buildings/hut/">Huts</a> by 10%, allowing for much higher populations. While powerful, some strategic guides note that the 125 eludium cost may only provide a marginal (~1%) increase in paragon-per-hour efficiency in very short runs.</li>
+<li><a href="/space/cryo_station/">Cryostation:</a> These supermassive storage facilities cost 25 eludium and are essential for reaching the high resource caps required for the deep endgame.</li>
+<li><a href="/buildings/spaceport/">Spaceport:</a> Eludium is required to build Spaceports, which enhance the capacity of other space structures like Moon Bases and Cryostations.</li>
+<li><a href="/space/sunlifter/">Sunlifter:</a> Each Sunlifter costs 225 eludium and is the primary structure used to generate <a href="/resource/antimatter/">Antimatter</a>.</li>
+<li><a href="/space/entanglement-station/">Entanglement Station:</a> These late-game structures require 5,000 eludium each and are used for quantum computing and reverse-engineering relics.</li>
+</ul>
+<h3 id="workshop-and-advanced-upgrades"><strong>Workshop and Advanced Upgrades</strong></h3>
+<p>Many high-tier upgrades are gated by eludium costs:</p>
+<ul>
+<li><a href="/upgrade/eludium_reflectors/">Eludium Reflectors:</a> This upgrade increases your maximum <a href="/resource/science/">Science</a> capacity by +2% for every <a href="/buildings/observatory/">Observatory</a> you own.</li>
+<li><a href="/upgrade/microwarp_reactors/">Microwarp Reactors:</a> Costing 50 eludium, this is a vital upgrade that increases the <a href="/resource/unobtainium/">Unobtainium</a> production of <a href="/planet/lunar_outpost/">Lunar Outposts</a> by 75%.</li>
+<li><strong>Scientific Utility:</strong> It is required for several advanced workshop techs including <a href="/upgrade/cryocomputing/">Cryocomputing</a> (Data Center efficiency), <a href="/upgrade/machine_learning/">Machine Learning</a>, <a href="/upgrade/antimatter_reactors/">Antimatter Reactors</a>, and <a href="/upgrade/chronoengineers/">Chronoengineers</a>.</li>
+</ul>
+<h3 id="preservation-and-reset-strategy"><strong>Preservation and Reset Strategy</strong></h3>
+<ul>
+<li><strong>Preservation:</strong> Eludium is a crafted resource and can be carried over through game resets if you have <a href="/buildings/chronosphere/">Chronospheres</a> and the <a href="/upgrade/flux_condensator/">Flux Condensator</a> upgrade.</li>
+<li><strong>Diminishing Returns:</strong> The amount preserved follows a square root formula: $1.5* {number of Chronospheres}* sqrt(current eludium amount)$.</li>
+<li><strong>Efficiency Tipping Point:</strong> A common strategy for rapid resets is to stockpile <strong>1,111 eludium</strong> before resetting with one Chronosphere. This ensures you start the next run with the 50 eludium needed to immediately purchase <a href="/upgrade/microwarp_reactors/">Microwarp Reactors</a> and accelerate your Unobtainium production.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Manuscript</title>
+      <link>/craft/manuscript/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/craft/manuscript/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../resource/manuscript/&#34;&gt;Manuscripts&lt;/a&gt; are a vital mid-game craftable resource that serves as a sum of modern knowledge for your kittens, acting as a primary gate for advanced scientific research and cultural expansion.&lt;/p&gt;
+&lt;h3 id=&#34;crafting-and-acquisition&#34;&gt;&lt;strong&gt;Crafting and Acquisition&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Unlocked By:&lt;/strong&gt; You gain the ability to craft manuscripts after researching the &lt;a href=&#34;../techs/writing/&#34;&gt;Writing&lt;/a&gt; technology.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Standard Cost:&lt;/strong&gt; Each manuscript costs &lt;strong&gt;25 Parchment and 400 Culture&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Policy Efficiency:&lt;/strong&gt; By enacting the &lt;a href=&#34;../policy/tradition/&#34;&gt;Tradition&lt;/a&gt; policy, the cost is reduced to &lt;strong&gt;20 Parchment and 300 Culture&lt;/strong&gt;, and the manuscript&amp;rsquo;s effect on maximum culture is doubled.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../guides/trading/&#34;&gt;Trading:&lt;/a&gt; Manuscripts can be obtained through &lt;strong&gt;trade with the Sharks&lt;/strong&gt; (15% chance) once you have an Embassy level of at least 10.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;automation-and-scaling&#34;&gt;&lt;strong&gt;Automation and Scaling&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The &amp;ldquo;Theology hurdle&amp;rdquo;—the period where you must grind manuscripts manually—is a notorious progression bottleneck. To overcome this, players typically rely on the &lt;a href=&#34;../buildings/steamworks/&#34;&gt;Steamworks&lt;/a&gt; building for automated production:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/resource/manuscript/">Manuscripts</a> are a vital mid-game craftable resource that serves as a sum of modern knowledge for your kittens, acting as a primary gate for advanced scientific research and cultural expansion.</p>
+<h3 id="crafting-and-acquisition"><strong>Crafting and Acquisition</strong></h3>
+<ul>
+<li><strong>Unlocked By:</strong> You gain the ability to craft manuscripts after researching the <a href="/techs/writing/">Writing</a> technology.</li>
+<li><strong>Standard Cost:</strong> Each manuscript costs <strong>25 Parchment and 400 Culture</strong>.</li>
+<li><strong>Policy Efficiency:</strong> By enacting the <a href="/policy/tradition/">Tradition</a> policy, the cost is reduced to <strong>20 Parchment and 300 Culture</strong>, and the manuscript&rsquo;s effect on maximum culture is doubled.</li>
+<li><a href="/guides/trading/">Trading:</a> Manuscripts can be obtained through <strong>trade with the Sharks</strong> (15% chance) once you have an Embassy level of at least 10.</li>
+</ul>
+<h3 id="automation-and-scaling"><strong>Automation and Scaling</strong></h3>
+<p>The &ldquo;Theology hurdle&rdquo;—the period where you must grind manuscripts manually—is a notorious progression bottleneck. To overcome this, players typically rely on the <a href="/buildings/steamworks/">Steamworks</a> building for automated production:</p>
+<ul>
+<li><a href="/upgrade/printing_press/">Printing Press:</a> This workshop upgrade allows Steamworks to automatically print <strong>0.0025 manuscripts per second</strong>.</li>
+<li><a href="/upgrade/offset_press/">Offset Press:</a> Increases Steamworks production to <strong>0.01 per second</strong>.</li>
+<li><a href="/upgrade/photolithography/">Photolithography:</a> Further boosts production to <strong>0.04 per second</strong>.</li>
+</ul>
+<h3 id="primary-uses"><strong>Primary Uses</strong></h3>
+<p>Manuscripts are mandatory for transitioning into the religious and celestial eras of the game:</p>
+<ul>
+<li><strong>Technology Requirements:</strong> They are required to research <strong>Theology (35)</strong>, <strong>Astronomy (65)</strong>, and <strong>Navigation (100)</strong>.</li>
+<li><strong>Building Construction:</strong> Each <a href="/buildings/temple/">Temple</a> requires <strong>10 manuscripts</strong> to build.</li>
+<li><strong>Resource Conversion:</strong> They are the base material for crafting <a href="/resource/compendium/">Compendiums</a>, requiring <strong>50 manuscripts</strong> each.</li>
+<li><strong>Culture Boost:</strong> Owning manuscripts provides a <strong>minor bonus to your maximum culture cap</strong>, though this effect suffers from diminishing returns.</li>
+</ul>
+<h3 id="strategic-advice"><strong>Strategic Advice</strong></h3>
+<ul>
+<li><strong>Grinding Tactic:</strong> Before automation is available, the most efficient way to acquire manuscripts is to assign all kittens to the <a href="/job/hunter/">Hunter</a> job to mass-produce parchment, then wait for culture to max out before using the &ldquo;craft all&rdquo; manuscript button.</li>
+<li><strong>Metaphysics Synergy:</strong> The <strong>Codex Vox</strong> upgrade adds a <strong>+25% bonus to your craft ratio</strong> for manuscripts and provides a <strong>1.05x multiplier</strong> to all manuscript crafting.</li>
+<li><strong>Religious Pivot:</strong> If you enact the <strong>Lizard Relations: [Priests] ( /job/priest/)</strong> policy, manuscripts will grant <strong>maximum faith</strong> instead of a portion of the maximum culture they usually provide.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Megalith</title>
+      <link>/craft/megalith/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/craft/megalith/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../craft/megalith/&#34;&gt;Megaliths&lt;/a&gt; are a mid-to-late game craftable resource used primarily for the construction of megastructures and the advancement of the unicorn religion.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-crafting&#34;&gt;&lt;strong&gt;Acquisition and Crafting&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Workshop Crafting:&lt;/strong&gt; Once the prerequisite technologies are met, a single megalith can be crafted using &lt;strong&gt;50 Slabs, 25 Beams, and 5 Plates&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trading with Nagas:&lt;/strong&gt; Megaliths can also be obtained through &lt;strong&gt;trade with the Nagas&lt;/strong&gt;. This requires &lt;strong&gt;500 Ivory&lt;/strong&gt; per trade and has a &lt;strong&gt;10% chance&lt;/strong&gt; of yielding a megalith, provided the player has reached an &lt;strong&gt;Embassy level of 15&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-use-ziggurats&#34;&gt;&lt;strong&gt;Primary Use: Ziggurats&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The most critical application of megaliths is building &lt;a href=&#34;../buildings/ziggurat/&#34;&gt;Ziggurats&lt;/a&gt;, which cost &lt;strong&gt;50 Megaliths&lt;/strong&gt;, 50 Scaffolds, and 1 Blueprint each.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/craft/megalith/">Megaliths</a> are a mid-to-late game craftable resource used primarily for the construction of megastructures and the advancement of the unicorn religion.</p>
+<h3 id="acquisition-and-crafting"><strong>Acquisition and Crafting</strong></h3>
+<ul>
+<li><strong>Workshop Crafting:</strong> Once the prerequisite technologies are met, a single megalith can be crafted using <strong>50 Slabs, 25 Beams, and 5 Plates</strong>.</li>
+<li><strong>Trading with Nagas:</strong> Megaliths can also be obtained through <strong>trade with the Nagas</strong>. This requires <strong>500 Ivory</strong> per trade and has a <strong>10% chance</strong> of yielding a megalith, provided the player has reached an <strong>Embassy level of 15</strong>.</li>
+</ul>
+<h3 id="primary-use-ziggurats"><strong>Primary Use: Ziggurats</strong></h3>
+<p>The most critical application of megaliths is building <a href="/buildings/ziggurat/">Ziggurats</a>, which cost <strong>50 Megaliths</strong>, 50 Scaffolds, and 1 Blueprint each.</p>
+<ul>
+<li><strong>Unlocks:</strong> Ziggurats are the gateway to the <strong>unicorn religion</strong> system, enabling the sacrifice of unicorns to obtain <strong>Unicorn Tears</strong>.</li>
+<li><strong>Culture Boost:</strong> Each Ziggurat provides a <strong>+8% increase to maximum culture</strong>.</li>
+<li><strong>Visibility:</strong> While unlocked by the <a href="/techs/construction/">Construction</a> technology, the Ziggurat will not appear in the Bonfire tab until the player possesses approximately <strong>5 Megaliths</strong>, 5 Scaffolds, and 1 Blueprint.</li>
+</ul>
+<h3 id="endgame-and-religious-structures"><strong>Endgame and Religious Structures</strong></h3>
+<p>In the late game, megaliths are a mandatory component for advanced structures within the <a href="/techs/cryptotheology/">Cryptotheology</a> and unicorn trees:</p>
+<ul>
+<li><a href="/ziggurat/sky_palace/">Sky Palace:</a> 5 Megaliths.</li>
+<li><a href="/ziggurat/marker/">Marker:</a> 750 Megaliths.</li>
+<li><a href="/ziggurat/unicorn_graveyard/">Unicorn Graveyard:</a> 1,000 Megaliths.</li>
+<li><a href="/ziggurat/unicorn_necropolis/">Unicorn Necropolis:</a> 2,500 Megaliths.</li>
+<li><a href="/ziggurat/black_pyramid/">Black Pyramid:</a> 2,500 Megaliths.</li>
+</ul>
+<h3 id="strategic-considerations"><strong>Strategic Considerations</strong></h3>
+<p>Strategic guides recommend building a significant number of Ziggurats (ideally <strong>25–30</strong>) before heavily investing in unicorn sacrifices, as the number of tears received per sacrifice is directly determined by the total number of Ziggurats owned.</p>
+<h3 id="persistence-and-resets"><strong>Persistence and Resets</strong></h3>
+<p>As a crafted resource, megaliths are <strong>normally lost upon resetting</strong> the game. To carry them over into a new run, a player must have at least one <a href="/buildings/chronosphere/">Chronosphere</a> and the <a href="/upgrade/flux_condensator/">Flux Condensator</a> Workshop upgrade. The amount preserved follows a square root formula based on the total quantity held before the reset.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Metal_Plate</title>
+      <link>/craft/metal_plate/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/craft/metal_plate/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../craft/metal_plate/&#34;&gt;Metal Plates&lt;/a&gt; (often simply referred to as &lt;a href=&#34;../resource/plate/&#34;&gt;Plates&lt;/a&gt;) are a foundational mid-game craftable resource refined from iron, primarily used for expanding storage and established industrial infrastructure.&lt;/p&gt;
+&lt;h3 id=&#34;crafting-and-acquisition&#34;&gt;&lt;strong&gt;Crafting and Acquisition&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Workshop Crafting:&lt;/strong&gt; A single Metal Plate costs &lt;strong&gt;125 Iron&lt;/strong&gt;. Because the default iron storage limit is only 50, you must first expand your capacity using &lt;a href=&#34;../buildings/barn/&#34;&gt;Barns&lt;/a&gt; or other storage buildings before you can craft them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trading with Zebras:&lt;/strong&gt; Once you have discovered the Zebras, they provide a reliable alternative source for plates. There is a &lt;strong&gt;65% base chance&lt;/strong&gt; to receive 2 plates per successful trade. This probability can be increased to &lt;strong&gt;100%&lt;/strong&gt; by reaching &lt;strong&gt;Embassy level 54&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automation:&lt;/strong&gt; Researching the &lt;a href=&#34;../upgrade/pneumatic_press/&#34;&gt;Pneumatic Press&lt;/a&gt; workshop upgrade allows &lt;a href=&#34;../buildings/steamworks/&#34;&gt;Steamworks&lt;/a&gt; to automatically convert a portion of your iron into plates twice per year whenever your iron is near its storage limit.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kitten Traits:&lt;/strong&gt; Assigning a kitten with the &lt;strong&gt;Metallurgist trait&lt;/strong&gt; as your Leader provides a &lt;strong&gt;+0.1 bonus to the craft ratio&lt;/strong&gt; for plates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-uses&#34;&gt;&lt;strong&gt;Primary Uses&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Metal plates are mandatory for progressing into the &amp;ldquo;Titanium Era&amp;rdquo; and establishing advanced energy systems:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/craft/metal_plate/">Metal Plates</a> (often simply referred to as <a href="/resource/plate/">Plates</a>) are a foundational mid-game craftable resource refined from iron, primarily used for expanding storage and established industrial infrastructure.</p>
+<h3 id="crafting-and-acquisition"><strong>Crafting and Acquisition</strong></h3>
+<ul>
+<li><strong>Workshop Crafting:</strong> A single Metal Plate costs <strong>125 Iron</strong>. Because the default iron storage limit is only 50, you must first expand your capacity using <a href="/buildings/barn/">Barns</a> or other storage buildings before you can craft them.</li>
+<li><strong>Trading with Zebras:</strong> Once you have discovered the Zebras, they provide a reliable alternative source for plates. There is a <strong>65% base chance</strong> to receive 2 plates per successful trade. This probability can be increased to <strong>100%</strong> by reaching <strong>Embassy level 54</strong>.</li>
+<li><strong>Automation:</strong> Researching the <a href="/upgrade/pneumatic_press/">Pneumatic Press</a> workshop upgrade allows <a href="/buildings/steamworks/">Steamworks</a> to automatically convert a portion of your iron into plates twice per year whenever your iron is near its storage limit.</li>
+<li><strong>Kitten Traits:</strong> Assigning a kitten with the <strong>Metallurgist trait</strong> as your Leader provides a <strong>+0.1 bonus to the craft ratio</strong> for plates.</li>
+</ul>
+<h3 id="primary-uses"><strong>Primary Uses</strong></h3>
+<p>Metal plates are mandatory for progressing into the &ldquo;Titanium Era&rdquo; and establishing advanced energy systems:</p>
+<ul>
+<li><a href="/craft/trade_ship/">Trade Ships:</a> Building your first fleet requires <strong>150 plates</strong> (along with scaffolds and starcharts). These ships are essential for discovering Zebras and beginning titanium acquisition.</li>
+<li><strong>Storage Buildings:</strong> They are a core component for <a href="/buildings/harbour/">Harbours</a> (75 plates) and <a href="/buildings/mint/">Mints</a> (200 plates).</li>
+<li><strong>Industrial Structures:</strong> High-tier buildings require massive quantities, including <strong>Factories</strong> (2,500 plates) and <a href="/buildings/reactor/">Reactors</a> (5,000 plates).</li>
+<li><strong>Religious Infrastructure:</strong> Each <a href="/buildings/temple/">Temple</a> requires 15 plates.</li>
+<li><strong>Workshop Upgrades:</strong> Several critical upgrades depend on plates, such as <a href="/upgrade/reinforced_warehouses/">Reinforced Warehouses</a> (50 plates) and <a href="/upgrade/alloy_barns/">Alloy Barns</a> (750 plates).</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>In the early-to-mid game, plates are often a bottleneck for expanding storage. Strategic guides suggest that if your <a href="/resource/coal/">Coal</a> production is too slow to craft <a href="/craft/steel/">Steel</a>, you should instead focus your iron on crafting plates to build more <a href="/buildings/harbour/">Harbours</a>. This increases your global storage caps, allowing you to eventually afford the more expensive upgrades and buildings.</p>
+<h3 id="persistence-and-resets"><strong>Persistence and Resets</strong></h3>
+<p>As a crafted resource, Metal Plates are <strong>normally lost upon resetting</strong> the game. To preserve a portion of your stockpile for the next run, you must possess at least one <a href="/buildings/chronosphere/">Chronosphere</a> and the <a href="/upgrade/flux_condensator/">Flux Condensator</a> workshop upgrade. The amount carried over is determined by the number of active Chronospheres and the <strong>square root</strong> of your total plate count at the time of reset.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Parchment</title>
+      <link>/craft/parchment/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/craft/parchment/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../craft/parchment/&#34;&gt;Parchment&lt;/a&gt; is a vital mid-game craftable resource in &lt;em&gt;Kittens Game&lt;/em&gt; that serves as the foundation for your colony’s cultural and religious expansion. It is primarily used to construct culture-generating buildings and to craft more advanced intellectual resources.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-crafting&#34;&gt;&lt;strong&gt;Acquisition and Crafting&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Unlocking:&lt;/strong&gt; You gain the ability to craft parchment after researching the &lt;a href=&#34;../techs/writing/&#34;&gt;Writing&lt;/a&gt; technology (3,600 Science).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workshop Crafting:&lt;/strong&gt; A single unit of parchment is crafted from &lt;strong&gt;175 Furs&lt;/strong&gt; in the Workshop.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../guides/trading/&#34;&gt;Trading:&lt;/a&gt; Once you reach &lt;strong&gt;Embassy level 5&lt;/strong&gt; with the &lt;a href=&#34;../civilisations/sharks/&#34;&gt;Sharks&lt;/a&gt;, they have a 25% chance of selling you parchment in exchange for iron. This chance can be increased by &lt;strong&gt;+25%&lt;/strong&gt; if you enact the &lt;strong&gt;Shark Relations: Scribes&lt;/strong&gt; policy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automation:&lt;/strong&gt; While there is no direct early-game automation for parchment itself, maximizing your &lt;a href=&#34;../buildings/workshop/&#34;&gt;Workshops&lt;/a&gt; provides a multiplicative boost to the number of parchments produced per craft.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-uses&#34;&gt;&lt;strong&gt;Primary Uses&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Parchment is a mandatory requirement for transitioning out of the early game and establishing a &amp;ldquo;cultural engine&amp;rdquo;:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/craft/parchment/">Parchment</a> is a vital mid-game craftable resource in <em>Kittens Game</em> that serves as the foundation for your colony’s cultural and religious expansion. It is primarily used to construct culture-generating buildings and to craft more advanced intellectual resources.</p>
+<h3 id="acquisition-and-crafting"><strong>Acquisition and Crafting</strong></h3>
+<ul>
+<li><strong>Unlocking:</strong> You gain the ability to craft parchment after researching the <a href="/techs/writing/">Writing</a> technology (3,600 Science).</li>
+<li><strong>Workshop Crafting:</strong> A single unit of parchment is crafted from <strong>175 Furs</strong> in the Workshop.</li>
+<li><a href="/guides/trading/">Trading:</a> Once you reach <strong>Embassy level 5</strong> with the <a href="/civilisations/sharks/">Sharks</a>, they have a 25% chance of selling you parchment in exchange for iron. This chance can be increased by <strong>+25%</strong> if you enact the <strong>Shark Relations: Scribes</strong> policy.</li>
+<li><strong>Automation:</strong> While there is no direct early-game automation for parchment itself, maximizing your <a href="/buildings/workshop/">Workshops</a> provides a multiplicative boost to the number of parchments produced per craft.</li>
+</ul>
+<h3 id="primary-uses"><strong>Primary Uses</strong></h3>
+<p>Parchment is a mandatory requirement for transitioning out of the early game and establishing a &ldquo;cultural engine&rdquo;:</p>
+<ul>
+<li><strong>Resource Conversion:</strong> It is the primary input for crafting <a href="/resource/manuscript/">Manuscripts</a>. Each manuscript requires <strong>25 parchment</strong> (reduced to <strong>20</strong> with the <a href="/policy/tradition/">Tradition</a> policy).</li>
+<li><strong>Building Construction:</strong> It is a required material for several essential structures:
+<ul>
+<li><a href="/buildings/amphitheatre/">Amphitheatres:</a> 3 Parchment (essential for reducing unhappiness and generating early culture).</li>
+<li><a href="/buildings/chapel/">Chapels:</a> 250 Parchment (the primary structure for generating faith).</li>
+<li><strong>Breweries:</strong> 375 Parchment (required for holding <a href="/guides/festivals/">Festivals</a>).</li>
+</ul>
+</li>
+<li><strong>Scientific Research:</strong> A massive stockpile of <strong>5,000 parchment</strong> is required to research <a href="/techs/drama_and_poetry/">Drama and Poetry</a>, which enables the festival system.</li>
+</ul>
+<h3 id="strategic-management"><strong>Strategic Management</strong></h3>
+<ul>
+<li><strong>Early-Game Grind:</strong> Strategic guides recommend beginning to craft parchment <strong>as often as possible</strong> once the Workshop is unlocked, as you will need vast quantities for the &ldquo;Theology hurdle&rdquo;.</li>
+<li><strong>The &ldquo;Hunter Dump&rdquo; Strategy:</strong> To efficiently accumulate parchment before automation is available, players should temporarily reassign all kittens to the <a href="/job/hunter/">Hunter</a> job. This allows you to mass-produce the furs necessary for a bulk parchment craft session.</li>
+<li><strong>Policy Synergy:</strong> Enacting the <a href="/policy/tradition/">Tradition</a> policy is highly recommended because it reduces the parchment cost for manuscripts and doubles their cultural effectiveness, significantly speeding up mid-game scientific progress.</li>
+</ul>
+<h3 id="special-constraints"><strong>Special Constraints</strong></h3>
+<ul>
+<li><strong>Pacifism Challenge:</strong> In this challenge, hunting is disabled. You cannot obtain furs, and therefore cannot craft parchment, until you build a <a href="/buildings/mint/">Mint</a> to generate a passive supply of luxury resources.</li>
+<li><a href="/challenges/ironwill/">Iron Will:</a> Since you lack kittens for standard jobs in this mode, your parchment supply depends entirely on the furs gathered by <a href="/civilisations/zebras/">Zebras</a> acting as passive hunters.</li>
+<li><strong>Persistence:</strong> As a crafted resource, parchment is <strong>lost upon resetting</strong> the game unless you possess <a href="/buildings/chronosphere/">Chronospheres</a> and the <a href="/upgrade/flux_condensator/">Flux Condensator</a> workshop upgrade.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Refine_Catnip</title>
+      <link>/craft/refine_catnip/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/craft/refine_catnip/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Refining catnip&lt;/strong&gt; is the primary method for producing &lt;strong&gt;wood&lt;/strong&gt; during the early stages of the game before kittens can be assigned as woodcutters. The &amp;ldquo;Refine catnip&amp;rdquo; button appears in the Left UI once the colony has accumulated at least &lt;strong&gt;100 catnip&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;conversion-and-efficiency&#34;&gt;&lt;strong&gt;Conversion and Efficiency&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Rate:&lt;/strong&gt; Initially, the conversion rate is &lt;strong&gt;100 catnip for 1 wood&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost Reduction:&lt;/strong&gt; Researching &lt;a href=&#34;../upgrade/catnip_enrichment/&#34;&gt;Catnip Enrichment&lt;/a&gt; in the Workshop reduces the cost to &lt;strong&gt;50 catnip per unit of wood&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Effectiveness Bonuses:&lt;/strong&gt; While this process &lt;strong&gt;does not benefit from standard crafting bonuses&lt;/strong&gt;, its output can be increased through specific structures and Policy/.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../buildings/bio_lab/&#34;&gt;Bio Labs:&lt;/a&gt; Each lab increases catnip refinement effectiveness by &lt;strong&gt;10%&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shark Relations (Botanists):&lt;/strong&gt; This foreign policy provides a &lt;strong&gt;+25% wood crafting bonus&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;iron-will-strategies&#34;&gt;&lt;strong&gt;Iron Will Strategies&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;In &lt;a href=&#34;../challenges/ironwill/&#34;&gt;Iron Will&lt;/a&gt; mode, where kitten housing is forbidden, refining catnip is the essential source of wood for early infrastructure like &lt;strong&gt;Libraries&lt;/strong&gt;. Several mode-specific bonuses help scale this production:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><strong>Refining catnip</strong> is the primary method for producing <strong>wood</strong> during the early stages of the game before kittens can be assigned as woodcutters. The &ldquo;Refine catnip&rdquo; button appears in the Left UI once the colony has accumulated at least <strong>100 catnip</strong>.</p>
+<h3 id="conversion-and-efficiency"><strong>Conversion and Efficiency</strong></h3>
+<ul>
+<li><strong>Base Rate:</strong> Initially, the conversion rate is <strong>100 catnip for 1 wood</strong>.</li>
+<li><strong>Cost Reduction:</strong> Researching <a href="/upgrade/catnip_enrichment/">Catnip Enrichment</a> in the Workshop reduces the cost to <strong>50 catnip per unit of wood</strong>.</li>
+<li><strong>Effectiveness Bonuses:</strong> While this process <strong>does not benefit from standard crafting bonuses</strong>, its output can be increased through specific structures and Policy/.
+<ul>
+<li><a href="/buildings/bio_lab/">Bio Labs:</a> Each lab increases catnip refinement effectiveness by <strong>10%</strong>.</li>
+<li><strong>Shark Relations (Botanists):</strong> This foreign policy provides a <strong>+25% wood crafting bonus</strong>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="iron-will-strategies"><strong>Iron Will Strategies</strong></h3>
+<p>In <a href="/challenges/ironwill/">Iron Will</a> mode, where kitten housing is forbidden, refining catnip is the essential source of wood for early infrastructure like <strong>Libraries</strong>. Several mode-specific bonuses help scale this production:</p>
+<ul>
+<li><a href="/buildings/lumber_mill/">Lumber Mills:</a> In Iron Will, these buildings provide a <strong>+10% bonus</strong> to catnip refinement rather than boosting woodcutter output.</li>
+<li><strong>Clear Cutting Policy:</strong> This environmental policy provides a <strong>+10% refinement bonus</strong>, functioning similarly to an un-upgraded Lumber Mill.</li>
+<li><strong>Open Woodlands Policy:</strong> This provides a smaller <strong>+4.16% bonus</strong> to refinement.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<ul>
+<li><strong>Early Game:</strong> Players are encouraged to refine catnip five times to reach the <strong>5 wood</strong> required to build their first <a href="/buildings/hut/">Hut</a>, which unlocks the village system.</li>
+<li><strong>Production Balancing:</strong> Because Catnip Fields suffer a <strong>-75% production penalty during Winter</strong>, players must ensure their food supply is stable before aggressively refining their stores into wood.</li>
+<li><strong>Trade Loops:</strong> In some mid-game strategies, players trade <strong>Iron to the Sharks</strong> for massive amounts of catnip, which is then refined into wood to be traded to <a href="/civilisations/griffins/">Griffins</a> for more Iron.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Scaffold</title>
+      <link>/craft/scaffold/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/craft/scaffold/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../craft/scaffold/&#34;&gt;Scaffolds&lt;/a&gt; are a vital mid-game craftable resource used primarily for industrial construction, storage expansion, and the development of the colony&amp;rsquo;s naval fleet. They are produced in the &lt;a href=&#34;../buildings/workshop/&#34;&gt;Workshop&lt;/a&gt; at a base cost of &lt;strong&gt;50 Beams&lt;/strong&gt; per craft.&lt;/p&gt;
+&lt;h3 id=&#34;core-utility-naval-and-trade-expansion&#34;&gt;&lt;strong&gt;Core Utility: Naval and Trade Expansion&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The most significant strategic milestone involving scaffolds is the transition into the &lt;strong&gt;Titanium Era&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../craft/trade_ship/&#34;&gt;Trade Ships:&lt;/a&gt; Crafting a set of trade ships requires &lt;strong&gt;100 scaffolds&lt;/strong&gt; each.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discovery:&lt;/strong&gt; Possessing at least one trade ship is the prerequisite for exploring and discovering the &lt;a href=&#34;../civilisations/zebras/&#34;&gt;Zebras&lt;/a&gt;, the primary source of titanium through trade.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../buildings/harbour/&#34;&gt;Harbours:&lt;/a&gt; Scaffolds are required to build &lt;strong&gt;Harbours (5 scaffolds each)&lt;/strong&gt;, which provide a massive boost to the storage capacity of multiple resources.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;industrial-and-scientific-infrastructure&#34;&gt;&lt;strong&gt;Industrial and Scientific Infrastructure&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Scaffolds serve as a foundational material for several critical bonfire structures and religious buildings:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/craft/scaffold/">Scaffolds</a> are a vital mid-game craftable resource used primarily for industrial construction, storage expansion, and the development of the colony&rsquo;s naval fleet. They are produced in the <a href="/buildings/workshop/">Workshop</a> at a base cost of <strong>50 Beams</strong> per craft.</p>
+<h3 id="core-utility-naval-and-trade-expansion"><strong>Core Utility: Naval and Trade Expansion</strong></h3>
+<p>The most significant strategic milestone involving scaffolds is the transition into the <strong>Titanium Era</strong>.</p>
+<ul>
+<li><a href="/craft/trade_ship/">Trade Ships:</a> Crafting a set of trade ships requires <strong>100 scaffolds</strong> each.</li>
+<li><strong>Discovery:</strong> Possessing at least one trade ship is the prerequisite for exploring and discovering the <a href="/civilisations/zebras/">Zebras</a>, the primary source of titanium through trade.</li>
+<li><a href="/buildings/harbour/">Harbours:</a> Scaffolds are required to build <strong>Harbours (5 scaffolds each)</strong>, which provide a massive boost to the storage capacity of multiple resources.</li>
+</ul>
+<h3 id="industrial-and-scientific-infrastructure"><strong>Industrial and Scientific Infrastructure</strong></h3>
+<p>Scaffolds serve as a foundational material for several critical bonfire structures and religious buildings:</p>
+<ul>
+<li><strong>Observatories:</strong> Each observatory requires <strong>50 scaffolds</strong>. These are essential for increasing the science cap and automating the collection of <a href="/resource/star_charts/">Starcharts</a>.</li>
+<li><strong>Production Buildings:</strong> They are a required component for <strong>Oil Wells (25 scaffolds)</strong> and <strong>Quarries (50 scaffolds)</strong>, both of which are necessary for stabilizing energy and mineral supplies.</li>
+<li><strong>Unicorn Religion:</strong> Building <a href="/buildings/ziggurat/">Ziggurats</a> requires <strong>50 scaffolds</strong> each. This is the gateway structure for sacrificing unicorns to obtain <strong>Unicorn Tears</strong>.</li>
+</ul>
+<h3 id="trade-and-high-tier-upgrades"><strong>Trade and High-Tier Upgrades</strong></h3>
+<ul>
+<li><strong>Trading with Spiders:</strong> Scaffolds are the primary trade currency for the <a href="/civilisations/spiders/">Spiders</a>. They will buy <strong>50 scaffolds</strong> in exchange for a large amount of <strong>Coal and Oil</strong>.</li>
+<li><strong>Advanced Workshop Upgrades:</strong> Later in the game, scaffolds are required for expensive upgrades such as <strong>Titanium Warehouses (500)</strong> and <strong>Logistics (1,000)</strong>.</li>
+</ul>
+<h3 id="persistence-and-resets"><strong>Persistence and Resets</strong></h3>
+<p>As a crafted resource, scaffolds are <strong>normally lost upon resetting</strong> the game. To preserve a portion of your stockpile across runs, you must possess at least one <a href="/buildings/chronosphere/">Chronosphere</a> and the <a href="/upgrade/flux_condensator/">Flux Condensator</a> workshop upgrade. The amount carried over is calculated based on the number of chronospheres and the square root of the total quantity held at the time of reset.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Stone_Slab</title>
+      <link>/craft/stone_slab/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/craft/stone_slab/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../craft/stone_slab/&#34;&gt;Stone Slab&lt;/a&gt; (often simply called a &lt;strong&gt;Slab&lt;/strong&gt;) is a foundational mid-game craftable resource refined from minerals. Each slab is produced in the Workshop at a base cost of &lt;strong&gt;250 Minerals&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-automation&#34;&gt;&lt;strong&gt;Acquisition and Automation&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Beyond manual crafting, slabs can be acquired through several channels:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Trading with Nagas:&lt;/strong&gt; The Nagas have a &lt;strong&gt;75% base chance&lt;/strong&gt; to sell 5 slabs per trade in exchange for ivory.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Currency for Zebras:&lt;/strong&gt; Slabs serve as the &lt;strong&gt;primary trade currency for the Zebras&lt;/strong&gt;, who buy 50 slabs per successful trade to provide iron, metal plates, and titanium.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Steamworks Automation:&lt;/strong&gt; Researching &lt;a href=&#34;../upgrade/workshop_automation/&#34;&gt;Workshop Automation&lt;/a&gt; allows Steamworks to automatically convert minerals into slabs once per year whenever minerals reach 98% of their storage cap. This frequency increases to twice per year with &lt;a href=&#34;../upgrade/advanced_automation/&#34;&gt;Advanced Automation&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;construction-and-crafting-uses&#34;&gt;&lt;strong&gt;Construction and Crafting Uses&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Slabs are a mandatory material for a vast array of essential infrastructure and higher-tier resources:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/craft/stone_slab/">Stone Slab</a> (often simply called a <strong>Slab</strong>) is a foundational mid-game craftable resource refined from minerals. Each slab is produced in the Workshop at a base cost of <strong>250 Minerals</strong>.</p>
+<h3 id="acquisition-and-automation"><strong>Acquisition and Automation</strong></h3>
+<p>Beyond manual crafting, slabs can be acquired through several channels:</p>
+<ul>
+<li><strong>Trading with Nagas:</strong> The Nagas have a <strong>75% base chance</strong> to sell 5 slabs per trade in exchange for ivory.</li>
+<li><strong>Currency for Zebras:</strong> Slabs serve as the <strong>primary trade currency for the Zebras</strong>, who buy 50 slabs per successful trade to provide iron, metal plates, and titanium.</li>
+<li><strong>Steamworks Automation:</strong> Researching <a href="/upgrade/workshop_automation/">Workshop Automation</a> allows Steamworks to automatically convert minerals into slabs once per year whenever minerals reach 98% of their storage cap. This frequency increases to twice per year with <a href="/upgrade/advanced_automation/">Advanced Automation</a>.</li>
+</ul>
+<h3 id="construction-and-crafting-uses"><strong>Construction and Crafting Uses</strong></h3>
+<p>Slabs are a mandatory material for a vast array of essential infrastructure and higher-tier resources:</p>
+<ul>
+<li><strong>Storage Buildings:</strong> <a href="/buildings/warehouse/">Warehouses</a> (2 slabs) and <a href="/buildings/harbour/">Harbours</a> (50).</li>
+<li><strong>Scientific Facilities:</strong> <strong>Observatories</strong> (35), <a href="/buildings/bio_lab/">Bio Labs</a> (100), and <strong>Data Centres</strong> (upgraded from Libraries).</li>
+<li><strong>Industrial and Religious Buildings:</strong> <strong>Quarries</strong> (1000), <a href="/buildings/temple/">Temples</a> (25), and <a href="/buildings/mansion/">Mansions</a> (185).</li>
+<li><strong>Resource Conversion:</strong> Slabs are required to craft <a href="/craft/megalith/">Megaliths</a> (50 slabs) and <a href="/craft/concrete/">Concrete</a> (2500 slabs).</li>
+</ul>
+<h3 id="strategic-enhancements"><strong>Strategic Enhancements</strong></h3>
+<p>Players can optimize slab production through specific Policy/ and technology paths:</p>
+<ul>
+<li><strong>Masons Policy:</strong> Enacting the <strong>Naga Relations: Masons</strong> policy provides a <strong>+2.5% Quarry slab crafting bonus</strong>.</li>
+<li><strong>Titanium Era:</strong> Slabs are considered a high priority during the transition to space, as they are the gating resource required to discovery Zebras and begin mass-acquiring titanium.</li>
+<li><strong>Iron Will Mode:</strong> In this specialized mode, the ability to craft slabs is unlocked once you have established <strong>5 Naga Embassies</strong>.</li>
+</ul>
+<h3 id="persistence-and-resets"><strong>Persistence and Resets</strong></h3>
+<p>As a crafted resource, stone slabs are <strong>lost upon resetting</strong> the game by default. To carry them over into a new run, a player must possess at least one <a href="/buildings/chronosphere/">Chronosphere</a> and the <a href="/upgrade/flux_condensator/">Flux Condensator</a> Workshop upgrade. The amount preserved follows a formula based on the number of active chronospheres and the <strong>square root</strong> of the total quantity held before the reset.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Thorium</title>
+      <link>/craft/thorium/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/craft/thorium/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../resource/thorium/&#34;&gt;Thorium&lt;/a&gt; is a high-tier, highly radioactive craftable resource in &lt;em&gt;Kittens Game&lt;/em&gt; that serves as a critical fuel for late-game energy production and deep-space exploration. It is primarily used to power advanced reactors and fund missions to the furthest reaches of the star system.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-production&#34;&gt;&lt;strong&gt;Acquisition and Production&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Research Requirements:&lt;/strong&gt; To unlock Thorium, you must research the &lt;strong&gt;Thorium science node&lt;/strong&gt;, which costs &lt;strong&gt;375,000 Science and 375 Blueprints&lt;/strong&gt;. This technology becomes available after researching &lt;a href=&#34;../techs/orbital_engineering/&#34;&gt;Orbital Engineering&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workshop Crafting:&lt;/strong&gt; Once researched, Thorium can be crafted in the Workshop at a base cost of &lt;strong&gt;250 Uranium&lt;/strong&gt; per unit.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../guides/trading/&#34;&gt;Trading:&lt;/a&gt; You can also acquire Thorium by &lt;strong&gt;trading with Dragons&lt;/strong&gt;. They have a &lt;strong&gt;50% chance&lt;/strong&gt; to sell Thorium in exchange for titanium, provided you have reached &lt;strong&gt;Embassy level 5&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Crafting Bonuses:&lt;/strong&gt; Assigning a kitten with the &lt;strong&gt;Chemist trait&lt;/strong&gt; as your Leader provides a &lt;strong&gt;+0.075 bonus to the craft ratio&lt;/strong&gt; for Thorium.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;energy-and-infrastructure-upgrades&#34;&gt;&lt;strong&gt;Energy and Infrastructure Upgrades&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Thorium is central to scaling your energy grid and scientific capacity through several key Workshop upgrades:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/resource/thorium/">Thorium</a> is a high-tier, highly radioactive craftable resource in <em>Kittens Game</em> that serves as a critical fuel for late-game energy production and deep-space exploration. It is primarily used to power advanced reactors and fund missions to the furthest reaches of the star system.</p>
+<h3 id="acquisition-and-production"><strong>Acquisition and Production</strong></h3>
+<ul>
+<li><strong>Research Requirements:</strong> To unlock Thorium, you must research the <strong>Thorium science node</strong>, which costs <strong>375,000 Science and 375 Blueprints</strong>. This technology becomes available after researching <a href="/techs/orbital_engineering/">Orbital Engineering</a>.</li>
+<li><strong>Workshop Crafting:</strong> Once researched, Thorium can be crafted in the Workshop at a base cost of <strong>250 Uranium</strong> per unit.</li>
+<li><a href="/guides/trading/">Trading:</a> You can also acquire Thorium by <strong>trading with Dragons</strong>. They have a <strong>50% chance</strong> to sell Thorium in exchange for titanium, provided you have reached <strong>Embassy level 5</strong>.</li>
+<li><strong>Crafting Bonuses:</strong> Assigning a kitten with the <strong>Chemist trait</strong> as your Leader provides a <strong>+0.075 bonus to the craft ratio</strong> for Thorium.</li>
+</ul>
+<h3 id="energy-and-infrastructure-upgrades"><strong>Energy and Infrastructure Upgrades</strong></h3>
+<p>Thorium is central to scaling your energy grid and scientific capacity through several key Workshop upgrades:</p>
+<ul>
+<li><a href="/upgrade/thorium_reactors/">Thorium Reactors:</a> This upgrade increases the energy output of your <strong>Reactors by 25%</strong>, but introduces a consumption rate of <strong>0.05 Thorium per tick</strong> (0.25 per second) per active reactor.</li>
+<li><a href="/upgrade/enriched_thorium/">Enriched Thorium:</a> This vital efficiency upgrade reduces the Thorium consumption of your reactors by <strong>0.0625 per tick</strong>, helping to stabilise your stockpiles.</li>
+<li><a href="/upgrade/quantum_dot_cells/">Quantum Dot Cells:</a> Costs <strong>175k Science, 200 Eludium, and 1000 Thorium</strong>. It improves Solar Farm energy production by <strong>15% in winter</strong> and <strong>30% in spring and autumn</strong>.</li>
+<li><a href="/upgrade/thorium_drive/">Thorium Drive:</a> A high-tier engine that divides space travel time by <strong>50</strong> (or 75 if combined with an Antimatter Drive).</li>
+</ul>
+<h3 id="space-missions-and-structures"><strong>Space Missions and Structures</strong></h3>
+<p>As you progress into the late-game &ldquo;Umbra&rdquo; and &ldquo;Centaurus&rdquo; eras, Thorium becomes a mandatory requirement for exploration:</p>
+<ul>
+<li><strong>Missions:</strong> Significant quantities are required for missions to <strong>Umbra (15,000)</strong>, <strong>Charon (35,000)</strong>, <strong>Centaurus (50,000)</strong>, and the <strong>Furthest Ring (75,000)</strong>.</li>
+<li><a href="/space/heatsink/">Heatsinks:</a> Essential for increasing antimatter storage, each Heatsink costs <strong>12,500 Thorium</strong>.</li>
+<li><a href="/space/tectonic/">Tectonics:</a> These space structures, which generate <strong>25 Watts</strong> of energy, cost <strong>75,000 Thorium</strong> each.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<ul>
+<li><strong>The Antimatter Seed:</strong> In long &ldquo;seed runs&rdquo; aimed at reaching a <strong>5,000 antimatter capacity</strong>, Thorium is often a major bottleneck. Reaching the milestone of 34 Heatsinks requires over <strong>526,000 Thorium</strong>.</li>
+<li><strong>Energy Management:</strong> Strategic guides recommend <strong>turning off Thorium Reactors</strong> during most of the run to conserve fuel, only activating them when <strong>time skipping</strong> or when a massive energy surplus is required for antimatter generation.</li>
+<li><strong>Preservation:</strong> As a crafted resource, Thorium is <strong>normally lost upon resetting</strong>. To carry it over into a new run, you must possess <a href="/buildings/chronosphere/">Chronospheres</a> and the <a href="/upgrade/flux_condensator/">Flux Condensator</a> Workshop upgrade. The amount preserved is determined by the square root of your total Thorium at the time of reset.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Wooden_Beam</title>
+      <link>/craft/wooden_beam/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/craft/wooden_beam/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../craft/wooden_beam/&#34;&gt;Wooden Beam&lt;/a&gt; (often simply called a &lt;strong&gt;Beam&lt;/strong&gt;) is a foundational mid-game craftable resource in &lt;em&gt;Kittens Game&lt;/em&gt; refined from wood. It serves as a primary support structure required for advanced construction and the development of the colony&amp;rsquo;s industrial and religious infrastructure.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-production&#34;&gt;&lt;strong&gt;Acquisition and Production&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Workshop Crafting:&lt;/strong&gt; A single wooden beam costs &lt;strong&gt;175 Wood&lt;/strong&gt;. Because this cost is relatively low compared to later-game items, players often mass-craft beams once their wood storage is expanded.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trading with Lizards:&lt;/strong&gt; Once you reach &lt;strong&gt;Embassy level 5&lt;/strong&gt; with the Lizards, they have a &lt;strong&gt;15% chance&lt;/strong&gt; of selling you 10 beams in exchange for 1,000 minerals.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automation:&lt;/strong&gt; Researching &lt;a href=&#34;../upgrade/workshop_automation/&#34;&gt;Workshop Automation&lt;/a&gt; allows &lt;a href=&#34;../buildings/steamworks/&#34;&gt;Steamworks&lt;/a&gt; to automatically convert a portion of your wood into beams once per year whenever your wood reaches 98% of its storage cap. This frequency increases to twice per year with the &lt;a href=&#34;../upgrade/advanced_automation/&#34;&gt;Advanced Automation&lt;/a&gt; upgrade.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-uses-in-construction&#34;&gt;&lt;strong&gt;Primary Uses in Construction&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Beams are a mandatory material for several critical buildings and higher-tier resources:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/craft/wooden_beam/">Wooden Beam</a> (often simply called a <strong>Beam</strong>) is a foundational mid-game craftable resource in <em>Kittens Game</em> refined from wood. It serves as a primary support structure required for advanced construction and the development of the colony&rsquo;s industrial and religious infrastructure.</p>
+<h3 id="acquisition-and-production"><strong>Acquisition and Production</strong></h3>
+<ul>
+<li><strong>Workshop Crafting:</strong> A single wooden beam costs <strong>175 Wood</strong>. Because this cost is relatively low compared to later-game items, players often mass-craft beams once their wood storage is expanded.</li>
+<li><strong>Trading with Lizards:</strong> Once you reach <strong>Embassy level 5</strong> with the Lizards, they have a <strong>15% chance</strong> of selling you 10 beams in exchange for 1,000 minerals.</li>
+<li><strong>Automation:</strong> Researching <a href="/upgrade/workshop_automation/">Workshop Automation</a> allows <a href="/buildings/steamworks/">Steamworks</a> to automatically convert a portion of your wood into beams once per year whenever your wood reaches 98% of its storage cap. This frequency increases to twice per year with the <a href="/upgrade/advanced_automation/">Advanced Automation</a> upgrade.</li>
+</ul>
+<h3 id="primary-uses-in-construction"><strong>Primary Uses in Construction</strong></h3>
+<p>Beams are a mandatory material for several critical buildings and higher-tier resources:</p>
+<ul>
+<li><strong>Storage Expansion:</strong> They are required to build <a href="/buildings/warehouse/">Warehouses</a> (1.5 beams each), which are essential for increasing the global caps for multiple resources.</li>
+<li><strong>Mega Structures:</strong> Beams are a component for crafting <a href="/craft/megalith/">Megaliths</a> (25 beams each), which are used to build <a href="/buildings/ziggurat/">Ziggurats</a> and other religious structures.</li>
+<li><strong>Naval Infrastructure:</strong> They are the primary input for crafting <a href="/craft/scaffold/">Scaffolds</a> (50 beams each), which are needed for building <a href="/craft/trade_ship/">Trade Ships</a> and <a href="/buildings/harbour/">Harbours</a>.</li>
+</ul>
+<h3 id="workshop-upgrades"><strong>Workshop Upgrades</strong></h3>
+<p>Several essential Workshop upgrades require a stockpile of beams to improve the colony&rsquo;s efficiency:</p>
+<ul>
+<li><strong>Reinforced Barns (25 Beams):</strong> Increases the storage space for wood, minerals, and iron by 80%.</li>
+<li><strong>Coal Furnace (2,000 Beams):</strong> Allows Smelters to produce coal while burning wood.</li>
+<li><strong>Deep Mining (1,200 Beams):</strong> Allows Mines to produce a small amount of coal.</li>
+</ul>
+<h3 id="strategic-utility-and-resets"><strong>Strategic Utility and Resets</strong></h3>
+<p>In the early-to-mid game, beams are often the first major &ldquo;crafting hurdle&rdquo; players face as they transition from raw wood collection to organised manufacturing. Strategic guides suggest that once the <a href="/techs/construction/">Construction</a> science is researched, players should prioritise building enough warehouses to raise their storage caps for iron and science.</p>
+<p>As a crafted resource, wooden beams are <strong>normally lost upon resetting</strong> the game. To carry them over into a new run, a player must possess at least one <a href="/buildings/chronosphere/">Chronosphere</a> and the <a href="/upgrade/flux_condensator/">Flux Condensator</a> Workshop upgrade. The amount preserved follows a square root formula based on the total quantity held at the time of reset.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

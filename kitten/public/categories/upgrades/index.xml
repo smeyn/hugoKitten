@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/categories/upgrades/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Wed, 22 Apr 2026 20:25:19 +0000</lastBuildDate>
+    <atom:link href="/categories/upgrades/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long Range Spaceships</title>
+      <link>/upgrade/long_range_spaceships/</link>
+      <pubDate>Wed, 22 Apr 2026 20:25:19 +0000</pubDate>
+      <guid>/upgrade/long_range_spaceships/</guid>
+      <description>&lt;p&gt;This tech is part of the locked Space Exploration tree.&lt;/p&gt;
+&lt;h3 id=&#34;the-evolution-of-long-range-missions&#34;&gt;The Evolution of Long-Range Missions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../space/research-vessel/&#34;&gt;Research Vessel:&lt;/a&gt; Your first true &amp;ldquo;explorer.&amp;rdquo; While not long-range by late-game standards, these are vital for generating the &lt;a href=&#34;../../resource/star_charts/&#34;&gt;Starcharts&lt;/a&gt; required to calculate the trajectories for further missions.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../space/terraforming-station/&#34;&gt;Terraforming Station:&lt;/a&gt; Required for missions to &lt;strong&gt;navigation-heavy&lt;/strong&gt; locations. These stations help stabilize your presence on distant planets, allowing for more permanent resource extraction.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../space/space-beacon/&#34;&gt;Space Beacon:&lt;/a&gt; These are the pinnacle of your long-range infrastructure. They provide a massive boost to &lt;strong&gt;Starchart production&lt;/strong&gt; and are necessary to &amp;ldquo;light the way&amp;rdquo; to the &lt;a href=&#34;../../planet/centaurus_system/&#34;&gt;Centaurus System&lt;/a&gt;, the furthest reach of the standard game.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;requirements-for-deep-space-travel&#34;&gt;Requirements for Deep Space Travel&lt;/h3&gt;
+&lt;p&gt;As you push into the Farther Ring, the resource costs shift from basic metals to high-energy components:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This tech is part of the locked Space Exploration tree.</p>
+<h3 id="the-evolution-of-long-range-missions">The Evolution of Long-Range Missions</h3>
+<ul>
+<li><a href="/space/research-vessel/">Research Vessel:</a> Your first true &ldquo;explorer.&rdquo; While not long-range by late-game standards, these are vital for generating the <a href="/resource/star_charts/">Starcharts</a> required to calculate the trajectories for further missions.</li>
+<li><a href="/space/terraforming-station/">Terraforming Station:</a> Required for missions to <strong>navigation-heavy</strong> locations. These stations help stabilize your presence on distant planets, allowing for more permanent resource extraction.</li>
+<li><a href="/space/space-beacon/">Space Beacon:</a> These are the pinnacle of your long-range infrastructure. They provide a massive boost to <strong>Starchart production</strong> and are necessary to &ldquo;light the way&rdquo; to the <a href="/planet/centaurus_system/">Centaurus System</a>, the furthest reach of the standard game.</li>
+</ul>
+<hr>
+<h3 id="requirements-for-deep-space-travel">Requirements for Deep Space Travel</h3>
+<p>As you push into the Farther Ring, the resource costs shift from basic metals to high-energy components:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Resource</th>
+					<th style="text-align: left">Primary Purpose</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><a href="/upgrade/enriched_uranium/">Enriched Uranium</a></td>
+					<td style="text-align: left">Used as high-density fuel for reactors and long-range propulsion.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/resource/antimatter/">Antimatter</a></td>
+					<td style="text-align: left">Required for the most advanced vessels and the <strong>Centaurus</strong> mission.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/resource/eludium/">Eludium</a></td>
+					<td style="text-align: left">An alloy of Unobtainium and Alloy used for hulls that can withstand interstellar travel.</td>
+			</tr>
+	</tbody>
+</table>
+<hr>
+<h3 id="strategic-impact">Strategic Impact</h3>
+<p>By the time you are building missions for the <strong>Farther Ring</strong>, your focus is likely on two things:</p>
+<ol>
+<li><strong>Unobtainium Scaling:</strong> Long-range missions to places like <a href="/planet/cath/">Cath</a> and <a href="/planet/umbra/">Umbra</a> are designed to significantly increase your Unobtainium storage and production.</li>
+<li><strong>The Time Paradox:</strong> Deep space travel is often a prerequisite for <strong>Chronotheology</strong>. You need the resources from these distant systems to build the <a href="/buildings/chronosphere/">Chronospheres</a> that allow you to reset and keep your progress.</li>
+</ol>
+<blockquote>
+<p><strong>Pro Tip:</strong> If you are hitting a &ldquo;Starchart bottleneck&rdquo; while trying to launch these ships, ensure you have the <a href="/upgrade/hubble_space_telescope/">Hubble Space Telescope</a> upgrade we discussed earlier; it makes every Research Vessel and Satellite 30% more effective.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Space Shuttle</title>
+      <link>/space/space_shuttle/</link>
+      <pubDate>Thu, 12 Mar 2026 06:04:38 +0000</pubDate>
+      <guid>/space/space_shuttle/</guid>
+      <description>&lt;p&gt;Part of the locked space exploration tree.&lt;/p&gt;
+&lt;p&gt;Staffed with science crew&lt;/p&gt;
+&lt;p&gt;Prices:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../resource/antimatter/&#34;&gt;antimatter&lt;/a&gt;: 50&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../resource/eludium/&#34;&gt;eludium&lt;/a&gt; 500
+Note: this is marked as TBD&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Part of the locked space exploration tree.</p>
+<p>Staffed with science crew</p>
+<p>Prices:</p>
+<ul>
+<li><a href="/resource/antimatter/">antimatter</a>: 50</li>
+<li><a href="/resource/eludium/">eludium</a> 500
+Note: this is marked as TBD</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

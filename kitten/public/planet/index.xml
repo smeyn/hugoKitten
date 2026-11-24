@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/planet/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Sat, 29 Nov 2025 20:44:33 +1100</lastBuildDate>
+    <atom:link href="/planet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cath</title>
+      <link>/planet/cath/</link>
+      <pubDate>Sun, 07 Dec 2025 22:47:58 +1100</pubDate>
+      <guid>/planet/cath/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../planet/cath/&#34;&gt;Cath&lt;/a&gt; (${⌾}$) refers to two distinct concepts within &lt;em&gt;Kittens Game&lt;/em&gt;: the name of the solar system where the game takes place, and a specific five-year astrological cycle.&lt;/p&gt;
+&lt;h3 id=&#34;1-the-cath-solar-system&#34;&gt;1. The Cath Solar System&lt;/h3&gt;
+&lt;p&gt;Cath is the name of the solar system in which the star &lt;a href=&#34;../planet/helios/&#34;&gt;Helios&lt;/a&gt; resides, which is a G2V spectral type star at the system&amp;rsquo;s centre. The core resources of the game, such as unobtainium, are produced on planets or satellites within the Cath solar system.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/planet/cath/">Cath</a> (${⌾}$) refers to two distinct concepts within <em>Kittens Game</em>: the name of the solar system where the game takes place, and a specific five-year astrological cycle.</p>
+<h3 id="1-the-cath-solar-system">1. The Cath Solar System</h3>
+<p>Cath is the name of the solar system in which the star <a href="/planet/helios/">Helios</a> resides, which is a G2V spectral type star at the system&rsquo;s centre. The core resources of the game, such as unobtainium, are produced on planets or satellites within the Cath solar system.</p>
+<h3 id="2-the-cath-astrological-cycle">2. The Cath Astrological Cycle</h3>
+<p>Cath is one of the ten planetary cycles in the time system, with each cycle lasting five years. It is identified by the glyph ${⌾}$. The effects of this cycle are only triggered once the <a href="/metaphysics/numerology/">Numerology</a> upgrade has been researched.</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Category</th>
+					<th style="text-align: left">Detail</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Duration</strong></td>
+					<td style="text-align: left">5 years</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Glyph</strong></td>
+					<td style="text-align: left">${⌾}$</td>
+			</tr>
+	</tbody>
+</table>
+<p><strong>Effects with Numerology:</strong></p>
+<p>When the Cath cycle is active, it provides several bonuses and a specific penalty related to space structures:</p>
+<ul>
+<li><strong>Space Elevator transfer production bonus (for oil only):</strong> Increased by $+100%$. The Space Elevator structure also has its conversion production (resources produced by Smelters, Calciners, and Accelerators) on Cath boosted by a bonus of $0.4%$ per leader rank per uncapped population buildings.</li>
+<li><strong>Satellite starchart production:</strong> Increased by $+100%$.</li>
+<li><strong>Satellite observatory’s science bonus:</strong> Increased by $+100%$.</li>
+<li><strong>Space Station science bonus:</strong> Increased by $+50%$.</li>
+<li><strong>Space Beacon starchart production:</strong> Decreased by $-50%$.</li>
+</ul>
+<p><strong><a href="/guides/festivals/">Festival</a> Effect with Numeromancy:</strong></p>
+<p>If the advanced <a href="/metaphysics/numeromancy/">Numeromancy</a> upgrade is researched, holding a festival during the Cath cycle grants a significant $\times 2$ multiplier to <strong>Catpower income</strong>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Charon</title>
+      <link>/planet/charon/</link>
+      <pubDate>Sun, 07 Dec 2025 22:47:58 +1100</pubDate>
+      <guid>/planet/charon/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../planet/charon/&#34;&gt;Charon&lt;/a&gt; refers to a late-game deep space mission destination and is also one of the ten astronomical cycles in the &lt;em&gt;Kittens Game&lt;/em&gt; time system.&lt;/p&gt;
+&lt;h3 id=&#34;1-charon-space-mission&#34;&gt;1. Charon Space Mission&lt;/h3&gt;
+&lt;p&gt;The Charon Mission targets a small, dense, and distant dwarf planet located on the far edge of the Helios system, sometimes grimly referred to as &amp;lsquo;The Gates of Death&amp;rsquo;.&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Detail&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Specification&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Prerequisite&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Unlocked after completing the &lt;a href=&#34;../space/umbra_mission/&#34;&gt;Umbra Mission&lt;/a&gt;.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Cost&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;75,000 Starchart, 750,000 Science, 35,000 Kerosene, and 35,000 Thorium.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Travel Time&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;25,000 game-days, which equals 13 hours, 53 minutes, and 20 seconds in real-time. Travel time can be significantly reduced by researching drive upgrades such as the Antimatter Drive and Thorium Drive.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Unlocks&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Successful completion unlocks the &lt;strong&gt;Charon Planet&lt;/strong&gt;.&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;2-charon-astrological-cycle&#34;&gt;2. Charon Astrological Cycle&lt;/h3&gt;
+&lt;p&gt;Charon (${⍙}$) is one of the ten planetary cycles, each lasting five years. Its effects are triggered upon researching advanced Metaphysics upgrades:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/planet/charon/">Charon</a> refers to a late-game deep space mission destination and is also one of the ten astronomical cycles in the <em>Kittens Game</em> time system.</p>
+<h3 id="1-charon-space-mission">1. Charon Space Mission</h3>
+<p>The Charon Mission targets a small, dense, and distant dwarf planet located on the far edge of the Helios system, sometimes grimly referred to as &lsquo;The Gates of Death&rsquo;.</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Detail</th>
+					<th style="text-align: left">Specification</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Prerequisite</strong></td>
+					<td style="text-align: left">Unlocked after completing the <a href="/space/umbra_mission/">Umbra Mission</a>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Cost</strong></td>
+					<td style="text-align: left">75,000 Starchart, 750,000 Science, 35,000 Kerosene, and 35,000 Thorium.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Travel Time</strong></td>
+					<td style="text-align: left">25,000 game-days, which equals 13 hours, 53 minutes, and 20 seconds in real-time. Travel time can be significantly reduced by researching drive upgrades such as the Antimatter Drive and Thorium Drive.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Unlocks</strong></td>
+					<td style="text-align: left">Successful completion unlocks the <strong>Charon Planet</strong>.</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="2-charon-astrological-cycle">2. Charon Astrological Cycle</h3>
+<p>Charon (${⍙}$) is one of the ten planetary cycles, each lasting five years. Its effects are triggered upon researching advanced Metaphysics upgrades:</p>
+<ul>
+<li><strong>With Numerology:</strong> The cycle negatively impacts specific structures related to Unobtainium (UO) and gigaflops:
+<ul>
+<li><a href="/planet/lunar_outpost/">Lunar Outpost</a> unobtainium output is decreased by <strong>$-10%$</strong>.</li>
+<li><a href="/space/entanglement-station/">Entanglement Station</a> gigaflops consumption is increased by <strong>$+100%$</strong>.</li>
+</ul>
+</li>
+<li><strong><a href="/guides/festivals/">Festival</a> Effect (With Numeromancy):</strong> If a festival is held during the Charon cycle, it provides a $\times 1.5$ multiplier to <strong>Catnip, Wood, and Mineral income</strong>.</li>
+</ul>
+<p>The severe penalty to Lunar Outpost production during the Charon cycle is notable, especially when compared to the highly advantageous Redmoon cycle, which boosts UO production by $+20%$. Due to this, strategies often revolve around skipping non-profitable cycles, like Charon, using time manipulation.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Dune</title>
+      <link>/planet/dune/</link>
+      <pubDate>Sun, 07 Dec 2025 22:47:58 +1100</pubDate>
+      <guid>/planet/dune/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../planet/dune/&#34;&gt;Dune&lt;/a&gt; (${⍫}$) is a pivotal mid-to-late-game space destination, a planet in the Cath solar system, which unlocks new industrial structures and is tied to a specific astrological cycle that boosts uranium production.&lt;/p&gt;
+&lt;h3 id=&#34;1-dune-space-mission-details&#34;&gt;1. Dune Space Mission Details&lt;/h3&gt;
+&lt;p&gt;Dune is described as a large, lifeless planet covered by sand and volcanic rock. The Dune Mission is unlocked after successfully completing the Moon Mission.&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Detail&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Specification&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Prerequisite&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Moon Mission&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Cost&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1000 Starchart, 7000 Titanium, 175k Science, and 75 Kerosene&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Travel Time&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;356 game-days (11 minutes, 52 seconds in real-time)&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Unlocks&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Helios mission&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;2-key-structures-and-policy-unlocked&#34;&gt;2. Key Structures and Policy/ Unlocked&lt;/h3&gt;
+&lt;p&gt;Successful completion of the mission unlocks the Dune Planet and critical infrastructure:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/planet/dune/">Dune</a> (${⍫}$) is a pivotal mid-to-late-game space destination, a planet in the Cath solar system, which unlocks new industrial structures and is tied to a specific astrological cycle that boosts uranium production.</p>
+<h3 id="1-dune-space-mission-details">1. Dune Space Mission Details</h3>
+<p>Dune is described as a large, lifeless planet covered by sand and volcanic rock. The Dune Mission is unlocked after successfully completing the Moon Mission.</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Detail</th>
+					<th style="text-align: left">Specification</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Prerequisite</strong></td>
+					<td style="text-align: left">Moon Mission</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Cost</strong></td>
+					<td style="text-align: left">1000 Starchart, 7000 Titanium, 175k Science, and 75 Kerosene</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Travel Time</strong></td>
+					<td style="text-align: left">356 game-days (11 minutes, 52 seconds in real-time)</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Unlocks</strong></td>
+					<td style="text-align: left">Helios mission</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="2-key-structures-and-policy-unlocked">2. Key Structures and Policy/ Unlocked</h3>
+<p>Successful completion of the mission unlocks the Dune Planet and critical infrastructure:</p>
+<ul>
+<li><a href="/space/planet_cracker/">Planet Cracker:</a> A vessel that generates Uranium (1.5/sec). Building this structure requires a significant investment in Starcharts: 1000 Starchart to reach Dune, and 2500 Starchart to build the cracker itself.</li>
+<li><strong>Hydraulic Fracturer:</strong> A structure that produces Oil (2.5/sec). Hydraulic Fracturers are generally not particularly effective until the <a href="/upgrade/space_manufacturing/">Space Manufacturing</a> upgrade is secured.</li>
+<li><a href="/space/spice_refinery/">Spice Refinery:</a> Refines Dune sand into &lsquo;Spice&rsquo; at a rate of 0.125/sec.</li>
+</ul>
+<p>Reaching Dune is also a prerequisite for unlocking several high-level Government Policy/, including <a href="/policy/technocracy/">Technocracy</a>, <a href="/policy/cosmological_libertarianism/">Cosmological Libertarianism</a>, and <a href="/policy/order_of_the_stars/">Order of the Stars</a>.</p>
+<h3 id="3-dune-astrological-cycle">3. Dune Astrological Cycle</h3>
+<p>Dune (${⍫}$) is one of the ten cycles in the game&rsquo;s time system, with each cycle lasting five years. The effects of this cycle are leveraged by researching Metaphysics upgrades like Numerology and Numeromancy:</p>
+<ul>
+<li><strong>With Numerology:</strong> The cycle provides significant production bonuses for resources generated on Dune: it increases <strong>Planet Cracker uranium output by +10%</strong> and <strong>Hydraulic Fracturer oil output by +50%</strong>. Conversely, it imposes a penalty on HR Harvester Energy Production (-25%).</li>
+<li><strong>With Numeromancy (<a href="/guides/festivals/">Festival</a> Bonus):</strong> Holding a festival during the Dune cycle grants a $\times 2$ multiplier to <strong>Uranium income</strong>.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Furthest Ring</title>
+      <link>/planet/furthest_ring/</link>
+      <pubDate>Sun, 07 Dec 2025 22:47:58 +1100</pubDate>
+      <guid>/planet/furthest_ring/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../planet/furthest_ring/&#34;&gt;Furthest Ring&lt;/a&gt; is a late-game deep space mission destination, metaphorically described as &lt;strong&gt;&amp;ldquo;The end of the universe&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;mission-details-and-cost&#34;&gt;Mission Details and Cost&lt;/h3&gt;
+&lt;p&gt;The Furthest Ring mission requires extremely high quantities of resources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 500,000 Starchart, 1.25 million Science, 75,000 Kerosene, and 75,000 Thorium.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Base Travel Time:&lt;/strong&gt; The base travel time for the mission is massive, calculated at 725,200,000 game-days.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;travel-time-reduction&#34;&gt;Travel Time Reduction&lt;/h3&gt;
+&lt;p&gt;This extensive travel time can be significantly reduced through drive upgrades:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/planet/furthest_ring/">Furthest Ring</a> is a late-game deep space mission destination, metaphorically described as <strong>&ldquo;The end of the universe&rdquo;</strong>.</p>
+<h3 id="mission-details-and-cost">Mission Details and Cost</h3>
+<p>The Furthest Ring mission requires extremely high quantities of resources:</p>
+<ul>
+<li><strong>Cost:</strong> 500,000 Starchart, 1.25 million Science, 75,000 Kerosene, and 75,000 Thorium.</li>
+<li><strong>Base Travel Time:</strong> The base travel time for the mission is massive, calculated at 725,200,000 game-days.</li>
+</ul>
+<h3 id="travel-time-reduction">Travel Time Reduction</h3>
+<p>This extensive travel time can be significantly reduced through drive upgrades:</p>
+<ul>
+<li>If you have researched both the <a href="/upgrade/antimatter_drive/">Antimatter Drive</a> and the <a href="/upgrade/thorium_drive/">Thorium Drive</a>, the mission travel time is divided by 75.</li>
+<li>With both drive upgrades, the travel time is reduced to approximately 223 days, 19 hours, 51 minutes, and 7 seconds in real-time.</li>
+</ul>
+<h3 id="status">Status</h3>
+<p>Currently, the mission&rsquo;s unlock is listed as &ldquo;(TBD)&rdquo;. As of one source&rsquo;s reported version (1.4.6.2.b), <strong>no structures can be built in the Furthest Ring</strong>. However, as of a later version (1.4.8.5), players who are logged in will see a text-based interface when they reach the Furthest Ring.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Helios</title>
+      <link>/planet/helios/</link>
+      <pubDate>Sun, 07 Dec 2025 22:47:58 +1100</pubDate>
+      <guid>/planet/helios/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../planet/helios/&#34;&gt;Helios&lt;/a&gt; refers to a pivotal deep space mission destination—a G2V spectral type star in the centre of the Cath solar system—and a recurring astrological cycle. It is also the designated goal for one of the game&amp;rsquo;s major challenges.&lt;/p&gt;
+&lt;p&gt;Here is a detailed breakdown of Helios:&lt;/p&gt;
+&lt;h3 id=&#34;1-helios-space-mission&#34;&gt;1. Helios Space Mission&lt;/h3&gt;
+&lt;p&gt;The Helios mission is a significant undertaking that occurs in the mid-to-late game, following the Dune Mission.&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Detail&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Specification&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Prerequisite&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Unlocked after the Dune Mission (also unlocked by the T-minus Mission).&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Cost&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;3,000 Starchart, 15,000 Titanium, 250k Science, and 1,250 Kerosene.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Travel Time&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,200 game-days, which is 40 minutes in real-time.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Structures Unlocked&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Successful completion unlocks high-tier structures needed for antimatter and storage capacity: &lt;a href=&#34;../space/sunlifter/&#34;&gt;Sunlifter&lt;/a&gt;, &lt;a href=&#34;../space/containment-chamber/&#34;&gt;Containment Chamber&lt;/a&gt;, &lt;a href=&#34;../space/heatsink/&#34;&gt;Heatsink&lt;/a&gt;, and &lt;a href=&#34;../space/sun_forge/&#34;&gt;Sunforge&lt;/a&gt;.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Next Mission&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;The Helios Mission unlocks the &lt;a href=&#34;../space/yarn_mission/&#34;&gt;Yarn Mission&lt;/a&gt;.&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;2-helios-astrological-cycle&#34;&gt;2. Helios Astrological Cycle&lt;/h3&gt;
+&lt;p&gt;Helios is one of the ten cycles in the time system, identified by the glyph &lt;strong&gt;⌒&lt;/strong&gt;. Each cycle lasts for five years.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/planet/helios/">Helios</a> refers to a pivotal deep space mission destination—a G2V spectral type star in the centre of the Cath solar system—and a recurring astrological cycle. It is also the designated goal for one of the game&rsquo;s major challenges.</p>
+<p>Here is a detailed breakdown of Helios:</p>
+<h3 id="1-helios-space-mission">1. Helios Space Mission</h3>
+<p>The Helios mission is a significant undertaking that occurs in the mid-to-late game, following the Dune Mission.</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Detail</th>
+					<th style="text-align: left">Specification</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Prerequisite</strong></td>
+					<td style="text-align: left">Unlocked after the Dune Mission (also unlocked by the T-minus Mission).</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Cost</strong></td>
+					<td style="text-align: left">3,000 Starchart, 15,000 Titanium, 250k Science, and 1,250 Kerosene.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Travel Time</strong></td>
+					<td style="text-align: left">1,200 game-days, which is 40 minutes in real-time.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Structures Unlocked</strong></td>
+					<td style="text-align: left">Successful completion unlocks high-tier structures needed for antimatter and storage capacity: <a href="/space/sunlifter/">Sunlifter</a>, <a href="/space/containment-chamber/">Containment Chamber</a>, <a href="/space/heatsink/">Heatsink</a>, and <a href="/space/sun_forge/">Sunforge</a>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Next Mission</strong></td>
+					<td style="text-align: left">The Helios Mission unlocks the <a href="/space/yarn_mission/">Yarn Mission</a>.</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="2-helios-astrological-cycle">2. Helios Astrological Cycle</h3>
+<p>Helios is one of the ten cycles in the time system, identified by the glyph <strong>⌒</strong>. Each cycle lasts for five years.</p>
+<p>Its effects are dependent on advanced Metaphysics research:</p>
+<ul>
+<li><strong>With Numerology:</strong> The cycle affects key space structures:
+<ul>
+<li><strong>Sunlifter energy output is increased by +50%</strong>.</li>
+<li><strong>Cryostation Storage is decreased by -10%</strong>.</li>
+</ul>
+</li>
+<li><strong>With Numeromancy (Festival Bonus):</strong> Holding a <a href="/guides/festivals/">Festival</a> during the Helios cycle provides potent religious and luxury resource multipliers:
+<ul>
+<li><strong>Faith income is multiplied by x2</strong>.</li>
+<li><strong>Unicorn income is multiplied by x1.25</strong>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-challenge-goal">3. Challenge Goal</h3>
+<p>Helios is also the final destination required to complete the <strong>Winter Has Come</strong> challenge. This challenge imposes the restriction of an endless winter season throughout the run.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Kairo</title>
+      <link>/planet/kairo/</link>
+      <pubDate>Sun, 07 Dec 2025 22:47:58 +1100</pubDate>
+      <guid>/planet/kairo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../planet/kairo/&#34;&gt;Kairo&lt;/a&gt; (${℣}$) refers to a deep space destination reachable via a mission and a recurring astrological cycle that significantly impacts late-game production, particularly starcharts.&lt;/p&gt;
+&lt;h3 id=&#34;1-kairo-space-mission-and-structures&#34;&gt;1. Kairo Space Mission and Structures&lt;/h3&gt;
+&lt;p&gt;The Kairo Mission is unlocked in the later stages of space exploration, following the T-minus Mission.&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Detail&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Specification&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Prerequisite&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;T-minus Mission&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Cost&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;5,000 Starchart, 20,000 Titanium, 300k Science, and 7,500 Kerosene&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Travel Time&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;5,000 game-days (2 hours, 46 minutes, 40 seconds in real-time)&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Unlocks&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Kairo Planet, Rorschach Mission&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Space Beacon Building&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/planet/kairo/">Kairo</a> (${℣}$) refers to a deep space destination reachable via a mission and a recurring astrological cycle that significantly impacts late-game production, particularly starcharts.</p>
+<h3 id="1-kairo-space-mission-and-structures">1. Kairo Space Mission and Structures</h3>
+<p>The Kairo Mission is unlocked in the later stages of space exploration, following the T-minus Mission.</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Detail</th>
+					<th style="text-align: left">Specification</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Prerequisite</strong></td>
+					<td style="text-align: left">T-minus Mission</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Cost</strong></td>
+					<td style="text-align: left">5,000 Starchart, 20,000 Titanium, 300k Science, and 7,500 Kerosene</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Travel Time</strong></td>
+					<td style="text-align: left">5,000 game-days (2 hours, 46 minutes, 40 seconds in real-time)</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Unlocks</strong></td>
+					<td style="text-align: left">Kairo Planet, Rorschach Mission</td>
+			</tr>
+	</tbody>
+</table>
+<p><strong>Space Beacon Building</strong></p>
+<p>Successfully completing the Kairo Mission unlocks the <a href="/space/space-beacon/">Space Beacon</a> structure.</p>
+<ul>
+<li><strong>Cost:</strong> 25k Starchart, 50 Antimatter, 25k Alloy, and 7,500 Kerosene.</li>
+<li><strong>Effects:</strong> Provides a significant <strong>+25K maximum Science</strong> and generates <strong>0.125 Starchart per second</strong>.</li>
+<li>The Space Beacon can be further upgraded by technology related to Relic Station, Black Nexus, and Hashes.</li>
+</ul>
+<h3 id="2-kairo-astrological-cycle">2. Kairo Astrological Cycle</h3>
+<p>Kairo is one of the ten planetary cycles in the game&rsquo;s time system, lasting five years, and is symbolised by the glyph ${℣}$. Its effects are primarily related to space production and science structures.</p>
+<ul>
+<li><strong>Effects with Numerology:</strong> When the <a href="/metaphysics/numerology/">Numerology</a> upgrade is researched, the Kairo cycle generally imposes penalties on certain structures but provides a massive boost to Space Beacons:
+<ul>
+<li><strong>Space Beacon starchart production</strong> is boosted by <strong>+400%</strong>.</li>
+<li>Space Elevator transfer production bonus (oil only) is decreased by $-50%$.</li>
+<li>Satellite starchart production, Satellite observatory’s science bonus, and Space Station science bonus are all decreased by $-25%$.</li>
+</ul>
+</li>
+<li><strong>Festival Effect with Numeromancy:</strong> If the <a href="/metaphysics/numeromancy/">Numeromancy</a> upgrade is researched, holding a <a href="/guides/festivals/">festival</a> during the Kairo cycle provides a powerful <strong>$\times 5$ multiplier to Starchart income</strong>.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Lunar Outpost</title>
+      <link>/planet/lunar_outpost/</link>
+      <pubDate>Sun, 07 Dec 2025 22:47:58 +1100</pubDate>
+      <guid>/planet/lunar_outpost/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../planet/lunar_outpost/&#34;&gt;Lunar Outpost&lt;/a&gt; is a space structure essential for late-game progression, specifically for refining uranium into unobtainium.&lt;/p&gt;
+&lt;p&gt;Here is a comprehensive overview of the Lunar Outpost based on the sources:&lt;/p&gt;
+&lt;h3 id=&#34;primary-function-and-resources&#34;&gt;Primary Function and Resources&lt;/h3&gt;
+&lt;p&gt;The Lunar Outpost serves a single, critical purpose:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It &lt;strong&gt;refines uranium into unobtainium&lt;/strong&gt;. Unobtainium is a special resource required to unlock &lt;a href=&#34;../metaphysics/&#34;&gt;Metaphysics&lt;/a&gt; and to purchase high-tier buildings and upgrades, including &lt;a href=&#34;../upgrade/unobtainium_huts/&#34;&gt;Unobtainium Huts&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consumption Rate:&lt;/strong&gt; The Lunar Outpost consumes uranium at a rate of &lt;strong&gt;1.75 per second&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Production Rate:&lt;/strong&gt; It produces unobtainium at a rate of &lt;strong&gt;0.035 per second&lt;/strong&gt;. This means, at full speed, it can produce 5 unobtainium in 142.8 seconds (about 2.3 minutes).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;acquisition-and-prerequisites&#34;&gt;Acquisition and Prerequisites&lt;/h3&gt;
+&lt;p&gt;The Lunar Outpost is unlocked and built through the Space tab:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/planet/lunar_outpost/">Lunar Outpost</a> is a space structure essential for late-game progression, specifically for refining uranium into unobtainium.</p>
+<p>Here is a comprehensive overview of the Lunar Outpost based on the sources:</p>
+<h3 id="primary-function-and-resources">Primary Function and Resources</h3>
+<p>The Lunar Outpost serves a single, critical purpose:</p>
+<ul>
+<li>It <strong>refines uranium into unobtainium</strong>. Unobtainium is a special resource required to unlock <a href="/metaphysics/">Metaphysics</a> and to purchase high-tier buildings and upgrades, including <a href="/upgrade/unobtainium_huts/">Unobtainium Huts</a>.</li>
+<li><strong>Consumption Rate:</strong> The Lunar Outpost consumes uranium at a rate of <strong>1.75 per second</strong>.</li>
+<li><strong>Production Rate:</strong> It produces unobtainium at a rate of <strong>0.035 per second</strong>. This means, at full speed, it can produce 5 unobtainium in 142.8 seconds (about 2.3 minutes).</li>
+</ul>
+<h3 id="acquisition-and-prerequisites">Acquisition and Prerequisites</h3>
+<p>The Lunar Outpost is unlocked and built through the Space tab:</p>
+<ul>
+<li><strong>Prerequisite:</strong> You must first research the <a href="/techs/rocketry/">Rocketry</a> science to enable the Space tab and space missions [5, 6].</li>
+<li><strong>Mission Requirement:</strong> The Lunar Outpost itself is unlocked by completing the <a href="/space/moon_mission/">Moon Mission</a>.</li>
+<li><strong>Starchart Cost:</strong> To complete the Lunar Outpost mission, you need <strong>650 Starcharts</strong> [7]. The total starcharts needed to reach the Lunar Outpost, starting from the <a href="/space/orbital_launch/">Orbital Launch</a> (250) and <a href="/space/moon_mission/">Moon Mission</a> (500), is <strong>1,400 Starcharts</strong> [7].</li>
+<li><strong>Other Costs:</strong> The Moon Mission itself also requires <strong>45K oil</strong> [8].</li>
+</ul>
+<h3 id="production-efficiency-and-optimization">Production Efficiency and Optimization</h3>
+<p>The Lunar Outpost&rsquo;s production of unobtainium is noted for its inefficiency relative to its resource consumption, which heavily bottlenecks early unobtainium production:</p>
+<ul>
+<li><strong>Production Slowdown:</strong> If your main source of uranium is a single <a href="/buildings/accelerator/">Accelerator</a> (which produces $0.0125$ uranium per second), the Lunar Outpost will run <strong>140 times slower</strong> than its maximum speed [9]. This means it could take 5.3 hours to produce 5 unobtainium, rather than 2.3 minutes [4, 9].</li>
+<li><strong>Trade Solution:</strong> Production can be sped up by trading with <a href="/civilisations/dragons/">Dragons</a> for uranium [9].</li>
+<li><strong>Redshift Advantage (Offline):</strong> The source notes that the &ldquo;Redshift&rdquo; mechanic, which prevents resources from being deliberately reduced during offline progression, effectively allows Lunar Outposts to run <strong>as if you have infinite uranium</strong> while offline. This <strong>significantly speeds up</strong> unobtainium gain during offline progress because the outpost runs at full speed [10].</li>
+<li><strong>Upgrades:</strong> The <a href="/upgrade/microwarp_reactors/">Microwarp Reactors</a> Workshop upgrade, unlocked by <strong>Exometallurgy</strong>, makes unobtainium production <strong>75% more effective</strong> [11].</li>
+</ul>
+<h3 id="related-space-structures">Related Space Structures</h3>
+<p>The Lunar Outpost is key to later resource storage and production:</p>
+<ul>
+<li><a href="/space/moonbase/">Moon Base:</a> Once you produce 50 unobtainium using the Lunar Outpost, you can build a <a href="/space/moonbase/">Moon Base</a> [12]. The Moon Base then increases your overall <strong>Unobtainium storage capacity</strong> [12, 13].</li>
+<li><strong>Uranium Consumption:</strong> Lunar Outposts initially consume <strong>10 Wt of Energy</strong>, although this consumption is reduced by <a href="/upgrade/antimatter_bases/">Antimatter Bases</a> [14].</li>
+</ul>
+<p>In short, the Lunar Outpost is the specialized factory on the moon that converts titanium-derived uranium into the scarce, late-game resource unobtainium, paving the way for further progression into space and metaphysics [1, 4].</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Piscine</title>
+      <link>/planet/piscine/</link>
+      <pubDate>Sun, 07 Dec 2025 22:47:58 +1100</pubDate>
+      <guid>/planet/piscine/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../planet/piscine/&#34;&gt;Piscine&lt;/a&gt; (${⎈}$) refers to a significant destination in the late mid-game space race, resulting in infrastructure critical for advancing scientific research and generating Starcharts. It is also one of the astronomical cycles in the game&amp;rsquo;s time system.&lt;/p&gt;
+&lt;h3 id=&#34;1-piscine-space-mission&#34;&gt;1. Piscine Space Mission&lt;/h3&gt;
+&lt;p&gt;The Piscine mission targets a gigantic aquatic planet characterised by an acid body and a methane atmosphere.&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Detail&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Specification&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Prerequisite&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Unlocked after successfully completing the &lt;a href=&#34;../space/moon_mission/&#34;&gt;Moon Mission&lt;/a&gt;.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Cost&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Requires &lt;strong&gt;1500 Starchart&lt;/strong&gt;, &lt;strong&gt;9000 Titanium&lt;/strong&gt;, &lt;strong&gt;200k Science&lt;/strong&gt;, and &lt;strong&gt;250 Kerosene&lt;/strong&gt;.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Travel Time&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;256 game-days (8 minutes, 32 seconds in real-time).&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Unlocks&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Unlocks the &lt;strong&gt;Piscine Planet&lt;/strong&gt;, the &lt;a href=&#34;../space/research-vessel/&#34;&gt;Research Vessel&lt;/a&gt; building, and the &lt;a href=&#34;../space/t-minus_mission/&#34;&gt;T-minus Mission&lt;/a&gt;.&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The Pisces Mission is a major investment point, requiring 1500 Starcharts to bypass the starchart bottleneck needed for continued space progression.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/planet/piscine/">Piscine</a> (${⎈}$) refers to a significant destination in the late mid-game space race, resulting in infrastructure critical for advancing scientific research and generating Starcharts. It is also one of the astronomical cycles in the game&rsquo;s time system.</p>
+<h3 id="1-piscine-space-mission">1. Piscine Space Mission</h3>
+<p>The Piscine mission targets a gigantic aquatic planet characterised by an acid body and a methane atmosphere.</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Detail</th>
+					<th style="text-align: left">Specification</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Prerequisite</strong></td>
+					<td style="text-align: left">Unlocked after successfully completing the <a href="/space/moon_mission/">Moon Mission</a>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Cost</strong></td>
+					<td style="text-align: left">Requires <strong>1500 Starchart</strong>, <strong>9000 Titanium</strong>, <strong>200k Science</strong>, and <strong>250 Kerosene</strong>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Travel Time</strong></td>
+					<td style="text-align: left">256 game-days (8 minutes, 32 seconds in real-time).</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Unlocks</strong></td>
+					<td style="text-align: left">Unlocks the <strong>Piscine Planet</strong>, the <a href="/space/research-vessel/">Research Vessel</a> building, and the <a href="/space/t-minus_mission/">T-minus Mission</a>.</td>
+			</tr>
+	</tbody>
+</table>
+<p>The Pisces Mission is a major investment point, requiring 1500 Starcharts to bypass the starchart bottleneck needed for continued space progression.</p>
+<h3 id="2-research-vessel-building">2. Research Vessel Building</h3>
+<p>The successful mission unlocks the <a href="/space/research-vessel/">Research Vessel</a> building, which is crucial for maximizing scientific progress:</p>
+<ul>
+<li><strong>Science Storage:</strong> Each Research Vessel provides a substantial increase of <strong>+10,000 maximum Science</strong>.</li>
+<li><strong>Starchart Production:</strong> They are highly efficient, generating <strong>0.05 Starchart per second</strong>. Research Vessels are considered the most efficient way to acquire Starcharts.</li>
+</ul>
+<h3 id="3-piscine-astrological-cycle">3. Piscine Astrological Cycle</h3>
+<p>Piscine (${⎈}$) is one of the ten planetary cycles in the time system, each lasting five years.</p>
+<ul>
+<li><strong>Numerology Effect:</strong> With the <a href="/metaphysics/numerology/">Numerology</a> upgrade, the Piscine cycle offers contrasting effects on space production:
+<ul>
+<li><strong>Research Vessel starchart production</strong> is boosted by <strong>+50%</strong>.</li>
+<li><strong>Hydroponics Catnip Production</strong> is decreased by <strong>-50%</strong>.</li>
+</ul>
+</li>
+<li><strong>Festival Effect (Numeromancy):</strong> If the <a href="/metaphysics/numeromancy/">Numeromancy</a> upgrade is researched, holding a <a href="/guides/festivals/">festival</a> during the Piscine cycle grants a powerful $\times 2$ multiplier to <strong>Science income</strong>.</li>
+</ul>
+<hr>
+<p>The Piscine Mission unlocks Research Vessels, which are essential for boosting science maximums and generating Starcharts efficiently, setting the stage for the next deep space ventures like the T-minus Mission. This allows you to convert high-cost materials into a sustained, high-volume flow of Starcharts needed for future space exploration.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Redmoon</title>
+      <link>/planet/redmoon/</link>
+      <pubDate>Sun, 07 Dec 2025 22:47:58 +1100</pubDate>
+      <guid>/planet/redmoon/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../planet/redmoon/&#34;&gt;Redmoon&lt;/a&gt; (${⍜}$) is both a key destination in the space exploration phase and a recurring astronomical cycle in &lt;em&gt;Kittens Game&lt;/em&gt;, offering significant advantages for late-game production, particularly of Unobtainium (UO).&lt;/p&gt;
+&lt;h3 id=&#34;1-redmoon-as-a-planetary-mission&#34;&gt;1. Redmoon as a Planetary Mission&lt;/h3&gt;
+&lt;p&gt;Redmoon is a planet satellite targeted during the mid-to-late game space race:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mission Unlock:&lt;/strong&gt; The &lt;a href=&#34;../space/moon_mission/&#34;&gt;Moon Mission&lt;/a&gt; is unlocked after the Orbital Launch and requires 500 Starchart, 5000 Titanium, 125,000 Science, and 45,000 Oil to launch.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Travel Time:&lt;/strong&gt; The journey to Redmoon takes 30 game-days, equivalent to 1 minute in real-time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlocks:&lt;/strong&gt; A successful mission unlocks the &lt;a href=&#34;../planet/lunar_outpost/&#34;&gt;Lunar Outpost&lt;/a&gt; and the &lt;a href=&#34;../space/moonbase/&#34;&gt;Moon Base&lt;/a&gt; structures, as well as the subsequent &lt;a href=&#34;../space/dune_mission/&#34;&gt;Dune Mission&lt;/a&gt; and &lt;a href=&#34;../space/piscine_mission/&#34;&gt;Piscine Mission&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-buildings-on-redmoon&#34;&gt;2. Buildings on Redmoon&lt;/h3&gt;
+&lt;p&gt;The mission allows for the establishment of two critical structures on Redmoon:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/planet/redmoon/">Redmoon</a> (${⍜}$) is both a key destination in the space exploration phase and a recurring astronomical cycle in <em>Kittens Game</em>, offering significant advantages for late-game production, particularly of Unobtainium (UO).</p>
+<h3 id="1-redmoon-as-a-planetary-mission">1. Redmoon as a Planetary Mission</h3>
+<p>Redmoon is a planet satellite targeted during the mid-to-late game space race:</p>
+<ul>
+<li><strong>Mission Unlock:</strong> The <a href="/space/moon_mission/">Moon Mission</a> is unlocked after the Orbital Launch and requires 500 Starchart, 5000 Titanium, 125,000 Science, and 45,000 Oil to launch.</li>
+<li><strong>Travel Time:</strong> The journey to Redmoon takes 30 game-days, equivalent to 1 minute in real-time.</li>
+<li><strong>Unlocks:</strong> A successful mission unlocks the <a href="/planet/lunar_outpost/">Lunar Outpost</a> and the <a href="/space/moonbase/">Moon Base</a> structures, as well as the subsequent <a href="/space/dune_mission/">Dune Mission</a> and <a href="/space/piscine_mission/">Piscine Mission</a>.</li>
+</ul>
+<h3 id="2-buildings-on-redmoon">2. Buildings on Redmoon</h3>
+<p>The mission allows for the establishment of two critical structures on Redmoon:</p>
+<ul>
+<li><a href="/planet/lunar_outpost/">Lunar Outpost:</a> This nuclear-powered mining outpost is crucial for the Unobtainium economy. It consumes Uranium (at a rate of 1.75/sec) and produces <a href="/resource/unobtainium/">Unobtainium</a> (at 0.035/sec).</li>
+<li><a href="/space/moonbase/">Moon Base:</a> This base provides large storage increases for core resources, notably providing <strong>+45,000 maximum Catnip</strong> and <strong>+150 maximum Unobtainium</strong> storage.</li>
+</ul>
+<h3 id="3-redmoon-astrological-cycle">3. Redmoon Astrological Cycle</h3>
+<p>Redmoon (${⍜}$) is one of the ten astronomical cycles in the game&rsquo;s time system, with each cycle lasting five years. Its effects are highly advantageous for players who have researched advanced Metaphysics:</p>
+<ul>
+<li><strong>With Numerology:</strong> When the Numerology upgrade is researched, the Redmoon cycle affects specific space production:
+<ul>
+<li><strong>Lunar Outpost unobtainium output</strong> is increased by <strong>+20%</strong>.</li>
+<li><strong>Entanglement Station gigaflops consumption</strong> is decreased by <strong>-50%</strong>.</li>
+</ul>
+</li>
+<li><strong>Festival Effect (With Numeromancy):</strong> If the Numeromancy upgrade is researched, holding a <a href="/guides/festivals/">festival</a> during the Redmoon cycle grants a potent <strong>$\times 2$ multiplier to Unobtainium income</strong>.</li>
+</ul>
+<h3 id="strategic-importance-in-endgame">Strategic Importance in Endgame</h3>
+<p>The Redmoon cycle is strategically crucial in the endgame, particularly for advancing the Unobtainium (UO) economy:</p>
+<ul>
+<li><strong>UO Production:</strong> Since Unobtainium is a critical bottleneck resource refined from Uranium by the Lunar Outpost, the <strong>Redmoon cycle&rsquo;s +20% boost to Lunar Outpost output</strong> (with Numerology) is highly leveraged.</li>
+<li><strong>Chrono-Optimization:</strong> The Redmoon cycle is part of the Chrono Engine strategy. Using the Chronoforge to shatter Time Crystals (TCs) allows players to skip less profitable periods and arrive at the highly advantageous <a href="/cycles/redmoon_cycle/">Redmoon cycle</a>, which provides an instantaneous <strong>$2.5\times$ boost to UO production</strong> when combined with active Festivals and the Numeromancy upgrade. This strategy converts stored temporal capital (TCs) into a leveraged spike in high-value resource production.</li>
+<li><strong>Unobtainium Production Formula:</strong> If you are always in the Redmoon cycle, the formula for UO production gains an extra factor of $2.4* (1 + 0.01* # Breweries)$ when Numeromancy is researched. Therefore, spending time inside a <a href="/cycles/redmoon_cycle/">Redmoon cycle</a> is key for maximising unobtainium production.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>T Minus</title>
+      <link>/planet/t_minus/</link>
+      <pubDate>Sun, 07 Dec 2025 22:47:58 +1100</pubDate>
+      <guid>/planet/t_minus/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../planet/t_minus/&#34;&gt;T-minus&lt;/a&gt; (⍝) refers to both a significant deep space mission destination and a recurring astronomical cycle in &lt;em&gt;Kittens Game&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;1-t-minus-space-mission-and-structures&#34;&gt;1. T-Minus Space Mission and Structures&lt;/h3&gt;
+&lt;p&gt;The T-minus Mission targets &lt;strong&gt;Terminus&lt;/strong&gt;, a supermassive ice giant at the far end of the Helios solar system.&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Detail&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Specification&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Prerequisite&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;The T-minus Mission is unlocked after the &lt;a href=&#34;../space/piscine_mission/&#34;&gt;Piscine Mission&lt;/a&gt;.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Cost&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;2,500 Starchart, 12,000 Titanium, 225,000 Science, and 750 Kerosene.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Travel Time&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;2,500 game-days (1 hour, 23 minutes, 20 seconds in real-time).&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Unlocks&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Successful completion unlocks the &lt;strong&gt;T-Minus Planet&lt;/strong&gt;, the &lt;a href=&#34;../space/helios_mission/&#34;&gt;Helios Mission&lt;/a&gt;, the &lt;a href=&#34;../space/kairo_mission/&#34;&gt;Kairo Mission&lt;/a&gt;, and the &lt;a href=&#34;../space/cryo_station/&#34;&gt;Cryostation&lt;/a&gt; building.&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Cryostation Building:&lt;/strong&gt;
+The Cryostation, unlocked by this mission, is a vast storage facility complex that provides significant capacity increases for wood, minerals, iron, coal, uranium, titanium, oil, and unobtainium. Critically, each Cryostation provides &lt;strong&gt;$+750$ maximum Unobtainium&lt;/strong&gt; (UO) storage. UO capacity, specifically from Cryostations and Moon Bases, defines the deep endgame progression toward positive chrono-resets.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/planet/t_minus/">T-minus</a> (⍝) refers to both a significant deep space mission destination and a recurring astronomical cycle in <em>Kittens Game</em>.</p>
+<h3 id="1-t-minus-space-mission-and-structures">1. T-Minus Space Mission and Structures</h3>
+<p>The T-minus Mission targets <strong>Terminus</strong>, a supermassive ice giant at the far end of the Helios solar system.</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Detail</th>
+					<th style="text-align: left">Specification</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Prerequisite</strong></td>
+					<td style="text-align: left">The T-minus Mission is unlocked after the <a href="/space/piscine_mission/">Piscine Mission</a>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Cost</strong></td>
+					<td style="text-align: left">2,500 Starchart, 12,000 Titanium, 225,000 Science, and 750 Kerosene.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Travel Time</strong></td>
+					<td style="text-align: left">2,500 game-days (1 hour, 23 minutes, 20 seconds in real-time).</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Unlocks</strong></td>
+					<td style="text-align: left">Successful completion unlocks the <strong>T-Minus Planet</strong>, the <a href="/space/helios_mission/">Helios Mission</a>, the <a href="/space/kairo_mission/">Kairo Mission</a>, and the <a href="/space/cryo_station/">Cryostation</a> building.</td>
+			</tr>
+	</tbody>
+</table>
+<p><strong>Cryostation Building:</strong>
+The Cryostation, unlocked by this mission, is a vast storage facility complex that provides significant capacity increases for wood, minerals, iron, coal, uranium, titanium, oil, and unobtainium. Critically, each Cryostation provides <strong>$+750$ maximum Unobtainium</strong> (UO) storage. UO capacity, specifically from Cryostations and Moon Bases, defines the deep endgame progression toward positive chrono-resets.</p>
+<h3 id="2-t-minus-astrological-cycle">2. T-Minus Astrological Cycle</h3>
+<p>T-minus (${⍝}$) is one of the ten planetary cycles in the game&rsquo;s time system, lasting five years.</p>
+<ul>
+<li><strong>With Numerology:</strong> When the <a href="/metaphysics/numerology/">Numerology</a> upgrade is researched, the T-minus cycle affects space structures:
+<ul>
+<li><a href="/space/sunlifter/">Sunlifter</a> energy output is decreased by <strong>$-50%$</strong>.</li>
+<li><strong>Cryostation Storage</strong> is increased by <strong>$+20%$</strong>.</li>
+</ul>
+</li>
+<li><strong>Festival Effect with Numeromancy:</strong> Holding a festival during the T-minus cycle grants a $\times 2$ multiplier to <strong>Oil income</strong>.</li>
+</ul>
+<p>The temporary $+20%$ boost to Cryostation storage during the T-minus cycle is significant because Cryostations are one of only two buildings that provide the maximum Unobtainium storage necessary for the late game.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Umbra</title>
+      <link>/planet/umbra/</link>
+      <pubDate>Sun, 07 Dec 2025 22:47:58 +1100</pubDate>
+      <guid>/planet/umbra/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../planet/umbra/&#34;&gt;Umbra&lt;/a&gt; refers to both a deep space destination reachable via a mission and a recurring astrological cycle that impacts your production in &lt;em&gt;Kittens Game&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;1-umbra-cycle-time-system&#34;&gt;1. Umbra Cycle (Time System)&lt;/h3&gt;
+&lt;p&gt;Umbra is one of the ten cycles featured in the game&amp;rsquo;s time system, identified by the glyph ${⍦}$. Each cycle lasts for five years.&lt;/p&gt;
+&lt;p&gt;When the appropriate technologies are researched, the Umbra cycle provides specific bonuses and penalties:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;With Numerology:&lt;/strong&gt; The cycle affects production from specific space structures:
+&lt;ul&gt;
+&lt;li&gt;The uranium output of the &lt;a href=&#34;../space/planet_cracker/&#34;&gt;Planet Cracker&lt;/a&gt; is decreased by $-10%$.&lt;/li&gt;
+&lt;li&gt;The oil output of the &lt;strong&gt;Hydraulic Fracturer&lt;/strong&gt; is decreased by $-25%$.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;HR Harvester&lt;/strong&gt; Energy Production is increased by $+50%$.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;With Numeromancy (Festival Bonus):&lt;/strong&gt; Holding a festival during the Umbra cycle grants a $1.5\times$ income multiplier for Coal, Iron, Titanium, and Gold.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-umbra-mission-and-hr-harvester&#34;&gt;2. Umbra Mission and HR Harvester&lt;/h3&gt;
+&lt;p&gt;Umbra is a destination in deep space, described as a supermassive black hole at the heart of the Helios system.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/planet/umbra/">Umbra</a> refers to both a deep space destination reachable via a mission and a recurring astrological cycle that impacts your production in <em>Kittens Game</em>.</p>
+<h3 id="1-umbra-cycle-time-system">1. Umbra Cycle (Time System)</h3>
+<p>Umbra is one of the ten cycles featured in the game&rsquo;s time system, identified by the glyph ${⍦}$. Each cycle lasts for five years.</p>
+<p>When the appropriate technologies are researched, the Umbra cycle provides specific bonuses and penalties:</p>
+<ul>
+<li><strong>With Numerology:</strong> The cycle affects production from specific space structures:
+<ul>
+<li>The uranium output of the <a href="/space/planet_cracker/">Planet Cracker</a> is decreased by $-10%$.</li>
+<li>The oil output of the <strong>Hydraulic Fracturer</strong> is decreased by $-25%$.</li>
+<li>The <strong>HR Harvester</strong> Energy Production is increased by $+50%$.</li>
+</ul>
+</li>
+<li><strong>With Numeromancy (Festival Bonus):</strong> Holding a festival during the Umbra cycle grants a $1.5\times$ income multiplier for Coal, Iron, Titanium, and Gold.</li>
+</ul>
+<h3 id="2-umbra-mission-and-hr-harvester">2. Umbra Mission and HR Harvester</h3>
+<p>Umbra is a destination in deep space, described as a supermassive black hole at the heart of the Helios system.</p>
+<ul>
+<li><strong>Mission Cost and Prerequisite:</strong> The <a href="/space/umbra_mission/">Umbra Mission</a> is unlocked after the <a href="/space/yarn_mission/">Yarn Mission</a>. It is a high-cost mission, requiring:
+<ul>
+<li>25,000 Starchart</li>
+<li>500k Science</li>
+<li>25k Kerosene</li>
+<li>15k Thorium</li>
+</ul>
+</li>
+<li><strong>Travel Time:</strong> The journey to Umbra takes 7,600 game-days, equivalent to 4 hours, 13 minutes, and 20 seconds in real-time.</li>
+<li><strong>Building Unlocked:</strong> The successful mission unlocks the <strong>Umbra Planet</strong> and the <strong>HR Harvester</strong> building. The HR Harvester operates on the energy of the black hole evaporation to generate energy. This energy production starts at $1{W}$ and slowly increases over time.</li>
+<li><strong>Progression:</strong> The Umbra Mission subsequently unlocks the <a href="/space/charon_mission/">Charon Mission</a>.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Yarn</title>
+      <link>/planet/yarn/</link>
+      <pubDate>Sun, 07 Dec 2025 22:47:58 +1100</pubDate>
+      <guid>/planet/yarn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../planet/yarn/&#34;&gt;Yarn&lt;/a&gt; is a key deep space destination in &lt;em&gt;Kittens Game&lt;/em&gt;, leading to new structures that boost population, catnip production, and scientific progression. It is identified by the symbol ${⍧}$ in the game&amp;rsquo;s astrological time system.&lt;/p&gt;
+&lt;p&gt;Here is a detailed overview of the Yarn Mission, its costs, and the resulting infrastructure:&lt;/p&gt;
+&lt;h3 id=&#34;yarn-space-mission&#34;&gt;Yarn Space Mission&lt;/h3&gt;
+&lt;p&gt;The Yarn Mission targets a Class M planet described as having a high moderate climate, seas, and an oxygen atmosphere.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/planet/yarn/">Yarn</a> is a key deep space destination in <em>Kittens Game</em>, leading to new structures that boost population, catnip production, and scientific progression. It is identified by the symbol ${⍧}$ in the game&rsquo;s astrological time system.</p>
+<p>Here is a detailed overview of the Yarn Mission, its costs, and the resulting infrastructure:</p>
+<h3 id="yarn-space-mission">Yarn Space Mission</h3>
+<p>The Yarn Mission targets a Class M planet described as having a high moderate climate, seas, and an oxygen atmosphere.</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Detail</th>
+					<th style="text-align: left">Specification</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Prerequisite</strong></td>
+					<td style="text-align: left">The Yarn Mission is unlocked after the Helios Mission.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Cost</strong></td>
+					<td style="text-align: left">7,500 Starchart, 35,000 Titanium, 350,000 Science, and 12,000 Kerosene.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Travel Time</strong></td>
+					<td style="text-align: left">3,800 game-days (2 hours, 6 minutes, 40 seconds in real-time).</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Unlocks</strong></td>
+					<td style="text-align: left">Successful completion unlocks the <strong>Yarn Planet</strong> and the next step in deep space exploration, the <a href="/space/umbra_mission/">Umbra Mission</a>.</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="infrastructure-unlocked-on-yarn-planet">Infrastructure Unlocked on Yarn Planet</h3>
+<p>Completing the mission allows for the construction of two crucial buildings, provided the necessary technologies have been researched:</p>
+<ol>
+<li>
+<p><a href="/space/terraforming-station/">Terraforming Station:</a> This structure requires the <a href="/techs/terraformation/">Terraformation</a> research.</p>
+<ul>
+<li><strong>Cost:</strong> 25 Antimatter, 5,000 Uranium, and 5,000 Kerosene.</li>
+<li><strong>Effect:</strong> Increases maximum kitten population by <strong>+1</strong>.</li>
+<li>Terraforming Yarn is noted as a necessary action for maximizing housing during deep endgame paragon farming runs.</li>
+</ul>
+</li>
+<li>
+<p><a href="/techs/hydroponics/">Hydroponics:</a> This highly efficient agricultural structure requires the <a href="/techs/hydroponics/">Hydroponics</a> technology.</p>
+<ul>
+<li><strong>Cost:</strong> 1 Unobtainium and 500 Kerosene.</li>
+<li><strong>Effects:</strong> Hydroponics provides a <strong>+2.5%</strong> increase to Catnip Production and increases maximum Catnip Storage capacity by <strong>+10%</strong>. It also boosts the kitten bonus from the Terraforming Station by $+1.0%$.</li>
+</ul>
+</li>
+</ol>
+<h3 id="yarn-astrological-cycle">Yarn Astrological Cycle</h3>
+<p>Yarn (${⍧}$) is one of the ten astronomical cycles in the game, each lasting five years. The cycle has specific effects depending on advanced research:</p>
+<ul>
+<li><strong>With Numerology:</strong> The cycle significantly boosts <strong>Hydroponics Catnip Production</strong> by <strong>+100%</strong>. However, it imposes a penalty on <strong>Research Vessel starchart production</strong>, decreasing it by $-50%$.</li>
+<li><strong>With Numeromancy:</strong> If a festival is held during the Yarn cycle, it provides a powerful $\times 2$ multiplier to <strong>Culture income</strong>.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Centaurus System</title>
+      <link>/planet/centaurus_system/</link>
+      <pubDate>Sat, 29 Nov 2025 17:31:07 +1100</pubDate>
+      <guid>/planet/centaurus_system/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Centaurus&lt;/strong&gt; refers to a significant, late-game deep space mission destination—a warm, faraway star system—and the mission required to reach it in &lt;em&gt;Kittens Game&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;1-centaurus-space-mission-details&#34;&gt;1. Centaurus Space Mission Details&lt;/h3&gt;
+&lt;p&gt;The Centaurus Mission is a costly undertaking in the latter stages of space exploration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; The mission is unlocked after completing the &lt;strong&gt;Rorschach Mission&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; Researching and launching the Centaurus Mission requires vast amounts of late-game resources: &lt;strong&gt;100,000 Starchart&lt;/strong&gt;, &lt;strong&gt;40,000 Titanium&lt;/strong&gt;, &lt;strong&gt;400,000 Science&lt;/strong&gt;, &lt;strong&gt;50,000 Kerosene&lt;/strong&gt;, and &lt;strong&gt;50,000 Thorium&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Travel Time:&lt;/strong&gt; The base travel time is &lt;strong&gt;120,000 game-days&lt;/strong&gt;, which equates to 2 days, 18 hours, and 40 minutes in real-time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-infrastructure-and-challenge-unlock&#34;&gt;2. Infrastructure and Challenge Unlock&lt;/h3&gt;
+&lt;p&gt;A successful mission unlocks the Centaurus System and associated buildings:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><strong>Centaurus</strong> refers to a significant, late-game deep space mission destination—a warm, faraway star system—and the mission required to reach it in <em>Kittens Game</em>.</p>
+<h3 id="1-centaurus-space-mission-details">1. Centaurus Space Mission Details</h3>
+<p>The Centaurus Mission is a costly undertaking in the latter stages of space exploration:</p>
+<ul>
+<li><strong>Prerequisite:</strong> The mission is unlocked after completing the <strong>Rorschach Mission</strong>.</li>
+<li><strong>Cost:</strong> Researching and launching the Centaurus Mission requires vast amounts of late-game resources: <strong>100,000 Starchart</strong>, <strong>40,000 Titanium</strong>, <strong>400,000 Science</strong>, <strong>50,000 Kerosene</strong>, and <strong>50,000 Thorium</strong>.</li>
+<li><strong>Travel Time:</strong> The base travel time is <strong>120,000 game-days</strong>, which equates to 2 days, 18 hours, and 40 minutes in real-time.</li>
+</ul>
+<h3 id="2-infrastructure-and-challenge-unlock">2. Infrastructure and Challenge Unlock</h3>
+<p>A successful mission unlocks the Centaurus System and associated buildings:</p>
+<ul>
+<li><strong>Building Unlocked (Tectonic):</strong> The mission enables the construction of the <a href="/space/tectonic/">Tectonic</a> structure, provided the player has researched <a href="/techs/terraformation/">Terraformation</a>. Tectonic is a highly expensive energy production building, costing 600,000 Science, 500 Antimatter, and 75,000 Thorium, and producing <strong>25 Energy</strong>.</li>
+<li><strong>Tectonic Upgrade:</strong> The effectiveness of the Tectonic structure can be further improved by the <a href="/space/molten-core/">Molten Core</a> upgrade (unlocked by <a href="/techs/exophysics/">Exophysics</a>), which provides a +5% boost to Tectonic Energy Production per level.</li>
+<li><strong>Challenge Requirement:</strong> Completion of the <strong>Centaurus Mission</strong> is the specific unlock requirement for the <a href="/resource/energy/">Energy</a> challenge,. The Energy challenge imposes a doubled energy consumption rate on the player&rsquo;s village,.</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

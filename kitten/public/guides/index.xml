@@ -1,0 +1,1671 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/guides/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Fri, 23 Oct 2026 10:49:25 +0000</lastBuildDate>
+    <atom:link href="/guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Late Game</title>
+      <link>/guides/late_game/</link>
+      <pubDate>Fri, 23 Oct 2026 10:49:25 +0000</pubDate>
+      <guid>/guides/late_game/</guid>
+      <description>&lt;p&gt;The late game begins once standard resets are effortless and you transition into deep temporal manipulation, relic economies, and cryptotheology. Instead of measuring progress in kittens or ground resources, your civilization runs on Time Crystals (TC), Void, Antimatter, and Relics, powered by thousands of years skipped per session.&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;System&lt;/th&gt;
+					&lt;th&gt;Primary Resources&lt;/th&gt;
+					&lt;th&gt;Key Structures / Mechanics&lt;/th&gt;
+					&lt;th&gt;Main Objective&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Chronoforge&lt;/td&gt;
+					&lt;td&gt;&lt;a href=&#34;../resource/time_crystals/&#34;&gt;Time Crystals&lt;/a&gt;, &lt;a href=&#34;../resource/void/&#34;&gt;Void&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;&lt;a href=&#34;../time/resource-retrieval/&#34;&gt;Resource Retrieval&lt;/a&gt;, &lt;strong&gt;Chrono Heat Sinks&lt;/strong&gt;, &lt;a href=&#34;../transcendence/blazar/&#34;&gt;Blazars&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;High-yield, continuous Time Crystal shattering&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Cryptotheology&lt;/td&gt;
+					&lt;td&gt;Relics&lt;/td&gt;
+					&lt;td&gt;&lt;a href=&#34;../transcendence/black_nexus/&#34;&gt;Black Nexus&lt;/a&gt;, &lt;a href=&#34;../transcendence/event_horizon/&#34;&gt;Event Horizon&lt;/a&gt;, &lt;a href=&#34;../transcendence/black_obelisk/&#34;&gt;Black Obelisk&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;Permanent, reset-proof global scaling&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Deep Space&lt;/td&gt;
+					&lt;td&gt;&lt;a href=&#34;../resource/void/&#34;&gt;Void&lt;/a&gt;, &lt;a href=&#34;../resource/antimatter/&#34;&gt;Antimatter&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;&lt;a href=&#34;../time/void-rift/&#34;&gt;Void Rifts&lt;/a&gt;, &lt;a href=&#34;../space/sunlifter/&#34;&gt;Sunlifters&lt;/a&gt;, &lt;a href=&#34;../space/cryo_station/&#34;&gt;Cryostations&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;Astronomical storage caps to break late-game building costs&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Elders&lt;/strong&gt; (Leviathans)&lt;/td&gt;
+					&lt;td&gt;&lt;a href=&#34;../resource/unobtainium/&#34;&gt;Unobtainium&lt;/a&gt;, &lt;strong&gt;Necrocorns&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;&lt;a href=&#34;../ziggurat/black_pyramid/&#34;&gt;Black Pyramids&lt;/a&gt;, &lt;a href=&#34;../ziggurat/marker/&#34;&gt;Markers&lt;/a&gt;, Feed Elders&lt;/td&gt;
+					&lt;td&gt;Infinite TC and Relic generation via trade caravans&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;the-core-late-game-engines&#34;&gt;The Core Late-Game Engines&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;The Resource Retrieval (RR) Shatter Loop&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Combusting Time Crystals advances the calendar instantly. At base, time skips yield zero production, but Resource Retrieval extracts a percentage of full annual production per shattered TC ($1% \text{ per level}$ ):&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The late game begins once standard resets are effortless and you transition into deep temporal manipulation, relic economies, and cryptotheology. Instead of measuring progress in kittens or ground resources, your civilization runs on Time Crystals (TC), Void, Antimatter, and Relics, powered by thousands of years skipped per session.</p>
+<table>
+	<thead>
+			<tr>
+					<th>System</th>
+					<th>Primary Resources</th>
+					<th>Key Structures / Mechanics</th>
+					<th>Main Objective</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>Chronoforge</td>
+					<td><a href="/resource/time_crystals/">Time Crystals</a>, <a href="/resource/void/">Void</a></td>
+					<td><a href="/time/resource-retrieval/">Resource Retrieval</a>, <strong>Chrono Heat Sinks</strong>, <a href="/transcendence/blazar/">Blazars</a></td>
+					<td>High-yield, continuous Time Crystal shattering</td>
+			</tr>
+			<tr>
+					<td>Cryptotheology</td>
+					<td>Relics</td>
+					<td><a href="/transcendence/black_nexus/">Black Nexus</a>, <a href="/transcendence/event_horizon/">Event Horizon</a>, <a href="/transcendence/black_obelisk/">Black Obelisk</a></td>
+					<td>Permanent, reset-proof global scaling</td>
+			</tr>
+			<tr>
+					<td>Deep Space</td>
+					<td><a href="/resource/void/">Void</a>, <a href="/resource/antimatter/">Antimatter</a></td>
+					<td><a href="/time/void-rift/">Void Rifts</a>, <a href="/space/sunlifter/">Sunlifters</a>, <a href="/space/cryo_station/">Cryostations</a></td>
+					<td>Astronomical storage caps to break late-game building costs</td>
+			</tr>
+			<tr>
+					<td><strong>Elders</strong> (Leviathans)</td>
+					<td><a href="/resource/unobtainium/">Unobtainium</a>, <strong>Necrocorns</strong></td>
+					<td><a href="/ziggurat/black_pyramid/">Black Pyramids</a>, <a href="/ziggurat/marker/">Markers</a>, Feed Elders</td>
+					<td>Infinite TC and Relic generation via trade caravans</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="the-core-late-game-engines">The Core Late-Game Engines</h3>
+<ol>
+<li>The Resource Retrieval (RR) Shatter Loop</li>
+</ol>
+<p>Combusting Time Crystals advances the calendar instantly. At base, time skips yield zero production, but Resource Retrieval extracts a percentage of full annual production per shattered TC ($1% \text{ per level}$ ):</p>
+<ul>
+<li><strong>Break-Even Point</strong>: Around RR Level 20–30, shattering a single TC produces enough Unobtainium to trade with Leviathans for more than 1 replacement TC.</li>
+<li><strong>Hyper-Scaling</strong>: At RR 100+, every click dumps multiple years of gross civilization output straight into your stockpiles, instantly maxing out Unobtainium, Alloy, Faith, and Oil.</li>
+</ul>
+<ol start="2">
+<li>Heat Management &amp; Blazars</li>
+</ol>
+<p>Shattering TCs builds up Heat in the Chronoforge:</p>
+<ul>
+<li><strong>Chrono Heat Sinks</strong>: Increase maximum heat capacity and cooling rates so you can combust hundreds of crystals in rapid bursts.</li>
+<li><a href="/transcendence/blazar/">Blazars</a>: Accelerate resource yields per year skipped and improve heat dissipation, keeping the combustion engine sustainable.</li>
+</ul>
+<ol start="3">
+<li>Cryptotheology (Reset-Proof Compounding)</li>
+</ol>
+<p>Relics purchased through Leviathan trades or generated passively via Black Pyramids are invested into <a href="/techs/cryptotheology/">Cryptotheology</a> under the Religion tab. Unlike standard bonfire structures, these upgrades persist forever across resets:</p>
+<ul>
+<li><a href="/transcendence/black_nexus/">Black Nexus</a>: Multiplies Relic and TC yields from Leviathan trade fleets.</li>
+<li><a href="/transcendence/event_horizon/">Event Horizon</a>: Exponentially scales global storage caps.</li>
+<li><a href="/transcendence/black_obelisk/">Black Obelisk</a>: Elevates the maximum ceiling of your Solar Revolution multiplier.</li>
+<li><a href="/transcendence/black_core/">Black Core</a> &amp; <a href="/transcendence/black_library/">Black Library</a>: Massively expand Science capacity, eliminating compendium grinding.</li>
+</ul>
+<ol start="4">
+<li>The Void &amp; Antimatter Economy</li>
+</ol>
+<ul>
+<li><a href="/time/void-rift/">Void Rifts</a>: Consumes Void and Antimatter in Space to grant compounding percentage bonuses to global storage caps, enabling multi-million Unobtainium requirements.</li>
+<li><a href="/space/sunlifter/">Sunlifters</a> &amp; <strong>Containment</strong>: Harvest Antimatter during year-skips to fund <a href="/time/void-rift/">Void Rifts</a>, <a href="/transcendence/dark_nova/">Dark Novas</a>, and <a href="/buildings/ai_core/">AI Core</a> management.</li>
+</ul>
+<h3 id="the-late-game-reset-routine-chronospheres--cryochambers">The Late-Game Reset Routine: Chronospheres &amp; Cryochambers</h3>
+<p>Late-game runs often last for tens of thousands of calendar years, but when you do reset:</p>
+<ul>
+<li><a href="/buildings/chronosphere/">Chronospheres</a>: Carry forward fixed percentages of your current resource stockpiles into the new run.</li>
+<li><a href="/time/cryochamber/">Cryochambers</a> (Stasis): Preserve kitten ranks and leaders, letting you start Run $N+1$ with hundreds of seasoned kittens instantly rather than breeding them from zero.</li>
+<li><a href="/religion/apocripha/">Apocrypha</a> Bank: Massive cumulative faith earned during thousands of skipped years is sacrificed into Apocrypha, compounding your Solar Revolution multiplier into six- and seven-figure percentages.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Mid Game</title>
+      <link>/guides/mid_game/</link>
+      <pubDate>Fri, 23 Oct 2026 10:49:25 +0000</pubDate>
+      <guid>/guides/mid_game/</guid>
+      <description>&lt;p&gt;n Kittens Game, the mid-game spans the transition from initial industrialization to your first Moon landing and early Paragon farming—roughly between Navigation / Chemistry and Rocketry / Unobtainium.
+During this phase, progress shifts from manually gathering base resources to establishing production loops, balancing the power grid, and mitigating bottlenecks like Titanium, Coal, and Oil.&lt;/p&gt;
+&lt;h1 id=&#34;mid-game-milestones--arc&#34;&gt;Mid-Game Milestones &amp;amp; Arc&lt;/h1&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Phase&lt;/th&gt;
+					&lt;th&gt;Core Techs&lt;/th&gt;
+					&lt;th&gt;Key Buildings &amp;amp; Unlocks&lt;/th&gt;
+					&lt;th&gt;Primary Bottleneck&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Early Mid-Game&lt;/td&gt;
+					&lt;td&gt;Navigation, Architecture, Physics&lt;/td&gt;
+					&lt;td&gt;Trade Ships, Tradeposts, Warehouses&lt;/td&gt;
+					&lt;td&gt;Titanium, Coal, Catpower&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Industrial Core&lt;/td&gt;
+					&lt;td&gt;Chemistry, Industrialization, Mechanization&lt;/td&gt;
+					&lt;td&gt;Magnetos, Steamworks, Calciners, Factories&lt;/td&gt;
+					&lt;td&gt;Steel, Oil, Energy&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Modern Era&lt;/td&gt;
+					&lt;td&gt;Electricity, Electronics, Ecology&lt;/td&gt;
+					&lt;td&gt;Broadcast Towers, Hydro Plants, Oil Wells&lt;/td&gt;
+					&lt;td&gt;Culture caps, Energy deficits&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Late Mid-Game&lt;/td&gt;
+					&lt;td&gt;Nuclear Fission, Rocketry, Particle Physics&lt;/td&gt;
+					&lt;td&gt;Reactors, Satellites, Moon Mission, Accelerators&lt;/td&gt;
+					&lt;td&gt;Unobtainium, Alloy&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;the-three-critical-mid-game-engines&#34;&gt;The Three Critical Mid-Game Engines&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;The Magneto + Steamworks Synergy
+This is your civilization&amp;rsquo;s primary production engine:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Base Mechanic: Each Magneto grants a +2% global production bonus.&lt;/li&gt;
+&lt;li&gt;The Synergy: Each active Steamworks boosts the bonus of all Magnetos by +15%.&lt;/li&gt;
+&lt;li&gt;Formula: &lt;code&gt;Bonus = Magnetos * 0.02 * (1 + Steamworks * 0.15)&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;A setup of 10 Magnetos and 10 Steamworks multiplies every resource in your settlement by +50%, scaling Catnip, Minerals, Wood, Coal, and Iron simultaneously.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;The Trade Fleet (Zebra Titanium Automation)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Manual Titanium mining is far too slow to sustain mid-game construction.&lt;/li&gt;
+&lt;li&gt;Build hundreds of Trade Ships using Starcharts and Scaffolds.&lt;/li&gt;
+&lt;li&gt;Trade with the Zebras using Catpower and Gold. A high Trade Ship count guarantees large shipments of Titanium and Iron per trade caravan, easily funding Calciners, Magnetos, and Warehouses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Power Grid &amp;amp; Clean Energy&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Turning on &lt;a href=&#34;../buildings/magneto/&#34;&gt;Magnetos&lt;/a&gt; (-5 W each) and &lt;a href=&#34;../buildings/calciner/&#34;&gt;Calciners&lt;/a&gt; (-1 W each) without enough energy triggers brownouts, slashing efficiency across the village.&lt;/li&gt;
+&lt;li&gt;Prioritize &lt;a href=&#34;../buildings/hydro_plant/&#34;&gt;Hydro Plants&lt;/a&gt; (upgrades &lt;a href=&#34;../buildings/aqueduct/&#34;&gt;Aqueducts&lt;/a&gt;) and &lt;a href=&#34;../buildings/solar_farm/&#34;&gt;Solar Farms&lt;/a&gt; to establish at least +20 to +30 W of clean baseline power before adding heavy consumers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;essential-mid-game-workshop-upgrades&#34;&gt;Essential Mid-Game Workshop Upgrades&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pneumatic Bellows / Blast Furnace&lt;/strong&gt;: Automatically converts raw Coal and Iron into Steel via Calciners and Smelters.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../upgrade/offset_press/&#34;&gt;Offset Press&lt;/a&gt;: Upgrades Steamworks to automatically generate Manuscripts each spring, cutting the Culture bottleneck on Compendiums.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../upgrade/pumpjack/&#34;&gt;Pumpjack&lt;/a&gt; &amp;amp; &lt;a href=&#34;../techs/oil_processing/&#34;&gt;Oil Processing&lt;/a&gt;: Boosts Oil Well production and storage caps to prepare rocket fuel reserves.
+&lt;a href=&#34;../upgrade/concrete_huts/&#34;&gt;Concrete Huts&lt;/a&gt; / &lt;a href=&#34;../upgrade/concrete_barns/&#34;&gt;Concrete Barns&lt;/a&gt;: Uses &lt;a href=&#34;../craft/concrete/&#34;&gt;Concrete&lt;/a&gt; (Slabs + Steel) to break ground-level housing and storage caps.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;the-mid-game-reset-target&#34;&gt;The Mid-Game Reset Target&lt;/h1&gt;
+&lt;p&gt;If you are on your first 1–3 runs, the mid-game is your reset staging ground:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>n Kittens Game, the mid-game spans the transition from initial industrialization to your first Moon landing and early Paragon farming—roughly between Navigation / Chemistry and Rocketry / Unobtainium.
+During this phase, progress shifts from manually gathering base resources to establishing production loops, balancing the power grid, and mitigating bottlenecks like Titanium, Coal, and Oil.</p>
+<h1 id="mid-game-milestones--arc">Mid-Game Milestones &amp; Arc</h1>
+<table>
+	<thead>
+			<tr>
+					<th>Phase</th>
+					<th>Core Techs</th>
+					<th>Key Buildings &amp; Unlocks</th>
+					<th>Primary Bottleneck</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>Early Mid-Game</td>
+					<td>Navigation, Architecture, Physics</td>
+					<td>Trade Ships, Tradeposts, Warehouses</td>
+					<td>Titanium, Coal, Catpower</td>
+			</tr>
+			<tr>
+					<td>Industrial Core</td>
+					<td>Chemistry, Industrialization, Mechanization</td>
+					<td>Magnetos, Steamworks, Calciners, Factories</td>
+					<td>Steel, Oil, Energy</td>
+			</tr>
+			<tr>
+					<td>Modern Era</td>
+					<td>Electricity, Electronics, Ecology</td>
+					<td>Broadcast Towers, Hydro Plants, Oil Wells</td>
+					<td>Culture caps, Energy deficits</td>
+			</tr>
+			<tr>
+					<td>Late Mid-Game</td>
+					<td>Nuclear Fission, Rocketry, Particle Physics</td>
+					<td>Reactors, Satellites, Moon Mission, Accelerators</td>
+					<td>Unobtainium, Alloy</td>
+			</tr>
+	</tbody>
+</table>
+<h1 id="the-three-critical-mid-game-engines">The Three Critical Mid-Game Engines</h1>
+<ol>
+<li>The Magneto + Steamworks Synergy
+This is your civilization&rsquo;s primary production engine:</li>
+</ol>
+<ul>
+<li>Base Mechanic: Each Magneto grants a +2% global production bonus.</li>
+<li>The Synergy: Each active Steamworks boosts the bonus of all Magnetos by +15%.</li>
+<li>Formula: <code>Bonus = Magnetos * 0.02 * (1 + Steamworks * 0.15)</code>.</li>
+<li>A setup of 10 Magnetos and 10 Steamworks multiplies every resource in your settlement by +50%, scaling Catnip, Minerals, Wood, Coal, and Iron simultaneously.</li>
+</ul>
+<ol start="2">
+<li>The Trade Fleet (Zebra Titanium Automation)</li>
+</ol>
+<ul>
+<li>Manual Titanium mining is far too slow to sustain mid-game construction.</li>
+<li>Build hundreds of Trade Ships using Starcharts and Scaffolds.</li>
+<li>Trade with the Zebras using Catpower and Gold. A high Trade Ship count guarantees large shipments of Titanium and Iron per trade caravan, easily funding Calciners, Magnetos, and Warehouses.</li>
+</ul>
+<ol start="3">
+<li>Power Grid &amp; Clean Energy</li>
+</ol>
+<ul>
+<li>Turning on <a href="/buildings/magneto/">Magnetos</a> (-5 W each) and <a href="/buildings/calciner/">Calciners</a> (-1 W each) without enough energy triggers brownouts, slashing efficiency across the village.</li>
+<li>Prioritize <a href="/buildings/hydro_plant/">Hydro Plants</a> (upgrades <a href="/buildings/aqueduct/">Aqueducts</a>) and <a href="/buildings/solar_farm/">Solar Farms</a> to establish at least +20 to +30 W of clean baseline power before adding heavy consumers.</li>
+</ul>
+<h1 id="essential-mid-game-workshop-upgrades">Essential Mid-Game Workshop Upgrades</h1>
+<ul>
+<li><strong>Pneumatic Bellows / Blast Furnace</strong>: Automatically converts raw Coal and Iron into Steel via Calciners and Smelters.</li>
+<li><a href="/upgrade/offset_press/">Offset Press</a>: Upgrades Steamworks to automatically generate Manuscripts each spring, cutting the Culture bottleneck on Compendiums.</li>
+<li><a href="/upgrade/pumpjack/">Pumpjack</a> &amp; <a href="/techs/oil_processing/">Oil Processing</a>: Boosts Oil Well production and storage caps to prepare rocket fuel reserves.
+<a href="/upgrade/concrete_huts/">Concrete Huts</a> / <a href="/upgrade/concrete_barns/">Concrete Barns</a>: Uses <a href="/craft/concrete/">Concrete</a> (Slabs + Steel) to break ground-level housing and storage caps.</li>
+</ul>
+<h1 id="the-mid-game-reset-target">The Mid-Game Reset Target</h1>
+<p>If you are on your first 1–3 runs, the mid-game is your reset staging ground:</p>
+<ul>
+<li><strong>Target</strong>: Push housing until you hit 130–170 kittens (via Concrete Huts and early Space Stations).</li>
+<li><strong>Paragon Harvest</strong>: Earning 60–100 Paragon per reset unlocks the early Metaphysics price-ratio discounts (Golden Ratio, Divine Proportion), making subsequent runs significantly faster.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How to Accumulate Paragon</title>
+      <link>/guides/how-to-accumulate-paragon/</link>
+      <pubDate>Sun, 23 Aug 2026 09:46:53 +0000</pubDate>
+      <guid>/guides/how-to-accumulate-paragon/</guid>
+      <description>&lt;p&gt;Accumulating &lt;strong&gt;2,000 Paragon&lt;/strong&gt; in &lt;em&gt;Kittens Game&lt;/em&gt; is a massive milestone that requires a deliberate, multi-reset farming strategy (often called &amp;ldquo;paragon farming&amp;rdquo; or &amp;ldquo;speed runs&amp;rdquo;). Because Paragon is earned primarily by resetting your game with high kitten populations, you cannot achieve this in a single long run.&lt;/p&gt;
+&lt;p&gt;Here is the step-by-step roadmap to efficiently farm your way to 2,000 Paragon:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-understand-how-paragon-is-calculated&#34;&gt;1. Understand How Paragon is Calculated&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Formula:&lt;/strong&gt; You earn &lt;strong&gt;1 Paragon for every kitten over 70&lt;/strong&gt; that you have in your village when you reset.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you reset with 130 kittens, you get $130 - 70 = 60$ Paragon.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you reset with 200 kittens, you get $200 - 70 = 130$ Paragon.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Diminishing Returns:&lt;/strong&gt; The higher your kitten count goes, the harder it is to house, feed, and keep them happy. Pushing past 180–200 kittens takes exponentially more time than hitting 150. Therefore, &lt;strong&gt;fast, repeated medium-length resets&lt;/strong&gt; are much faster than one massive multi-week run.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Accumulating <strong>2,000 Paragon</strong> in <em>Kittens Game</em> is a massive milestone that requires a deliberate, multi-reset farming strategy (often called &ldquo;paragon farming&rdquo; or &ldquo;speed runs&rdquo;). Because Paragon is earned primarily by resetting your game with high kitten populations, you cannot achieve this in a single long run.</p>
+<p>Here is the step-by-step roadmap to efficiently farm your way to 2,000 Paragon:</p>
+<hr>
+<h3 id="1-understand-how-paragon-is-calculated">1. Understand How Paragon is Calculated</h3>
+<ul>
+<li>
+<p><strong>The Formula:</strong> You earn <strong>1 Paragon for every kitten over 70</strong> that you have in your village when you reset.</p>
+</li>
+<li>
+<p>If you reset with 130 kittens, you get $130 - 70 = 60$ Paragon.</p>
+</li>
+<li>
+<p>If you reset with 200 kittens, you get $200 - 70 = 130$ Paragon.</p>
+</li>
+<li>
+<p><strong>Diminishing Returns:</strong> The higher your kitten count goes, the harder it is to house, feed, and keep them happy. Pushing past 180–200 kittens takes exponentially more time than hitting 150. Therefore, <strong>fast, repeated medium-length resets</strong> are much faster than one massive multi-week run.</p>
+</li>
+</ul>
+<hr>
+<h3 id="2-the-fast-reset-strategy-the-speedrun-loop">2. The Fast-Reset Strategy (The Speedrun Loop)</h3>
+<p>To grind 2,000 Paragon efficiently, you want to set up a cycle:</p>
+<ol>
+<li><strong>Aim for the &ldquo;Sweet Spot&rdquo; Population:</strong> Don&rsquo;t try to crawl up to 250+ kittens every time. Push your village to around <strong>150 to 180 kittens</strong>. This gives you a solid <strong>80 to 110 Paragon per reset</strong> without hitting the brutal late-game wall where housing and catnip management slow you down to a crawl.</li>
+<li><strong>Hit the Tech Milestones:</strong> Run the game until you unlock <a href="/buildings/chronosphere/">Chronospheres</a> and enough Space infrastructure to comfortably bootstrap your next run.</li>
+<li><strong>Execute the Reset:</strong> Bank your Paragon, then start a fresh reset.</li>
+<li><strong>Repeat:</strong> At ~90–100 Paragon per run, you only need about <strong>20 total resets</strong> to hit your 2,000-paragon goal. With a streamlined setup, a single quick run can be pushed to the target population in just a few days or even hours of active/idle play.</li>
+</ol>
+<hr>
+<h3 id="3-key-upgrades--unlocks-to-speed-up-the-grind">3. Key Upgrades &amp; Unlocks to Speed Up the Grind</h3>
+<p>To make each farming run lightning-fast, make sure you invest in these key areas:</p>
+<ul>
+<li><a href="/buildings/chronosphere/">Chronospheres</a> (Space Tab): The most critical tool for fast resetting. When you reset, Chronospheres allow a percentage of your raw resources (like titanium, uranium, and unobtainium) and Time Crystals to carry over into the next run. The more Chronospheres you build, the less time you will spend grinding early-game resource walls on your subsequent runs.</li>
+<li><a href="/resource/burnedparagon/">Burned Paragon:</a> Once you pass a comfortable safety buffer of unburned paragon (usually around 150–200 for the production/storage multipliers), <strong>burn the rest</strong> of your paragon. Burned Paragon gives a massive, compounding production bonus (up to a cap of around 200% bonus), which makes every subsequent farming run significantly faster.</li>
+<li><a href="/guides/temporal-flux/">Temporal Flux</a> &amp; <a href="/upgrade/chronosurge/">Chronosurge:</a> Use your active temporal acceleration during your farming runs to skip past the tedious mid-game resource-gathering phases.</li>
+</ul>
+<h3 id="summary-plan">Summary Plan:</h3>
+<p>Don&rsquo;t wait for one giant run. Run a few targeted civilization cycles, push your village to ~160 kittens, bank ~90 Paragon each time while burning your excess for production speed, and let your Chronosphere carryovers turn your next run into an even faster sprint!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How to create Antimatter Storage</title>
+      <link>/guides/how-to-create-antimatter-storage/</link>
+      <pubDate>Sun, 23 Aug 2026 09:45:44 +0000</pubDate>
+      <guid>/guides/how-to-create-antimatter-storage/</guid>
+      <description>&lt;p&gt;To successfully push your antimatter storage cap to &lt;strong&gt;5,000&lt;/strong&gt; (the crucial threshold required to maximize your Relic Station output), you cannot rely on antimatter production buildings alone. You have to combine specific space structures, workshop multipliers, and your global player stats.&lt;/p&gt;
+&lt;p&gt;The optimal combination to hit and surpass a 5,000 antimatter cap relies on these core pillars:&lt;/p&gt;
+&lt;h3 id=&#34;1-the-core-building-containment-chambers&#34;&gt;1. The Core Building: &lt;a href=&#34;../space/containment-chamber/&#34;&gt;Containment Chambers&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;What they do:&lt;/strong&gt; &lt;a href=&#34;../space/containment-chamber/&#34;&gt; Containment Chambers &lt;/a&gt; are your primary space building for storing antimatter. Each base chamber provides &lt;strong&gt;+100 antimatter storage&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Math:&lt;/strong&gt; Without any modifiers, you would need 50 Containment Chambers to hit 5,000. However, because building costs scale exponentially, you want modifiers to lower how many raw chambers you actually have to build and power.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-the-stat-multiplier-paragon&#34;&gt;2. The Stat Multiplier: Paragon&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Secret Weapon:&lt;/strong&gt; Every single point of &lt;a href=&#34;../resource/paragon/&#34;&gt;Paragon&lt;/a&gt; you own gives a &lt;strong&gt;+0.1% storage bonus&lt;/strong&gt; to your empire (meaning every 1,000 Paragon adds a +100% capacity multiplier to your infrastructure).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; If you have 2,000 Paragon, your storage capacity across the board is doubled. This drastically reduces the number of expensive Containment Chambers you need to purchase. If your paragon count is low, grinding out a few resets for more paragon is often faster than trying to raw-resource your way through late-stage building cost scaling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-the-workshop-upgrade-heatsinks&#34;&gt;3. The Workshop Upgrade: Heatsinks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Upgrade:&lt;/strong&gt; Once you have access to advanced workshop technologies, make sure to pick up &lt;strong&gt;&lt;a href=&#34;../space/heatsink/&#34;&gt; Heatsinks &lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What it does:&lt;/strong&gt; It increases the storage capacity of each Containment Chamber by &lt;strong&gt;+2%&lt;/strong&gt; (at the cost of a slight 1% increase in energy consumption per chamber). Stacking this across all your chambers cuts down the total building count significantly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-managing-the-power-crunch&#34;&gt;4. Managing the Power Crunch&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Bottleneck:&lt;/strong&gt; Containment Chambers consume a massive amount of energy. To support running dozens of them alongside your Sunlifters, Space Beacons, and Entangling Stations, you will need to heavily scale your power grid.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Solution:&lt;/strong&gt; Max out your &lt;strong&gt;&lt;a href=&#34;../space/sunlifter/&#34;&gt; Sunlifters &lt;/a&gt;&lt;/strong&gt; and build &lt;strong&gt;&lt;a href=&#34;../space/tectonic/&#34;&gt; Tectonics &lt;/a&gt;&lt;/strong&gt; (from the Centaurus system) to shore up your energy grid, and selectively deactivate non-essential deep-space buildings (like extra Space Stations) if your power drops into the negative during winter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;summary-checklist-for-5000-antimatter-storage&#34;&gt;Summary Checklist for 5,000 Antimatter Storage:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Accumulate Paragon:&lt;/strong&gt; Aim for a healthy Paragon pool (ideally 1,000 to 2,000+) to passively multiplier-boost your storage ceiling.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlock &amp;amp; Buy Heatsinks:&lt;/strong&gt; Research the workshop upgrade to squeeze an extra 2% storage per chamber.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scale Containment Chambers:&lt;/strong&gt; Build out as many Containment Chambers as your energy grid and unobtainium supplies allow, letting your Paragon and Heatsinks bridge the gap to 5,000.&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <content:encoded><![CDATA[<p>To successfully push your antimatter storage cap to <strong>5,000</strong> (the crucial threshold required to maximize your Relic Station output), you cannot rely on antimatter production buildings alone. You have to combine specific space structures, workshop multipliers, and your global player stats.</p>
+<p>The optimal combination to hit and surpass a 5,000 antimatter cap relies on these core pillars:</p>
+<h3 id="1-the-core-building-containment-chambers">1. The Core Building: <a href="/space/containment-chamber/">Containment Chambers</a></h3>
+<ul>
+<li><strong>What they do:</strong> <a href="/space/containment-chamber/"> Containment Chambers </a> are your primary space building for storing antimatter. Each base chamber provides <strong>+100 antimatter storage</strong>.</li>
+<li><strong>The Math:</strong> Without any modifiers, you would need 50 Containment Chambers to hit 5,000. However, because building costs scale exponentially, you want modifiers to lower how many raw chambers you actually have to build and power.</li>
+</ul>
+<h3 id="2-the-stat-multiplier-paragon">2. The Stat Multiplier: Paragon</h3>
+<ul>
+<li><strong>The Secret Weapon:</strong> Every single point of <a href="/resource/paragon/">Paragon</a> you own gives a <strong>+0.1% storage bonus</strong> to your empire (meaning every 1,000 Paragon adds a +100% capacity multiplier to your infrastructure).</li>
+<li><strong>Why it matters:</strong> If you have 2,000 Paragon, your storage capacity across the board is doubled. This drastically reduces the number of expensive Containment Chambers you need to purchase. If your paragon count is low, grinding out a few resets for more paragon is often faster than trying to raw-resource your way through late-stage building cost scaling.</li>
+</ul>
+<h3 id="3-the-workshop-upgrade-heatsinks">3. The Workshop Upgrade: Heatsinks</h3>
+<ul>
+<li><strong>The Upgrade:</strong> Once you have access to advanced workshop technologies, make sure to pick up <strong><a href="/space/heatsink/"> Heatsinks </a></strong>.</li>
+<li><strong>What it does:</strong> It increases the storage capacity of each Containment Chamber by <strong>+2%</strong> (at the cost of a slight 1% increase in energy consumption per chamber). Stacking this across all your chambers cuts down the total building count significantly.</li>
+</ul>
+<h3 id="4-managing-the-power-crunch">4. Managing the Power Crunch</h3>
+<ul>
+<li><strong>The Bottleneck:</strong> Containment Chambers consume a massive amount of energy. To support running dozens of them alongside your Sunlifters, Space Beacons, and Entangling Stations, you will need to heavily scale your power grid.</li>
+<li><strong>The Solution:</strong> Max out your <strong><a href="/space/sunlifter/"> Sunlifters </a></strong> and build <strong><a href="/space/tectonic/"> Tectonics </a></strong> (from the Centaurus system) to shore up your energy grid, and selectively deactivate non-essential deep-space buildings (like extra Space Stations) if your power drops into the negative during winter.</li>
+</ul>
+<h3 id="summary-checklist-for-5000-antimatter-storage">Summary Checklist for 5,000 Antimatter Storage:</h3>
+<ol>
+<li><strong>Accumulate Paragon:</strong> Aim for a healthy Paragon pool (ideally 1,000 to 2,000+) to passively multiplier-boost your storage ceiling.</li>
+<li><strong>Unlock &amp; Buy Heatsinks:</strong> Research the workshop upgrade to squeeze an extra 2% storage per chamber.</li>
+<li><strong>Scale Containment Chambers:</strong> Build out as many Containment Chambers as your energy grid and unobtainium supplies allow, letting your Paragon and Heatsinks bridge the gap to 5,000.</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Paragon Farming</title>
+      <link>/guides/paragon-farming/</link>
+      <pubDate>Sun, 23 Aug 2026 09:41:24 +0000</pubDate>
+      <guid>/guides/paragon-farming/</guid>
+      <description>&lt;p&gt;When you are speed-farming Paragon, your primary goal is to bypass the early-game crawl as fast as possible so you can scale your kitten population to ~160 and reset. Because your Chronospheres carry over raw resources and Time Crystals, you won&amp;rsquo;t be starting from absolute zero, but your tech tree path still needs to be laser-focused on &lt;strong&gt;housing, population scaling, and space access&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Here is the most efficient sequence of technologies to research after a fresh paragon-farming reset:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>When you are speed-farming Paragon, your primary goal is to bypass the early-game crawl as fast as possible so you can scale your kitten population to ~160 and reset. Because your Chronospheres carry over raw resources and Time Crystals, you won&rsquo;t be starting from absolute zero, but your tech tree path still needs to be laser-focused on <strong>housing, population scaling, and space access</strong>.</p>
+<p>Here is the most efficient sequence of technologies to research after a fresh paragon-farming reset:</p>
+<hr>
+<h3 id="phase-1-securing-the-basics--resource-generation">Phase 1: Securing the Basics &amp; Resource Generation</h3>
+<ul>
+<li><strong>Agriculture &amp; Animal Husbandry:</strong> Mandatory first steps to unlock catnip fields, pastures, and basic food stability so your initial few kittens don&rsquo;t starve.</li>
+<li><strong>Mining &amp; Metalworking:</strong> Essential for getting your iron and titanium production online so you can start constructing basic buildings and workshops.</li>
+<li><a href="/techs/writing/">Writing:</a> Unlocks <a href="/buildings/temple/">Temples</a> and manuscripts. (If you picked <em>Tradition</em> earlier, this is where your manuscript costs drop).</li>
+</ul>
+<h3 id="phase-2-unlocking-population--building-expansion">Phase 2: Unlocking Population &amp; Building Expansion</h3>
+<ul>
+<li><strong>Construction &amp; Architecture:</strong> Unlocks concrete, warehouses, and better housing options to expand your storage caps so your Chronosphere carryovers don&rsquo;t instantly overflow and get wasted.</li>
+<li><a href="/techs/philosophy/">Philosophy:</a> Unlocks <a href="/buildings/temple/">Temples</a> further (for Apocrypha/Solar Revolution faith boosts) and your core government policies (like getting your happiness and production modifiers locked in).</li>
+<li><a href="/techs/civil_service/">Civil Service:</a> <strong>Crucial for farming.</strong> This unlocks your <strong>Embassies</strong> and foreign trade routes. Trade is your lifeline for bypassing tedious manual resource gathering—specifically trading with the <strong>Zebras for Titanium</strong>.</li>
+</ul>
+<h3 id="phase-3-scaling-industry--energy">Phase 3: Scaling Industry &amp; Energy</h3>
+<ul>
+<li><strong>Machinery &amp; Electronics:</strong> Unlocks steamworks, factories, and the energy grid. You need electricity to power advanced housing (Mansions) and space facilities.</li>
+<li><a href="/techs/industrialization/">Industrialization:</a> Accelerates your raw resource conversion rates.</li>
+</ul>
+<h3 id="phase-4-reaching-space--the-finish-line">Phase 4: Reaching Space &amp; the Finish Line</h3>
+<ul>
+<li>
+<p><strong>Rocketry &amp; Satellites:</strong> Your gateway to the <strong>Space</strong> tab. Once you unlock space, you can immediately start building:</p>
+</li>
+<li>
+<p><a href="/planet/lunar_outpost/">Lunar Outposts</a> and <a href="/space/space_elevator/">Space Elevators</a> to flood your economy with Unobtainium and Titanium.</p>
+</li>
+<li>
+<p><a href="/buildings/chronosphere/">Chronospheres</a> (if you have the Unobtainium from your carryover/shatters), which ensure your <em>next</em> farming run starts with even more resources.</p>
+</li>
+<li>
+<p><strong>Biology / Chemistry / Physics:</strong> Grab these as needed to support your space program and unlock high-tier workshop upgrades, but don&rsquo;t waste precious science early on researching deep, non-essential tech trees that don&rsquo;t help you push your kitten population.</p>
+</li>
+</ul>
+<hr>
+<h3 id="pro-tips-for-speed-farming-tech-progression">Pro-Tips for Speed-Farming Tech Progression</h3>
+<ol>
+<li><strong>Rely on Your Carryovers:</strong> Thanks to your Chronospheres, don&rsquo;t waste time manually gathering early-game wood and minerals if your carryover cache already paid out. Drop your wood burners, mines, and libraries immediately.</li>
+<li><strong>Skip the Fluff:</strong> When speed-farming, ignore deep scientific techs that don&rsquo;t feed directly into housing, space, or resource multipliers. You don&rsquo;t need every single late-game tech if your only goal is hitting 160 kittens and resetting.</li>
+<li><strong>Keep Festival Active:</strong> Run festivals back-to-back as soon as you have the culture and catnip to spare. It supercharges your production and kitten arrival rate, cutting hours off your farm loop.</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Creating Relics</title>
+      <link>/guides/creating-relics/</link>
+      <pubDate>Sun, 09 Aug 2026 01:09:30 +0000</pubDate>
+      <guid>/guides/creating-relics/</guid>
+      <description>&lt;h3 id=&#34;phase-1-gathering-your-first-relics-the&#34;&gt;&lt;strong&gt;Phase 1: Gathering Your First Relics (The &amp;ldquo;Type 0&amp;rdquo; Relic Engine)&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Before you can automate Relics, you have to obtain your first few manually through Leviathan trading.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Climb the Unicorn Tree:&lt;/strong&gt; Sacrifice Unicorns in the Religion tab to get Unicorn Tears. Accumulate 10,000 tears and click &amp;ldquo;Refine Tears&amp;rdquo; to create 1 &lt;strong&gt;Sorrow (Black Liquid Sorrow / BLS)&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Build Black Pyramids:&lt;/strong&gt; Purchase the &lt;a href=&#34;../metaphysics/megalomania/&#34;&gt;Megalomania&lt;/a&gt; upgrade in the Metaphysics tab (costs 10 Paragon) to unlock Ziggurat space-religion structures. Once you have refined 5 BLS, construct your first &lt;a href=&#34;../ziggurat/black_pyramid/&#34;&gt;Black Pyramid&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trade with the Elders:&lt;/strong&gt; Once you own a Black Pyramid, the &lt;strong&gt;Leviathans (Elders)&lt;/strong&gt; will begin randomly appearing in your Trade tab. Trade 5,000 Unobtainium to them; each trade has a 98% chance to give you Time Crystals and a &lt;strong&gt;5% chance to award a Relic&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Acquire 6 Relics:&lt;/strong&gt; Trade until you have secured 6 Relics. You will need 5 Relics to research &lt;a href=&#34;../techs/cryptotheology/&#34;&gt;Cryptotheology&lt;/a&gt; and 1 Relic to research &lt;a href=&#34;../techs/tachyon_theory/&#34;&gt;Tachyon Theory&lt;/a&gt; on your Science tree.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;phase-2-transitioning-to-space-and-antimatter&#34;&gt;&lt;strong&gt;Phase 2: Transitioning to Space and Antimatter&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Now you need to establish the infrastructure required to store and generate Antimatter, which acts as the power source for automated Relics.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h3 id="phase-1-gathering-your-first-relics-the"><strong>Phase 1: Gathering Your First Relics (The &ldquo;Type 0&rdquo; Relic Engine)</strong></h3>
+<p>Before you can automate Relics, you have to obtain your first few manually through Leviathan trading.</p>
+<ol>
+<li><strong>Climb the Unicorn Tree:</strong> Sacrifice Unicorns in the Religion tab to get Unicorn Tears. Accumulate 10,000 tears and click &ldquo;Refine Tears&rdquo; to create 1 <strong>Sorrow (Black Liquid Sorrow / BLS)</strong>.</li>
+<li><strong>Build Black Pyramids:</strong> Purchase the <a href="/metaphysics/megalomania/">Megalomania</a> upgrade in the Metaphysics tab (costs 10 Paragon) to unlock Ziggurat space-religion structures. Once you have refined 5 BLS, construct your first <a href="/ziggurat/black_pyramid/">Black Pyramid</a>.</li>
+<li><strong>Trade with the Elders:</strong> Once you own a Black Pyramid, the <strong>Leviathans (Elders)</strong> will begin randomly appearing in your Trade tab. Trade 5,000 Unobtainium to them; each trade has a 98% chance to give you Time Crystals and a <strong>5% chance to award a Relic</strong>.</li>
+<li><strong>Acquire 6 Relics:</strong> Trade until you have secured 6 Relics. You will need 5 Relics to research <a href="/techs/cryptotheology/">Cryptotheology</a> and 1 Relic to research <a href="/techs/tachyon_theory/">Tachyon Theory</a> on your Science tree.</li>
+</ol>
+<hr>
+<h3 id="phase-2-transitioning-to-space-and-antimatter"><strong>Phase 2: Transitioning to Space and Antimatter</strong></h3>
+<p>Now you need to establish the infrastructure required to store and generate Antimatter, which acts as the power source for automated Relics.</p>
+<ol>
+<li><strong>Research Technologies:</strong> Research <a href="/techs/cryptotheology/">Cryptotheology</a> (costs 650k Science and 5 Relics) to unlock the Cryptotheology tab and enable the Relic Station upgrade. Research <a href="/techs/tachyon_theory/">Tachyon Theory</a> (costs 750k Science, 25 Time Crystals, and 1 Relic) to unlock the Chronoforge.</li>
+<li><strong>Generate Antimatter:</strong> Build <a href="/space/sunlifter/">Sunlifters</a> in Helios. If your overall energy grid has a positive surplus, Sunlifters will automatically generate 1 Antimatter every time the game transitions to a new calendar year. You can speed this up by shattering (combusting) Time Crystals to skip years instantly.</li>
+<li><strong>Expand Antimatter Storage:</strong> Construct <a href="/space/containment-chamber/">Containment Chambers</a> (and Heatsinks) in Helios to expand your maximum Antimatter storage capacity to <strong>at least 5,000</strong>.
+<ul>
+<li><em>Note: Upgrading Space Beacons into Relic Stations requires a 5,000 Antimatter cap. If your maximum Antimatter cap falls below 5,000, your automated relic production is penalized by 0.02% for every missing unit.</em></li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="phase-3-automated-production-the"><strong>Phase 3: Automated Production (The &ldquo;Type 1&rdquo; Relic Engine)</strong></h3>
+<p>At this stage, you transition away from trading for Relics and set up an automated production engine.</p>
+<ol>
+<li><strong>Unlock Relic Stations:</strong> Once your Antimatter cap is 5,000 and you have 100 Eludium, purchase the <a href="/upgrade/relic_station/">Relic Station</a> upgrade in your Workshop. This upgrades your <a href="/space/space-beacon/">Space Beacons</a> to automatically generate Relics.</li>
+<li><strong>Deploy Space Beacons:</strong> Build and max out your <a href="/space/space-beacon/">Space Beacons</a> in Kairo. Each Beacon will now automatically generate <strong>0.01 relics per day</strong>.</li>
+<li><strong>Amplify Your Output:</strong> Boost your daily Relic production with Cryptotheology upgrades:
+<ul>
+<li><a href="/transcendence/black_nexus/">Black Nexus:</a> Costs 5,000 Relics. Each Black Nexus you buy increases your Relic Station output by <strong>+10% per Black Pyramid</strong> you own. It also increases the yield when you manually refine Time Crystals into Relics.</li>
+<li><a href="/transcendence/black_core/">Black Cores:</a> Costs 10,000 Relics. These increase your maximum BLS capacity, allowing you to hoard more Sorrow and build more Black Pyramids to multiply your Black Nexus bonus.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="phase-4-quantum-hash-scaling-and-blackchain"><strong>Phase 4: Quantum Hash Scaling and Blackchain</strong></h3>
+<p>The final stretch uses quantum computing to boost your Relic Stations even further and reach the 4,096 threshold.</p>
+<ol>
+<li><strong>Research Quantum Cryptography:</strong> Once you accumulate 1,024 Relics, research <a href="/techs/quantum_cryptography/">Quantum Cryptography</a> (costs 1.25M Science and 1,024 Relics). This unlocks <a href="/space/entanglement-station/">Entanglement Stations</a> and <a href="/buildings/ai_core/">AI Cores</a>.</li>
+<li><strong>Farm Hashrate Levels:</strong> AI Cores generate Gigaflops, and Entanglement Stations consume Gigaflops to produce <strong>Hashes</strong>. Each Hashrate Level provides a multiplicative <strong>+25% bonus to your automated Space Beacon relic production</strong>.</li>
+<li><strong>Unlock Blackchain:</strong> Accumulate Relics from your boosted Space Beacons (and time-skipping) until you have <strong>4,096 Relics</strong> and 5,000,000 Science. Research <a href="/techs/blackchain/">Blackchain</a> to permanently unlock the <a href="/resource/black_coin/">Blackcoin</a> market.</li>
+</ol>
+<hr>
+<p>⚖️ I can help you map out the perfect ratio of AI Cores to Entanglement Stations so you can generate Hashes at maximum speed without accidentally triggering the AI Apocalypse.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>What is the fastest way to farm Time Crystals?</title>
+      <link>/guides/what-is-the-fastest-way-to-farm-time-crystals/</link>
+      <pubDate>Tue, 14 Apr 2026 22:19:37 +0000</pubDate>
+      <guid>/guides/what-is-the-fastest-way-to-farm-time-crystals/</guid>
+      <description>&lt;p&gt;The absolute fastest way to farm Time Crystals in the late game is through &lt;strong&gt;mass trading Unobtainium with the Leviathans&lt;/strong&gt;, which is roughly 30 times faster than waiting for Alicorns to sacrifice.&lt;/p&gt;
+&lt;p&gt;To achieve this, you need to maximize your Unobtainium production and your trade efficiency, eventually creating a self-sustaining &lt;strong&gt;&amp;ldquo;Shatter Engine&amp;rdquo;&lt;/strong&gt;. Here is the step-by-step strategy:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Maximize Unobtainium Production&lt;/strong&gt;
+Since each trade with the Leviathans costs 5,000 Unobtainium, your base production must be astronomically high:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The absolute fastest way to farm Time Crystals in the late game is through <strong>mass trading Unobtainium with the Leviathans</strong>, which is roughly 30 times faster than waiting for Alicorns to sacrifice.</p>
+<p>To achieve this, you need to maximize your Unobtainium production and your trade efficiency, eventually creating a self-sustaining <strong>&ldquo;Shatter Engine&rdquo;</strong>. Here is the step-by-step strategy:</p>
+<p><strong>1. Maximize Unobtainium Production</strong>
+Since each trade with the Leviathans costs 5,000 Unobtainium, your base production must be astronomically high:</p>
+<ul>
+<li><strong>Space Structures:</strong> Max out Lunar Outposts, Space Elevators, Orbital Arrays, and Factories.</li>
+<li><strong>Upgrades and Policies:</strong> Research the <em>Factory Logistics</em> workshop upgrade, and enact the <em>Full Industrialization</em>, <em>Cosmological Libertarianism</em>, and <em>Necrocracy</em> policies.</li>
+<li><a href="/guides/festivals/">Festivals:</a> Maximize Breweries and ensure festivals are running non-stop.</li>
+<li><strong>The <a href="/cycles/redmoon_cycle/"> Redmoon Cycle </a>:</strong> With the <em>Numerology</em> and <em>Numeromancy</em> metaphysics upgrades, the Redmoon cycle grants a massive multiplier to Unobtainium production. Use Time Crystals to skip right to the Redmoon cycle and spend the majority of your time there.</li>
+</ul>
+<p><strong>2. Maximize Time Crystals per Trade</strong>
+You want to ensure that every 5,000 Unobtainium traded yields as many Time Crystals as possible:</p>
+<ul>
+<li><strong>Leviathan Energy:</strong> Feed Necrocorns to the Leviathans (Elders) whenever possible. Each point of energy increases the resources they give you by 2%.</li>
+<li><a href="/buildings/tradepost/">Tradeposts:</a> Max out your Tradeposts, as each one adds a +1.5% bonus to your trades.</li>
+<li><strong>Leader:</strong> Assign a <strong>Merchant</strong> leader, which significantly boosts trade efficiency, especially if you have a lot of burned paragon.</li>
+</ul>
+<p><strong>3. Build a &ldquo;Shatter Engine&rdquo;</strong>
+Once your base Unobtainium production reaches hundreds per second, you can transition to a Shatter Engine:</p>
+<ul>
+<li>Purchase levels of <a href="/upgrade/resource-retrieval/">Resource Retrieval</a> (1,000 TCs each). Each level instantly grants you 1% of your yearly resource production every time you shatter a Time Crystal to skip a year.</li>
+<li>Combine this with <a href="/time/chrono-furnace/">Chronofurnaces</a> (to manage the heat generated from shattering time) and <a href="/transcendence/blazar/">Blazars</a> (to improve Resource Retrieval effectiveness).</li>
+<li><strong>The Infinite Loop:</strong> With roughly 7 levels of Resource Retrieval and high base Unobtainium production, shattering a single Time Crystal will instantly yield enough Unobtainium to trade back to the Leviathans for <em>multiple</em> Time Crystals.</li>
+</ul>
+<p>Once this break-even point is reached, you can rapidly shatter crystals, trade the retrieved Unobtainium, and farm millions of Time Crystals without ever running out.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tempus Fugit</title>
+      <link>/guides/tempus_fugit/</link>
+      <pubDate>Tue, 14 Apr 2026 22:14:13 +0000</pubDate>
+      <guid>/guides/tempus_fugit/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../guides/tempus_fugit/&#34;&gt;Tempus Fugit&lt;/a&gt; is a powerful toggleable time-manipulation ability that &lt;strong&gt;accelerates calendar time and increases your overall production tick rate by 50%&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Here are the core mechanics and strategies regarding its use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Activation and Upkeep:&lt;/strong&gt; Turning on the ability costs 1 Temporal Flux, and it &lt;strong&gt;aggressively consumes 5 Temporal Flux for every real-time second it is active&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Production Multiplier:&lt;/strong&gt; The 50% boost applies globally to your resource generation, acting as a massive multiplier for late-game resources like Unobtainium.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Endgame Paragon Farming:&lt;/strong&gt; Tempus Fugit is highly valued in the deep endgame for rapid Paragon grinding. Players will activate it alongside thousands of Breweries and stacked Festivals to make kittens arrive incredibly fast, allowing them to rapidly cap their population and reset the game for Paragon.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strategic Limitations:&lt;/strong&gt; Importantly, Tempus Fugit &lt;strong&gt;does &lt;em&gt;not&lt;/em&gt; affect the amount of resources you receive from Resource Retrieval&lt;/strong&gt; when shattering Time Crystals. Additionally, if you are playing actively without automation (especially in Iron Will mode), accelerating calendar time gives you less real-world time to manually click on fleeting astronomical events.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sustainment Challenges:&lt;/strong&gt; Because it drains flux so quickly, maintaining 100% uptime on Tempus Fugit is difficult and often impractical. While you can purchase Temporal Batteries to stockpile a larger reserve of flux while offline, trying to permanently sustain Tempus Fugit using the &lt;em&gt;Chronosurge&lt;/em&gt; upgrade is often considered uneconomical due to the massive amounts of Void required to unlock and power it.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/guides/tempus_fugit/">Tempus Fugit</a> is a powerful toggleable time-manipulation ability that <strong>accelerates calendar time and increases your overall production tick rate by 50%</strong>.</p>
+<p>Here are the core mechanics and strategies regarding its use:</p>
+<ul>
+<li><strong>Activation and Upkeep:</strong> Turning on the ability costs 1 Temporal Flux, and it <strong>aggressively consumes 5 Temporal Flux for every real-time second it is active</strong>.</li>
+<li><strong>Production Multiplier:</strong> The 50% boost applies globally to your resource generation, acting as a massive multiplier for late-game resources like Unobtainium.</li>
+<li><strong>Endgame Paragon Farming:</strong> Tempus Fugit is highly valued in the deep endgame for rapid Paragon grinding. Players will activate it alongside thousands of Breweries and stacked Festivals to make kittens arrive incredibly fast, allowing them to rapidly cap their population and reset the game for Paragon.</li>
+<li><strong>Strategic Limitations:</strong> Importantly, Tempus Fugit <strong>does <em>not</em> affect the amount of resources you receive from Resource Retrieval</strong> when shattering Time Crystals. Additionally, if you are playing actively without automation (especially in Iron Will mode), accelerating calendar time gives you less real-world time to manually click on fleeting astronomical events.</li>
+<li><strong>Sustainment Challenges:</strong> Because it drains flux so quickly, maintaining 100% uptime on Tempus Fugit is difficult and often impractical. While you can purchase Temporal Batteries to stockpile a larger reserve of flux while offline, trying to permanently sustain Tempus Fugit using the <em>Chronosurge</em> upgrade is often considered uneconomical due to the massive amounts of Void required to unlock and power it.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Dark Future</title>
+      <link>/guides/dark-future/</link>
+      <pubDate>Wed, 08 Apr 2026 09:51:51 +0000</pubDate>
+      <guid>/guides/dark-future/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../guides/dark-future/&#34;&gt;Dark Future&lt;/a&gt; is a late-game phase that officially begins when your in-game calendar reaches &lt;strong&gt;year 40,000&lt;/strong&gt;. Advancing into this era introduces a mix of temporal penalties and significant boosts to your civilization&amp;rsquo;s capabilities.&lt;/p&gt;
+&lt;h3 id=&#34;trigger-condition&#34;&gt;&lt;strong&gt;Trigger Condition&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Requirement:&lt;/strong&gt; You enter the Dark Future automatically when the game year reaches &lt;strong&gt;40,000&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time Skips:&lt;/strong&gt; This includes years gained artificially by shattering Time Crystals using the Chronoforge. You do not need to wait 40,000 real-time years; advanced players reach this state by skipping thousands of years instantly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The Temporal Penalty&lt;/strong&gt;
+The primary negative effect of the Dark Future is that the cost to advance time (using &lt;a href=&#34;../resource/time_crystals/&#34;&gt;Time Crystals&lt;/a&gt;) will progressively increase the further you venture into the timeline. To mitigate this, you can purchase the &lt;a href=&#34;../upgrade/time-impedance/&#34;&gt;Time Impedance&lt;/a&gt; upgrade, which suppresses the Dark Future penalty by &lt;strong&gt;1,000 years per level&lt;/strong&gt;. You can further enhance this suppression by building &lt;a href=&#34;../time/temporal-accelerator/&#34;&gt;Temporal Accelerators&lt;/a&gt;. Fortunately, the rising cost penalty is considered relatively minimal by the community and shouldn&amp;rsquo;t require excessive worrying or over-investment.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/guides/dark-future/">Dark Future</a> is a late-game phase that officially begins when your in-game calendar reaches <strong>year 40,000</strong>. Advancing into this era introduces a mix of temporal penalties and significant boosts to your civilization&rsquo;s capabilities.</p>
+<h3 id="trigger-condition"><strong>Trigger Condition</strong></h3>
+<ul>
+<li><strong>Requirement:</strong> You enter the Dark Future automatically when the game year reaches <strong>40,000</strong>.</li>
+<li><strong>Time Skips:</strong> This includes years gained artificially by shattering Time Crystals using the Chronoforge. You do not need to wait 40,000 real-time years; advanced players reach this state by skipping thousands of years instantly.</li>
+</ul>
+<p><strong>The Temporal Penalty</strong>
+The primary negative effect of the Dark Future is that the cost to advance time (using <a href="/resource/time_crystals/">Time Crystals</a>) will progressively increase the further you venture into the timeline. To mitigate this, you can purchase the <a href="/upgrade/time-impedance/">Time Impedance</a> upgrade, which suppresses the Dark Future penalty by <strong>1,000 years per level</strong>. You can further enhance this suppression by building <a href="/time/temporal-accelerator/">Temporal Accelerators</a>. Fortunately, the rising cost penalty is considered relatively minimal by the community and shouldn&rsquo;t require excessive worrying or over-investment.</p>
+<p><strong>The Benefits</strong>
+This is the primary strategic reason players aim for the Dark Future.</p>
+<ul>
+<li>
+<p><strong>Storage Boost:</strong> Before the Dark Future, <a href="/resource/burnedparagon/">Burned Paragon</a> provides a relatively small storage bonus (0.05% per point). Once Dark Future activates, this bonus quadruples to <strong>0.2% per point</strong>.</p>
+</li>
+<li>
+<p><strong>Endgame Scaling:</strong> This massive boost to global storage capacity allows you to hold significantly more Unobtainium, which is required to build the <strong>70–100 Chronospheres</strong> needed for infinite resource loops.</p>
+</li>
+<li>
+<p><strong>HR Harvesters:</strong> The energy production of your HR Harvesters receives a continuous, infinitely scaling boost for <strong>every year that passes after 40,000</strong>. Importantly, this includes the thousands of years you actively skip by shattering Time Crystals.</p>
+</li>
+</ul>
+<h3 id="strategic-summary"><strong>Strategic Summary</strong></h3>
+<p>Reaching the Dark Future is a goal for &ldquo;deep endgame&rdquo; runs. Players purposefully shatter Time Crystals to reach year 40,000 to activate the <strong>Burned Paragon bonus</strong>, which provides the storage necessary to buy more <a href="/buildings/chronosphere/">Chronospheres</a> and <a href="/transcendence/event_horizon/">Event Horizons</a>. They then manage the rising costs by purchasing <a href="/upgrade/time-impedance/">Time Impedance</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Temporal Flux</title>
+      <link>/guides/temporal-flux/</link>
+      <pubDate>Tue, 07 Apr 2026 22:42:05 +0000</pubDate>
+      <guid>/guides/temporal-flux/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../guides/temporal-flux/&#34;&gt;Temporal Flux&lt;/a&gt; is an uncommon endgame resource used for various time-related experiments and technologies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to Acquire Temporal Flux:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Offline Generation:&lt;/strong&gt; It is passively earned at a rate of 5 units per minute while the game is not active (i.e., when it is closed or paused).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chronosurge Upgrade:&lt;/strong&gt; Once you purchase the Chronosurge upgrade, each of your Chronospheres will automatically generate 1 temporal flux every game year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Uses:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../guides/tempus_fugit/&#34;&gt;Tempus Fugit:&lt;/a&gt; You can spend temporal flux to activate Tempus Fugit, a state which accelerates the game&amp;rsquo;s tick rate and calendar time speed by 50%, significantly boosting your resource gain. This consumes 5 temporal flux per second while activated.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fixing Cryochambers:&lt;/strong&gt; Repairing a Used Cryochamber to bring kittens into your next run costs 3,000 temporal flux, alongside 100 Time Crystals and 500 Void.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time Upgrades:&lt;/strong&gt; It is a required currency to purchase advanced time-manipulation upgrades, including &lt;a href=&#34;../time/chrono_control/&#34;&gt;Chronocontrol&lt;/a&gt; (costs 3,000 flux) and &lt;a href=&#34;../upgrade/chronosurge/&#34;&gt;Chronosurge&lt;/a&gt; (costs 6,500 flux).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Game Resets:&lt;/strong&gt;
+Conveniently, any accumulated temporal flux you have is automatically saved and carries over when you reset the game.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/guides/temporal-flux/">Temporal Flux</a> is an uncommon endgame resource used for various time-related experiments and technologies.</p>
+<p><strong>How to Acquire Temporal Flux:</strong></p>
+<ul>
+<li><strong>Offline Generation:</strong> It is passively earned at a rate of 5 units per minute while the game is not active (i.e., when it is closed or paused).</li>
+<li><strong>Chronosurge Upgrade:</strong> Once you purchase the Chronosurge upgrade, each of your Chronospheres will automatically generate 1 temporal flux every game year.</li>
+</ul>
+<p><strong>Key Uses:</strong></p>
+<ul>
+<li><a href="/guides/tempus_fugit/">Tempus Fugit:</a> You can spend temporal flux to activate Tempus Fugit, a state which accelerates the game&rsquo;s tick rate and calendar time speed by 50%, significantly boosting your resource gain. This consumes 5 temporal flux per second while activated.</li>
+<li><strong>Fixing Cryochambers:</strong> Repairing a Used Cryochamber to bring kittens into your next run costs 3,000 temporal flux, alongside 100 Time Crystals and 500 Void.</li>
+<li><strong>Time Upgrades:</strong> It is a required currency to purchase advanced time-manipulation upgrades, including <a href="/time/chrono_control/">Chronocontrol</a> (costs 3,000 flux) and <a href="/upgrade/chronosurge/">Chronosurge</a> (costs 6,500 flux).</li>
+</ul>
+<p><strong>Game Resets:</strong>
+Conveniently, any accumulated temporal flux you have is automatically saved and carries over when you reset the game.</p>
+<h2 id="storage">Storage</h2>
+<p>In Kittens Game, the maximum capacity for <a href="/guides/temporal-flux/">Temporal Flux</a> is determined by a specific time-related upgrade.</p>
+<h3 id="the-primary-method-temporal-battery"><strong>The Primary Method: Temporal Battery</strong></h3>
+<p>To increase your maximum temporal flux capacity, you must purchase the <a href="/time/temporal-battery/">Temporal Battery</a> upgrade:</p>
+<ul>
+<li><strong>Where to find it:</strong> It is located under the <strong>Time</strong> tab, which is unlocked after researching Calendar.</li>
+<li><strong>The Cost:</strong> Constructing your first Temporal Battery costs <strong>5 Time Crystals</strong>.</li>
+<li><strong>The Price Ratio:</strong> It has a price ratio of <strong>1.25</strong>, meaning each subsequent level will cost 25% more Time Crystals than the last.</li>
+<li><strong>The Effect:</strong> Every level of Temporal Battery you purchase permanently increases your maximum temporal flux capacity by <strong>+25%</strong>.</li>
+</ul>
+<hr>
+<h3 id="optimising-your-temporal-flux-generation"><strong>Optimising Your Temporal Flux Generation</strong></h3>
+<p>While you are building up your capacity, you can also improve how quickly you accumulate and gather temporal flux:</p>
+<ol>
+<li><strong>Offline Accumulation (Base Rate):</strong> Temporal flux is earned passively at a rate of <strong>5 units per minute</strong> while the game is either paused or completely closed.</li>
+<li><a href="/time/temporal-accelerator/">Temporal Accelerators:</a> This Time tab upgrade (costing 10 Time Crystals and 1,000 Relics) increases the production of temporal flux generated via redshift (offline progression) by <strong>5%</strong>.</li>
+<li><strong>Chronosurge (Active Gathering):</strong> Once you can afford this Workshop upgrade (which requires 1 Chronocontrol, 25 Time Crystals, 100k Unobtainium, 750 Void, and 6,500 Temporal Flux), your <a href="/buildings/chronosphere/">Chronospheres</a> will begin actively generating <strong>1 temporal flux per year</strong> on the calendar, acting similarly to Sunlifters.</li>
+</ol>
+<hr>
+<h3 id="why-is-high-capacity-important"><strong>Why Is High Capacity Important?</strong></h3>
+<p>Maximising your temporal flux capacity is crucial for two major late-game systems:</p>
+<ul>
+<li><a href="/guides/tempus_fugit/">Tempus Fugit:</a> Activating this accelerates the game&rsquo;s tick rate and calendar speed by 50%. However, it consumes a heavy <strong>5 temporal flux per second</strong> while active, meaning a low cap will quickly drain your reserve.</li>
+<li><strong>Fixing Cryochambers:</strong> If you are using Cryochambers to carry over kittens across resets, repairing a used chamber back to operating condition requires a massive flat cost of <strong>3,000 temporal flux</strong> (along with 100 Time Crystals and 500 Void). Having a high maximum capacity is mandatory to store enough flux to repair multiple chambers at once.</li>
+</ul>
+<p>🔄 We can explore how to set up the endgame &ldquo;Cryo Engine&rdquo; to utilise this temporal flux and farm millions of Paragon per day through rapid resets.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>What buildings increase max science</title>
+      <link>/guides/what-buildings-increase-max-science/</link>
+      <pubDate>Tue, 07 Apr 2026 22:34:54 +0000</pubDate>
+      <guid>/guides/what-buildings-increase-max-science/</guid>
+      <description>&lt;p&gt;Several buildings and structures increase your maximum science capacity, ranging from early-game terrestrial buildings to late-game space structures.&lt;/p&gt;
+&lt;h3 id=&#34;standard-terrestrial-buildings&#34;&gt;&lt;strong&gt;Standard Terrestrial Buildings&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Libraries:&lt;/strong&gt; The first science building, providing &lt;strong&gt;+250 Max Science&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Academies:&lt;/strong&gt; Provides &lt;strong&gt;+500 Max Science&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Observatories:&lt;/strong&gt; Provides &lt;strong&gt;+1,000 Max Science&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../buildings/bio_lab/&#34;&gt;Bio Labs:&lt;/a&gt; Provides &lt;strong&gt;+1,500 Max Science&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../buildings/data_center/&#34;&gt;Data Centers:&lt;/a&gt; An upgraded version of the Library that provides &lt;strong&gt;+750 Max Science&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buildings-requiring-specific-upgrades&#34;&gt;&lt;strong&gt;Buildings Requiring Specific Upgrades&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../buildings/temple/&#34;&gt;Temples:&lt;/a&gt; Initially provide no science, but after purchasing the &lt;a href=&#34;../religion/scholasticism/&#34;&gt;Scholasticism&lt;/a&gt; religion upgrade, each Temple provides &lt;strong&gt;+500 Max Science&lt;/strong&gt;. Each additional level of Scholasticism purchased via Transcendence increases this by an extra &lt;strong&gt;+100&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../buildings/accelerator/&#34;&gt;Accelerators:&lt;/a&gt; Normally used for uranium, but once the &lt;a href=&#34;../upgrade/lhc/&#34;&gt;LHC&lt;/a&gt; (Large Hadron Collider) workshop upgrade is researched, each Accelerator provides &lt;strong&gt;+2,500 Max Science&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;space-structures&#34;&gt;&lt;strong&gt;Space Structures&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../space/research-vessel/&#34;&gt;Research Vessels:&lt;/a&gt; Found on the Piscine mission, each provides &lt;strong&gt;+10,000 Max Science&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../space/space-beacon/&#34;&gt;Space Beacons:&lt;/a&gt; Found on the Kairo mission, each provides a massive &lt;strong&gt;+25,000 Max Science&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;craftable-resources&#34;&gt;&lt;strong&gt;Craftable Resources&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/compendium/&#34;&gt;Compendiums:&lt;/a&gt; While not a building, crafting this resource is vital for science storage. Each Compendium adds &lt;strong&gt;+10 to your Max Science&lt;/strong&gt;. This bonus is capped at 100% of your maximum science from buildings (or 1000% if playing in Iron Will mode).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;important-scaling-upgrades&#34;&gt;&lt;strong&gt;Important Scaling Upgrades&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Your base maximum science can be multiplied and scaled through several Workshop and Space upgrades:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Several buildings and structures increase your maximum science capacity, ranging from early-game terrestrial buildings to late-game space structures.</p>
+<h3 id="standard-terrestrial-buildings"><strong>Standard Terrestrial Buildings</strong></h3>
+<ul>
+<li><strong>Libraries:</strong> The first science building, providing <strong>+250 Max Science</strong>.</li>
+<li><strong>Academies:</strong> Provides <strong>+500 Max Science</strong>.</li>
+<li><strong>Observatories:</strong> Provides <strong>+1,000 Max Science</strong>.</li>
+<li><a href="/buildings/bio_lab/">Bio Labs:</a> Provides <strong>+1,500 Max Science</strong>.</li>
+<li><a href="/buildings/data_center/">Data Centers:</a> An upgraded version of the Library that provides <strong>+750 Max Science</strong>.</li>
+</ul>
+<h3 id="buildings-requiring-specific-upgrades"><strong>Buildings Requiring Specific Upgrades</strong></h3>
+<ul>
+<li><a href="/buildings/temple/">Temples:</a> Initially provide no science, but after purchasing the <a href="/religion/scholasticism/">Scholasticism</a> religion upgrade, each Temple provides <strong>+500 Max Science</strong>. Each additional level of Scholasticism purchased via Transcendence increases this by an extra <strong>+100</strong>.</li>
+<li><a href="/buildings/accelerator/">Accelerators:</a> Normally used for uranium, but once the <a href="/upgrade/lhc/">LHC</a> (Large Hadron Collider) workshop upgrade is researched, each Accelerator provides <strong>+2,500 Max Science</strong>.</li>
+</ul>
+<h3 id="space-structures"><strong>Space Structures</strong></h3>
+<ul>
+<li><a href="/space/research-vessel/">Research Vessels:</a> Found on the Piscine mission, each provides <strong>+10,000 Max Science</strong>.</li>
+<li><a href="/space/space-beacon/">Space Beacons:</a> Found on the Kairo mission, each provides a massive <strong>+25,000 Max Science</strong>.</li>
+</ul>
+<h3 id="craftable-resources"><strong>Craftable Resources</strong></h3>
+<ul>
+<li><a href="/resource/compendium/">Compendiums:</a> While not a building, crafting this resource is vital for science storage. Each Compendium adds <strong>+10 to your Max Science</strong>. This bonus is capped at 100% of your maximum science from buildings (or 1000% if playing in Iron Will mode).</li>
+</ul>
+<h3 id="important-scaling-upgrades"><strong>Important Scaling Upgrades</strong></h3>
+<p>Your base maximum science can be multiplied and scaled through several Workshop and Space upgrades:</p>
+<ul>
+<li><a href="/upgrade/astrolabe/">Astrolabe:</a> Increases the capacity of Observatories by 50% (to +1,500).</li>
+<li><a href="/techs/satellites/">Satellites:</a> Each active satellite in space increases the science cap of your Observatories by 5%.</li>
+<li><strong>Reflectors (Titanium, Unobtainium, Eludium):</strong> These upgrades allow your Observatories to boost the effectiveness of your Libraries and Data Centers.</li>
+<li><strong>Uplink &amp; Starlink:</strong> These upgrades create a synergy where your Bio Labs and Data Centers provide percentage-based max science boosts to each other.</li>
+<li><strong>Antimatter &amp; Void Reactors:</strong> These endgame upgrades massively multiply the science capacity of your Space Beacons and Research Vessels by up to <strong>+400%</strong>.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Pollution</title>
+      <link>/guides/pollution/</link>
+      <pubDate>Fri, 20 Mar 2026 11:13:50 +0000</pubDate>
+      <guid>/guides/pollution/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Kittens Game&lt;/em&gt;, &lt;a href=&#34;../guides/pollution/&#34;&gt;pollution&lt;/a&gt; (represented as atmospheric CO2) is a late-game mechanic that negatively impacts your civilization&amp;rsquo;s productivity and growth as you industrialize. While its effects are generally negligible up to approximately &lt;strong&gt;1,000 ppm&lt;/strong&gt;, higher levels progressively harm your village in several ways.&lt;/p&gt;
+&lt;h3 id=&#34;sources-of-pollution&#34;&gt;&lt;strong&gt;Sources of Pollution&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Pollution is primarily generated by industrial buildings and certain environmental policies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Industrial Buildings:&lt;/strong&gt; Mines, Smelters, Steamworks, Calciners, Quarries, Magnetos, Oil Wells, Bio Labs, and Factories all contribute to pollution.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Policies:&lt;/strong&gt; Choosing production-heavy policies like &lt;a href=&#34;../policy/strip_mining/&#34;&gt;Strip Mining&lt;/a&gt;, &lt;a href=&#34;../policy/clear_cutting/&#34;&gt;Clear Cutting&lt;/a&gt;, &lt;a href=&#34;../policy/full_industrialization/&#34;&gt;Full Industrialization&lt;/a&gt;, or &lt;a href=&#34;../policy/open_woodlands/&#34;&gt;Open Woodlands&lt;/a&gt; each adds a &lt;strong&gt;+5% increase&lt;/strong&gt; to global pollution.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenges:&lt;/strong&gt; In the &lt;strong&gt;Post Apocalypse&lt;/strong&gt; challenge, you start in a broken timeline where pollution begins at a staggering &lt;strong&gt;10 million ppm&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;negative-effects&#34;&gt;&lt;strong&gt;Negative Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;As pollution levels rise, they trigger a series of cascading penalties:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In <em>Kittens Game</em>, <a href="/guides/pollution/">pollution</a> (represented as atmospheric CO2) is a late-game mechanic that negatively impacts your civilization&rsquo;s productivity and growth as you industrialize. While its effects are generally negligible up to approximately <strong>1,000 ppm</strong>, higher levels progressively harm your village in several ways.</p>
+<h3 id="sources-of-pollution"><strong>Sources of Pollution</strong></h3>
+<p>Pollution is primarily generated by industrial buildings and certain environmental policies:</p>
+<ul>
+<li><strong>Industrial Buildings:</strong> Mines, Smelters, Steamworks, Calciners, Quarries, Magnetos, Oil Wells, Bio Labs, and Factories all contribute to pollution.</li>
+<li><strong>Policies:</strong> Choosing production-heavy policies like <a href="/policy/strip_mining/">Strip Mining</a>, <a href="/policy/clear_cutting/">Clear Cutting</a>, <a href="/policy/full_industrialization/">Full Industrialization</a>, or <a href="/policy/open_woodlands/">Open Woodlands</a> each adds a <strong>+5% increase</strong> to global pollution.</li>
+<li><strong>Challenges:</strong> In the <strong>Post Apocalypse</strong> challenge, you start in a broken timeline where pollution begins at a staggering <strong>10 million ppm</strong>.</li>
+</ul>
+<h3 id="negative-effects"><strong>Negative Effects</strong></h3>
+<p>As pollution levels rise, they trigger a series of cascading penalties:</p>
+<ul>
+<li><strong>Production Hits:</strong> High levels of pollution directly <strong>reduce catnip production</strong>. Eventually, it also reduces the <strong>Solar Revolution bonus</strong> for certain resources.</li>
+<li><strong>Societal Impact:</strong> Pollution <strong>decreases kitten happiness</strong> and slows down the <strong>kitten arrival speed</strong>.</li>
+<li><strong>Economic Costs:</strong> In extreme cases (like the Post Apocalypse challenge), trade costs for gold and catpower increase, and Catnip Fields may even begin to cost Unobtainium.</li>
+</ul>
+<h3 id="mitigation-and-management"><strong>Mitigation and Management</strong></h3>
+<p>While some pollution is considered inevitable, it can be managed through the following methods:</p>
+<ul>
+<li><strong>Environmental Policies:</strong>
+<ul>
+<li><a href="/policy/environmentalism/">Environmentalism</a>, <a href="/policy/sustainability/">Sustainability</a>, and <a href="/policy/conservation/">Conservation</a> each provide a <strong>-5% reduction</strong> to global pollution.</li>
+<li><strong>Lizard Relations: Ecologists</strong> can be enacted to further reduce pollution by 5%.</li>
+</ul>
+</li>
+<li><a href="/upgrade/carbon_sequestration/">Carbon Sequestration:</a> This high-tier Workshop upgrade (unlocked via Ecology) allows your <strong>Factories</strong> to capture pollution instead of producing it. When enabled, each Factory consumes 4 Watts of energy but reduces pollution by <strong>2 points per tick</strong>.</li>
+<li><strong>Clean Energy:</strong> Utilizing environmentally friendly energy sources helps mitigate the need for polluting structures.</li>
+<li><strong>Operational Control:</strong> You can simply <strong>turn off polluting buildings</strong> to halt their contribution to CO2 levels.</li>
+</ul>
+<p>For players who want to see the specific impact, typing <code>game.detailedPollutionInfo=true</code> into the browser console will display more detailed pollution numbers on the Science tab.</p>
+<h3 id="building-impact-on-pollution">Building Impact on Pollution</h3>
+<p>Pollution per Tick for</p>
+<ul>
+<li>Calciner: 1</li>
+<li>Mine: 0.08</li>
+<li>Magneto: 5</li>
+<li>Factory: -2 if automation is enabled</li>
+<li>OilWell : 1 if automation is enabled, else 0</li>
+<li>Quarry : 0.25</li>
+<li>Smelter: 0.15</li>
+<li>Steamworks: 1</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Burn Paragon</title>
+      <link>/guides/burn_paragon/</link>
+      <pubDate>Mon, 16 Mar 2026 20:39:48 +0000</pubDate>
+      <guid>/guides/burn_paragon/</guid>
+      <description>&lt;p&gt;In Kittens Game, &lt;strong&gt;Burning Paragon&lt;/strong&gt; is a way to squeeze more efficiency out of your prestige bonuses. It converts your &amp;ldquo;live&amp;rdquo; Paragon into &lt;a href=&#34;../resource/burnedparagon/&#34;&gt;Burned Paragon&lt;/a&gt;, which exists in a separate pool and stacks with your regular Paragon.&lt;/p&gt;
+&lt;p&gt;Since you are currently struggling with &lt;strong&gt;Faith storage&lt;/strong&gt; for Sunspires, understanding how burning affects your storage is critical.&lt;/p&gt;
+&lt;h3 id=&#34;1-the-immediate-trade-off&#34;&gt;1. The Immediate Trade-off&lt;/h3&gt;
+&lt;p&gt;When you burn Paragon, the effect on your current run is usually &lt;strong&gt;negative&lt;/strong&gt; unless you are very far into the game:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In Kittens Game, <strong>Burning Paragon</strong> is a way to squeeze more efficiency out of your prestige bonuses. It converts your &ldquo;live&rdquo; Paragon into <a href="/resource/burnedparagon/">Burned Paragon</a>, which exists in a separate pool and stacks with your regular Paragon.</p>
+<p>Since you are currently struggling with <strong>Faith storage</strong> for Sunspires, understanding how burning affects your storage is critical.</p>
+<h3 id="1-the-immediate-trade-off">1. The Immediate Trade-off</h3>
+<p>When you burn Paragon, the effect on your current run is usually <strong>negative</strong> unless you are very far into the game:</p>
+<ul>
+<li><strong>Storage:</strong> Regular Paragon gives <strong>0.1%</strong> storage per point. Burned Paragon only gives <strong>0.05%</strong> (half as much) before Year 40,000.</li>
+<li><strong>Production:</strong> Regular Paragon caps its bonus at 150 points. Burned Paragon caps its bonus at 75 points.</li>
+</ul>
+<p><strong>Why do it then?</strong> Because they <strong>stack</strong>. 150 regular Paragon + 75 burned Paragon gives you a higher production bonus than 1,000 regular Paragon alone, because regular Paragon hits diminishing returns very quickly.</p>
+<h3 id="2-when-to-burn-for-your-faith-problem">2. When to Burn for Your Faith Problem</h3>
+<p>Burning Paragon is a &ldquo;reset&rdquo; for your storage, which might actually make your Sunspire problem <strong>worse</strong> in the short term. However, it is a powerful long-term strategy:</p>
+<ul>
+<li><strong>The &ldquo;75/150&rdquo; Rule:</strong> The most efficient setup for a mid-game player is to have <strong>75 Burned Paragon</strong> and <strong>150+ Regular Paragon</strong>. This maximizes your production bonus before diminishing returns cripple you.</li>
+<li><strong>The Best Time to Burn:</strong> Always burn <strong>right before you reset</strong> your game. If you burn in the middle of a run, your storage caps (including Faith) will instantly drop, potentially breaking your production lines.</li>
+<li><strong>Dark Future (Year 40,000+):</strong> If you are doing a very long run, Burned Paragon becomes <strong>4x more powerful</strong> for storage than regular Paragon. If you reach Year 40k, burning becomes your primary way to massive storage increases.</li>
+</ul>
+<h3 id="3-other-benefits-of-burned-paragon">3. Other Benefits of Burned Paragon</h3>
+<ul>
+<li><strong>Leader Bonus:</strong> Burned Paragon provides a unique boost to your Leader&rsquo;s traits (e.g., if your leader is a Manager, they get even better at reducing hunting costs).</li>
+<li><strong>Karma/Cryochambers:</strong> It reduces the amount of Karma needed to build Cryochambers, which helps you carry more kittens into the next run.
+<a href="/resource/burnedparagon/">Burned Paragon</a> is a permanent prestige resource in <em>Kittens Game</em> created by &ldquo;burning&rdquo; regular Paragon. While burned paragon provides smaller initial production bonuses than regular paragon, it stacks with regular paragon and becomes significantly more powerful during the late-game <a href="/guides/dark-future/">Dark Future</a> (Year 40,000+).</li>
+</ul>
+<h3 id="4-core-effects">4. <strong>Core Effects</strong></h3>
+<ul>
+<li><strong>Production Bonus:</strong> Burned paragon provides a global production boost that is exactly <strong>half as effective</strong> as regular paragon before reaching Year 40,000. However, because it is tracked as a separate pool, it <strong>stacks additively</strong> with regular paragon, allowing you to bypass the severe diminishing returns that regular paragon hits at high levels (starting around 150–200).</li>
+<li><strong>Storage Bonus:</strong> Each point of burned paragon increases your resource storage capacity.
+<ul>
+<li><strong>Pre-Dark Future:</strong> +0.05% storage capacity per point.</li>
+<li><strong>During Dark Future:</strong> <strong>+0.2% storage capacity per point</strong>, making it twice as effective as regular paragon for storage in the deep endgame.</li>
+</ul>
+</li>
+<li><strong>Leader Trait Boost:</strong> Burned paragon provides a small multiplicative boost to the effectiveness of your <strong>Leader&rsquo;s Trait</strong> (e.g., Artisan crafting or Scientist research discounts).</li>
+<li><strong>Trading Bonus:</strong> When using a <strong>Merchant leader</strong>, burned paragon increases the number of <a href="/resource/time_crystals/">Time Crystals</a> received per trade with the Leviathans.</li>
+</ul>
+<h3 id="5-strategic-utility-and-timing">5. <strong>Strategic Utility and Timing</strong></h3>
+<ul>
+<li><strong>Early Mid-Game (400 Threshold):</strong> Many players choose to burn their first <strong>400 paragon</strong>. This is considered an optimal &ldquo;sweet spot&rdquo; because 400 burned paragon provides production bonuses roughly equivalent to the peak efficiency of regular paragon (around 200) before heavy diminishing returns set in.</li>
+<li><strong>Iron Will Strategy:</strong> Burned paragon is vital for <a href="/challenges/ironwill/">Iron Will</a> mode because it provides essential production and storage boosts that cannot be easily acquired through normal buildings.</li>
+<li><strong>Relic Era Prep:</strong> It is recommended to have at least <strong>200 to 400 burned paragon</strong> before focusing heavily on Relics and Antimatter to ensure your industrial base is strong enough to handle the costs.</li>
+<li><strong>Late-Game &ldquo;Seed&rdquo;:</strong> In the extreme late game, players aim for massive stockpiles (up to <strong>250,000+ burned paragon</strong>) to maximize storage for the push toward 100 Chronospheres and &ldquo;Positive Resets.&rdquo;</li>
+</ul>
+<h3 id="6-the">6. <strong>The &ldquo;Dark Future&rdquo; Interaction</strong></h3>
+<p>The primary reason to accumulate large amounts of burned paragon is to mitigate the penalties of the <a href="/guides/dark-future/">Dark Future</a>, which begins at Year 40,000. During this period, regular paragon production bonuses are suppressed, but burned paragon effects are amplified. Its storage bonus quadruples (from 0.05% to 0.2%), which is critical for reaching the multi-billion <strong>Unobtainium caps</strong> required for endgame progression.</p>
+<h3 id="7-how-to-burn">7. <strong>How to Burn</strong></h3>
+<ul>
+<li>Burning is done via the <a href="/techs/metaphysics/">Metaphysics</a> tab (unlocked with Unobtainium).</li>
+<li><strong>Caution:</strong> Once paragon is burned, it cannot be turned back into regular paragon. It is generally advised to buy your desired Metaphysics upgrades (like price ratio reductions) <em>before</em> burning your remaining spare paragon.</li>
+<li><strong>Note:</strong> Burned paragon <strong>always carries over</strong> across resets, even if you are not using Chronospheres.</li>
+</ul>
+<hr>
+<h3 id="summary-recommendation">Summary Recommendation</h3>
+<p>If you are stuck at 6 Sunspires:</p>
+<ol>
+<li><strong>Don&rsquo;t burn right now</strong> if you are in the middle of a run; you will lose the storage you need.</li>
+<li><strong>Wait until you are ready to reset.</strong> Just before you click &ldquo;Reset,&rdquo; go to the Metaphysics tab and click <a href="/guides/burn_paragon/">Burn Paragon</a>.</li>
+<li><strong>On your next run</strong>, you will have the Burned Paragon bonus <em>plus</em> the new Paragon you get from your kittens. This combined total will make reaching that 7th <a href="/religion/golden_spire/">Golden Spire</a> much easier.</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Karma</title>
+      <link>/guides/karma/</link>
+      <pubDate>Mon, 16 Mar 2026 10:49:25 +0000</pubDate>
+      <guid>/guides/karma/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../guides/karma/&#34;&gt;Karma&lt;/a&gt; is a permanent prestige resource in &lt;em&gt;Kittens Game&lt;/em&gt; that is primarily used to boost kitten happiness and overall production efficiency across game resets.&lt;/p&gt;
+&lt;h3 id=&#34;earning-karma&#34;&gt;&lt;strong&gt;Earning Karma&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Threshold:&lt;/strong&gt; You begin earning karma points when you reset your game with &lt;strong&gt;more than 35 kittens&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scaling:&lt;/strong&gt; The amount of karma gained is based on your total population at the time of reset; more kittens result in a higher karma yield.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenge Modifier:&lt;/strong&gt; In the &lt;strong&gt;Anarchy challenge&lt;/strong&gt;, kittens count double toward karma gains when you reset.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects&#34;&gt;&lt;strong&gt;Core Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Happiness Boost:&lt;/strong&gt; Karma&amp;rsquo;s primary mechanical benefit is providing a &lt;strong&gt;+1% happiness modifier per point&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Production Bonus:&lt;/strong&gt; Since kitten productivity is tied to happiness, karma acts as a global production multiplier for all working kittens.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pre-Space Utility:&lt;/strong&gt; In early runs, karma is essential for mitigating the &amp;ldquo;population penalty&amp;rdquo; to happiness, which otherwise acts as a &amp;ldquo;production killer&amp;rdquo; as your village grows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Late-Game Scaling:&lt;/strong&gt; When combined with the &lt;a href=&#34;../transcendence/holy_genocide/&#34;&gt;Holy Genocide&lt;/a&gt; cryptotheology building, karma can contribute to &amp;ldquo;karmakittens,&amp;rdquo; which increases the paragon earned per kitten during resets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;usage-and-costs&#34;&gt;&lt;strong&gt;Usage and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../time/cryochamber/&#34;&gt;Cryochambers:&lt;/a&gt; Karma is consumed as a resource to build &lt;a href=&#34;../time/cryochamber/&#34;&gt;Cryochambers&lt;/a&gt; (costing 1 karma each), which allows you to carry individual kittens over into your next run.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Diminishing Returns:&lt;/strong&gt; While regular paragon production bonuses suffer from diminishing returns, the happiness bonus from karma scales linearly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;persistence&#34;&gt;&lt;strong&gt;Persistence&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Unlike buildings or standard resources, karma is one of the few items that &lt;strong&gt;always carries over&lt;/strong&gt; when you reset your game, providing a permanent foundation for future growth. Strategic advice often suggests pushing for at least 130 kittens in early runs to ensure a healthy amount of karma and paragon for subsequent progression.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/guides/karma/">Karma</a> is a permanent prestige resource in <em>Kittens Game</em> that is primarily used to boost kitten happiness and overall production efficiency across game resets.</p>
+<h3 id="earning-karma"><strong>Earning Karma</strong></h3>
+<ul>
+<li><strong>Threshold:</strong> You begin earning karma points when you reset your game with <strong>more than 35 kittens</strong>.</li>
+<li><strong>Scaling:</strong> The amount of karma gained is based on your total population at the time of reset; more kittens result in a higher karma yield.</li>
+<li><strong>Challenge Modifier:</strong> In the <strong>Anarchy challenge</strong>, kittens count double toward karma gains when you reset.</li>
+</ul>
+<h3 id="core-effects"><strong>Core Effects</strong></h3>
+<ul>
+<li><strong>Happiness Boost:</strong> Karma&rsquo;s primary mechanical benefit is providing a <strong>+1% happiness modifier per point</strong>.</li>
+<li><strong>Production Bonus:</strong> Since kitten productivity is tied to happiness, karma acts as a global production multiplier for all working kittens.</li>
+<li><strong>Pre-Space Utility:</strong> In early runs, karma is essential for mitigating the &ldquo;population penalty&rdquo; to happiness, which otherwise acts as a &ldquo;production killer&rdquo; as your village grows.</li>
+<li><strong>Late-Game Scaling:</strong> When combined with the <a href="/transcendence/holy_genocide/">Holy Genocide</a> cryptotheology building, karma can contribute to &ldquo;karmakittens,&rdquo; which increases the paragon earned per kitten during resets.</li>
+</ul>
+<h3 id="usage-and-costs"><strong>Usage and Costs</strong></h3>
+<ul>
+<li><a href="/time/cryochamber/">Cryochambers:</a> Karma is consumed as a resource to build <a href="/time/cryochamber/">Cryochambers</a> (costing 1 karma each), which allows you to carry individual kittens over into your next run.</li>
+<li><strong>Diminishing Returns:</strong> While regular paragon production bonuses suffer from diminishing returns, the happiness bonus from karma scales linearly.</li>
+</ul>
+<h3 id="persistence"><strong>Persistence</strong></h3>
+<p>Unlike buildings or standard resources, karma is one of the few items that <strong>always carries over</strong> when you reset your game, providing a permanent foundation for future growth. Strategic advice often suggests pushing for at least 130 kittens in early runs to ensure a healthy amount of karma and paragon for subsequent progression.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Temporal Paradox</title>
+      <link>/guides/temporal_paradox/</link>
+      <pubDate>Thu, 12 Mar 2026 05:40:58 +0000</pubDate>
+      <guid>/guides/temporal_paradox/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Kittens Game&lt;/em&gt;, a &lt;a href=&#34;../guides/temporal_paradox/&#34;&gt;Temporal Paradox&lt;/a&gt; is a random event tied to the late-game &lt;a href=&#34;../buildings/chronosphere/&#34;&gt;Chronosphere&lt;/a&gt; mega structure that serves as the primary method for generating &lt;a href=&#34;../resource/void/&#34;&gt;Void&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;mechanics-and-triggering&#34;&gt;&lt;strong&gt;Mechanics and Triggering&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Source:&lt;/strong&gt; Temporal paradoxes occur occasionally once you have built one or more &lt;a href=&#34;../buildings/chronosphere/&#34;&gt;Chronospheres&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Output:&lt;/strong&gt; During a paradox, you gain &lt;a href=&#34;../resource/void/&#34;&gt;Void&lt;/a&gt;, a unique resource required for advanced endgame technologies and structures.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visual Indicator:&lt;/strong&gt; The paradox is a timed event that lasts for a specific number of game days.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;paradox-trigger-check&#34;&gt;Paradox Trigger Check&lt;/h3&gt;
+&lt;p&gt;On every daily tick (or skipped day during time combustion), the game evaluates whether a paradox occurs:
+{Paradox Chance per Day} =  {Chronospheres}/10,000&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In <em>Kittens Game</em>, a <a href="/guides/temporal_paradox/">Temporal Paradox</a> is a random event tied to the late-game <a href="/buildings/chronosphere/">Chronosphere</a> mega structure that serves as the primary method for generating <a href="/resource/void/">Void</a>.</p>
+<h3 id="mechanics-and-triggering"><strong>Mechanics and Triggering</strong></h3>
+<ul>
+<li><strong>Source:</strong> Temporal paradoxes occur occasionally once you have built one or more <a href="/buildings/chronosphere/">Chronospheres</a>.</li>
+<li><strong>Output:</strong> During a paradox, you gain <a href="/resource/void/">Void</a>, a unique resource required for advanced endgame technologies and structures.</li>
+<li><strong>Visual Indicator:</strong> The paradox is a timed event that lasts for a specific number of game days.</li>
+</ul>
+<h3 id="paradox-trigger-check">Paradox Trigger Check</h3>
+<p>On every daily tick (or skipped day during time combustion), the game evaluates whether a paradox occurs:
+{Paradox Chance per Day} =  {Chronospheres}/10,000</p>
+<ul>
+<li>Threshold: If  {Chronospheres} = 0$, chance is 0.</li>
+<li>With 10 Chronospheres, the daily chance is $0.1%$ per calendar day.</li>
+<li>With 50 Chronospheres, the daily chance is $0.5%$ per calendar day.</li>
+</ul>
+<h3 id="base-chronosphere-void-payout">Base Chronosphere Void Payout</h3>
+<p>When a paradox triggers, the Chronospheres generate a base quantity of Void:</p>
+<p>{Base Void} = 1 + ({Chronospheres} - 1)/2</p>
+<ul>
+<li>1 Chronosphere: $1 + \lfloor 0 \rfloor = 1\text{ Void}$</li>
+<li>5 Chronospheres: $1 + \lfloor 2 \rfloor = 3\text{ Void}$</li>
+<li>10 Chronospheres: $1 + \lfloor 4.5 \rfloor = 5\text{ Void}$</li>
+<li>25 Chronospheres: $1 + \lfloor 12 \rfloor = 13\text{ Void}$</li>
+</ul>
+<p>See also <a href="/metaphysics/order_of_the_void/">Order of the Void</a></p>
+<h3 id="benefits-of-paradoxes"><strong>Benefits of Paradoxes</strong></h3>
+<ul>
+<li><strong>Happiness Boost:</strong> Each unit of Void obtained from these events provides a <strong>+10% happiness modifier</strong>, which enhances your kittens&rsquo; overall production efficiency.</li>
+<li><strong>Resource Carryover:</strong> Void is a non-crafted resource that can be preserved across resets if you have Chronospheres.</li>
+</ul>
+<h3 id="associated-upgrades"><strong>Associated Upgrades</strong></h3>
+<p>Several structures and Workshop upgrades specifically modify the efficiency and duration of a Temporal Paradox:</p>
+<ul>
+<li><a href="/upgrade/void_hoover/">Void Hoover:</a> A structure that increases the <strong>maximum amount of Void</strong> you can receive during a single paradox day.</li>
+<li><a href="/time/chrono_control/">Chronocontrol:</a> A Time-tab structure that <strong>increases the duration</strong> (number of days) of the paradox event.</li>
+<li><a href="/upgrade/distortion/">Distortion:</a> A late-game Workshop upgrade (unlocked by Paradox Theory) that improves the effectiveness of Chronocontrol, adding <strong>+3 days</strong> to the Temporal Paradox per level of Chronocontrol built.</li>
+<li><a href="/time/void-resonator/">Void Resonator:</a> Another upgrade unlocked by Paradox Theory that further enhances Void production and interacts with the <a href="/metaphysics/order_of_the_void/">Order of the Void</a> metaphysics upgrade.</li>
+</ul>
+<p>Strategically, players often focus on maximizing the frequency and yield of these paradoxes in Phase 4 (Endgame) to accumulate the millions of Void units required for high-tier upgrades like <a href="/buildings/void_rift/">Void Rifts</a>, which provide permanent global storage bonuses.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Reset</title>
+      <link>/guides/reset/</link>
+      <pubDate>Thu, 29 Jan 2026 20:44:33 +1100</pubDate>
+      <guid>/guides/reset/</guid>
+      <description>&lt;p&gt;Resetting is the primary mechanic used to exchange current progress for permanent prestige currencies—&lt;a href=&#34;../guides/karma/&#34;&gt;Karma&lt;/a&gt; and &lt;a href=&#34;../resource/paragon/&#34;&gt;Paragon&lt;/a&gt;—which provide global multipliers to production and resource storage capacity.&lt;/p&gt;
+&lt;h3 id=&#34;timing-your-reset&#34;&gt;&lt;strong&gt;Timing Your Reset&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Deciding when to reset depends on your current game phase and prestige goals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The First Reset&lt;/strong&gt;: It is strategically recommended to reset only after researching &lt;a href=&#34;../upgrade/concrete_huts/&#34;&gt;Concrete Huts&lt;/a&gt; and reaching at least &lt;strong&gt;130 kittens&lt;/strong&gt;. This ensures you gain roughly 60 Paragon, enough to purchase essential early &lt;a href=&#34;../techs/metaphysics/&#34;&gt;Metaphysics&lt;/a&gt; upgrades like &lt;a href=&#34;../policy/diplomacy/&#34;&gt;Diplomacy&lt;/a&gt; or &lt;a href=&#34;../metaphysics/golden_ratio/&#34;&gt;Golden Ratio&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Subsequent Early Runs&lt;/strong&gt;: Aim for &lt;strong&gt;170+ kittens&lt;/strong&gt; on your second run to secure 100 Paragon for the &lt;a href=&#34;../metaphysics/divine_proportion/&#34;&gt;Divine Proportion&lt;/a&gt; upgrade.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prestige Minimums&lt;/strong&gt;: You must have more than &lt;strong&gt;35 kittens&lt;/strong&gt; to gain Karma and more than &lt;strong&gt;70 kittens&lt;/strong&gt; to receive Paragon (one point per kitten over 70).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The &amp;ldquo;Slow-Down&amp;rdquo; Rule&lt;/strong&gt;: Generally, you should reset when progress becomes &amp;ldquo;too slow&amp;rdquo; or when building costs exceed your current production and storage limits.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-pre-reset-checklist-bmf&#34;&gt;&lt;strong&gt;The Pre-Reset Checklist (BMF)&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Experienced players use the &lt;strong&gt;BMF&lt;/strong&gt; mnemonic (Backup, Metas, Faith) to ensure no progress is wasted before a reset:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Resetting is the primary mechanic used to exchange current progress for permanent prestige currencies—<a href="/guides/karma/">Karma</a> and <a href="/resource/paragon/">Paragon</a>—which provide global multipliers to production and resource storage capacity.</p>
+<h3 id="timing-your-reset"><strong>Timing Your Reset</strong></h3>
+<p>Deciding when to reset depends on your current game phase and prestige goals:</p>
+<ul>
+<li><strong>The First Reset</strong>: It is strategically recommended to reset only after researching <a href="/upgrade/concrete_huts/">Concrete Huts</a> and reaching at least <strong>130 kittens</strong>. This ensures you gain roughly 60 Paragon, enough to purchase essential early <a href="/techs/metaphysics/">Metaphysics</a> upgrades like <a href="/policy/diplomacy/">Diplomacy</a> or <a href="/metaphysics/golden_ratio/">Golden Ratio</a>.</li>
+<li><strong>Subsequent Early Runs</strong>: Aim for <strong>170+ kittens</strong> on your second run to secure 100 Paragon for the <a href="/metaphysics/divine_proportion/">Divine Proportion</a> upgrade.</li>
+<li><strong>Prestige Minimums</strong>: You must have more than <strong>35 kittens</strong> to gain Karma and more than <strong>70 kittens</strong> to receive Paragon (one point per kitten over 70).</li>
+<li><strong>The &ldquo;Slow-Down&rdquo; Rule</strong>: Generally, you should reset when progress becomes &ldquo;too slow&rdquo; or when building costs exceed your current production and storage limits.</li>
+</ul>
+<h3 id="the-pre-reset-checklist-bmf"><strong>The Pre-Reset Checklist (BMF)</strong></h3>
+<p>Experienced players use the <strong>BMF</strong> mnemonic (Backup, Metas, Faith) to ensure no progress is wasted before a reset:</p>
+<ul>
+<li><strong>Backup</strong>: Manually save and export your game data to prevent accidental loss.</li>
+<li><strong>Metas (Metaphysics)</strong>: Use your accumulated Paragon to buy permanent upgrades in the Metaphysics tab, particularly <strong>price ratio reductions</strong> like Enlightenment or Renaissance, which make future buildings cheaper.</li>
+<li><strong>Faith (The TAP Sequence)</strong>: To maximize spiritual carry-over, perform the <strong>TAP sequence</strong>: <strong><a href="/religion/transcendence/">Transcendence</a></strong> (to increase your tier), then <strong>Adore the Galaxy</strong> (to convert worship into <a href="/religion/epiphany/">Epiphany</a>), and finally <a href="/religion/praise_the_sun/">Praise the Sun</a>.</li>
+<li><strong>Population Push</strong>: Max out all housing, including <a href="/buildings/hut/">Huts</a>, <a href="/buildings/log_house/">Log Houses</a>, and <a href="/buildings/mansion/">Mansions</a>, to squeeze out every possible Paragon point.</li>
+<li><strong>Resource Conversion</strong>: Sacrifice all unicorns for tears and alicorns for <a href="/resource/time_crystals/">Time Crystals</a> before they are lost.</li>
+</ul>
+<h3 id="carry-over-mechanics"><strong>Carry-over Mechanics</strong></h3>
+<p>Understanding what survives the reset is vital for planning your next run:</p>
+<ul>
+<li><strong>Permanent Carry-over</strong>: Karma, Paragon, Metaphysics upgrades, <a href="/religion/epiphany/">Epiphany</a>, <strong><a href="/religion/transcendence/">Transcendence</a> tiers</strong>, Black Liquid Sorrow (BLS), and <strong>Cryptotheology buildings</strong> are preserved.</li>
+<li><strong>Resources Lost</strong>: You lose all standard buildings, technology, and luxury resources like furs, ivory, and spice.</li>
+<li><strong>Conditional Carry-over</strong>:
+<ul>
+<li><a href="/buildings/chronosphere/">Chronospheres</a>: Each sphere preserves 1.5% of your non-crafted resources.</li>
+<li><a href="/upgrade/flux_condensator/">Flux Condensator</a>: This workshop upgrade is required to carry over <strong>crafted resources</strong> like steel, plates, and blueprints.</li>
+<li><a href="/time/cryochamber/">Cryochambers</a>: These allow you to carry over one kitten per chamber, retaining their job skills and experience.</li>
+</ul>
+</li>
+</ul>
+<h3 id="advanced-reset-strategies"><strong>Advanced Reset Strategies</strong></h3>
+<ul>
+<li><strong>Iron Will (IW) Mode</strong>: In this kittenless mode, the goal is to reset immediately after researching <a href="/techs/archery/">Archery</a> to accumulate <a href="/civilisations/zebras/">Zebras</a>, which provide passive Catpower for future runs.</li>
+<li><strong>Positive Resets</strong>: In the endgame, the goal is to build at least <strong>73 Chronospheres</strong>. At this level, the resources carried over exceed the cost of the spheres themselves, allowing for infinite, self-sustaining growth loops.</li>
+</ul>
+<h2 id="checklist">Checklist</h2>
+<p>To maximize the benefits of a reset and ensure your next run starts with a massive economic foundation, you should follow a thorough pre-reset preparation sequence. The community often uses the acronym BMF (Backup, Metas, and Faith) to remember the core steps.
+Here is a comprehensive pre-reset checklist:</p>
+<ol>
+<li>
+<p><strong>Maximize Your Population</strong> (Paragon Preparation)</p>
+<p>Before anything else, cap out all of your housing structures (Huts, Log Houses, Mansions, Space Stations). Because Paragon rewards are based directly on your kitten population at the time of reset (granting 1 Paragon for every kitten over 70), you should push your population as high as your storage caps allow.</p>
+</li>
+<li>
+<p><strong>Backup and Metaphysics</strong> (The &ldquo;B&rdquo; and &ldquo;M&rdquo; in BMF)</p>
+<ul>
+<li>Backup: Always export and save a backup of your game just in case you forget a step or realize you didn&rsquo;t have enough resources stockpiled.</li>
+<li><a href="/techs/metaphysics/">Metaphysics</a>: If you have enough Paragon, purchase any planned Metaphysics upgrades (such as price ratio reductions). If you plan to burn any Paragon for its unique production and storage bonuses, do so now while you have a small spare amount.</li>
+</ul>
+</li>
+<li>
+<p><strong>Optimize Your Religion</strong> (The &ldquo;F&rdquo; in BMF) To ensure your faith bonuses carry over effectively, execute the TAP sequence:</p>
+<ul>
+<li>Transcend: Spend your accumulated epiphany to buy Transcendence tiers.</li>
+<li>Adore the Galaxy: Convert all of your worship into epiphany. The game will do this automatically if you forget, but manually clicking the button grants an extra 1% bonus.</li>
+<li>Praise the Sun: Convert your remaining faith pool into worship.</li>
+</ul>
+</li>
+<li>
+<p><strong>Refine Luxury Resources</strong>:</p>
+<p>Do not leave valuable resources behind, as luxuries do not carry over on reset.
+Sacrifice all of your accumulated Alicorns to turn them into Time Crystals, ensuring you have the Anachronomancy metaphysics upgrade so the crystals survive the reset.
+Refine any spare unicorn tears into Black Liquid Sorrow (BLS), which is permanently retained.</p>
+</li>
+<li>
+<p><strong><a href="/buildings/chronosphere/">Chronosphere</a> and Resource Stockpiling</strong>:</p>
+<p>Chronospheres allow you to carry over 1.5% of your standard resources per sphere into the next run
+to optimize this:</p>
+<ul>
+<li>Turn off automation: Disable any scripts or autoclickers (like auto-praise or auto-crafting) so they don&rsquo;t consume  your carefully balanced stockpiles right before you reset.</li>
+<li>Buy <a href="/upgrade/flux_condensator/">Flux Condensator</a>: Purchase this workshop upgrade (costing 5,000 unobtainium and 5 Time Crystals) so your crafted resources, such as blueprints, alloy, and compendiums, will also carry over.</li>
+<li>Stockpile everything: Cap out your non-crafted resources (like gold, faith, and starcharts). Heavily stockpile crafted resources; carrying over a massive amount of Compendiums is especially critical, as they will vastly increase your science cap at the very start of your next run, allowing you to instantly rebuy key technologies.</li>
+<li>Liquidate Buildings: Right before buying your Chronospheres, you can sell off expensive buildings like Orbital Arrays and Space Elevators at a 50% refund to squeeze out extra resources for your carryover pool.</li>
+<li><strong>Buy Chronospheres</strong>: Finally, purchase as many <a href="/buildings/chronosphere/">Chronosphere</a>s as your unobtainium allows.</li>
+</ul>
+</li>
+</ol>
+<p>Once all these steps are complete, you are ready to hit the reset button.</p>
+<h3 id="progression">Progression</h3>
+<p>Paragon progression in Kittens Game follows a compounding curve. Paragon functions as both a raw production and storage multiplier when stockpiled and a currency spent in Metaphysics. The central rule of farming it is: never spend down to zero, because your banked reserve is what makes subsequent runs fast.</p>
+<p>How Paragon Is Earned</p>
+<p>When you reset via the Time tab:</p>
+<ul>
+<li>You gain 1 Paragon per kitten over 70 (Kittens - 70).
+<ul>
+<li>130 kittens = 60 Paragon</li>
+<li>200 kittens = 130 Paragon</li>
+<li>250 kittens = 180 Paragon</li>
+</ul>
+</li>
+<li>You also earn Karma, which increases kitten happiness and scales with total historical kittens sacrificed across resets.</li>
+</ul>
+<p>The Golden Ratio: The 150–200 Banked Floor</p>
+<ul>
+<li>Production Bonus: Each banked Paragon grants +1% global production, capped at +200% with diminishing returns past 200 (hard cap asymptotic behavior).</li>
+<li>Storage Bonus: Each banked Paragon grants a flat +0.1% to storage caps, with no diminishing returns.</li>
+<li>The Spending Rule: When buying Metaphysics upgrades, always maintain at least 150 to 200 unspent Paragon in reserve. Spending all your Paragon to buy an upgrade sets your early-game production back to ground zero.</li>
+</ul>
+<p>Step-by-Step Reset Progression Strategy</p>
+<p>The Exact Reset Point Rule</p>
+<p>The trap in Kittens Game is overextending a run hoping for &ldquo;just a few more kittens.&rdquo;</p>
+<p>Reset immediately when:</p>
+<p><code>Time to unlock the next 2 kitten housing slots</code> &gt; <code>Time to rebuild to your current kitten count on a fresh run</code></p>
+<p>More specifically, reset when all three conditions are met:</p>
+<ol>
+<li>Housing Caps Hard-Stall: You have capped all available Log Cabins, Mansions, and Huts, and the next housing structure requires either days of waiting or a massive tech tree leap (e.g., waiting days to mine enough Unobtainium for another Space Station).</li>
+<li>Kitten Count is at its Natural Bracket:</li>
+</ol>
+<ul>
+<li>Early Game: Reset around 130 kittens.</li>
+<li>Mid Game (Post-Concrete/Unobtainium Huts): Reset around 180–220 kittens.</li>
+<li>Post-Renaissance: Reset around 250–270+ kittens.</li>
+</ul>
+<ol start="3">
+<li>Pre-Reset Checklist is Done:</li>
+</ol>
+<ul>
+<li>Burn excess Catpower into Hunts (maximize furs/ivory/parchment).</li>
+<li>Trade all spare resources for maximum storage fill.</li>
+<li>Praise the Sun and perform an Apocrypha reset if you have excess faith stored, to permanently increase your Solar Revolution multiplier.</li>
+<li>Fill every housing slot to capacity before hitting the reset button.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Arbitrage</title>
+      <link>/guides/arbitrage/</link>
+      <pubDate>Wed, 28 Jan 2026 11:09:49 +1100</pubDate>
+      <guid>/guides/arbitrage/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Kittens Game&lt;/em&gt;, &lt;a href=&#34;../guides/arbitrage/&#34;&gt;arbitrage&lt;/a&gt; refers to the strategic manipulation of resource conversion and trading cycles to generate a net profit or bypass severe production bottlenecks. Rather than relying on linear accumulation, players use arbitrage to transform high-volume, low-value resources into restricted, high-value capital.&lt;/p&gt;
+&lt;h3 id=&#34;key-arbitrage-strategies&#34;&gt;&lt;strong&gt;Key Arbitrage Strategies&lt;/strong&gt;&lt;/h3&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Strategy&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Mechanism&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Goal&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Trade Arbitrage&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Refining &lt;strong&gt;Catnip&lt;/strong&gt; into &lt;strong&gt;Wood&lt;/strong&gt; and immediately trading it to &lt;a href=&#34;../civilisations/griffins/&#34;&gt;Griffins&lt;/a&gt;.&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Resolving the mid-game &lt;a href=&#34;../resource/iron/&#34;&gt;Iron&lt;/a&gt; bottleneck by bypassing slow smelters.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Iron Will (IW) Loop&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Trading &lt;a href=&#34;../resource/iron/&#34;&gt;Iron&lt;/a&gt; to &lt;a href=&#34;../civilisations/sharks/&#34;&gt;Sharks&lt;/a&gt; for &lt;strong&gt;Catnip&lt;/strong&gt;, refining it to &lt;strong&gt;Wood&lt;/strong&gt;, and trading that back to &lt;a href=&#34;../civilisations/griffins/&#34;&gt;Griffins&lt;/a&gt; for &lt;a href=&#34;../resource/iron/&#34;&gt;Iron&lt;/a&gt;.&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Generating a net profit of Iron and Wood in resource-constrained IW runs.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Temporal Arbitrage&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Shattering &lt;a href=&#34;../resource/time_crystals/&#34;&gt;Time Crystals&lt;/a&gt; to skip less productive years and land on the &lt;a href=&#34;../planet/redmoon/&#34;&gt;Redmoon&lt;/a&gt; cycle.&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Converting temporal capital into a $2.5\times$ spike in &lt;a href=&#34;../resource/unobtainium/&#34;&gt;Unobtainium&lt;/a&gt; production.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Positive Resets&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Building enough &lt;a href=&#34;../buildings/chronosphere/&#34;&gt;Chronospheres&lt;/a&gt; to carry over more resources than were spent during the run.&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Establishing a self-sustaining engine of exponential growth.&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;detailed-arbitrage-mechanics&#34;&gt;&lt;strong&gt;Detailed Arbitrage Mechanics&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;1-mid-game-trade-arbitrage&#34;&gt;&lt;strong&gt;1. Mid-Game Trade Arbitrage&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;The raw production rates of base resources often become the primary bottleneck for industrial expansion. To solve this, players use the &lt;strong&gt;Catnip $\to$ Wood $\to$ Iron&lt;/strong&gt; loop. This system exploits the high volume of catnip to create wood, which is then traded to the Griffins for Iron. This &amp;ldquo;trade arbitrage&amp;rdquo; effectively turns food production into high-value industrial metal, which is much faster than waiting for standard Smelters or Calciners to process ore.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In <em>Kittens Game</em>, <a href="/guides/arbitrage/">arbitrage</a> refers to the strategic manipulation of resource conversion and trading cycles to generate a net profit or bypass severe production bottlenecks. Rather than relying on linear accumulation, players use arbitrage to transform high-volume, low-value resources into restricted, high-value capital.</p>
+<h3 id="key-arbitrage-strategies"><strong>Key Arbitrage Strategies</strong></h3>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Strategy</th>
+					<th style="text-align: left">Mechanism</th>
+					<th style="text-align: left">Goal</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Trade Arbitrage</strong></td>
+					<td style="text-align: left">Refining <strong>Catnip</strong> into <strong>Wood</strong> and immediately trading it to <a href="/civilisations/griffins/">Griffins</a>.</td>
+					<td style="text-align: left">Resolving the mid-game <a href="/resource/iron/">Iron</a> bottleneck by bypassing slow smelters.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Iron Will (IW) Loop</strong></td>
+					<td style="text-align: left">Trading <a href="/resource/iron/">Iron</a> to <a href="/civilisations/sharks/">Sharks</a> for <strong>Catnip</strong>, refining it to <strong>Wood</strong>, and trading that back to <a href="/civilisations/griffins/">Griffins</a> for <a href="/resource/iron/">Iron</a>.</td>
+					<td style="text-align: left">Generating a net profit of Iron and Wood in resource-constrained IW runs.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Temporal Arbitrage</strong></td>
+					<td style="text-align: left">Shattering <a href="/resource/time_crystals/">Time Crystals</a> to skip less productive years and land on the <a href="/planet/redmoon/">Redmoon</a> cycle.</td>
+					<td style="text-align: left">Converting temporal capital into a $2.5\times$ spike in <a href="/resource/unobtainium/">Unobtainium</a> production.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Positive Resets</strong></td>
+					<td style="text-align: left">Building enough <a href="/buildings/chronosphere/">Chronospheres</a> to carry over more resources than were spent during the run.</td>
+					<td style="text-align: left">Establishing a self-sustaining engine of exponential growth.</td>
+			</tr>
+	</tbody>
+</table>
+<hr>
+<h3 id="detailed-arbitrage-mechanics"><strong>Detailed Arbitrage Mechanics</strong></h3>
+<h4 id="1-mid-game-trade-arbitrage"><strong>1. Mid-Game Trade Arbitrage</strong></h4>
+<p>The raw production rates of base resources often become the primary bottleneck for industrial expansion. To solve this, players use the <strong>Catnip $\to$ Wood $\to$ Iron</strong> loop. This system exploits the high volume of catnip to create wood, which is then traded to the Griffins for Iron. This &ldquo;trade arbitrage&rdquo; effectively turns food production into high-value industrial metal, which is much faster than waiting for standard Smelters or Calciners to process ore.</p>
+<h4 id="2-temporal-and-cycle-arbitrage"><strong>2. Temporal and Cycle Arbitrage</strong></h4>
+<p>In the late game, the focus shifts to system <a href="/guides/arbitrage/">arbitrage</a>. Because the <a href="/planet/redmoon/">Redmoon</a> cycle provides a massive multiplier to Unobtainium production, players use <a href="/resource/time_crystals/">Time Crystals</a> as a currency to &ldquo;buy&rdquo; more productive time.</p>
+<ul>
+<li>By skipping the &ldquo;fallow&rdquo; years of other cycles, players ensure their Outposts and Space Elevators are always operating at maximum efficiency.</li>
+<li>When combined with <a href="/metaphysics/numeromancy/">Numeromancy</a> and active <strong><a href="/guides/festivals/">Festivals</a></strong>, this temporal arbitrage generates the massive amounts of Unobtainium required for endgame goals.</li>
+</ul>
+<h4 id="3-positive-chrono-reset-arbitrage"><strong>3. Positive Chrono-Reset Arbitrage</strong></h4>
+<p>The ultimate goal of endgame optimization is the <strong>positive reset</strong>. This occurs when your storage capacity for Unobtainium is high enough (at least <strong>8.14 billion</strong>) to build <strong>73 or more Chronospheres</strong>.</p>
+<ul>
+<li>At <strong>73 Chronospheres</strong>, the amount of resources carried over into the next game exceeds the cost of building those spheres.</li>
+<li>This transforms expendable resources into <strong>compounding capital</strong>, meaning every reset starts the player with an exponentially larger foundation than the previous run.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Festivals</title>
+      <link>/guides/festivals/</link>
+      <pubDate>Wed, 28 Jan 2026 11:09:49 +1100</pubDate>
+      <guid>/guides/festivals/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Kittens Game&lt;/em&gt;, &lt;a href=&#34;../guides/festivals/&#34;&gt;Festivals&lt;/a&gt; are temporary global events that provide significant growth and production bonuses. They are unlocked via the &lt;a href=&#34;../techs/drama_and_poetry/&#34;&gt;Drama and Poetry&lt;/a&gt; technology, which requires 90,000 Science and 5,000 Parchment.&lt;/p&gt;
+&lt;h3 id=&#34;base-effects-and-duration&#34;&gt;&lt;strong&gt;Base Effects and Duration&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;A standard festival lasts for &lt;strong&gt;one game year&lt;/strong&gt; (400 days, which is approximately 13 minutes and 20 seconds of real-time).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kitten Growth:&lt;/strong&gt; The primary benefit of a festival is doubling the rate at which new kittens arrive (from roughly 0.16 to &lt;strong&gt;0.32 kittens per second&lt;/strong&gt;). This is essential for quickly filling housing to reach population milestones for &lt;a href=&#34;../resource/paragon/&#34;&gt;Paragon&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../guides/happiness/&#34;&gt;Happiness:&lt;/a&gt; Festivals provide a base happiness boost, which improves overall village productivity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;advanced-mechanics-numeromancy&#34;&gt;&lt;strong&gt;Advanced Mechanics (Numeromancy)&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Once you research the &lt;a href=&#34;../metaphysics/numeromancy/&#34;&gt;Numeromancy&lt;/a&gt; Metaphysics upgrade, festivals grant powerful &lt;strong&gt;Cycle-specific bonuses&lt;/strong&gt;. These are often used to resolve specific late-game resource bottlenecks:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In <em>Kittens Game</em>, <a href="/guides/festivals/">Festivals</a> are temporary global events that provide significant growth and production bonuses. They are unlocked via the <a href="/techs/drama_and_poetry/">Drama and Poetry</a> technology, which requires 90,000 Science and 5,000 Parchment.</p>
+<h3 id="base-effects-and-duration"><strong>Base Effects and Duration</strong></h3>
+<p>A standard festival lasts for <strong>one game year</strong> (400 days, which is approximately 13 minutes and 20 seconds of real-time).</p>
+<ul>
+<li><strong>Kitten Growth:</strong> The primary benefit of a festival is doubling the rate at which new kittens arrive (from roughly 0.16 to <strong>0.32 kittens per second</strong>). This is essential for quickly filling housing to reach population milestones for <a href="/resource/paragon/">Paragon</a>.</li>
+<li><a href="/guides/happiness/">Happiness:</a> Festivals provide a base happiness boost, which improves overall village productivity.</li>
+</ul>
+<h3 id="advanced-mechanics-numeromancy"><strong>Advanced Mechanics (Numeromancy)</strong></h3>
+<p>Once you research the <a href="/metaphysics/numeromancy/">Numeromancy</a> Metaphysics upgrade, festivals grant powerful <strong>Cycle-specific bonuses</strong>. These are often used to resolve specific late-game resource bottlenecks:</p>
+<ul>
+<li><a href="/planet/redmoon/">Redmoon:</a> <strong>Doubles Unobtainium income</strong> (essential for the space race).</li>
+<li><a href="/planet/cath/">Cath:</a> <strong>Doubles Catpower income</strong> (ideal for mass trading or hunting).</li>
+<li><a href="/planet/piscine/">Piscine:</a> <strong>Doubles Science income</strong>.</li>
+<li><a href="/planet/helios/">Helios:</a> <strong>Doubles Faith income</strong> and increases Unicorn income by 25%.</li>
+<li><a href="/planet/kairo/">Kairo:</a> <strong>Increases Starchart income by 5x</strong>.</li>
+</ul>
+<h3 id="building-and-policy-synergies"><strong>Building and Policy Synergies</strong></h3>
+<ul>
+<li><a href="/buildings/brewery/">Brewery:</a> This building is specifically designed to enhance festivals. Each Brewery provides <strong>+1% to Festival Happiness</strong> and the <strong>Cycle Bonus</strong>, while slightly increasing kitten arrival speed (+0.1%).</li>
+<li><strong>Carnivals (Metaphysics):</strong> This upgrade allows you to <strong>stack festivals</strong>, adding to their duration so you do not have to manually restart them every year.</li>
+<li><strong>Carnivale (Policy):</strong> Increases the kitten growth rate during festivals by an additional <strong>30%</strong>, though it also increases luxury resource consumption.</li>
+<li><strong>Extravagance (Policy):</strong> Makes rare resources provide significantly more happiness during festivals but consumes them twice as fast.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<ul>
+<li><strong>Early Game:</strong> Most guides recommend <strong>skipping Drama and Poetry</strong> (and thus festivals) on your first few runs because the 5,000 Parchment cost is too high for the marginal early-game benefit.</li>
+<li><strong>Late Game Paragon Farming:</strong> Festivals are mandatory for &ldquo;short runs&rdquo; (approx. 30 minutes) where the goal is to max out population as fast as possible to reset for Paragon.</li>
+<li><strong>Resource Spikes:</strong> In the mid-to-late game, players often &ldquo;shatter&rdquo; Time Crystals to reach the <a href="/cycles/redmoon_cycle/">Redmoon Cycle</a> and then hold a festival to maximize Unobtainium production.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Seasons</title>
+      <link>/guides/seasons/</link>
+      <pubDate>Wed, 28 Jan 2026 08:42:01 +1100</pubDate>
+      <guid>/guides/seasons/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Kittens Game&lt;/em&gt;, &lt;a href=&#34;../guides/seasons/&#34;&gt;Seasons&lt;/a&gt; are a core cyclical mechanic that dictates the efficiency of your resource production, particularly &lt;strong&gt;catnip&lt;/strong&gt;, and influences the success of trade with other civilisations.&lt;/p&gt;
+&lt;h3 id=&#34;the-seasonal-cycle&#34;&gt;&lt;strong&gt;The Seasonal Cycle&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Each year consists of four seasons: &lt;strong&gt;Spring, Summer, Autumn, and Winter&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; Each season lasts &lt;strong&gt;100 days&lt;/strong&gt;, which equates to 1,000 game ticks or approximately &lt;strong&gt;3 minutes and 20 seconds&lt;/strong&gt; in real-time.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../techs/calendar/&#34;&gt;Calendar:&lt;/a&gt; The progression of seasons is hidden until you research the &lt;a href=&#34;../techs/calendar/&#34;&gt;Calendar&lt;/a&gt; technology (30 Science).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;catnip-production-and-survival&#34;&gt;&lt;strong&gt;Catnip Production and Survival&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The primary impact of seasons is on &lt;a href=&#34;../buildings/catnip_field/&#34;&gt;Catnip Fields&lt;/a&gt;, which receive a production boost in Spring and a massive penalty in Winter.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In <em>Kittens Game</em>, <a href="/guides/seasons/">Seasons</a> are a core cyclical mechanic that dictates the efficiency of your resource production, particularly <strong>catnip</strong>, and influences the success of trade with other civilisations.</p>
+<h3 id="the-seasonal-cycle"><strong>The Seasonal Cycle</strong></h3>
+<p>Each year consists of four seasons: <strong>Spring, Summer, Autumn, and Winter</strong>.</p>
+<ul>
+<li><strong>Duration:</strong> Each season lasts <strong>100 days</strong>, which equates to 1,000 game ticks or approximately <strong>3 minutes and 20 seconds</strong> in real-time.</li>
+<li><a href="/techs/calendar/">Calendar:</a> The progression of seasons is hidden until you research the <a href="/techs/calendar/">Calendar</a> technology (30 Science).</li>
+</ul>
+<hr>
+<h3 id="catnip-production-and-survival"><strong>Catnip Production and Survival</strong></h3>
+<p>The primary impact of seasons is on <a href="/buildings/catnip_field/">Catnip Fields</a>, which receive a production boost in Spring and a massive penalty in Winter.</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Season</th>
+					<th style="text-align: left">Catnip Multiplier (Average Weather)</th>
+					<th style="text-align: left">Impact on Strategy</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Spring</strong></td>
+					<td style="text-align: left"><strong>+50%</strong></td>
+					<td style="text-align: left">Best time to expand your population and build up stocks.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Summer</strong></td>
+					<td style="text-align: left"><strong>+0%</strong></td>
+					<td style="text-align: left">Standard production; a good time to focus on non-food resources.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Autumn</strong></td>
+					<td style="text-align: left"><strong>+0%</strong></td>
+					<td style="text-align: left">Focus on accumulating large catnip reserves for the coming cold.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Winter</strong></td>
+					<td style="text-align: left"><strong>-75%</strong></td>
+					<td style="text-align: left">Production nosedives; kittens are at high risk of <strong>starvation</strong>.</td>
+			</tr>
+	</tbody>
+</table>
+<p><strong>Key Exception:</strong> <a href="/job/farmer/">Farmers</a> are vital because their catnip production is <strong>not affected</strong> by seasonal modifiers. Reallocating kittens to the Farmer job during Winter is a standard survival tactic.</p>
+<hr>
+<h3 id="weather-variations"><strong>Weather Variations</strong></h3>
+<p>Starting in <strong>Year 4</strong>, seasons have a <strong>35% chance</strong> to be &ldquo;abnormal&rdquo;—either <strong>Warm</strong> or <strong>Cold</strong>. This adds a further modifier to your catnip fields:</p>
+<ul>
+<li><strong>Warm Weather:</strong> Provides an additional boost (e.g., Spring becomes <strong>+65%</strong>).</li>
+<li><strong>Cold Weather:</strong> Makes penalties harsher (e.g., Winter drops to <strong>-90%</strong>).</li>
+</ul>
+<p>The <a href="/policy/communism/">Communism</a> policy makes cold winters even more dangerous by setting catnip field production to <strong>-100%</strong>.</p>
+<hr>
+<h3 id="seasonal-trade-strategy"><strong>Seasonal Trade Strategy</strong></h3>
+<p>Different races offer better deals or different resource amounts depending on the time of year.</p>
+<ul>
+<li><strong>Spring:</strong> The best time to trade with <a href="/civilisations/nagas/">Nagas</a> for Minerals (+25%).</li>
+<li><strong>Summer:</strong> <a href="/civilisations/lizards/">Lizards</a> provide a +35% bonus to Wood.</li>
+<li><strong>Autumn:</strong> <a href="/civilisations/griffins/">Griffins</a> are most efficient, providing +35% Iron.</li>
+<li><strong>Winter:</strong> <a href="/civilisations/sharks/">Sharks</a> are the MVP of Winter, providing a <strong>+45% bonus</strong> to Catnip, which can be refined into Wood to survive the season.</li>
+</ul>
+<hr>
+<h3 id="advanced-seasonal-mechanics"><strong>Advanced Seasonal Mechanics</strong></h3>
+<ul>
+<li><strong>Energy Generation:</strong> <a href="/buildings/solar_farm/">Solar Farms</a> are more efficient in Summer (+2.67 Energy) than in Winter (+1.5 Energy).</li>
+<li><strong>Space Production:</strong> Once <a href="/metaphysics/numerology/">Numerology</a> is researched, different years in a 10-year <strong>Cycle</strong> (like Redmoon or Helios) provide additional multipliers to space resources.</li>
+<li><strong>&ldquo;Winter Has Come&rdquo; Challenge:</strong> This challenge forces the game into a permanent, endless Winter, requiring players to rely entirely on Farmers for food.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Workers</title>
+      <link>/guides/workers/</link>
+      <pubDate>Sun, 07 Dec 2025 16:20:01 +1100</pubDate>
+      <guid>/guides/workers/</guid>
+      <description>&lt;p&gt;The term &amp;ldquo;rank&amp;rdquo; in relation to kittens/workers in &lt;em&gt;Kittens Game&lt;/em&gt; refers to two distinct systems: the &lt;strong&gt;Skill Level&lt;/strong&gt; gained through job experience, which boosts a kitten&amp;rsquo;s productivity in that specific job, and the &lt;strong&gt;Leader Rank&lt;/strong&gt;, gained through promotion, which boosts the selected leader&amp;rsquo;s overall production regardless of their job.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-kitten-skill-levels-job-rank&#34;&gt;1. Kitten Skill Levels (Job Rank)&lt;/h3&gt;
+&lt;p&gt;Kittens assigned to a job gather &lt;strong&gt;experience&lt;/strong&gt; and increase their skill level in that task. This skill level provides a &lt;strong&gt;multiplicative bonus&lt;/strong&gt; to productivity in their specific job.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The term &ldquo;rank&rdquo; in relation to kittens/workers in <em>Kittens Game</em> refers to two distinct systems: the <strong>Skill Level</strong> gained through job experience, which boosts a kitten&rsquo;s productivity in that specific job, and the <strong>Leader Rank</strong>, gained through promotion, which boosts the selected leader&rsquo;s overall production regardless of their job.</p>
+<hr>
+<h3 id="1-kitten-skill-levels-job-rank">1. Kitten Skill Levels (Job Rank)</h3>
+<p>Kittens assigned to a job gather <strong>experience</strong> and increase their skill level in that task. This skill level provides a <strong>multiplicative bonus</strong> to productivity in their specific job.</p>
+<p>The seven progressive skill levels and their associated bonuses are:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Skill Level</th>
+					<th style="text-align: left">Experience Needed</th>
+					<th style="text-align: left">Bonus to Productivity</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Dabbling</strong></td>
+					<td style="text-align: left">0</td>
+					<td style="text-align: left">0%</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Novice</strong></td>
+					<td style="text-align: left">100</td>
+					<td style="text-align: left">1%</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Adequate</strong></td>
+					<td style="text-align: left">500</td>
+					<td style="text-align: left">3%</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Competent</strong></td>
+					<td style="text-align: left">1200</td>
+					<td style="text-align: left">4%</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Skilled</strong></td>
+					<td style="text-align: left">2500</td>
+					<td style="text-align: left">8%</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Proficient</strong></td>
+					<td style="text-align: left">5000</td>
+					<td style="text-align: left">13%</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Master</strong></td>
+					<td style="text-align: left">9000</td>
+					<td style="text-align: left">18.75%</td>
+			</tr>
+	</tbody>
+</table>
+<p>These bonuses can be further enhanced by the Workshop upgrades <a href="/upgrade/logistics/">Logistics</a> (increasing the skill bonus by 15%) and <a href="/upgrade/augmentations/">Augmentations</a> (increasing the skill bonus by 100%).</p>
+<h3 id="2-leader-rank-promotion">2. Leader Rank (Promotion)</h3>
+<p>The Leader Rank is a separate ranking system unlocked by the <a href="/techs/civil_service/">Civil Service</a> science. A kitten gains a rank when promoted, which requires spending <strong>gold and experience</strong>. The bonus from the Leader&rsquo;s rank applies to that kitten&rsquo;s production <strong>regardless of their job</strong>.</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Leader Rank (n)</th>
+					<th style="text-align: left">Experience Cost</th>
+					<th style="text-align: left">Gold Cost</th>
+					<th style="text-align: left">Production Bonus (to Leader)</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>0</strong></td>
+					<td style="text-align: left">0</td>
+					<td style="text-align: left">0</td>
+					<td style="text-align: left">0%</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>1</strong></td>
+					<td style="text-align: left">500</td>
+					<td style="text-align: left">25</td>
+					<td style="text-align: left">43%</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>4</strong></td>
+					<td style="text-align: left">2680</td>
+					<td style="text-align: left">100</td>
+					<td style="text-align: left">257%</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>6</strong></td>
+					<td style="text-align: left">8207</td>
+					<td style="text-align: left">150</td>
+					<td style="text-align: left">400%</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>8</strong></td>
+					<td style="text-align: left">25133</td>
+					<td style="text-align: left">200</td>
+					<td style="text-align: left">543%</td>
+			</tr>
+	</tbody>
+</table>
+<p>A promoted leader can be unassigned and reassigned to whatever job needs the most assistance.</p>
+<p><strong>Policy Interaction:</strong></p>
+<ul>
+<li>If the <a href="/policy/monarchy/">Monarchy</a> policy is researched, the leader&rsquo;s <strong>trait</strong> is twice as powerful.</li>
+<li>If the <a href="/policy/autocracy/">Autocracy</a> policy is researched, the leader&rsquo;s <strong>production bonus</strong> (based on rank) is doubled (x2).</li>
+<li>If the <a href="/policy/republic/">Republic</a> policy is researched, all non-leader kittens get a bonus to their jobs equal to $1%$ of the leader&rsquo;s bonus.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Happiness</title>
+      <link>/guides/happiness/</link>
+      <pubDate>Wed, 03 Dec 2025 08:16:12 +1100</pubDate>
+      <guid>/guides/happiness/</guid>
+      <description>&lt;p&gt;Happiness is a critical game mechanic that directly influences the productivity and overall efficiency of your Kittens in their work. The higher the level of happiness, the better the results of their labour.&lt;/p&gt;
+&lt;p&gt;However, happiness can become a hindrance, as it is considered a production killer until you have enough Amphitheaters. As the population grows, Kittens become unhappy, and this affects overall production.&lt;/p&gt;
+&lt;h3 id=&#34;sources-and-effects-of-happiness&#34;&gt;Sources and Effects of Happiness&lt;/h3&gt;
+&lt;h4 id=&#34;positive-sources-boosts&#34;&gt;Positive Sources (Boosts)&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Rare Resources: Rare resources (Furs, Ivory, and Spice) provide a happiness bonus. Hunting accumulates Furs and Ivory, which serves the purpose of increasing Happiness. Each rare resource, when consumed, gives +10% to happiness. Mints, which generate rare resources, also help boost happiness and therefore production. The Epicureanism policy can increase the happiness gained from rare resources to 11% each, and the Extravagance policy increases happiness from consumable luxury resources by 5.&lt;/li&gt;
+&lt;li&gt;Karma: Karma, which is gained upon resetting the game (if you have more than 35 kittens), increases happiness, making your kittens happier and thus more productive.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../buildings/&#34;&gt;Buildings&lt;/a&gt; and &lt;a href=&#34;../upgrade/&#34;&gt;Upgrades:&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../buildings/amphitheatre/&#34;&gt;Amphitheatres&lt;/a&gt; are crucial for the early game as they help reduce unhappiness caused by rising population.&lt;/li&gt;
+&lt;li&gt;The religious upgrade &lt;a href=&#34;../religion/sun_altar/&#34;&gt;Sun Altar&lt;/a&gt; (unlocked via the Order of the Sun) provides +0.5% happiness from Temples, with additional levels available through Transcendence.&lt;/li&gt;
+&lt;li&gt;Sacrificing unicorns for a unicorn tear grants a happiness/production bonus.&lt;/li&gt;
+&lt;li&gt;A single &lt;a href=&#34;../buildings/broadcast_tower/&#34;&gt;Broadcast Tower&lt;/a&gt; can replace your entire stock of Amphitheaters for happiness purposes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Policy/ and Policy Effects:
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;../policy/liberty/&#34;&gt;Liberty&lt;/a&gt; policy increases the production effect of happiness by 10% and grants free housing for one kitten.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;../policy/environmentalism/&#34;&gt;Environmentalism&lt;/a&gt; policy provides a +3% happiness effect.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;../policy/conservation/&#34;&gt;Conservation&lt;/a&gt; policy increases happiness by +5%.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;../policy/fascism/&#34;&gt;Fascism&lt;/a&gt; policy eliminates population penalties to happiness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;negative-sources-penalties&#34;&gt;Negative Sources (Penalties)&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Population Growth: As population rises, kittens become unhappy.&lt;/li&gt;
+&lt;li&gt;Pollution: A high level of pollution in the atmosphere negatively affects your kittens and reduces your happiness.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../policy/&#34;&gt;Policy/:&lt;/a&gt; Certain Policy/ increase happiness penalties, such as &lt;a href=&#34;../policy/strip_mining/&#34;&gt;Strip Mining&lt;/a&gt; and &lt;a href=&#34;../policy/clear_cutting/&#34;&gt;Clear Cutting&lt;/a&gt;, which both incur a -2% happiness penalty. The &lt;a href=&#34;../policy/sustainability/&#34;&gt;Sustainability&lt;/a&gt; policy can be used later to remove this happiness penalty.&lt;/li&gt;
+&lt;li&gt;Challenges:Running the Atheism challenge decreases happiness by 0.5 for each run completed after the first.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;management&#34;&gt;Management&lt;/h3&gt;
+&lt;p&gt;To maintain a healthy, productive population, it is crucial to keep your Happiness nice and high. Players are advised to build Amphitheatres until they stop noticeably improving Happiness, as monitored by the ‘population penalty’ percentage on the top bar of the game. Trade Depots decrease the consumption rate of rare resources (luxuries).&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Happiness is a critical game mechanic that directly influences the productivity and overall efficiency of your Kittens in their work. The higher the level of happiness, the better the results of their labour.</p>
+<p>However, happiness can become a hindrance, as it is considered a production killer until you have enough Amphitheaters. As the population grows, Kittens become unhappy, and this affects overall production.</p>
+<h3 id="sources-and-effects-of-happiness">Sources and Effects of Happiness</h3>
+<h4 id="positive-sources-boosts">Positive Sources (Boosts)</h4>
+<ol>
+<li>Rare Resources: Rare resources (Furs, Ivory, and Spice) provide a happiness bonus. Hunting accumulates Furs and Ivory, which serves the purpose of increasing Happiness. Each rare resource, when consumed, gives +10% to happiness. Mints, which generate rare resources, also help boost happiness and therefore production. The Epicureanism policy can increase the happiness gained from rare resources to 11% each, and the Extravagance policy increases happiness from consumable luxury resources by 5.</li>
+<li>Karma: Karma, which is gained upon resetting the game (if you have more than 35 kittens), increases happiness, making your kittens happier and thus more productive.</li>
+<li><a href="/buildings/">Buildings</a> and <a href="/upgrade/">Upgrades:</a>
+<ul>
+<li><a href="/buildings/amphitheatre/">Amphitheatres</a> are crucial for the early game as they help reduce unhappiness caused by rising population.</li>
+<li>The religious upgrade <a href="/religion/sun_altar/">Sun Altar</a> (unlocked via the Order of the Sun) provides +0.5% happiness from Temples, with additional levels available through Transcendence.</li>
+<li>Sacrificing unicorns for a unicorn tear grants a happiness/production bonus.</li>
+<li>A single <a href="/buildings/broadcast_tower/">Broadcast Tower</a> can replace your entire stock of Amphitheaters for happiness purposes.</li>
+</ul>
+</li>
+<li>Policy/ and Policy Effects:
+<ul>
+<li>The <a href="/policy/liberty/">Liberty</a> policy increases the production effect of happiness by 10% and grants free housing for one kitten.</li>
+<li>The <a href="/policy/environmentalism/">Environmentalism</a> policy provides a +3% happiness effect.</li>
+<li>The <a href="/policy/conservation/">Conservation</a> policy increases happiness by +5%.</li>
+<li>The <a href="/policy/fascism/">Fascism</a> policy eliminates population penalties to happiness.</li>
+</ul>
+</li>
+</ol>
+<h4 id="negative-sources-penalties">Negative Sources (Penalties)</h4>
+<ol>
+<li>Population Growth: As population rises, kittens become unhappy.</li>
+<li>Pollution: A high level of pollution in the atmosphere negatively affects your kittens and reduces your happiness.</li>
+<li><a href="/policy/">Policy/:</a> Certain Policy/ increase happiness penalties, such as <a href="/policy/strip_mining/">Strip Mining</a> and <a href="/policy/clear_cutting/">Clear Cutting</a>, which both incur a -2% happiness penalty. The <a href="/policy/sustainability/">Sustainability</a> policy can be used later to remove this happiness penalty.</li>
+<li>Challenges:Running the Atheism challenge decreases happiness by 0.5 for each run completed after the first.</li>
+</ol>
+<h3 id="management">Management</h3>
+<p>To maintain a healthy, productive population, it is crucial to keep your Happiness nice and high. Players are advised to build Amphitheatres until they stop noticeably improving Happiness, as monitored by the ‘population penalty’ percentage on the top bar of the game. Trade Depots decrease the consumption rate of rare resources (luxuries).</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Trading</title>
+      <link>/guides/trading/</link>
+      <pubDate>Wed, 03 Dec 2025 07:31:04 +1100</pubDate>
+      <guid>/guides/trading/</guid>
+      <description>&lt;p&gt;The decision of &lt;strong&gt;when is a good time to trade&lt;/strong&gt; in &lt;em&gt;Kittens Game&lt;/em&gt; depends heavily on your current stage of progression, what specific resource you need, and which civilization you are trading with.&lt;/p&gt;
+&lt;p&gt;Here is a comprehensive breakdown of trading timelines and strategic considerations:&lt;/p&gt;
+&lt;h3 id=&#34;early-game-trading-after-year-20&#34;&gt;Early Game Trading (After Year 20)&lt;/h3&gt;
+&lt;p&gt;You can begin trading early, as the &lt;strong&gt;Trade tab unlocks after 20 years of gameplay&lt;/strong&gt; when a Lizard arrives, offering to trade Wood for Minerals. This can be decreased to &lt;strong&gt;Year 5&lt;/strong&gt; if you have more than 0 Karma, and even to &lt;strong&gt;Year 1&lt;/strong&gt; with the &lt;a href=&#34;../policy/diplomacy/&#34;&gt;Diplomacy&lt;/a&gt; Metaphysics upgrade.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The decision of <strong>when is a good time to trade</strong> in <em>Kittens Game</em> depends heavily on your current stage of progression, what specific resource you need, and which civilization you are trading with.</p>
+<p>Here is a comprehensive breakdown of trading timelines and strategic considerations:</p>
+<h3 id="early-game-trading-after-year-20">Early Game Trading (After Year 20)</h3>
+<p>You can begin trading early, as the <strong>Trade tab unlocks after 20 years of gameplay</strong> when a Lizard arrives, offering to trade Wood for Minerals. This can be decreased to <strong>Year 5</strong> if you have more than 0 Karma, and even to <strong>Year 1</strong> with the <a href="/policy/diplomacy/">Diplomacy</a> Metaphysics upgrade.</p>
+<p>Trading is immediately useful for:</p>
+<ul>
+<li><strong>Acquiring needed starting resources:</strong> For example, Lizards sell Wood for Minerals.</li>
+<li><strong>Hunting for Blueprints:</strong> Any successful trade has a <strong>10% chance of including one Blueprint</strong> as an extra resource. This is fixed and cannot be increased by other trade bonuses. Because Blueprints have an incredibly steep production cost, players are advised to <strong>keep Trading</strong> until they &ldquo;luck out and get a Blueprints for free&rdquo;.</li>
+<li><strong>Acquiring Spice:</strong> Spice (a luxury resource) has a <strong>35% chance</strong> of being included in a successful trade.</li>
+</ul>
+<p>You must first create <a href="/resource/gold/">Gold</a> before you can trade with anyone, which is accomplished by developing the <a href="/upgrade/gold_ore/">Gold Ore</a> upgrade in the Workshop.</p>
+<h3 id="mid-to-late-game-trading-titanium-and-blueprint-acquisition">Mid-to-Late Game Trading (Titanium and Blueprint Acquisition)</h3>
+<p>Trading becomes central during the mid-game, particularly in the <strong>Titanium era</strong> (after researching Astronomy and Navigation).</p>
+<ul>
+<li>
+<p><strong>Trading for Titanium and Iron (Zebras):</strong></p>
+<ul>
+<li>Once you learn Navigation and build <a href="/craft/trade_ship/">Trade Ships</a> (which require Starcharts), you can <strong>Send Explorers</strong> to discover additional civilizations, including the hostile <a href="/civilisations/zebras/">Zebras</a>.</li>
+<li>Zebras trade Slabs for <strong>Titanium and Iron</strong>.</li>
+<li>The focus becomes <strong>trading with Zebras non-stop</strong> to acquire Titanium and Iron.</li>
+<li>This is especially important in the <strong>Concrete era</strong>, where Blueprint requirements for sciences start becoming a bottleneck. Trading allows you to <strong>stockpile blueprints</strong> while also acquiring titanium and steel.</li>
+</ul>
+</li>
+<li>
+<p><strong>Trading for Minerals/Automation (Nagas and Griffins):</strong></p>
+<ul>
+<li><a href="/civilisations/nagas/">Nagas</a> are discovered once you achieve <strong>1500 Culture Cap</strong>. They sell <strong>Minerals</strong> for Ivory. This trade can be used in a loop: trading Ivory for Minerals, then putting Minerals back into Smelters to produce Gold, which is needed for trade costs and other buildings.</li>
+<li>The sources also suggest a trading loop involving <strong>Sharks and Griffins</strong> to collect Wood, Steel, Gears, and Blueprints for <a href="/buildings/steamworks/">Steamworks</a>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="seasonal-considerations-optimizing-trade-timing">Seasonal Considerations (Optimizing Trade Timing)</h3>
+<p>Trade rates are affected by seasons, making it optimal to trade certain resources during specific times of the year:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Race/Resource</th>
+					<th style="text-align: left">Season for Optimal Trade</th>
+					<th style="text-align: left">Modifier</th>
+					<th style="text-align: left">Strategic Note</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Lizards (Wood)</strong></td>
+					<td style="text-align: left"><strong>Summer</strong></td>
+					<td style="text-align: left">+35% (Also good in Autumn: +15%, and Winter: +5%)</td>
+					<td style="text-align: left">Wood is generally useful for construction.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Sharks (Catnip)</strong></td>
+					<td style="text-align: left"><strong>Winter</strong></td>
+					<td style="text-align: left">+45% (Also good in Spring: +20%, and Autumn: +15%)</td>
+					<td style="text-align: left">Good for supplementing food supply, especially during harsh winters.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Griffins (Iron)</strong></td>
+					<td style="text-align: left"><strong>Autumn</strong></td>
+					<td style="text-align: left">+35%</td>
+					<td style="text-align: left">Useful for supporting Smelters and Steel production.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Nagas (Minerals)</strong></td>
+					<td style="text-align: left"><strong>Spring</strong></td>
+					<td style="text-align: left">+25%</td>
+					<td style="text-align: left">Useful for early building materials and supporting Smelters. The guide suggests trading with Nagas <strong>only in Spring</strong>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Zebras (Iron)</strong></td>
+					<td style="text-align: left"><strong>Summer</strong></td>
+					<td style="text-align: left">+15%</td>
+					<td style="text-align: left">Zebras generally buy Slabs, making them an import source for Iron and Titanium.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Zebras (Plate)</strong></td>
+					<td style="text-align: left"><strong>Winter</strong></td>
+					<td style="text-align: left">+25% (Also good in Spring/Autumn: +5%)</td>
+					<td style="text-align: left">Plate is important for advanced storage (Harbours).</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Spiders (Coal)</strong></td>
+					<td style="text-align: left"><strong>Autumn</strong></td>
+					<td style="text-align: left">+15%</td>
+					<td style="text-align: left">Useful for powering industrial buildings.</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="end-game-trading-blueprints-and-final-push">End-Game Trading (Blueprints and Final Push)</h3>
+<p>In the end-game, trading remains the fastest way to acquire large amounts of <a href="/resource/blueprint/">Blueprints</a> and facilitates rapid resets:</p>
+<ul>
+<li><strong>Fastest Reset Method:</strong> Trading becomes the <strong>fastest reset possible</strong> once you have a massive Catpower stockpile. You can trade, acquire necessary Blueprints (which are needed for Chronospheres), and reset rapidly.</li>
+<li><strong>Leviathans (Relics and Time Crystals):</strong> Once you acquire a <a href="/ziggurat/black_pyramid/">Black Pyramid</a>, <a href="/civilisations/leviathans/">Leviathans</a> appear and trade <a href="/resource/unobtainium/">Unobtainium</a> for advanced resources like <strong>Time Crystals, Relics, and Sorrow</strong>. This trade has no seasonal adjustment.</li>
+</ul>
+<p>In summary, you should start trading as soon as you meet the prerequisites (Gold and <a href="/techs/currency/">Currency</a> technology), prioritize it in the <strong>Titanium era</strong> to secure Blueprints and Titanium from Zebras, and time your trades with Nagas, Griffins, and Sharks according to the <a href="/guides/seasons/">seasons</a> to maximize resource returns.</p>
+<p>Trading often acts as a supply chain bridge, like using a freight train to move large quantities of bulk goods needed for heavy industry, rather than trying to hand-carry every component.</p>
+<h3 id="how-tradeposts-affect-the-traderatio">How Tradeposts Affect the TradeRatio</h3>
+<p>Tradeposts affect the <code>{TradeRatio}</code> through three distinct mechanisms:</p>
+<p>A. Direct Building Effect (Base Trade Ratio)
+Each built Tradepost (tradepost.val) adds to the global building effect tradeRatio.</p>
+<p>Bonus per Tradepost: +0.015 (or +1.5%)
+Formula contribution: {Base Tradeposts Bonus} = 0.015 * {Number of Tradeposts}$$</p>
+<p>B. Synergy with Policies (Phantom Tradeposts)</p>
+<p>The diplomatic policy bonus (<code>calculateTradeBonusFromPolicies</code>) treats certain policy effects as &ldquo;phantom tradeposts&rdquo; that are multiplied by the base tradepost efficiency 0.015.</p>
+<p>Formula:<code>{Policy Bonus} = 0.015 * {PhantomTradeposts}</code></p>
+<p>Phantom Tradepost Sources (for non-zebra races like Leviathans):</p>
+<ul>
+<li>Liberalism: +10 Phantom Tradeposts</li>
+<li>Outer Space Treaty: +10 Phantom Tradeposts</li>
+<li>Zebra Relations Bellicosity: +5 Phantom Tradeposts</li>
+<li>Max Contribution: Up to +0.375 (+37.5%) to {TradeRatio} from policies.</li>
+</ul>
+<p>Note: The number of physically built Tradeposts does not scale this policy bonus; it only utilizes the base tradepost multiplier coefficient of 0.015.</p>
+<p>C. Pacifism Challenge Completion Synergy</p>
+<p>If the Pacifism challenge has been completed one or more times, it unlocks a permanent trade ratio bonus when the challenge is inactive:</p>
+<p><code>{Pacifism Bonus} = 0.015 * \min\Big({TradepostLimit}, {Number of Tradeposts} * {TradepostRatioLimit}\Big)</code></p>
+<p>Where:</p>
+<p>{TradeKnowledge}: Typically 1.0 per completion of the Pacifism challenge.</p>
+<p>{TradepostLimit}: (7 + 3 * {TradeKnowledge}) * (0.99 + 0.01 * {TradeKnowledge})</p>
+<p>{TradepostRatioLimit}$: A diminishing returns factor capped at 0.25.</p>
+<p>This means completed Pacifism runs directly scale the efficiency of your built Tradeposts, allowing your physical Tradepost count to provide an extra multiplicative boost to the {TradeRatio}.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

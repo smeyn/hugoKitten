@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/zebraupgrades/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Sat, 29 Nov 2025 20:44:33 +1100</lastBuildDate>
+    <atom:link href="/zebraupgrades/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minerology Department</title>
+      <link>/zebraupgrades/mineralogy_department/</link>
+      <pubDate>Wed, 22 Apr 2026 20:32:23 +0000</pubDate>
+      <guid>/zebraupgrades/mineralogy_department/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Minerology Department&lt;/strong&gt; is a special Zebra Upgrade available in the game, primarily relevant for players exploring the Iron Will mechanics.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; To unlock the ability to purchase the Minerology Department, you must first research the &lt;a href=&#34;../techs/geology/&#34;&gt;Geology&lt;/a&gt; science.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; The upgrade requires an investment of &lt;strong&gt;75,000 Science&lt;/strong&gt; and &lt;strong&gt;75 Compendiums&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effect&#34;&gt;&lt;strong&gt;Core Effect&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Meteor Yield Boost:&lt;/strong&gt; Once purchased, minerology is taught in your Academies, which directly improves the resources you gather from falling meteors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scaling:&lt;/strong&gt; Specifically, this upgrade grants a &lt;strong&gt;+1% production boost to meteor yields for every Academy&lt;/strong&gt; you have constructed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;player-insight&#34;&gt;&lt;strong&gt;Player Insight&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;While the upgrade is designed to increase meteor yields based on your Academy count, some players have reported seeing &lt;strong&gt;no noticeable change&lt;/strong&gt; in the yield of regular meteors after acquiring it. This suggests its actual impact might be bugged, extremely minor, or potentially only noticeable on special events like ivory meteors.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <strong>Minerology Department</strong> is a special Zebra Upgrade available in the game, primarily relevant for players exploring the Iron Will mechanics.</p>
+<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<ul>
+<li><strong>Prerequisite:</strong> To unlock the ability to purchase the Minerology Department, you must first research the <a href="/techs/geology/">Geology</a> science.</li>
+<li><strong>Cost:</strong> The upgrade requires an investment of <strong>75,000 Science</strong> and <strong>75 Compendiums</strong>.</li>
+</ul>
+<h3 id="core-effect"><strong>Core Effect</strong></h3>
+<ul>
+<li><strong>Meteor Yield Boost:</strong> Once purchased, minerology is taught in your Academies, which directly improves the resources you gather from falling meteors.</li>
+<li><strong>Scaling:</strong> Specifically, this upgrade grants a <strong>+1% production boost to meteor yields for every Academy</strong> you have constructed.</li>
+</ul>
+<h3 id="player-insight"><strong>Player Insight</strong></h3>
+<p>While the upgrade is designed to increase meteor yields based on your Academy count, some players have reported seeing <strong>no noticeable change</strong> in the yield of regular meteors after acquiring it. This suggests its actual impact might be bugged, extremely minor, or potentially only noticeable on special events like ivory meteors.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Dark Revolution</title>
+      <link>/zebraupgrades/dark_revolution/</link>
+      <pubDate>Wed, 22 Apr 2026 20:07:05 +0000</pubDate>
+      <guid>/zebraupgrades/dark_revolution/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../zebraupgrades/dark_revolution/&#34;&gt;Dark Revolution&lt;/a&gt; is a religion-tier upgrade in Kittens Game that acts as a pivot point for your late-game faith and resource strategy. It essentially converts your religious progression into a tool for &lt;strong&gt;efficiency and speed&lt;/strong&gt;, particularly regarding the &amp;ldquo;Dark Future&amp;rdquo; mechanics.&lt;/p&gt;
+&lt;h3 id=&#34;key-benefits--effects&#34;&gt;Key Benefits &amp;amp; Effects&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Solar Revolution Cap:&lt;/strong&gt; Its most significant effect is providing a way to increase the &lt;a href=&#34;../religion/solar_revolution/&#34;&gt;Solar Revolution&lt;/a&gt; production bonus cap. In later stages of the game, your faith bonus can become so massive it hits a ceiling; Dark Revolution helps push through that.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kitten Sacrifice Efficiency:&lt;/strong&gt; It increases the yield of &lt;a href=&#34;../resource/tears/&#34;&gt;Tears&lt;/a&gt; when sacrificing kittens (via the &lt;em&gt;Ziggurat&lt;/em&gt;). This is crucial for building up your &lt;a href=&#34;../techs/cryptotheology/&#34;&gt;Cryptotheology&lt;/a&gt; structures (like Black Obelisks and Event Horizons).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blackcoin Interaction:&lt;/strong&gt; While it doesn&amp;rsquo;t directly change the market price of Blackcoin, the increased faith and relic generation it supports allow you to engage in much larger &lt;strong&gt;Blackcoin speculation&lt;/strong&gt; cycles.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zebra Synergy:&lt;/strong&gt; It makes &lt;a href=&#34;../buildings/zebra_outpost/&#34;&gt;Zebra Outposts&lt;/a&gt; 10x more effective at increasing your Catpower production limit, which is vital for late-game hunting and trading.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;how-to-unlock-it&#34;&gt;How to Unlock It&lt;/h3&gt;
+&lt;p&gt;To see Dark Revolution in your Religion tab, you typically need to meet several high-level requirements:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/zebraupgrades/dark_revolution/">Dark Revolution</a> is a religion-tier upgrade in Kittens Game that acts as a pivot point for your late-game faith and resource strategy. It essentially converts your religious progression into a tool for <strong>efficiency and speed</strong>, particularly regarding the &ldquo;Dark Future&rdquo; mechanics.</p>
+<h3 id="key-benefits--effects">Key Benefits &amp; Effects</h3>
+<ul>
+<li><strong>Solar Revolution Cap:</strong> Its most significant effect is providing a way to increase the <a href="/religion/solar_revolution/">Solar Revolution</a> production bonus cap. In later stages of the game, your faith bonus can become so massive it hits a ceiling; Dark Revolution helps push through that.</li>
+<li><strong>Kitten Sacrifice Efficiency:</strong> It increases the yield of <a href="/resource/tears/">Tears</a> when sacrificing kittens (via the <em>Ziggurat</em>). This is crucial for building up your <a href="/techs/cryptotheology/">Cryptotheology</a> structures (like Black Obelisks and Event Horizons).</li>
+<li><strong>Blackcoin Interaction:</strong> While it doesn&rsquo;t directly change the market price of Blackcoin, the increased faith and relic generation it supports allow you to engage in much larger <strong>Blackcoin speculation</strong> cycles.</li>
+<li><strong>Zebra Synergy:</strong> It makes <a href="/buildings/zebra_outpost/">Zebra Outposts</a> 10x more effective at increasing your Catpower production limit, which is vital for late-game hunting and trading.</li>
+</ul>
+<hr>
+<h3 id="how-to-unlock-it">How to Unlock It</h3>
+<p>To see Dark Revolution in your Religion tab, you typically need to meet several high-level requirements:</p>
+<ol>
+<li><strong>Transcendence Tier:</strong> You generally need to be at least <strong>Transcendence Tier 5-10</strong>.</li>
+<li><a href="/buildings/zebra_workshop/">Zebra Workshop:</a> You must have unlocked the Zebra Workshop (which requires hunting with at least 10 Zebras and gathering <a href="/craft/bloodstone/">Bloodstones</a>).</li>
+<li><a href="/techs/cryptotheology/">Cryptotheology:</a> Having at least one <a href="/ziggurat/black_pyramid/">Black Pyramid</a> or <a href="/ziggurat/marker/">Marker</a> is often a prerequisite to unlock the &ldquo;darker&rdquo; side of the religion tree.</li>
+</ol>
+<h3 id="strategic-use">Strategic Use</h3>
+<p>You should prioritize Dark Revolution when your runs start lasting long enough to hit the <a href="/guides/dark-future/">Dark Future</a> (Year 40,000+). It helps offset the production penalties that occur in the deep future and scales your resource generation to the levels needed for <a href="/buildings/chronosphere/">Chronospheres</a> and massive paragon grinding.</p>
+<blockquote>
+<p><strong>Pro Tip:</strong> Combine Dark Revolution with <a href="/transcendence/black_obelisk/">Black Obelisks</a>. The Obelisks increase the effectiveness of your Solar Revolution bonus, and Dark Revolution ensures you have the raw power to reach those higher caps.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Bloodstone Institute</title>
+      <link>/zebraupgrades/bloodstone_institute/</link>
+      <pubDate>Sat, 28 Mar 2026 11:57:49 +0000</pubDate>
+      <guid>/zebraupgrades/bloodstone_institute/</guid>
+      <description>&lt;p&gt;The specific term &amp;ldquo;Bloodstone Institute&amp;rdquo; does not appear in the provided sources. However, the sources contain extensive information regarding the Bloodstone resource and the specialized Zebra buildings that utilize it.
+Bloodstone Resource
+Acquisition: In Iron Will (IW) mode, if you have at least 10 Zebras, every hunt has a 0.05% chance of yielding a bloodstone
+. This chance increases significantly to 5% if you do not already possess any bloodstone
+.
+Crafting: Bloodstone is a high-tier craftable resource. It can be produced using 5,000 Time Crystals and 10,000 Relics, provided you have built a Zebra Forge
+.
+Effect: Possessing bloodstone provides a +10% bonus to kitten happiness
+.
+Associated Buildings
+Bloodstone is the primary resource used to construct and upgrade specialized buildings for Zebras in Iron Will mode:
+Zebra Outpost: Costs 1 Bloodstone. It provides a +5% hunting bonus and increases maximum catpower by 5
+.
+Zebra Workshop: Costs 5 Bloodstone. This building is critical as it unlocks Zebra-specific upgrades in the Workshop tab and increases maximum catpower by 10
+.
+Zebra Forge: Costs 50 Bloodstone. It unlocks the ability to craft Bloodstone and T-Mythril and provides a +50 bonus to maximum catpower
+.
+Zebra Upgrades (Unlocked via Zebra Workshop)
+Once the Zebra Workshop is active, several upgrades become available that often require Bloodstones:
+Dark Revolution: Increases the Zebra base catpower production cap by 1 (or 0.1 in non-Iron Will runs) for each Zebra Outpost built
+.
+Dark Brew: Requires 1 Bloodstone, 3,000 Parchment, and 100 Science. It causes festivals to boost the chance of Zebra arrivals
+.
+Whispers: Requires 5 T-Mythril. It unlocks &amp;ldquo;Alicorn Ascension&amp;rdquo; rituals at Ivory Temples, which automates mineral production and T-Mythril generation
+.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The specific term &ldquo;Bloodstone Institute&rdquo; does not appear in the provided sources. However, the sources contain extensive information regarding the Bloodstone resource and the specialized Zebra buildings that utilize it.
+Bloodstone Resource
+Acquisition: In Iron Will (IW) mode, if you have at least 10 Zebras, every hunt has a 0.05% chance of yielding a bloodstone
+. This chance increases significantly to 5% if you do not already possess any bloodstone
+.
+Crafting: Bloodstone is a high-tier craftable resource. It can be produced using 5,000 Time Crystals and 10,000 Relics, provided you have built a Zebra Forge
+.
+Effect: Possessing bloodstone provides a +10% bonus to kitten happiness
+.
+Associated Buildings
+Bloodstone is the primary resource used to construct and upgrade specialized buildings for Zebras in Iron Will mode:
+Zebra Outpost: Costs 1 Bloodstone. It provides a +5% hunting bonus and increases maximum catpower by 5
+.
+Zebra Workshop: Costs 5 Bloodstone. This building is critical as it unlocks Zebra-specific upgrades in the Workshop tab and increases maximum catpower by 10
+.
+Zebra Forge: Costs 50 Bloodstone. It unlocks the ability to craft Bloodstone and T-Mythril and provides a +50 bonus to maximum catpower
+.
+Zebra Upgrades (Unlocked via Zebra Workshop)
+Once the Zebra Workshop is active, several upgrades become available that often require Bloodstones:
+Dark Revolution: Increases the Zebra base catpower production cap by 1 (or 0.1 in non-Iron Will runs) for each Zebra Outpost built
+.
+Dark Brew: Requires 1 Bloodstone, 3,000 Parchment, and 100 Science. It causes festivals to boost the chance of Zebra arrivals
+.
+Whispers: Requires 5 T-Mythril. It unlocks &ldquo;Alicorn Ascension&rdquo; rituals at Ivory Temples, which automates mineral production and T-Mythril generation
+.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Dark Brew</title>
+      <link>/zebraupgrades/dark_brew/</link>
+      <pubDate>Thu, 12 Mar 2026 07:11:30 +0000</pubDate>
+      <guid>/zebraupgrades/dark_brew/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../zebraupgrades/dark_brew/&#34;&gt;Dark Brew&lt;/a&gt; is a specific &lt;strong&gt;Zebra Upgrade&lt;/strong&gt; available in the Workshop tab.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To purchase this upgrade, you must meet the following requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite Building:&lt;/strong&gt; You must have constructed at least one &lt;a href=&#34;../buildings/brewery/&#34;&gt;Brewery&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resource Costs:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../craft/bloodstone/&#34;&gt;Bloodstone:&lt;/a&gt; 1&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../craft/parchment/&#34;&gt;Parchment:&lt;/a&gt; 3,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/science/&#34;&gt;Science:&lt;/a&gt; 100&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;effects&#34;&gt;&lt;strong&gt;Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The primary function of Dark Brew is to link &lt;a href=&#34;../guides/festivals/&#34;&gt;Festivals&lt;/a&gt; with your zebra population growth. When this upgrade is active, holding a festival provides a &lt;strong&gt;boost to the chance of zebra arrival&lt;/strong&gt;. Specifically, the &amp;ldquo;festival arrival rate&amp;rdquo; (the speed at which new kittens normally arrive during a festival) also functions as a &lt;strong&gt;multiplier&lt;/strong&gt; for the zebra arrival chance.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/zebraupgrades/dark_brew/">Dark Brew</a> is a specific <strong>Zebra Upgrade</strong> available in the Workshop tab.</p>
+<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<p>To purchase this upgrade, you must meet the following requirements:</p>
+<ul>
+<li><strong>Prerequisite Building:</strong> You must have constructed at least one <a href="/buildings/brewery/">Brewery</a>.</li>
+<li><strong>Resource Costs:</strong>
+<ul>
+<li><a href="/craft/bloodstone/">Bloodstone:</a> 1</li>
+<li><a href="/craft/parchment/">Parchment:</a> 3,000</li>
+<li><a href="/resource/science/">Science:</a> 100</li>
+</ul>
+</li>
+</ul>
+<h3 id="effects"><strong>Effects</strong></h3>
+<p>The primary function of Dark Brew is to link <a href="/guides/festivals/">Festivals</a> with your zebra population growth. When this upgrade is active, holding a festival provides a <strong>boost to the chance of zebra arrival</strong>. Specifically, the &ldquo;festival arrival rate&rdquo; (the speed at which new kittens normally arrive during a festival) also functions as a <strong>multiplier</strong> for the zebra arrival chance.</p>
+<h3 id="strategic-context"><strong>Strategic Context</strong></h3>
+<p>This upgrade is part of the late-game zebra progression system, which is particularly relevant in <a href="/challenges/ironwill/">Iron Will</a> mode where zebras serve as your primary labor force. Because Bloodstones are rare resources (obtained from hunting with at least 10 zebras or crafted from Time Crystals and Relics), Dark Brew represents an advanced stage of zebra accumulation. By using the <a href="/buildings/brewery/">Brewery</a> to run festivals, players can significantly accelerate the rate at which they reach higher zebra counts, which in turn provides more <a href="/resource/cat_power/">Catpower</a> and better hunting yields.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Whispers</title>
+      <link>/zebraupgrades/whispers/</link>
+      <pubDate>Sat, 29 Nov 2025 09:44:33 +0000</pubDate>
+      <guid>/zebraupgrades/whispers/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+  </channel>
+</rss>

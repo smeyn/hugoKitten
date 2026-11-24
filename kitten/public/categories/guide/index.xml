@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/categories/guide/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Tue, 14 Apr 2026 22:19:37 +0000</lastBuildDate>
+    <atom:link href="/categories/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is the fastest way to farm Time Crystals?</title>
+      <link>/guides/what-is-the-fastest-way-to-farm-time-crystals/</link>
+      <pubDate>Tue, 14 Apr 2026 22:19:37 +0000</pubDate>
+      <guid>/guides/what-is-the-fastest-way-to-farm-time-crystals/</guid>
+      <description>&lt;p&gt;The absolute fastest way to farm Time Crystals in the late game is through &lt;strong&gt;mass trading Unobtainium with the Leviathans&lt;/strong&gt;, which is roughly 30 times faster than waiting for Alicorns to sacrifice.&lt;/p&gt;
+&lt;p&gt;To achieve this, you need to maximize your Unobtainium production and your trade efficiency, eventually creating a self-sustaining &lt;strong&gt;&amp;ldquo;Shatter Engine&amp;rdquo;&lt;/strong&gt;. Here is the step-by-step strategy:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Maximize Unobtainium Production&lt;/strong&gt;
+Since each trade with the Leviathans costs 5,000 Unobtainium, your base production must be astronomically high:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The absolute fastest way to farm Time Crystals in the late game is through <strong>mass trading Unobtainium with the Leviathans</strong>, which is roughly 30 times faster than waiting for Alicorns to sacrifice.</p>
+<p>To achieve this, you need to maximize your Unobtainium production and your trade efficiency, eventually creating a self-sustaining <strong>&ldquo;Shatter Engine&rdquo;</strong>. Here is the step-by-step strategy:</p>
+<p><strong>1. Maximize Unobtainium Production</strong>
+Since each trade with the Leviathans costs 5,000 Unobtainium, your base production must be astronomically high:</p>
+<ul>
+<li><strong>Space Structures:</strong> Max out Lunar Outposts, Space Elevators, Orbital Arrays, and Factories.</li>
+<li><strong>Upgrades and Policies:</strong> Research the <em>Factory Logistics</em> workshop upgrade, and enact the <em>Full Industrialization</em>, <em>Cosmological Libertarianism</em>, and <em>Necrocracy</em> policies.</li>
+<li><a href="/guides/festivals/">Festivals:</a> Maximize Breweries and ensure festivals are running non-stop.</li>
+<li><strong>The <a href="/cycles/redmoon_cycle/"> Redmoon Cycle </a>:</strong> With the <em>Numerology</em> and <em>Numeromancy</em> metaphysics upgrades, the Redmoon cycle grants a massive multiplier to Unobtainium production. Use Time Crystals to skip right to the Redmoon cycle and spend the majority of your time there.</li>
+</ul>
+<p><strong>2. Maximize Time Crystals per Trade</strong>
+You want to ensure that every 5,000 Unobtainium traded yields as many Time Crystals as possible:</p>
+<ul>
+<li><strong>Leviathan Energy:</strong> Feed Necrocorns to the Leviathans (Elders) whenever possible. Each point of energy increases the resources they give you by 2%.</li>
+<li><a href="/buildings/tradepost/">Tradeposts:</a> Max out your Tradeposts, as each one adds a +1.5% bonus to your trades.</li>
+<li><strong>Leader:</strong> Assign a <strong>Merchant</strong> leader, which significantly boosts trade efficiency, especially if you have a lot of burned paragon.</li>
+</ul>
+<p><strong>3. Build a &ldquo;Shatter Engine&rdquo;</strong>
+Once your base Unobtainium production reaches hundreds per second, you can transition to a Shatter Engine:</p>
+<ul>
+<li>Purchase levels of <a href="/upgrade/resource-retrieval/">Resource Retrieval</a> (1,000 TCs each). Each level instantly grants you 1% of your yearly resource production every time you shatter a Time Crystal to skip a year.</li>
+<li>Combine this with <a href="/time/chrono-furnace/">Chronofurnaces</a> (to manage the heat generated from shattering time) and <a href="/transcendence/blazar/">Blazars</a> (to improve Resource Retrieval effectiveness).</li>
+<li><strong>The Infinite Loop:</strong> With roughly 7 levels of Resource Retrieval and high base Unobtainium production, shattering a single Time Crystal will instantly yield enough Unobtainium to trade back to the Leviathans for <em>multiple</em> Time Crystals.</li>
+</ul>
+<p>Once this break-even point is reached, you can rapidly shatter crystals, trade the retrieved Unobtainium, and farm millions of Time Crystals without ever running out.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

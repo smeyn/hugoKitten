@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/transcendence/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Sat, 29 Nov 2025 20:44:33 +1100</lastBuildDate>
+    <atom:link href="/transcendence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event Horizon</title>
+      <link>/transcendence/event_horizon/</link>
+      <pubDate>Fri, 23 Oct 2026 10:49:25 +0000</pubDate>
+      <guid>/transcendence/event_horizon/</guid>
+      <description>&lt;p&gt;Event Horizon is a Cryptotheology upgrade under the Religion tab that fundamentally expands your late-game resource limits.&lt;/p&gt;
+&lt;p&gt;Unlike standard bonfire or space buildings, Cryptotheology structures are bought using Relics and persist permanently across resets.&lt;/p&gt;
+&lt;p&gt;Cost &amp;amp; Requirements&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tab: Religion to Cryptotheology&lt;/li&gt;
+&lt;li&gt;Unlock Requirement: Requires building a Black Pyramid (via Ziggurat sacrifices) to access the Cryptotheology panel.&lt;/li&gt;
+&lt;li&gt;Cost: Scales exponentially in Relics and Void:
+&lt;ul&gt;
+&lt;li&gt;Relic Cost: approx 100 times 1.25^N&lt;/li&gt;
+&lt;li&gt;Void Cost: Scales alongside relics per purchase rank.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What It Does&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Event Horizon is a Cryptotheology upgrade under the Religion tab that fundamentally expands your late-game resource limits.</p>
+<p>Unlike standard bonfire or space buildings, Cryptotheology structures are bought using Relics and persist permanently across resets.</p>
+<p>Cost &amp; Requirements</p>
+<ul>
+<li>Tab: Religion to Cryptotheology</li>
+<li>Unlock Requirement: Requires building a Black Pyramid (via Ziggurat sacrifices) to access the Cryptotheology panel.</li>
+<li>Cost: Scales exponentially in Relics and Void:
+<ul>
+<li>Relic Cost: approx 100 times 1.25^N</li>
+<li>Void Cost: Scales alongside relics per purchase rank.</li>
+</ul>
+</li>
+</ul>
+<p>What It Does</p>
+<ul>
+<li>
+<p>Compounding Global Storage Bonus: Each purchase of Event Horizon increases maximum storage capacity across all standard resources (Catnip, Wood, Minerals, Iron, Coal, Titanium, Oil, Unobtainium, Uranium, etc.).</p>
+</li>
+<li>
+<p>The Math:</p>
+<p><code>Storage Multiplier = (1 + 0.10)^N = 1.10^N</code></p>
+<p>Every level grants a +10% compounding bonus to overall storage caps.</p>
+</li>
+<li>
+<p>Stacking with Void Rifts: While Void Rifts (in the Space tab) also give compounding storage bonuses, Void Rifts reset when you reset your game. Event Horizon provides a permanent baseline that makes every subsequent run start with larger storage caps out of the gate.</p>
+</li>
+</ul>
+<p>Why It Is Critical in Late Game</p>
+<ol>
+<li>Unlocking Late-Game Price Thresholds: Late-game science techs, high-tier Chronospheres, AI Cores, and deep space missions have astronomical resource costs that standard Barns, Warehouses, and Harbors cannot hold. Event Horizon pushes those ceilings higher.</li>
+<li>Fueling the Shatter Loop: Higher Unobtainium caps mean you can hold more Unobtainium per time-shattered year via Resource Retrieval, allowing for larger bulk trades with Leviathans without overflowing and wasting materials.</li>
+<li>Reset Cushion: Because Event Horizon never resets, future runs reach high-capacity storage rapidly, letting you build advanced housing and factories much earlier.</li>
+</ol>
+<p>Spending Recommendation</p>
+<p>With a solid Relic reserve (such as 100k–200k+ Relics), aim for 15–25 levels of Event Horizon. Balancing Event Horizon with Black Nexus (which boosts Relic/TC yields from Leviathan trades) ensures your resource caps grow alongside your trade volume.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Singularity</title>
+      <link>/transcendence/singularity/</link>
+      <pubDate>Thu, 23 Apr 2026 20:46:26 +0000</pubDate>
+      <guid>/transcendence/singularity/</guid>
+      <description>&lt;p&gt;In &lt;strong&gt;Kittens Game&lt;/strong&gt;, the &lt;a href=&#34;../transcendence/singularity/&#34;&gt;Singularity&lt;/a&gt; is a high-level &lt;strong&gt;Metaphysics upgrade&lt;/strong&gt; that serves as a massive force multiplier for your late-game resource production. It represents the point where your civilization&amp;rsquo;s technological and spiritual progress merge into a single, unstoppable advancement.&lt;/p&gt;
+&lt;h3 id=&#34;key-effects&#34;&gt;Key Effects&lt;/h3&gt;
+&lt;p&gt;The Singularity is unique because it provides a &lt;strong&gt;global production bonus&lt;/strong&gt; that scales with your total number of Metaphysics upgrades:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Global Production Bonus:&lt;/strong&gt; It provides a &lt;strong&gt;+5% bonus&lt;/strong&gt; to all production.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The &amp;ldquo;Price Ratio&amp;rdquo; Capstone:&lt;/strong&gt; While upgrades like &lt;em&gt;Golden Ratio&lt;/em&gt; and &lt;em&gt;Vitruvian Feline&lt;/em&gt; reduce the price of buildings, Singularity is often the final &amp;ldquo;big purchase&amp;rdquo; players make in the Metaphysics tree before focusing entirely on &lt;a href=&#34;../resource/paragon/&#34;&gt;Paragon&lt;/a&gt; hoarding or &lt;a href=&#34;../techs/cryptotheology/&#34;&gt;Cryptotheology&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multiplier Synergy:&lt;/strong&gt; This 5% is multiplicative. In your current stage—dealing with &lt;a href=&#34;../upgrade/enriched_uranium/&#34;&gt;Enriched Uranium&lt;/a&gt; and &lt;strong&gt;Temporal Distortion&lt;/strong&gt;—this small percentage translates to massive raw gains in &lt;a href=&#34;../resource/unobtainium/&#34;&gt;Unobtainium&lt;/a&gt;, &lt;a href=&#34;../resource/antimatter/&#34;&gt;Antimatter&lt;/a&gt;, and &lt;a href=&#34;../resource/void/&#34;&gt;Void&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;unlock-requirements--cost&#34;&gt;Unlock Requirements &amp;amp; Cost&lt;/h3&gt;
+&lt;p&gt;To see Singularity in your Metaphysics tab, you must have progressed through the &amp;ldquo;feline&amp;rdquo; hierarchy of upgrades (Malkuth, Yesod, etc.):&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In <strong>Kittens Game</strong>, the <a href="/transcendence/singularity/">Singularity</a> is a high-level <strong>Metaphysics upgrade</strong> that serves as a massive force multiplier for your late-game resource production. It represents the point where your civilization&rsquo;s technological and spiritual progress merge into a single, unstoppable advancement.</p>
+<h3 id="key-effects">Key Effects</h3>
+<p>The Singularity is unique because it provides a <strong>global production bonus</strong> that scales with your total number of Metaphysics upgrades:</p>
+<ul>
+<li><strong>Global Production Bonus:</strong> It provides a <strong>+5% bonus</strong> to all production.</li>
+<li><strong>The &ldquo;Price Ratio&rdquo; Capstone:</strong> While upgrades like <em>Golden Ratio</em> and <em>Vitruvian Feline</em> reduce the price of buildings, Singularity is often the final &ldquo;big purchase&rdquo; players make in the Metaphysics tree before focusing entirely on <a href="/resource/paragon/">Paragon</a> hoarding or <a href="/techs/cryptotheology/">Cryptotheology</a>.</li>
+<li><strong>Multiplier Synergy:</strong> This 5% is multiplicative. In your current stage—dealing with <a href="/upgrade/enriched_uranium/">Enriched Uranium</a> and <strong>Temporal Distortion</strong>—this small percentage translates to massive raw gains in <a href="/resource/unobtainium/">Unobtainium</a>, <a href="/resource/antimatter/">Antimatter</a>, and <a href="/resource/void/">Void</a>.</li>
+</ul>
+<hr>
+<h3 id="unlock-requirements--cost">Unlock Requirements &amp; Cost</h3>
+<p>To see Singularity in your Metaphysics tab, you must have progressed through the &ldquo;feline&rdquo; hierarchy of upgrades (Malkuth, Yesod, etc.):</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Requirement</th>
+					<th style="text-align: left">Type</th>
+					<th style="text-align: left">Cost / Detail</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><a href="/techs/metaphysics/">Metaphysics</a></td>
+					<td style="text-align: left">Tab</td>
+					<td style="text-align: left">Requires Astronomy, Philosophy, and a Ziggurat.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Zodiac</strong></td>
+					<td style="text-align: left">Prerequisite</td>
+					<td style="text-align: left">You must have purchased the Zodiac upgrade first.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/resource/paragon/">Paragon</a></td>
+					<td style="text-align: left">Resource</td>
+					<td style="text-align: left"><strong>250 Paragon</strong></td>
+			</tr>
+	</tbody>
+</table>
+<hr>
+<h3 id="strategic-context">Strategic Context</h3>
+<p>Given that you are managing complex late-game systems, the Singularity is essentially your &ldquo;end-game&rdquo; badge for a standard run.</p>
+<ol>
+<li><strong>Paragon Management:</strong> 250 Paragon is a significant investment. You should only buy Singularity if you already have the core <strong>Price Ratio</strong> upgrades (Engineering, Golden Ratio, Vitruvian Feline, Renaissance). If you don&rsquo;t have those, the price reduction they offer is mathematically superior to the 5% production boost from Singularity.</li>
+<li><strong>The Dark Future:</strong> If you are pushing toward Year 40,000+ (the Dark Future), every percentage point matters. Singularity helps counteract the production penalties that can occur when <strong>Temporal Distortion</strong> gets out of hand.</li>
+<li><strong>Reset Planning:</strong> Since Metaphysics upgrades are permanent, buying Singularity makes every subsequent run 5% faster from the very first minute. It makes the &ldquo;early game slog&rdquo; almost non-existent.</li>
+</ol>
+<blockquote>
+<p><strong>Expert Tip:</strong> If you are currently farming <a href="/resource/void/">Void</a>, the 5% bonus from Singularity also applies to the effectiveness of your <a href="/time/void-resonator/">Void Resonators</a>, slightly increasing the frequency of your paradoxes and your total Void yield.</p>
+</blockquote>
+<h3 id="summary-should-you-buy-it-now">Summary: Should you buy it now?</h3>
+<ul>
+<li><strong>YES:</strong> If you have over 750 total Paragon and already own <a href="/metaphysics/renaissance/">Renaissance</a>.</li>
+<li><strong>NO:</strong> If you are still struggling to lower building prices. Save that Paragon for <a href="/metaphysics/renaissance/">Renaissance</a> (750 Paragon) first; it is the single most powerful upgrade in the game.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Mausoleum</title>
+      <link>/transcendence/mausoleum/</link>
+      <pubDate>Wed, 22 Apr 2026 20:28:49 +0000</pubDate>
+      <guid>/transcendence/mausoleum/</guid>
+      <description>&lt;p&gt;In &lt;strong&gt;Kittens Game&lt;/strong&gt;, the &lt;a href=&#34;../transcendence/mausoleum/&#34;&gt;Mausoleum&lt;/a&gt; is a late-game religious building that serves as a cornerstone for managing &lt;strong&gt;Temporal Distortion&lt;/strong&gt; and scaling your high-level faith bonuses.&lt;/p&gt;
+&lt;p&gt;It represents a permanent monument to your fallen kittens, allowing their &amp;ldquo;legacy&amp;rdquo; to stabilize your timeline.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;key-effects&#34;&gt;Key Effects&lt;/h3&gt;
+&lt;p&gt;The Mausoleum provides three critical benefits for advanced players:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Distortion Reduction:&lt;/strong&gt; It is the primary building used to reduce &lt;strong&gt;Temporal Distortion&lt;/strong&gt;. Each Mausoleum provides a flat reduction to the distortion generated by &lt;strong&gt;Temporal Paradoxes&lt;/strong&gt;, allowing you to farm &lt;a href=&#34;../resource/void/&#34;&gt;Void&lt;/a&gt; more sustainably without crashing your production.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Solar Revolution Bonus:&lt;/strong&gt; It increases the effectiveness of your &lt;a href=&#34;../religion/solar_revolution/&#34;&gt;Solar Revolution&lt;/a&gt; bonus. This allows your total production multiplier from faith to reach even higher levels, which is essential for late-game resource scaling.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Epimetheus Synergy:&lt;/strong&gt; In the &lt;a href=&#34;../techs/metaphysics/&#34;&gt;Metaphysics&lt;/a&gt; tree, the Mausoleum interacts with &amp;ldquo;The Codex&amp;rdquo; series of upgrades, further boosting your science and faith limits.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;how-to-unlock-and-build&#34;&gt;How to Unlock and Build&lt;/h3&gt;
+&lt;p&gt;Since you are currently dealing with &lt;a href=&#34;../upgrade/enriched_uranium/&#34;&gt;Enriched Uranium&lt;/a&gt;, you likely have most of these requirements met:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In <strong>Kittens Game</strong>, the <a href="/transcendence/mausoleum/">Mausoleum</a> is a late-game religious building that serves as a cornerstone for managing <strong>Temporal Distortion</strong> and scaling your high-level faith bonuses.</p>
+<p>It represents a permanent monument to your fallen kittens, allowing their &ldquo;legacy&rdquo; to stabilize your timeline.</p>
+<hr>
+<h3 id="key-effects">Key Effects</h3>
+<p>The Mausoleum provides three critical benefits for advanced players:</p>
+<ul>
+<li><strong>Distortion Reduction:</strong> It is the primary building used to reduce <strong>Temporal Distortion</strong>. Each Mausoleum provides a flat reduction to the distortion generated by <strong>Temporal Paradoxes</strong>, allowing you to farm <a href="/resource/void/">Void</a> more sustainably without crashing your production.</li>
+<li><strong>Solar Revolution Bonus:</strong> It increases the effectiveness of your <a href="/religion/solar_revolution/">Solar Revolution</a> bonus. This allows your total production multiplier from faith to reach even higher levels, which is essential for late-game resource scaling.</li>
+<li><strong>Epimetheus Synergy:</strong> In the <a href="/techs/metaphysics/">Metaphysics</a> tree, the Mausoleum interacts with &ldquo;The Codex&rdquo; series of upgrades, further boosting your science and faith limits.</li>
+</ul>
+<hr>
+<h3 id="how-to-unlock-and-build">How to Unlock and Build</h3>
+<p>Since you are currently dealing with <a href="/upgrade/enriched_uranium/">Enriched Uranium</a>, you likely have most of these requirements met:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Requirement</th>
+					<th style="text-align: left">Type</th>
+					<th style="text-align: left">Cost / Detail</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><a href="/ziggurat/black_pyramid/">Black Pyramid</a></td>
+					<td style="text-align: left">Building</td>
+					<td style="text-align: left">You must have at least one <a href="/buildings/ziggurat/">Ziggurat</a> upgraded to a Black Pyramid.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/techs/theology/">Theology</a></td>
+					<td style="text-align: left">Technology</td>
+					<td style="text-align: left">Base religious requirement.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/resource/relic/">Relics</a></td>
+					<td style="text-align: left">Resource</td>
+					<td style="text-align: left"><strong>5 Relics</strong></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/craft/alloy/">Alloy</a></td>
+					<td style="text-align: left">Resource</td>
+					<td style="text-align: left"><strong>2,500 Alloy</strong></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/resource/blueprint/">Blueprints</a></td>
+					<td style="text-align: left">Resource</td>
+					<td style="text-align: left"><strong>250 Blueprints</strong></td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="strategic-use">Strategic Use</h3>
+<ol>
+<li><strong>Void Farming:</strong> If you are building <a href="/buildings/chronosphere/">Chronospheres</a>, you need Void. Use Mausoleums to keep your Distortion under control while your <a href="/time/void-resonator/">Void Resonators</a> trigger paradoxes.</li>
+<li><strong>Faith Caps:</strong> Once you have a high <strong>Transcendence Tier</strong>, Mausoleums are one of the few ways to continue growing your global production bonus when other buildings hit their diminishing returns.</li>
+<li><strong>Stability:</strong> If you notice your resource production &ldquo;flickering&rdquo; or dropping unexpectedly, it’s likely due to high Distortion. Building 5–10 Mausoleums usually stabilizes the timeline for mid-range Void farming.</li>
+</ol>
+<h3 id="summary-of-benefits">Summary of Benefits</h3>
+<ul>
+<li><strong>Primary Purpose:</strong> Stabilizing time and boosting late-game production.</li>
+<li><strong>Scaling:</strong> Its costs scale moderately, making it a reliable place to dump excess <a href="/resource/relic/">Relics</a> once your <a href="/techs/cryptotheology/">Cryptotheology</a> is established.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Levels</title>
+      <link>/transcendence/levels/</link>
+      <pubDate>Wed, 24 Dec 2025 12:53:15 +1100</pubDate>
+      <guid>/transcendence/levels/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../religion/transcendence/&#34;&gt;Transcendence&lt;/a&gt; is a late-game religious mechanic that allows you to spend &lt;a href=&#34;../religion/epiphany/&#34;&gt;Epiphany&lt;/a&gt; (also known as the Apocrypha bonus) to permanently increase your &lt;strong&gt;Transcendence Tier&lt;/strong&gt;. These tiers carry over through resets and provide powerful scaling for your faith production, religious upgrades, and endgame buildings.&lt;/p&gt;
+&lt;h3 id=&#34;unlocking-transcendence&#34;&gt;&lt;strong&gt;Unlocking Transcendence&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To access this system, you must first research &lt;a href=&#34;../techs/theology/&#34;&gt;Theology&lt;/a&gt; and then purchase the &lt;a href=&#34;../religion/transcendence/&#34;&gt;Transcendence&lt;/a&gt; upgrade in the Religion tab.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 7,500 Faith and 7,500 Gold.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Requirement:&lt;/strong&gt; A maximum Faith capacity of at least 125,000.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Function:&lt;/strong&gt; Unlocking this provides the &lt;strong&gt;Transcend button&lt;/strong&gt;, which is used to level up your tier by sacrificing a portion of your accumulated Epiphany.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-benefits-and-effects&#34;&gt;&lt;strong&gt;Core Benefits and Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Transcending is essential for transitioning into the mid-to-late game &amp;ldquo;Relic Era&amp;rdquo; due to the following effects:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/religion/transcendence/">Transcendence</a> is a late-game religious mechanic that allows you to spend <a href="/religion/epiphany/">Epiphany</a> (also known as the Apocrypha bonus) to permanently increase your <strong>Transcendence Tier</strong>. These tiers carry over through resets and provide powerful scaling for your faith production, religious upgrades, and endgame buildings.</p>
+<h3 id="unlocking-transcendence"><strong>Unlocking Transcendence</strong></h3>
+<p>To access this system, you must first research <a href="/techs/theology/">Theology</a> and then purchase the <a href="/religion/transcendence/">Transcendence</a> upgrade in the Religion tab.</p>
+<ul>
+<li><strong>Cost:</strong> 7,500 Faith and 7,500 Gold.</li>
+<li><strong>Requirement:</strong> A maximum Faith capacity of at least 125,000.</li>
+<li><strong>Function:</strong> Unlocking this provides the <strong>Transcend button</strong>, which is used to level up your tier by sacrificing a portion of your accumulated Epiphany.</li>
+</ul>
+<h3 id="core-benefits-and-effects"><strong>Core Benefits and Effects</strong></h3>
+<p>Transcending is essential for transitioning into the mid-to-late game &ldquo;Relic Era&rdquo; due to the following effects:</p>
+<ul>
+<li><strong>Adoration Multiplier:</strong> Each tier significantly increases the conversion multiplier when you <strong>Adore the Galaxy</strong>, allowing you to rebuild your Praise bonus much faster after a reset.</li>
+<li><strong>Multi-level Upgrades:</strong> It allows you to purchase several religious upgrades (such as <a href="/religion/scholasticism/">Scholasticism</a>, <a href="/religion/golden_spire/">Golden Spire</a>, and <a href="/religion/sun_altar/">Sun Altar</a>) multiple times, though each additional level costs 2.5x more than the last.</li>
+<li><strong>Cryptotheology Gateway:</strong> Advanced endgame structures are gated by specific Transcendence Tiers. For example, <a href="/transcendence/black_obelisk/">Black Obelisks</a> require Tier 1, while the powerful <a href="/transcendence/blazar/">Blazars</a> require Tier 15.</li>
+<li><strong>Atheism Challenge Synergy:</strong> If you complete the <a href="/challenges/atheism_challenge/">Atheism challenge</a>, your <a href="/religion/solar_revolution/">Solar Revolution</a> cap increases by 100 percentage points for every Transcendence Tier you have attained.</li>
+</ul>
+<h3 id="strategic-advice-the"><strong>Strategic Advice: The &ldquo;TAP&rdquo; Method</strong></h3>
+<p>Experienced players use a specific sequence called <strong>TAP</strong> to manage their faith bonuses effectively without destroying their current production.</p>
+<ol>
+<li><strong>Transcend:</strong> Level up your tier when you have roughly <strong>1.5x the required Epiphany</strong> for that level to avoid losing too much of your bonus.</li>
+<li><strong>Adore:</strong> Immediately &ldquo;Adore the Galaxy&rdquo; to convert your remaining Worship into a now-stronger Epiphany bonus.</li>
+<li><strong>Praise:</strong> Praise the sun with a full store of faith to quickly regain your <a href="/religion/solar_revolution/">Solar Revolution</a> production boost.</li>
+</ol>
+<h3 id="transcendence-tier-requirements"><strong>Transcendence Tier Requirements</strong></h3>
+<p>The cost in Epiphany scales exponentially with each tier:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Tier</th>
+					<th style="text-align: left">Minimum Epiphany Needed</th>
+					<th style="text-align: left">Key Unlock / Benefit</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>1</strong></td>
+					<td style="text-align: left">~1.97%</td>
+					<td style="text-align: left"><a href="/transcendence/black_obelisk/">Black Obelisk</a></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>3</strong></td>
+					<td style="text-align: left">~17.38%</td>
+					<td style="text-align: left"><a href="/transcendence/black_nexus/">Black Nexus</a></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>9</strong></td>
+					<td style="text-align: left">~151.34K%</td>
+					<td style="text-align: left"><a href="/transcendence/black_library/">Black Library</a></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>15</strong></td>
+					<td style="text-align: left"><strong>~3.04M%</strong></td>
+					<td style="text-align: left"><a href="/transcendence/blazar/">Blazar</a> (Vital for Relic production)</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>20</strong></td>
+					<td style="text-align: left">~451.14M%</td>
+					<td style="text-align: left"><a href="/transcendence/dark_nova/">Dark Nova</a></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>25</strong></td>
+					<td style="text-align: left">~66.96G%</td>
+					<td style="text-align: left"><a href="/transcendence/holy_genocide/">Holy Genocide</a> (Post Apocalypse challenge)</td>
+			</tr>
+	</tbody>
+</table>
+<p>Because the Epiphany requirement for Tier 15 is over 3 million percent, it is considered a major long-term goal for the late-game <strong>Relic and Time Crystal engine</strong>.</p>
+<p><strong>Transcendence Tiers carry over permanently</strong> through resets,. They are part of a select group of endgame achievements and prestige markers that are not lost when you restart your timeline.</p>
+<h3 id="carry-over-mechanics"><strong>Carry-over Mechanics</strong></h3>
+<ul>
+<li><strong>Permanent Progression:</strong> Once you reach a certain Transcendence Tier, it remains active in all subsequent runs,.</li>
+<li><strong>Cryptotheology Visibility:</strong> While the tiers themselves are saved, you must re-research the <strong>Cryptotheology technology</strong> in each new run to view your tier level or purchase/interact with the associated buildings.</li>
+<li><strong>Epiphany and Adoration:</strong> Your tiers increase the <strong>conversion multiplier</strong> when you &ldquo;Adore the Galaxy&rdquo;, making your future faith resets more powerful.</li>
+</ul>
+<h3 id="key-benefits-of-retaining-tiers"><strong>Key Benefits of Retaining Tiers</strong></h3>
+<p>Maintaining your tiers across resets provides several compounding advantages:</p>
+<ul>
+<li><strong>Religious Scaling:</strong> Tiers allow you to purchase certain religious upgrades multiple times (like Solar Chant or Golden Spire) at an escalating cost.</li>
+<li><strong>Solar Revolution Cap:</strong> If you have completed the <a href="/challenges/atheism_challenge/">Atheism challenge</a>, your Solar Revolution production bonus cap is increased by 100% for every Transcendence Tier you have attained,.</li>
+<li><strong>Cryptotheology Unlocks:</strong> Higher tiers are required to unlock advanced permanent buildings, such as <a href="/transcendence/black_obelisk/">Black Obelisks</a> (Tier 1) or <a href="/transcendence/blazar/">Blazars</a> (Tier 15),.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Black Core</title>
+      <link>/transcendence/black_core/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/transcendence/black_core/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../transcendence/black_core/&#34;&gt;Black Core&lt;/a&gt; is a late-game &lt;a href=&#34;../techs/cryptotheology/&#34;&gt;Cryptotheology&lt;/a&gt; building that &lt;strong&gt;increases your maximum limit of Black Liquid Sorrow (BLS)&lt;/strong&gt; by +1%. This expansion of the sorrow cap is essential for scaling your religious infrastructure as you approach the endgame.&lt;/p&gt;
+&lt;h3 id=&#34;costs-and-requirements&#34;&gt;&lt;strong&gt;Costs and Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Initial Cost:&lt;/strong&gt; 10,000 Relics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must reach &lt;strong&gt;Transcendence Tier 5&lt;/strong&gt; to unlock it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-utility&#34;&gt;&lt;strong&gt;Strategic Utility&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Black Core is a fundamental piece of the &amp;ldquo;Relic Engine&amp;rdquo; because it allows for the continued construction of &lt;a href=&#34;../ziggurat/black_pyramid/&#34;&gt;Black Pyramids&lt;/a&gt;:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/transcendence/black_core/">Black Core</a> is a late-game <a href="/techs/cryptotheology/">Cryptotheology</a> building that <strong>increases your maximum limit of Black Liquid Sorrow (BLS)</strong> by +1%. This expansion of the sorrow cap is essential for scaling your religious infrastructure as you approach the endgame.</p>
+<h3 id="costs-and-requirements"><strong>Costs and Requirements</strong></h3>
+<ul>
+<li><strong>Initial Cost:</strong> 10,000 Relics.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+<li><strong>Prerequisite:</strong> You must reach <strong>Transcendence Tier 5</strong> to unlock it.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>The Black Core is a fundamental piece of the &ldquo;Relic Engine&rdquo; because it allows for the continued construction of <a href="/ziggurat/black_pyramid/">Black Pyramids</a>:</p>
+<ul>
+<li><strong>Bypassing the Sorrow Cap:</strong> The base storage cap for Black Liquid Sorrow (BLS) is 16. Since each <a href="/ziggurat/black_pyramid/">Black Pyramid</a> requires 5 units of sorrow to build, you are naturally restricted in how many pyramids you can own.</li>
+<li><strong>Scaling Pyramids:</strong> By building Black Cores, you increase the BLS limit, allowing you to accumulate the sorrow necessary to purchase more pyramids.</li>
+<li><strong>Synergy with Relic Production:</strong> Increasing your pyramid count is critical for the <a href="/transcendence/black_nexus/">Black Nexus</a>. The Black Nexus improves relic production from space beacons and Time Crystal refinement by a factor determined by your total number of Black Pyramids.</li>
+</ul>
+<h3 id="operational-context"><strong>Operational Context</strong></h3>
+<p>The Black Core belongs to <strong>Phase 3 (Late/Endgame)</strong> of development. It is a permanent investment that <strong>carries over through resets</strong>, provided you research the &ldquo;Cryptotheology&rdquo; technology in each new run to view the buildings you have purchased.</p>
+<p>At this stage, players typically focus on &ldquo;chasing infinity&rdquo; by using these cores to maximise the efficiency of their <strong>Time Crystal and Relic</strong> engines.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Black Library</title>
+      <link>/transcendence/black_library/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/transcendence/black_library/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../transcendence/black_library/&#34;&gt;Black Library&lt;/a&gt; is an advanced &lt;a href=&#34;../techs/cryptotheology/&#34;&gt;Cryptotheology&lt;/a&gt; building used to scale your &lt;strong&gt;science storage cap&lt;/strong&gt; by enhancing the effectiveness of your existing religious and scientific upgrades. It is a permanent structure that carries over through resets, allowing for exponential growth in science capacity across multiple runs.&lt;/p&gt;
+&lt;h3 id=&#34;requirements-and-costs&#34;&gt;&lt;strong&gt;Requirements and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Because it is part of the endgame &amp;ldquo;Phase 3&amp;rdquo; progression, the requirements for the Black Library are steep:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 30,000 Relics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must have attained &lt;strong&gt;Transcendence Tier 9&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technology:&lt;/strong&gt; You must research the &lt;a href=&#34;../techs/cryptotheology/&#34;&gt;Cryptotheology&lt;/a&gt; technology each run to view or purchase these buildings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;primary-effect-codex-scaling&#34;&gt;&lt;strong&gt;Primary Effect: Codex Scaling&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Black Library focuses on improving the &lt;strong&gt;Codex Leviathanianus&lt;/strong&gt;, a metaphysics upgrade that increases your compendia science limit based on your Transcendence tier.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/transcendence/black_library/">Black Library</a> is an advanced <a href="/techs/cryptotheology/">Cryptotheology</a> building used to scale your <strong>science storage cap</strong> by enhancing the effectiveness of your existing religious and scientific upgrades. It is a permanent structure that carries over through resets, allowing for exponential growth in science capacity across multiple runs.</p>
+<h3 id="requirements-and-costs"><strong>Requirements and Costs</strong></h3>
+<p>Because it is part of the endgame &ldquo;Phase 3&rdquo; progression, the requirements for the Black Library are steep:</p>
+<ul>
+<li><strong>Cost:</strong> 30,000 Relics.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+<li><strong>Prerequisite:</strong> You must have attained <strong>Transcendence Tier 9</strong>.</li>
+<li><strong>Technology:</strong> You must research the <a href="/techs/cryptotheology/">Cryptotheology</a> technology each run to view or purchase these buildings.</li>
+</ul>
+<hr>
+<h3 id="primary-effect-codex-scaling"><strong>Primary Effect: Codex Scaling</strong></h3>
+<p>The Black Library focuses on improving the <strong>Codex Leviathanianus</strong>, a metaphysics upgrade that increases your compendia science limit based on your Transcendence tier.</p>
+<ul>
+<li><strong>Scaling Bonus:</strong> Each Black Library improves the <em>Codex Leviathanianus</em> scaling by <strong>+2%</strong>.</li>
+<li><strong>Science Storage:</strong> This allows <a href="/resource/compendium/">Compendiums</a> to continue providing +10 science storage even after you have reached the standard science cap provided by buildings.</li>
+</ul>
+<hr>
+<h3 id="synergies-and-advanced-scaling"><strong>Synergies and Advanced Scaling</strong></h3>
+<p>The Black Library is highly integrated with other late-game religious and industrial systems:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Synergy Component</th>
+					<th style="text-align: left">Effect on Black Library</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><a href="/ziggurat/unicorn_graveyard/">Unicorn Graveyard</a></td>
+					<td style="text-align: left">Directly improves the bonus provided by the Black Library.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Pact of Purity</strong></td>
+					<td style="text-align: left">Increases the Black Library ratio by <strong>+0.05% for every Black Pyramid</strong> you own.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/religion/transcendence/">Transcendence</a></td>
+					<td style="text-align: left">As your Transcendence tier increases, the base effectiveness of the Codex it scales also rises.</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="strategic-context"><strong>Strategic Context</strong></h3>
+<p>In the larger context of a &ldquo;Relic Engine&rdquo; run, the Black Library is essential for bypassing the science caps required for the most expensive endgame technologies, such as <a href="/techs/exophysics/">Exophysics</a> (25M Science) or advanced space structures. By stacking Black Libraries and <a href="/ziggurat/unicorn_graveyard/">Unicorn Graveyards</a>, you ensure that your stockpile of Compendiums provides a massive, stable foundation for your scientific research.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Black Nexus</title>
+      <link>/transcendence/black_nexus/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/transcendence/black_nexus/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../transcendence/black_nexus/&#34;&gt;Black Nexus&lt;/a&gt; is a high-tier &lt;a href=&#34;../techs/cryptotheology/&#34;&gt;Cryptotheology&lt;/a&gt; building found in the Religion tab that serves as a cornerstone for scaling your late-game relic production. It is designed to make the conversion of Time Crystals into Relics more efficient and to boost the passive generation of relics from space-based structures.&lt;/p&gt;
+&lt;h3 id=&#34;core-mechanics-and-costs&#34;&gt;&lt;strong&gt;Core Mechanics and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 5,000 Relics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must have attained &lt;strong&gt;Transcendence Tier 3&lt;/strong&gt; to unlock it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synergy:&lt;/strong&gt; Its effectiveness is directly tied to the number of &lt;a href=&#34;../ziggurat/black_pyramid/&#34;&gt;Black Pyramids&lt;/a&gt; you have constructed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-effects&#34;&gt;&lt;strong&gt;Primary Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Black Nexus enhances two specific methods of obtaining relics:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/transcendence/black_nexus/">Black Nexus</a> is a high-tier <a href="/techs/cryptotheology/">Cryptotheology</a> building found in the Religion tab that serves as a cornerstone for scaling your late-game relic production. It is designed to make the conversion of Time Crystals into Relics more efficient and to boost the passive generation of relics from space-based structures.</p>
+<h3 id="core-mechanics-and-costs"><strong>Core Mechanics and Costs</strong></h3>
+<ul>
+<li><strong>Cost:</strong> 5,000 Relics.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+<li><strong>Prerequisite:</strong> You must have attained <strong>Transcendence Tier 3</strong> to unlock it.</li>
+<li><strong>Synergy:</strong> Its effectiveness is directly tied to the number of <a href="/ziggurat/black_pyramid/">Black Pyramids</a> you have constructed.</li>
+</ul>
+<h3 id="primary-effects"><strong>Primary Effects</strong></h3>
+<p>The Black Nexus enhances two specific methods of obtaining relics:</p>
+<ol>
+<li><strong>Time Crystal Refinement:</strong>
+Standard refinement converts 25 Time Crystals into 1 Relic. With a Black Nexus, the yield increases according to the formula: <strong>1 + (Black Nexus × Black Pyramid)</strong> relics per 25 crystals.</li>
+<li><strong>Relic Station Production:</strong>
+It significantly boosts the output of <a href="/upgrade/relic_station/">Relic Stations</a> (upgraded Space Beacons). Each Black Nexus improves this production by <strong>10% per Black Pyramid</strong>.</li>
+</ol>
+<h3 id="strategic-utility-the"><strong>Strategic Utility: The &ldquo;Type 1 Relic Engine&rdquo;</strong></h3>
+<p>In the mid-to-late game, the Black Nexus is a vital part of what players call the &ldquo;Type 1 Relic Engine&rdquo;.</p>
+<ul>
+<li><strong>Scaling Passive Income:</strong> Once you have at least 5,000 maximum <a href="/resource/antimatter/">Antimatter</a>, Relic Stations produce 0.01 relics per day. By stacking Black Nexuses and Black Pyramids, you can increase this passive daily income to a point where you no longer rely solely on manual trading with Leviathans for your relic supply.</li>
+<li><strong>Synergy with Black Sky:</strong> Completing the <strong>Black Sky challenge</strong> provides an &ldquo;invisible&rdquo; Black Pyramid, which permanently improves the scaling of your Black Nexus buildings in all future runs.</li>
+<li><strong>Late-Game Goal:</strong> Experienced players recommend buying several levels of Black Nexus alongside <a href="/transcendence/black_core/">Black Core</a> (to increase the sorrow limit for more pyramids) to maximise the efficiency of your time-skipping and relic-farming operations.</li>
+</ul>
+<h3 id="comparison-table-relic-scaling"><strong>Comparison Table: Relic Scaling</strong></h3>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Feature</th>
+					<th style="text-align: left">Standard Effect</th>
+					<th style="text-align: left">With Black Nexus</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>TC to Relic Ratio</strong></td>
+					<td style="text-align: left">25:1</td>
+					<td style="text-align: left">25 : (1 + Nexus × Pyramid)</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Beacon Production</strong></td>
+					<td style="text-align: left">0.01 <a href="/resource/relic/">Relic</a>s/day</td>
+					<td style="text-align: left">+10% boost per Pyramid level</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Unlock Level</strong></td>
+					<td style="text-align: left">Theology Tech</td>
+					<td style="text-align: left"><strong>Transcendence Tier 3</strong></td>
+			</tr>
+	</tbody>
+</table>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Black Obelisk</title>
+      <link>/transcendence/black_obelisk/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/transcendence/black_obelisk/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../transcendence/black_obelisk/&#34;&gt;Black Obelisk&lt;/a&gt; is a permanent endgame building found in the &lt;a href=&#34;../techs/cryptotheology/&#34;&gt;Cryptotheology&lt;/a&gt; section of the Religion tab. Its primary function is to increase the &lt;strong&gt;Solar Revolution production bonus cap&lt;/strong&gt;, allowing your kitten civilisation to benefit from higher levels of faith-based productivity.&lt;/p&gt;
+&lt;h3 id=&#34;cost--scaling&#34;&gt;Cost &amp;amp; Scaling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tab&lt;/strong&gt;: Religion &amp;ndash;&amp;gt; Cryptotheology&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlock Requirement&lt;/strong&gt;: Requires building at least one Black Pyramid (via Ziggurats) to access the Cryptotheology panel.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost&lt;/strong&gt;: Scales exponentially with each purchased rank:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Relics&lt;/strong&gt;: approx 500 times 1.15^N&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Void&lt;/strong&gt;: approx 5 times 1.15^N&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reset Behavior&lt;/strong&gt;: Permanent. Like all Cryptotheology upgrades, Black Obelisks persist across all future resets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-statistics&#34;&gt;&lt;strong&gt;Core Statistics&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must have attained at least &lt;strong&gt;Transcendence Tier 1&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fidelity:&lt;/strong&gt; Like all Cryptotheology buildings, Black Obelisks &lt;strong&gt;carry over through resets&lt;/strong&gt;; however, you must research the &amp;ldquo;Cryptotheology&amp;rdquo; technology in each new run to view or purchase them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-solar-revolution-cap&#34;&gt;&lt;strong&gt;The Solar Revolution Cap&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The standard Solar Revolution bonus is typically capped at &lt;strong&gt;1000%&lt;/strong&gt;, with diminishing returns beginning at 750%. Black Obelisks are the primary method for raising this ceiling:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/transcendence/black_obelisk/">Black Obelisk</a> is a permanent endgame building found in the <a href="/techs/cryptotheology/">Cryptotheology</a> section of the Religion tab. Its primary function is to increase the <strong>Solar Revolution production bonus cap</strong>, allowing your kitten civilisation to benefit from higher levels of faith-based productivity.</p>
+<h3 id="cost--scaling">Cost &amp; Scaling</h3>
+<ul>
+<li><strong>Tab</strong>: Religion &ndash;&gt; Cryptotheology</li>
+<li><strong>Unlock Requirement</strong>: Requires building at least one Black Pyramid (via Ziggurats) to access the Cryptotheology panel.</li>
+<li><strong>Cost</strong>: Scales exponentially with each purchased rank:</li>
+<li><strong>Relics</strong>: approx 500 times 1.15^N</li>
+<li><strong>Void</strong>: approx 5 times 1.15^N</li>
+<li><strong>Reset Behavior</strong>: Permanent. Like all Cryptotheology upgrades, Black Obelisks persist across all future resets.</li>
+</ul>
+<h3 id="core-statistics"><strong>Core Statistics</strong></h3>
+<ul>
+<li><strong>Prerequisite:</strong> You must have attained at least <strong>Transcendence Tier 1</strong>.</li>
+<li><strong>Fidelity:</strong> Like all Cryptotheology buildings, Black Obelisks <strong>carry over through resets</strong>; however, you must research the &ldquo;Cryptotheology&rdquo; technology in each new run to view or purchase them.</li>
+</ul>
+<h3 id="the-solar-revolution-cap"><strong>The Solar Revolution Cap</strong></h3>
+<p>The standard Solar Revolution bonus is typically capped at <strong>1000%</strong>, with diminishing returns beginning at 750%. Black Obelisks are the primary method for raising this ceiling:</p>
+<ul>
+<li><strong>Scaling Formula:</strong> Every obelisk improves the cap by <strong>+5% per Transcendence Tier</strong>.</li>
+<li><strong>Multiplicative Synergies:</strong> This effect is multiplicative with the rewards gained from completing the <a href="/challenges/atheism_challenge/">Atheism Challenge</a>.</li>
+</ul>
+<h3 id="strategic-context"><strong>Strategic Context</strong></h3>
+<p>In the late game (Phase 3), the Black Obelisk is often compared to the <a href="/challenges/atheism_challenge/">Atheism Challenge</a> reward. Completing the Atheism Challenge provides a base reward that increases the Solar Revolution cap by <strong>100 percentage points per Transcendence Tier</strong>, which the sources note is the equivalent of owning <strong>20 Black Obelisks</strong>.</p>
+<p>For players focusing on a &ldquo;Relic Engine&rdquo; run, stacking these obelisks alongside high Transcendence Tiers is essential for maximizing global production modifiers.</p>
+<h3 id="what-it-does">What It Does</h3>
+<ul>
+<li>
+<p>Raises the Solar Revolution Diminishing Returns Limit:</p>
+<ul>
+<li>Base Solar Revolution provides a massive global percentage boost to all production, but it normally begins hitting diminishing returns around a theoretical maximum (base cap around $1,000%$).</li>
+<li>Each Black Obelisk increases the soft/hard cap ceiling of your Solar Revolution bonus by $+5%$.</li>
+<li>The formula scales additively per rank:</li>
+</ul>
+<p><code>{Solar Revolution Cap Multiplier} = 1 + (0.05 times Black Obelisks)</code></p>
+</li>
+<li>
+<p>Synergy with Void Resonators &amp; Time Shattering:</p>
+<ul>
+<li>When shattering Time Crystals, Void Resonators project your Solar Revolution bonus across skipped years.</li>
+<li>Without Black Obelisks, your massive accumulated faith hits a hard plateau. Black Obelisks allow that bonus to keep climbing into thousands of percent of global production.</li>
+</ul>
+</li>
+</ul>
+<h3 id="strategic-priority">Strategic Priority</h3>
+<table>
+	<thead>
+			<tr>
+					<th>Upgrade</th>
+					<th>Primary Focus</th>
+					<th>Synergy with Black Obelisk</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>Black Nexus</td>
+					<td>Boosts Relic/TC trade yields</td>
+					<td>Fuels the Relics needed to buy Obelisks</td>
+			</tr>
+			<tr>
+					<td>Event Horizon</td>
+					<td>Multiplies storage caps</td>
+					<td>Lets you store more Unobtainium per shatter</td>
+			</tr>
+			<tr>
+					<td>Black Obelisk</td>
+					<td>Scales faith production ceiling</td>
+					<td>Multiplies the output of all ground resources</td>
+			</tr>
+	</tbody>
+</table>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Black Radiance</title>
+      <link>/transcendence/black_radiance/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/transcendence/black_radiance/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../transcendence/black_radiance/&#34;&gt;Black Radiance&lt;/a&gt; is an advanced &lt;a href=&#34;../techs/cryptotheology/&#34;&gt;Cryptotheology&lt;/a&gt; building that accelerates the rate at which &lt;a href=&#34;../resource/alicorn/&#34;&gt;Alicorns&lt;/a&gt; are corrupted into &lt;strong&gt;Necrocorns&lt;/strong&gt;. It is a permanent structure that carries over through resets, provided you research the Cryptotheology technology in each new run.&lt;/p&gt;
+&lt;h3 id=&#34;cost-and-requirements&#34;&gt;&lt;strong&gt;Cost and Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 37.5K Relics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; &lt;strong&gt;Transcendence Tier 12&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects&#34;&gt;&lt;strong&gt;Core Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The primary function of Black Radiance is to speed up the &lt;strong&gt;corruption countdown&lt;/strong&gt; initiated by Markers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Corruption Bonus:&lt;/strong&gt; The approximate bonus to corruption speed is &lt;strong&gt;3.464% multiplied by the square root&lt;/strong&gt; of (number of Black Radiances $\times$ points of Black Liquid Sorrow).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synergy:&lt;/strong&gt; Because the bonus depends on your current &lt;strong&gt;Black Liquid Sorrow (BLS)&lt;/strong&gt;, its effectiveness increases as you accumulate more sorrow or build &lt;a href=&#34;../transcendence/black_core/&#34;&gt;Black Cores&lt;/a&gt; to raise your sorrow limit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-utility&#34;&gt;&lt;strong&gt;Strategic Utility&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;In the late-game &amp;ldquo;Relic Engine&amp;rdquo; phase, Black Radiance is used to optimize the generation of &lt;strong&gt;Necrocorns&lt;/strong&gt;:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/transcendence/black_radiance/">Black Radiance</a> is an advanced <a href="/techs/cryptotheology/">Cryptotheology</a> building that accelerates the rate at which <a href="/resource/alicorn/">Alicorns</a> are corrupted into <strong>Necrocorns</strong>. It is a permanent structure that carries over through resets, provided you research the Cryptotheology technology in each new run.</p>
+<h3 id="cost-and-requirements"><strong>Cost and Requirements</strong></h3>
+<ul>
+<li><strong>Cost:</strong> 37.5K Relics.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+<li><strong>Prerequisite:</strong> <strong>Transcendence Tier 12</strong>.</li>
+</ul>
+<h3 id="core-effects"><strong>Core Effects</strong></h3>
+<p>The primary function of Black Radiance is to speed up the <strong>corruption countdown</strong> initiated by Markers.</p>
+<ul>
+<li><strong>Corruption Bonus:</strong> The approximate bonus to corruption speed is <strong>3.464% multiplied by the square root</strong> of (number of Black Radiances $\times$ points of Black Liquid Sorrow).</li>
+<li><strong>Synergy:</strong> Because the bonus depends on your current <strong>Black Liquid Sorrow (BLS)</strong>, its effectiveness increases as you accumulate more sorrow or build <a href="/transcendence/black_core/">Black Cores</a> to raise your sorrow limit.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>In the late-game &ldquo;Relic Engine&rdquo; phase, Black Radiance is used to optimize the generation of <strong>Necrocorns</strong>:</p>
+<ul>
+<li><strong>Feeding Leviathans:</strong> Faster corruption provides a steadier supply of Necrocorns to feed to the <a href="/civilisations/leviathans/">Leviathans</a>, which permanently increases their <strong>energy cap</strong>.</li>
+<li><strong>Trade Efficiency:</strong> Higher Leviathan energy results in more <a href="/resource/time_crystals/">Time Crystals</a> and <a href="/resource/relic/">Relics</a> per trade, making Black Radiance a vital component for accelerating the growth of your endgame resources.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Blazar</title>
+      <link>/transcendence/blazar/</link>
+      <pubDate>Sat, 29 Nov 2025 09:44:33 +0000</pubDate>
+      <guid>/transcendence/blazar/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../transcendence/blazar/&#34;&gt;Blazar&lt;/a&gt; is a high-tier &lt;strong&gt;Cryptotheology building&lt;/strong&gt; that serves as a cornerstone for the late-game &amp;ldquo;time crystal engine&amp;rdquo;. It is a permanent structure that carries over through resets, though you must research the Cryptotheology technology in each new run to access its benefits.&lt;/p&gt;
+&lt;h3 id=&#34;requirements-and-cost&#34;&gt;&lt;strong&gt;Requirements and Cost&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Because it is a pinnacle endgame structure, the barriers to entry are significant:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 50,000 Relics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; &lt;strong&gt;Transcendence Tier 15&lt;/strong&gt;. Reaching this tier requires a massive accumulation of Epiphany (roughly 3.04 million percent).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects-and-multipliers&#34;&gt;&lt;strong&gt;Core Effects and Multipliers&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Each level of Blazar provides stacking bonuses to several critical late-game mechanics:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/transcendence/blazar/">Blazar</a> is a high-tier <strong>Cryptotheology building</strong> that serves as a cornerstone for the late-game &ldquo;time crystal engine&rdquo;. It is a permanent structure that carries over through resets, though you must research the Cryptotheology technology in each new run to access its benefits.</p>
+<h3 id="requirements-and-cost"><strong>Requirements and Cost</strong></h3>
+<p>Because it is a pinnacle endgame structure, the barriers to entry are significant:</p>
+<ul>
+<li><strong>Cost:</strong> 50,000 Relics.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+<li><strong>Prerequisite:</strong> <strong>Transcendence Tier 15</strong>. Reaching this tier requires a massive accumulation of Epiphany (roughly 3.04 million percent).</li>
+</ul>
+<h3 id="core-effects-and-multipliers"><strong>Core Effects and Multipliers</strong></h3>
+<p>Each level of Blazar provides stacking bonuses to several critical late-game mechanics:</p>
+<ul>
+<li><a href="/upgrade/resource-retrieval/">Resource Retrieval:</a> Improves effectiveness by <strong>2%</strong>. This is vital for &ldquo;shatter engines,&rdquo; as it increases the resources gained when you skip years using Time Crystals.</li>
+<li><strong>Time Manipulation:</strong> Improves <a href="/metaphysics/chronomancy/">Chronomancy</a> by <strong>2.5%</strong>.</li>
+<li><strong>Unicorn Generation:</strong> Improves <a href="/metaphysics/unicornmancy/">Unicornmancy</a> by <strong>2.5%</strong>.</li>
+<li><strong>Dark Future Mitigation:</strong> Improves <a href="/upgrade/time-impedance/">Time Impedance</a> by <strong>10%</strong>. This helps suppress the temporal penalties encountered once your calendar year exceeds 40,000.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>The Blazar is primarily used to transition into the <strong>&ldquo;Type 2 Relic Engine&rdquo;</strong> and beyond.</p>
+<ul>
+<li><strong>Shatter Engine Efficiency:</strong> By boosting Resource Retrieval, Blazars allow you to reach a &ldquo;break-even&rdquo; point where shattering a Time Crystal provides enough Unobtainium or Alicorns to immediately regain that crystal through trading or sacrifice.</li>
+<li><strong>Relic Scaling:</strong> In the late game, relics are often generated by refining Time Crystals. Blazars, along with Black Nexuses, make this process far more productive, eventually allowing for the &ldquo;positive resets&rdquo; necessary to reach the theoretical limits of the game.</li>
+<li><strong>Infinite Loop Resets:</strong> For players aiming to achieve <strong>&ldquo;Infinity&rdquo;</strong>, Blazars are used to grow the Unobtainium stockpile exponentially across short runs, enabling the construction of up to 100 Chronospheres for massive resource carry-over.</li>
+</ul>
+<p>While reaching Transcendence Tier 15 is a daunting task, the Blazar is the primary tool used to overcome the late-game bottlenecks of <a href="/resource/time_crystals/">Time Crystals</a> and <a href="/resource/relic/">Relics</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Dark Nova</title>
+      <link>/transcendence/dark_nova/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/transcendence/dark_nova/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../transcendence/dark_nova/&#34;&gt;Dark Nova&lt;/a&gt; is a permanent endgame &lt;strong&gt;Cryptotheology building&lt;/strong&gt; that increases your civilisation&amp;rsquo;s &lt;strong&gt;global energy production&lt;/strong&gt; by &lt;strong&gt;+2%&lt;/strong&gt; per level. Like all Cryptotheology structures, it carries over through resets, although you must re-research the &amp;ldquo;Cryptotheology&amp;rdquo; technology in each new run to view or purchase additional units.&lt;/p&gt;
+&lt;h3 id=&#34;costs-and-requirements&#34;&gt;&lt;strong&gt;Costs and Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Building a Dark Nova represents a significant investment in late-game resources and spiritual progression.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Relic Cost:&lt;/strong&gt; 75,000 Relics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Void Cost:&lt;/strong&gt; 7,500 Void.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must have attained &lt;strong&gt;Transcendence Tier 20&lt;/strong&gt; to unlock this building. Reaching Tier 20 requires an accumulation of approximately &lt;strong&gt;451.14M% Epiphany&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;strategic-utility&#34;&gt;&lt;strong&gt;Strategic Utility&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Dark Nova is situated in the final phase of the game (Phase 3/Endgame), where energy management becomes a primary bottleneck for scientific and industrial expansion.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/transcendence/dark_nova/">Dark Nova</a> is a permanent endgame <strong>Cryptotheology building</strong> that increases your civilisation&rsquo;s <strong>global energy production</strong> by <strong>+2%</strong> per level. Like all Cryptotheology structures, it carries over through resets, although you must re-research the &ldquo;Cryptotheology&rdquo; technology in each new run to view or purchase additional units.</p>
+<h3 id="costs-and-requirements"><strong>Costs and Requirements</strong></h3>
+<p>Building a Dark Nova represents a significant investment in late-game resources and spiritual progression.</p>
+<ul>
+<li><strong>Relic Cost:</strong> 75,000 Relics.</li>
+<li><strong>Void Cost:</strong> 7,500 Void.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+<li><strong>Prerequisite:</strong> You must have attained <strong>Transcendence Tier 20</strong> to unlock this building. Reaching Tier 20 requires an accumulation of approximately <strong>451.14M% Epiphany</strong>.</li>
+</ul>
+<hr>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>Dark Nova is situated in the final phase of the game (Phase 3/Endgame), where energy management becomes a primary bottleneck for scientific and industrial expansion.</p>
+<ul>
+<li><strong>Endgame Power Demands:</strong> As you progress toward the &ldquo;positive reset&rdquo; loop, you must power high-consumption buildings like <a href="/buildings/ai_core/">AI Cores</a> (which consume increasing energy per unit), <a href="/space/containment-chamber/">Containment Chambers</a> (50 Watts each), and <a href="/space/entanglement-station/">Entanglement Stations</a> (25 Watts each). The +2% global production bonus helps sustain these power-hungry systems.</li>
+<li><strong>Scaling for Infinity:</strong> Advanced players utilize the energy boost to support massive arrays of <a href="/space/sunlifter/">Sunlifters</a> and <a href="/buildings/hydro_plant/">Hydro Plants</a> while attempting to reach the <strong>8.14 billion Unobtainium capacity</strong> required for 100 Chronospheres.</li>
+<li><strong>Synergy with Void Rifts:</strong> The global energy production bonus stacks with other modifiers, helping to maintain a positive energy surplus during <strong>Time Skips</strong>, which is necessary for <a href="/resource/antimatter/">Antimatter</a> generation and the automated &ldquo;shatter engine&rdquo;.</li>
+</ul>
+<h3 id="building-tier-context"><strong>Building Tier Context</strong></h3>
+<p>In the progression of Cryptotheology, Dark Nova is one of the final buildings unlocked, coming after other critical structures like <a href="/transcendence/blazar/">Blazars</a> (Tier 15) but before <a href="/transcendence/mausoleum/">Mausoleums</a> (Tier 23) and <a href="/transcendence/holy_genocide/">Holy Genocide</a> (Tier 25). It is a foundational component for players seeking to &ldquo;chase infinity&rdquo; by overcapping resources through thousands of years of skipped time.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Holy Genocide</title>
+      <link>/transcendence/holy_genocide/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/transcendence/holy_genocide/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../transcendence/holy_genocide/&#34;&gt;Holy Genocide&lt;/a&gt; is the final building in the &lt;a href=&#34;../techs/cryptotheology/&#34;&gt;Cryptotheology&lt;/a&gt; section of the Religion tab. It represents the absolute pinnacle of the endgame, requiring an immense investment of resources and spiritual progression to unlock.&lt;/p&gt;
+&lt;h3 id=&#34;requirements-and-costs&#34;&gt;&lt;strong&gt;Requirements and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Building a Holy Genocide is significantly more expensive than any other religious structure and is gated by the highest Transcendence Tier in the game.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Relic Cost:&lt;/strong&gt; 100,000 Relics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Void Cost:&lt;/strong&gt; 25,000 Void.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; &lt;strong&gt;Transcendence Tier 25&lt;/strong&gt; (requiring approximately 66.96G% Epiphany).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-effects&#34;&gt;&lt;strong&gt;Primary Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The building alters the fundamental math of your kitten population and production to favor high-efficiency resets.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/transcendence/holy_genocide/">Holy Genocide</a> is the final building in the <a href="/techs/cryptotheology/">Cryptotheology</a> section of the Religion tab. It represents the absolute pinnacle of the endgame, requiring an immense investment of resources and spiritual progression to unlock.</p>
+<h3 id="requirements-and-costs"><strong>Requirements and Costs</strong></h3>
+<p>Building a Holy Genocide is significantly more expensive than any other religious structure and is gated by the highest Transcendence Tier in the game.</p>
+<ul>
+<li><strong>Relic Cost:</strong> 100,000 Relics.</li>
+<li><strong>Void Cost:</strong> 25,000 Void.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+<li><strong>Prerequisite:</strong> <strong>Transcendence Tier 25</strong> (requiring approximately 66.96G% Epiphany).</li>
+</ul>
+<h3 id="primary-effects"><strong>Primary Effects</strong></h3>
+<p>The building alters the fundamental math of your kitten population and production to favor high-efficiency resets.</p>
+<ul>
+<li><strong>Population Penalty:</strong> It reduces your maximum kitten capacity by <strong>1% per level</strong> (with diminishing returns starting at 75%).</li>
+<li><strong>Prestige Boost:</strong> It provides a <strong>+2% bonus to Karma and Paragon</strong> gained per kitten upon resetting.</li>
+<li><strong>Production Compensation:</strong> To offset the lower population, it grants <strong>+2% kitten production per housing building</strong>.</li>
+<li><strong>Zebra Synergy:</strong> For players in Iron Will mode, the building provides the <strong>2% production boost to Zebras</strong> without the accompanying decrease in maximum population.</li>
+</ul>
+<h3 id="unlocking-the-post-apocalypse-challenge"><strong>Unlocking the Post Apocalypse Challenge</strong></h3>
+<p>The most significant utility of Holy Genocide is that it serves as the unlock requirement for the <strong>Post Apocalypse</strong> challenge.</p>
+<ul>
+<li><strong>The Challenge:</strong> You enter a timeline with <strong>10M ppm of pollution</strong> where kittens arrive 10 times slower and natural pollution dissipation is disabled.</li>
+<li><strong>The Goal:</strong> You must clear all pollution within the broken timeline.</li>
+<li><strong>The Rewards:</strong> Successful completion increases the number of <a href="/time/cryochamber/">cryochambers</a> that can be operational in future runs and unlocks special policies. Each subsequent completion adds +1 to the cryochamber support cap.</li>
+</ul>
+<h3 id="strategic-context"><strong>Strategic Context</strong></h3>
+<p>Holy Genocide is considered a &ldquo;Phase 3&rdquo; or <strong>Endgame</strong> structure. Because the building and your Transcendence Tier carry over through resets, it is used by advanced players to &ldquo;chase infinity&rdquo; by overcapping resources and maximizing the efficiency of <a href="/guides/paragon-farming/">Paragon farming</a>. By the time you can afford this building, you are likely using a <strong>Type 2 Relic Engine</strong> or a <strong>Shatter Engine</strong> to generate the necessary thousands of relics and void units required for construction.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

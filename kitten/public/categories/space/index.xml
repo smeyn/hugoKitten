@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/categories/space/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Wed, 22 Apr 2026 20:35:10 +0000</lastBuildDate>
+    <atom:link href="/categories/space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigation Relay</title>
+      <link>/space/navigation_relay/</link>
+      <pubDate>Wed, 22 Apr 2026 20:35:10 +0000</pubDate>
+      <guid>/space/navigation_relay/</guid>
+      <description>&lt;p&gt;Part of the locked Space Exploration Tee.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;Kittens Game&lt;/strong&gt;, the &lt;a href=&#34;../../space/navigation_relay/&#34;&gt;Navigation Relay&lt;/a&gt; is a mid-to-late game &lt;strong&gt;Workshop upgrade&lt;/strong&gt; that significantly enhances your space-based logistics. It is designed to work in tandem with your &lt;a href=&#34;../../techs/satellites/&#34;&gt;Satellites&lt;/a&gt; to make space exploration and resource management much more efficient.&lt;/p&gt;
+&lt;h3 id=&#34;key-effects&#34;&gt;Key Effects&lt;/h3&gt;
+&lt;p&gt;The Navigation Relay serves as a force multiplier for your orbital network:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Satellite Efficiency:&lt;/strong&gt; It provides a &lt;strong&gt;+15% bonus&lt;/strong&gt; to the effectiveness of your &lt;a href=&#34;../../techs/satellites/&#34;&gt;Satellites&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Starchart Generation:&lt;/strong&gt; Because it boosts Satellite efficiency, it indirectly increases your &lt;strong&gt;Starchart production&lt;/strong&gt;. This is crucial for launching the &amp;ldquo;Long Range Spaceships&amp;rdquo; and outer-system missions like &lt;a href=&#34;../../space/jupiter/&#34;&gt;Jupiter&lt;/a&gt; and &lt;strong&gt;Saturn&lt;/strong&gt; that we discussed earlier.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Energy Management:&lt;/strong&gt; By making your existing Satellites more effective, you can often generate the starcharts you need without having to build as many individual units, saving you on the scaling &lt;a href=&#34;../../craft/alloy/&#34;&gt;Alloy&lt;/a&gt; and &lt;a href=&#34;../../resource/science/&#34;&gt;Science&lt;/a&gt; costs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;unlock-requirements--cost&#34;&gt;Unlock Requirements &amp;amp; Cost&lt;/h3&gt;
+&lt;p&gt;To see the Navigation Relay in your Workshop, you must have advanced into the &lt;strong&gt;Space&lt;/strong&gt; era:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Part of the locked Space Exploration Tee.</p>
+<p>In <strong>Kittens Game</strong>, the <a href="/space/navigation_relay/">Navigation Relay</a> is a mid-to-late game <strong>Workshop upgrade</strong> that significantly enhances your space-based logistics. It is designed to work in tandem with your <a href="/techs/satellites/">Satellites</a> to make space exploration and resource management much more efficient.</p>
+<h3 id="key-effects">Key Effects</h3>
+<p>The Navigation Relay serves as a force multiplier for your orbital network:</p>
+<ul>
+<li><strong>Satellite Efficiency:</strong> It provides a <strong>+15% bonus</strong> to the effectiveness of your <a href="/techs/satellites/">Satellites</a>.</li>
+<li><strong>Starchart Generation:</strong> Because it boosts Satellite efficiency, it indirectly increases your <strong>Starchart production</strong>. This is crucial for launching the &ldquo;Long Range Spaceships&rdquo; and outer-system missions like <a href="/space/jupiter/">Jupiter</a> and <strong>Saturn</strong> that we discussed earlier.</li>
+<li><strong>Energy Management:</strong> By making your existing Satellites more effective, you can often generate the starcharts you need without having to build as many individual units, saving you on the scaling <a href="/craft/alloy/">Alloy</a> and <a href="/resource/science/">Science</a> costs.</li>
+</ul>
+<hr>
+<h3 id="unlock-requirements--cost">Unlock Requirements &amp; Cost</h3>
+<p>To see the Navigation Relay in your Workshop, you must have advanced into the <strong>Space</strong> era:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Requirement</th>
+					<th style="text-align: left">Type</th>
+					<th style="text-align: left">Cost / Detail</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Satellite</strong></td>
+					<td style="text-align: left">Space Building</td>
+					<td style="text-align: left">You must have at least one <strong>Satellite</strong> deployed.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/techs/orbital_engineering/">Orbital Engineering</a></td>
+					<td style="text-align: left">Technology</td>
+					<td style="text-align: left">The primary scientific prerequisite.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/resource/science/">Science</a></td>
+					<td style="text-align: left">Resource</td>
+					<td style="text-align: left"><strong>150,000 Science</strong></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/resource/star_charts/">Starcharts</a></td>
+					<td style="text-align: left">Resource</td>
+					<td style="text-align: left"><strong>1,500 Starcharts</strong></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/craft/alloy/">Alloy</a></td>
+					<td style="text-align: left">Resource</td>
+					<td style="text-align: left"><strong>1,000 Alloy</strong></td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="strategic-context">Strategic Context</h3>
+<p>Given your current focus on <a href="/upgrade/enriched_uranium/">Enriched Uranium</a> and managing <strong>Temporal Distortion</strong>, the Navigation Relay is a &ldquo;maintenance&rdquo; upgrade that ensures your foundation remains solid as you push into the Dark Future.</p>
+<ol>
+<li><strong>Scaling for the Farther Ring:</strong> As missions to <a href="/space/jupiter/">Jupiter</a> and beyond require thousands of Starcharts, the 15% boost from the Navigation Relay (especially when stacked with the <a href="/upgrade/hubble_space_telescope/">Hubble Space Telescope</a>) is essential to prevent a &ldquo;Starchart drought.&rdquo;</li>
+<li><strong>Antimatter Preparation:</strong> To build <a href="/space/containment-chamber/">Containment Chambers</a> for Antimatter, you need massive Science caps. Since Satellites contribute to your Science cap via the <a href="/upgrade/satellite_radio/">Satellite Radio</a> upgrade, the Navigation Relay helps push those caps even higher.</li>
+<li><strong>Efficiency:</strong> It is a relatively &ldquo;cheap&rdquo; upgrade compared to the cost of building 10 additional Satellites in the late game, making it a high-priority purchase after a reset.</li>
+</ol>
+<blockquote>
+<p><strong>Expert Tip:</strong> If you have already started farming <a href="/resource/void/">Void</a>, the Navigation Relay helps stabilize your Starchart income so you can keep your <a href="/space/research-vessel/">Research Vessels</a> and <a href="/space/space-beacon/">Space Beacons</a> active even when the timeline is experiencing Distortion.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Spice Navigation</title>
+      <link>/upgrade/spice_navigation/</link>
+      <pubDate>Thu, 12 Mar 2026 06:00:57 +0000</pubDate>
+      <guid>/upgrade/spice_navigation/</guid>
+      <description>&lt;p&gt;Upgrade: Unlocks &lt;a href=&#34;../../space/navigation_relay/&#34;&gt;Navigation Relay&lt;/a&gt;. Enable you to staff kittens to explore space as a crew&amp;quot;&lt;/p&gt;
+&lt;p&gt;Cost:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Science: 350,000&lt;/li&gt;
+&lt;li&gt;starchart: 500,000&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Upgrade: Unlocks <a href="/space/navigation_relay/">Navigation Relay</a>. Enable you to staff kittens to explore space as a crew&quot;</p>
+<p>Cost:</p>
+<ul>
+<li>Science: 350,000</li>
+<li>starchart: 500,000</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

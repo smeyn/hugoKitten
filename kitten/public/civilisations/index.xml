@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/civilisations/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Sat, 29 Nov 2025 20:44:33 +1100</lastBuildDate>
+    <atom:link href="/civilisations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dragons</title>
+      <link>/civilisations/dragons/</link>
+      <pubDate>Wed, 24 Dec 2025 09:54:40 +1100</pubDate>
+      <guid>/civilisations/dragons/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../civilisations/dragons/&#34;&gt;Dragons&lt;/a&gt; are a neutral trading civilization in &lt;em&gt;Kittens Game&lt;/em&gt; that are crucial for acquiring Uranium and Thorium, essential resources for progressing into the space and atomic phases of the game.&lt;/p&gt;
+&lt;p&gt;Here is a detailed breakdown of the Dragons and their strategic importance:&lt;/p&gt;
+&lt;h3 id=&#34;prerequisites-and-attitude&#34;&gt;Prerequisites and Attitude&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../civilisations/attitude/&#34;&gt;Attitude:&lt;/a&gt; Dragons are a &lt;strong&gt;Neutral&lt;/strong&gt; civilization, starting with a 0% attitude towards your kittens.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlocking:&lt;/strong&gt; Dragons are unlocked once you have researched the &lt;a href=&#34;../techs/nuclear_fission/&#34;&gt;Nuclear Fission&lt;/a&gt; technology.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trade Requirements:&lt;/strong&gt; To trade with Dragons, you must &lt;strong&gt;buy&lt;/strong&gt; Uranium or Thorium by offering &lt;a href=&#34;../resource/titanium/&#34;&gt;Titanium&lt;/a&gt;. The minimum cost they require is 250 Titanium.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;resources-traded&#34;&gt;Resources Traded&lt;/h3&gt;
+&lt;p&gt;Dragons specialize in selling advanced radioactive resources:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/civilisations/dragons/">Dragons</a> are a neutral trading civilization in <em>Kittens Game</em> that are crucial for acquiring Uranium and Thorium, essential resources for progressing into the space and atomic phases of the game.</p>
+<p>Here is a detailed breakdown of the Dragons and their strategic importance:</p>
+<h3 id="prerequisites-and-attitude">Prerequisites and Attitude</h3>
+<ul>
+<li><a href="/civilisations/attitude/">Attitude:</a> Dragons are a <strong>Neutral</strong> civilization, starting with a 0% attitude towards your kittens.</li>
+<li><strong>Unlocking:</strong> Dragons are unlocked once you have researched the <a href="/techs/nuclear_fission/">Nuclear Fission</a> technology.</li>
+<li><strong>Trade Requirements:</strong> To trade with Dragons, you must <strong>buy</strong> Uranium or Thorium by offering <a href="/resource/titanium/">Titanium</a>. The minimum cost they require is 250 Titanium.</li>
+</ul>
+<h3 id="resources-traded">Resources Traded</h3>
+<p>Dragons specialize in selling advanced radioactive resources:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Resource Sold</th>
+					<th style="text-align: left">Minimum Amount</th>
+					<th style="text-align: left">Chance to Receive</th>
+					<th style="text-align: left">Strategic Note</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><a href="/resource/uranium/">Uranium</a></td>
+					<td style="text-align: left">1</td>
+					<td style="text-align: left">95%</td>
+					<td style="text-align: left">Uranium is a Common Resource.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/resource/thorium/">Thorium</a></td>
+					<td style="text-align: left">1</td>
+					<td style="text-align: left">50%</td>
+					<td style="text-align: left">Thorium is sold once you reach Embassy Level 5.</td>
+			</tr>
+	</tbody>
+</table>
+<p>Dragon trades do <strong>not</strong> have any seasonal adjustments that affect the amount of resources received.</p>
+<h3 id="strategic-role-and-uranium-acquisition">Strategic Role and Uranium Acquisition</h3>
+<p>The primary function of trading with Dragons is to gain <a href="/resource/uranium/">Uranium</a>, which is necessary for creating Unobtainium (UO) and for powering Reactors.</p>
+<ol>
+<li><strong>Unobtainium Production:</strong> The <a href="/planet/lunar_outpost/">Lunar Outpost</a> converts Uranium into Unobtainium. Since the Lunar Outpost consumes Uranium at a rate 140 times faster than a single <a href="/buildings/accelerator/">Accelerator</a> can produce it internally, trading Titanium for Uranium with Dragons provides a vital alternative source for this bottleneck resource.</li>
+<li><strong>Thorium Acquisition:</strong> Dragons are a source for <a href="/resource/thorium/">Thorium</a>, a highly radioactive and unstable fuel. Thorium is used for the <a href="/upgrade/thorium_reactors/">Thorium Reactors</a> upgrade and the <a href="/upgrade/thorium_drive/">Thorium Drive</a> space engine upgrade.</li>
+<li><strong>Embassy Bonus:</strong> If you build Embassies with the Dragons, the chance to receive <a href="/resource/uranium/">Uranium</a> increases, reaching a guaranteed 100% chance at Embassy Level 6.</li>
+</ol>
+<p>In the progression towards <a href="/techs/metaphysics/">Metaphysics</a>, where you need Unobtainium, you will need to research Nuclear Fission to unlock Dragons. Trading with Dragons to acquire Uranium, which then converts to Unobtainium via the Lunar Outpost, is a standard path forward.</p>
+<p>The reliance on Dragons for Uranium highlights the constant trade-offs in resource management: you exchange your hard-won <a href="/resource/titanium/">Titanium</a> (acquired mainly through trading with the hostile Zebras) for the prerequisite resource <a href="/resource/uranium/">Uranium</a> needed for the next technological jump to Unobtainium.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Lizards</title>
+      <link>/civilisations/lizards/</link>
+      <pubDate>Wed, 24 Dec 2025 09:54:40 +1100</pubDate>
+      <guid>/civilisations/lizards/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../civilisations/lizards/&#34;&gt;Lizards&lt;/a&gt; are the &lt;strong&gt;first trade partner&lt;/strong&gt; you encounter in &lt;em&gt;Kittens Game&lt;/em&gt;, and they are crucial for unlocking the &lt;strong&gt;Trade tab&lt;/strong&gt; and establishing early access to resources you may struggle to produce initially.&lt;/p&gt;
+&lt;p&gt;Here is a detailed breakdown of the Lizards:&lt;/p&gt;
+&lt;h3 id=&#34;unlocking-and-attitude&#34;&gt;Unlocking and Attitude&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Discovery:&lt;/strong&gt; A Lizard arrives at your Village after &lt;strong&gt;20 years of game play&lt;/strong&gt;, offering to trade Wood for Minerals, which immediately unlocks the Trade tab.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite Reduction:&lt;/strong&gt; This initial unlock time of Year 20 can be reduced to &lt;strong&gt;Year 5&lt;/strong&gt; if you have more than 0 Karma, and can be further reduced to &lt;strong&gt;Year 1&lt;/strong&gt; with the &lt;strong&gt;Diplomacy Metaphysics&lt;/strong&gt; upgrade.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../civilisations/attitude/&#34;&gt;Attitude:&lt;/a&gt; Lizards are categorized as a &lt;strong&gt;Friendly&lt;/strong&gt; civilization, starting with a high attitude bonus of &lt;strong&gt;+25%&lt;/strong&gt;. As a Friendly civilization, they have a chance of giving you &lt;strong&gt;15–25% extra resources&lt;/strong&gt; during a successful trade.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Currency Requirement:&lt;/strong&gt; Before you can trade with the Lizards, you must first develop the &lt;a href=&#34;../upgrade/gold_ore/&#34;&gt;Gold Ore&lt;/a&gt; upgrade in the Workshop, enabling you to create &lt;a href=&#34;../resource/gold/&#34;&gt;Gold&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;trade-details&#34;&gt;Trade Details&lt;/h3&gt;
+&lt;p&gt;The Lizards&amp;rsquo; primary trade early in the game involves wood and minerals, helping to balance your foundational resource production:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/civilisations/lizards/">Lizards</a> are the <strong>first trade partner</strong> you encounter in <em>Kittens Game</em>, and they are crucial for unlocking the <strong>Trade tab</strong> and establishing early access to resources you may struggle to produce initially.</p>
+<p>Here is a detailed breakdown of the Lizards:</p>
+<h3 id="unlocking-and-attitude">Unlocking and Attitude</h3>
+<ul>
+<li><strong>Discovery:</strong> A Lizard arrives at your Village after <strong>20 years of game play</strong>, offering to trade Wood for Minerals, which immediately unlocks the Trade tab.</li>
+<li><strong>Prerequisite Reduction:</strong> This initial unlock time of Year 20 can be reduced to <strong>Year 5</strong> if you have more than 0 Karma, and can be further reduced to <strong>Year 1</strong> with the <strong>Diplomacy Metaphysics</strong> upgrade.</li>
+<li><a href="/civilisations/attitude/">Attitude:</a> Lizards are categorized as a <strong>Friendly</strong> civilization, starting with a high attitude bonus of <strong>+25%</strong>. As a Friendly civilization, they have a chance of giving you <strong>15–25% extra resources</strong> during a successful trade.</li>
+<li><strong>Currency Requirement:</strong> Before you can trade with the Lizards, you must first develop the <a href="/upgrade/gold_ore/">Gold Ore</a> upgrade in the Workshop, enabling you to create <a href="/resource/gold/">Gold</a>.</li>
+</ul>
+<h3 id="trade-details">Trade Details</h3>
+<p>The Lizards&rsquo; primary trade early in the game involves wood and minerals, helping to balance your foundational resource production:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Action</th>
+					<th style="text-align: left">Resource</th>
+					<th style="text-align: left">Minimum Amount</th>
+					<th style="text-align: left">Cost/Gain</th>
+					<th style="text-align: left">Strategic Note</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Buy</strong></td>
+					<td style="text-align: left">Minerals</td>
+					<td style="text-align: left">1000</td>
+					<td style="text-align: left">Cost</td>
+					<td style="text-align: left">Lizards buy Minerals.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Sell</strong></td>
+					<td style="text-align: left">Wood</td>
+					<td style="text-align: left">500</td>
+					<td style="text-align: left">Gain</td>
+					<td style="text-align: left">Lizards sell Wood.</td>
+			</tr>
+	</tbody>
+</table>
+<p><strong>Secondary Resources Unlocked via Embassies:</strong>
+Building embassies with the Lizards allows access to advanced materials:</p>
+<ul>
+<li><strong>Beam</strong> (10 units, 15% chance) at Embassy Level 5.</li>
+<li><a href="/craft/scaffold/">Scaffold</a> (1 unit, 10% chance) at Embassy Level 10.</li>
+</ul>
+<p><strong>Seasonal Optimization:</strong>
+Lizard trades for Wood are subject to seasonal adjustments, making it most efficient to trade during <strong>Summer</strong>:</p>
+<ul>
+<li><strong>Summer:</strong> <strong>+35% Amount Modifier</strong> for Wood.</li>
+<li><strong>Autumn:</strong> +15% Amount Modifier for Wood.</li>
+<li><strong>Winter:</strong> +5% Amount Modifier for Wood.</li>
+<li><strong>Spring:</strong> -5% Amount Modifier for Wood.</li>
+</ul>
+<h3 id="strategic-importance">Strategic Importance</h3>
+<ul>
+<li><strong>Exploration:</strong> Trading with the Lizards unlocks the <strong>Trade tab</strong>, which allows you to <strong>Send Explorers</strong> to find additional civilizations.</li>
+<li><strong>Rare Resources:</strong> Any successful trade, including those with Lizards, has a fixed <strong>10% chance of receiving one Blueprint</strong> and a <strong>35% chance of receiving Spice</strong> as extra resources.</li>
+</ul>
+<h3 id="advanced-relations-policy">Advanced Relations Policy/</h3>
+<p>Once you reach Lizard Embassy Level 20 and research the <a href="/policy/diplomacy/">Diplomacy</a> Metaphysics upgrade, you unlock specialized foreign Policy/ related to the Lizard civilization:</p>
+<ol>
+<li><strong>Lizard Relations: Ecologists:</strong> Reduces pollution by 5%.</li>
+<li><strong>Lizard Relations: [Priests] ( /job/priest/ ):</strong> Causes Manuscripts to grant maximum faith equal to the maximum culture they grant (though this reduces maximum culture by 25%).</li>
+<li><strong>Lizard Relations: Diplomats:</strong> Increases the standing ratio by +0.1% per Embassy built with neutral races, which can help those neutral races become Friendly.</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Naga</title>
+      <link>/civilisations/nagas/</link>
+      <pubDate>Wed, 24 Dec 2025 09:54:40 +1100</pubDate>
+      <guid>/civilisations/nagas/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../civilisations/nagas/&#34;&gt;Nagas&lt;/a&gt; are a neutral trading partner (0% attitude) in &lt;em&gt;Kittens Game&lt;/em&gt;, specializing in &lt;strong&gt;Minerals&lt;/strong&gt; and mineral-based materials. They are crucial for accelerating your supply of building materials and advanced resources.&lt;/p&gt;
+&lt;p&gt;Here is a comprehensive overview of Nagas:&lt;/p&gt;
+&lt;h3 id=&#34;unlocking-and-prerequisites&#34;&gt;Unlocking and Prerequisites&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; Nagas are unlocked once you achieve a &lt;strong&gt;1500 Culture&lt;/strong&gt; maximum. Achieving this culture maximum often requires a substantial culture grind.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trade Currency:&lt;/strong&gt; Before you can trade with Nagas (or any other civilization), you must first develop the &lt;a href=&#34;../upgrade/gold_ore/&#34;&gt;Gold Ore&lt;/a&gt; upgrade in the Workshop, enabling you to create &lt;a href=&#34;../resource/gold/&#34;&gt;Gold&lt;/a&gt;, which is required for trade costs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;trade-details&#34;&gt;Trade Details&lt;/h3&gt;
+&lt;p&gt;The Nagas primarily trade minerals in exchange for Ivory:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/civilisations/nagas/">Nagas</a> are a neutral trading partner (0% attitude) in <em>Kittens Game</em>, specializing in <strong>Minerals</strong> and mineral-based materials. They are crucial for accelerating your supply of building materials and advanced resources.</p>
+<p>Here is a comprehensive overview of Nagas:</p>
+<h3 id="unlocking-and-prerequisites">Unlocking and Prerequisites</h3>
+<ul>
+<li><strong>Prerequisite:</strong> Nagas are unlocked once you achieve a <strong>1500 Culture</strong> maximum. Achieving this culture maximum often requires a substantial culture grind.</li>
+<li><strong>Trade Currency:</strong> Before you can trade with Nagas (or any other civilization), you must first develop the <a href="/upgrade/gold_ore/">Gold Ore</a> upgrade in the Workshop, enabling you to create <a href="/resource/gold/">Gold</a>, which is required for trade costs.</li>
+</ul>
+<h3 id="trade-details">Trade Details</h3>
+<p>The Nagas primarily trade minerals in exchange for Ivory:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Action</th>
+					<th style="text-align: left">Resource</th>
+					<th style="text-align: left">Minimum Amount</th>
+					<th style="text-align: left">Buy/Sell</th>
+					<th style="text-align: left">Strategic Note</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Buy</strong></td>
+					<td style="text-align: left">Ivory</td>
+					<td style="text-align: left">500</td>
+					<td style="text-align: left">Buy</td>
+					<td style="text-align: left">Ivory is gained via Hunting.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Sell</strong></td>
+					<td style="text-align: left">Minerals</td>
+					<td style="text-align: left">1000</td>
+					<td style="text-align: left">Sell</td>
+					<td style="text-align: left">Naga trade is a <strong>huge step forward with respect to mineral production</strong>.</td>
+			</tr>
+	</tbody>
+</table>
+<p><strong>Secondary Resources:</strong> Nagas also sell higher-tier crafted materials once you build embassies:</p>
+<ul>
+<li><strong>Slab</strong> (5 units, 75% chance) at Embassy Level 5.</li>
+<li><a href="/craft/concrete/">Concrete</a> (5 units, 25% chance) at Embassy Level 10.</li>
+<li><a href="/craft/megalith/">Megalith</a> (1 unit, 10% chance) at Embassy Level 15.</li>
+</ul>
+<h3 id="strategic-trading">Strategic Trading</h3>
+<ol>
+<li><strong>Seasonal Optimization:</strong> The trade for Minerals is optimally performed during the <strong>Spring</strong> season, which provides a <strong>+25% Amount Modifier</strong>. It is specifically suggested to <strong>trade with the Nagas only in spring</strong>.</li>
+<li><strong>Trade Loop:</strong> The minerals acquired from Nagas in exchange for Ivory can be immediately reinvested. These minerals can be put back into your <a href="/buildings/smelter/">Smelters</a> to produce more <a href="/resource/gold/">Gold</a>, which is required to cover trade costs and build other structures.</li>
+<li><strong>Blueprint Acquisition:</strong> Like all trades, a successful trade with Nagas has a <strong>10% chance of including one Blueprint</strong> as an extra resource. This is a fixed rate unaffected by general trade bonuses.</li>
+</ol>
+<h3 id="related-policy-and-upgrades-naga-relations">Related Policy/ and Upgrades (Naga Relations)</h3>
+<p>The <strong>Naga Relations</strong> foreign Policy/ become available after reaching Embassy Level 20 and researching the <a href="/policy/diplomacy/">Diplomacy</a> metaphysics upgrade.</p>
+<ul>
+<li><strong>Naga Relations: Architects:</strong> This policy increases the chance to get <strong>blueprints from Nagas by 0.25%</strong> per embassy, capping at <strong>10% at 40 embassies</strong>. Once the maximum bonus is reached, additional embassies improve the blueprint crafting ratio by +2% instead.</li>
+<li><strong>Naga Relations: Masons:</strong> This policy grants a <strong>+2.5% Quarry slab crafting bonus</strong>.</li>
+<li><strong>Naga Relations: Cultists:</strong> This policy causes <a href="/buildings/ziggurat/">Ziggurat</a> to gain <strong>10% of the bonuses</strong> that the <strong>Order of the Sun</strong> grants to temples.</li>
+<li><strong>Isolationism Path:</strong> The policy choice <a href="/policy/isolationism/">Isolationism</a> over Diplomacy may be preferred for the <strong>additional naga exchanges</strong>.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sharks</title>
+      <link>/civilisations/sharks/</link>
+      <pubDate>Wed, 24 Dec 2025 09:54:40 +1100</pubDate>
+      <guid>/civilisations/sharks/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../civilisations/sharks/&#34;&gt;Sharks&lt;/a&gt; are a pivotal trading civilization in &lt;em&gt;Kittens Game&lt;/em&gt;, primarily valued for their large supply of Catnip in exchange for Iron, often playing a role in crucial resource trade loops.&lt;/p&gt;
+&lt;h3 id=&#34;trading-profile-and-unlocking&#34;&gt;Trading Profile and Unlocking&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../civilisations/attitude/&#34;&gt;Attitude:&lt;/a&gt; Sharks are a &lt;strong&gt;Neutral (0%)&lt;/strong&gt; civilization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discovery:&lt;/strong&gt; They can be discovered after &lt;strong&gt;20 years of game play&lt;/strong&gt;, though this is reduced to &lt;strong&gt;Year 5&lt;/strong&gt; if you have Karma, or &lt;strong&gt;Year 1&lt;/strong&gt; with the &lt;a href=&#34;../policy/diplomacy/&#34;&gt;Diplomacy&lt;/a&gt; Metaphysics upgrade.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trade Currency:&lt;/strong&gt; Like all civilizations, trading requires you to first develop the &lt;a href=&#34;../upgrade/gold_ore/&#34;&gt;Gold Ore&lt;/a&gt; upgrade in the Workshop.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-trade-and-seasonal-optimization&#34;&gt;Primary Trade and Seasonal Optimization&lt;/h3&gt;
+&lt;p&gt;Sharks specialize in the exchange of Iron for Catnip:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/civilisations/sharks/">Sharks</a> are a pivotal trading civilization in <em>Kittens Game</em>, primarily valued for their large supply of Catnip in exchange for Iron, often playing a role in crucial resource trade loops.</p>
+<h3 id="trading-profile-and-unlocking">Trading Profile and Unlocking</h3>
+<ul>
+<li><a href="/civilisations/attitude/">Attitude:</a> Sharks are a <strong>Neutral (0%)</strong> civilization.</li>
+<li><strong>Discovery:</strong> They can be discovered after <strong>20 years of game play</strong>, though this is reduced to <strong>Year 5</strong> if you have Karma, or <strong>Year 1</strong> with the <a href="/policy/diplomacy/">Diplomacy</a> Metaphysics upgrade.</li>
+<li><strong>Trade Currency:</strong> Like all civilizations, trading requires you to first develop the <a href="/upgrade/gold_ore/">Gold Ore</a> upgrade in the Workshop.</li>
+</ul>
+<h3 id="primary-trade-and-seasonal-optimization">Primary Trade and Seasonal Optimization</h3>
+<p>Sharks specialize in the exchange of Iron for Catnip:</p>
+<ul>
+<li><strong>Sharks Buy:</strong> <a href="/resource/iron/">Iron</a> (minimum 100 units).</li>
+<li><strong>Sharks Sell:</strong> <strong>Catnip</strong> (minimum 35,000 units).
+<ul>
+<li>This catnip can be refined into <strong>Wood</strong> for construction purposes.</li>
+</ul>
+</li>
+<li>Trading for Catnip is optimally performed during <strong>Winter</strong>, which provides a <strong>+45% Amount Modifier</strong>. They also offer a good bonus in Spring (+20%) and Autumn (+15%), but the trade is worst in Summer (-5%).</li>
+</ul>
+<h3 id="secondary-and-rare-resources">Secondary and Rare Resources</h3>
+<p>As you build Embassies with the Sharks, they unlock more sophisticated trade items:</p>
+<ul>
+<li><strong>Crafted Paper:</strong> At Embassy Level 5, they may sell <a href="/craft/parchment/">Parchment</a> (5 units, 25% chance); at Level 10, <a href="/craft/manuscript/">Manuscript</a> (3 units, 15% chance); and at Level 15, <a href="/craft/compendium/">Compendium</a> (1 unit, 10% chance).</li>
+<li>Any successful trade with Sharks has a fixed <strong>10% chance of yielding one Blueprint</strong> and a <strong>35% chance of yielding Spice</strong> as an extra resource.</li>
+</ul>
+<h3 id="strategic-role-the-trade-loop">Strategic Role (The Trade Loop)</h3>
+<p>Sharks are essential in a powerful industrial trade loop, often paired with the hostile Griffins:</p>
+<ol>
+<li>The cycle begins in <strong>Autumn</strong> by trading <strong>Wood to Griffins to gather Iron</strong>.</li>
+<li>In <strong>Winter</strong>, this acquired <strong>Iron is traded to Sharks for Catnip</strong>.</li>
+<li>The Catnip is then refined into <strong>Wood</strong> (costing 50 catnip per wood after the <a href="/upgrade/catnip_enrichment/">Catnip Enrichment</a> upgrade) to prepare for the next Autumn trade with Griffins.</li>
+</ol>
+<p>This trading loop is a &ldquo;great way to start collecting wood, <a href="/craft/steel/">steel</a>, <a href="/craft/gear/">gears</a>, and <a href="/resource/blueprint/">blueprints</a> for <a href="/buildings/steamworks/">Steamworks</a>&rdquo;.</p>
+<h3 id="advanced-policy">Advanced Policy/</h3>
+<p>If you reach Embassy Level 20 and have the <a href="/policy/diplomacy/">Diplomacy</a> Metaphysics upgrade, you unlock specific Shark Relations Policy/ that further enhance resource production and trade efficiency:</p>
+<ul>
+<li>Increases Parchment and Manuscript trade chance, but raises the Iron cost per trade by 50%.</li>
+<li>Boosts trade ratio, starting at +3% and scaling multiplicatively up to +30% based on the total trades completed.</li>
+<li>Provides a  (catnip refinement).</li>
+</ul>
+<h3 id="role-in-challenges">Role in Challenges</h3>
+<p>In the difficult <a href="/challenges/ironwill/">Iron Will</a> challenge, especially when combined with the <strong>Black Sky Challenge</strong>, the Sharks&rsquo; role shifts dramatically:</p>
+<ul>
+<li><strong>Trade Change:</strong> Sharks trade <strong>iron for science</strong>.</li>
+<li><strong>Trade Cost:</strong> The trade initially requires only iron, then shifts to require <a href="/resource/cat_power/">catpower</a> after the first Zebra joins, and finally requires <a href="/resource/gold/">gold</a> once Currency and Gold Ore are researched.</li>
+<li><strong>Seasonal Inversion:</strong> The seasonal adjustments are <strong>inverted</strong> while Sharks are science traders.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Zebra</title>
+      <link>/civilisations/zebras/</link>
+      <pubDate>Wed, 24 Dec 2025 09:54:40 +1100</pubDate>
+      <guid>/civilisations/zebras/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../civilisations/zebras/&#34;&gt;Zebras&lt;/a&gt; are a crucial civilization in &lt;em&gt;Kittens Game&lt;/em&gt;, primarily known as  who provide essential industrial resources during the mid-game, particularly in the Titanium era.&lt;/p&gt;
+&lt;p&gt;Here is a comprehensive breakdown of the Zebras, their role in trade, and their unique function in the Iron Will challenge:&lt;/p&gt;
+&lt;h3 id=&#34;trading-and-strategic-importance&#34;&gt;Trading and Strategic Importance&lt;/h3&gt;
+&lt;p&gt;Zebras are primarily sought after for their critical resource exports:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Acquisition and Attitude:&lt;/strong&gt; Zebras are a &lt;strong&gt;Hostile&lt;/strong&gt; civilization with an initial attitude of &lt;strong&gt;-30%&lt;/strong&gt;. They are unlocked once you have &lt;strong&gt;1 Trade Ship&lt;/strong&gt;. Since they are hostile, they have a chance of giving you no resources at all during a trade.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trade Mitigation:&lt;/strong&gt; The penalty from Zebra hostility can be negated by building a sufficient number of &lt;a href=&#34;../buildings/tradepost/&#34;&gt;Tradeposts&lt;/a&gt; (85 posts, or 58 with the Diplomacy Metaphysics upgrade).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resources Traded:&lt;/strong&gt; Zebras &lt;strong&gt;buy Slab&lt;/strong&gt; (50 minimum). In return, they sell three critical resources:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/iron/&#34;&gt;Iron&lt;/a&gt; (300 minimum amount).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/plate/&#34;&gt;Plate&lt;/a&gt; (2 minimum, with a 65% chance).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../resource/titanium/&#34;&gt;Titanium&lt;/a&gt; (amount is calculated based on the number of Trade Ships you possess: &lt;code&gt;(0.03 * Trade Ships) + 1.5&lt;/code&gt;).&lt;/li&gt;
+&lt;li&gt;They also offer &lt;a href=&#34;../craft/alloy/&#34;&gt;Alloy&lt;/a&gt; (0.25 minimum, 5% chance) once you reach Embassy Level 5.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Titanium Trade Mechanic:&lt;/strong&gt; Unlike most resources gained through trade, the amount of &lt;a href=&#34;../resource/titanium/&#34;&gt;Titanium&lt;/a&gt; received from the Zebras  (such as the bonus received from Tradeposts).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seasonal Optimization:&lt;/strong&gt; Trades are best conducted during &lt;strong&gt;Summer&lt;/strong&gt; for Iron (+15% amount modifier) and &lt;strong&gt;Winter&lt;/strong&gt; for Plate (+25% amount modifier).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strategic Goal:&lt;/strong&gt; In the Titanium era, the focus often becomes &lt;strong&gt;trading with Zebras non stop&lt;/strong&gt; to acquire &lt;strong&gt;Titanium and Iron&lt;/strong&gt;. This trade is crucial for unlocking titanium-heavy technologies and buildings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;policy-and-upgrades&#34;&gt;Policy/ and Upgrades&lt;/h3&gt;
+&lt;p&gt;Zebras are associated with several Policy/ and specialized upgrades:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/civilisations/zebras/">Zebras</a> are a crucial civilization in <em>Kittens Game</em>, primarily known as  who provide essential industrial resources during the mid-game, particularly in the Titanium era.</p>
+<p>Here is a comprehensive breakdown of the Zebras, their role in trade, and their unique function in the Iron Will challenge:</p>
+<h3 id="trading-and-strategic-importance">Trading and Strategic Importance</h3>
+<p>Zebras are primarily sought after for their critical resource exports:</p>
+<ul>
+<li><strong>Acquisition and Attitude:</strong> Zebras are a <strong>Hostile</strong> civilization with an initial attitude of <strong>-30%</strong>. They are unlocked once you have <strong>1 Trade Ship</strong>. Since they are hostile, they have a chance of giving you no resources at all during a trade.</li>
+<li><strong>Trade Mitigation:</strong> The penalty from Zebra hostility can be negated by building a sufficient number of <a href="/buildings/tradepost/">Tradeposts</a> (85 posts, or 58 with the Diplomacy Metaphysics upgrade).</li>
+<li><strong>Resources Traded:</strong> Zebras <strong>buy Slab</strong> (50 minimum). In return, they sell three critical resources:
+<ul>
+<li><a href="/resource/iron/">Iron</a> (300 minimum amount).</li>
+<li><a href="/resource/plate/">Plate</a> (2 minimum, with a 65% chance).</li>
+<li><a href="/resource/titanium/">Titanium</a> (amount is calculated based on the number of Trade Ships you possess: <code>(0.03 * Trade Ships) + 1.5</code>).</li>
+<li>They also offer <a href="/craft/alloy/">Alloy</a> (0.25 minimum, 5% chance) once you reach Embassy Level 5.</li>
+</ul>
+</li>
+<li><strong>Titanium Trade Mechanic:</strong> Unlike most resources gained through trade, the amount of <a href="/resource/titanium/">Titanium</a> received from the Zebras  (such as the bonus received from Tradeposts).</li>
+<li><strong>Seasonal Optimization:</strong> Trades are best conducted during <strong>Summer</strong> for Iron (+15% amount modifier) and <strong>Winter</strong> for Plate (+25% amount modifier).</li>
+<li><strong>Strategic Goal:</strong> In the Titanium era, the focus often becomes <strong>trading with Zebras non stop</strong> to acquire <strong>Titanium and Iron</strong>. This trade is crucial for unlocking titanium-heavy technologies and buildings.</li>
+</ul>
+<h3 id="policy-and-upgrades">Policy/ and Upgrades</h3>
+<p>Zebras are associated with several Policy/ and specialized upgrades:</p>
+<ul>
+<li>After meeting the Zebras, you must choose between two foreign Policy/:
+*   <strong>Zebra Relations: Appeasement</strong> (5000 Culture): This policy is generally preferred because it improves relations (equivalent to 15 extra tradeposts) and provides a multiplicative boost to the titanium trade ratio (equivalent to 15 tradeposts). It is highly recommended because players are often <strong>desperate for titanium</strong>.
+*   <strong>Zebra Relations: Bellicosity</strong> (5000 Culture): This policy worsens relations with Zebras but slightly improves relations with other races.</li>
+<li>There are several buildings associated with this race, including the <a href="/buildings/zebra_outpost/">Zebra Outpost</a>, <a href="/buildings/zebra_workshop/">Zebra Workshop</a>, and <a href="/buildings/zebra_forge/">Zebra Forge</a>. Additionally, the workshop upgrade <a href="/zebraupgrades/mineralogy_department/">Mineralogy Department</a> is a Zebra upgrade for Academies.</li>
+</ul>
+<h3 id="role-in-iron-will-iw-mode">Role in Iron Will (IW) Mode</h3>
+<p>In the specialized <a href="/challenges/ironwill/">Iron Will</a> challenge (a mode played without kittens or housing), Zebras adopt a unique and critical function:</p>
+<ul>
+<li><strong>Job Replacement:</strong> In IW mode, <a href="/civilisations/zebras/">Zebras</a> are categorized as a <strong>Special Resource</strong> that acts as <a href="/job/hunter/">hunters</a> to replace the absent kitten population, generating <a href="/resource/cat_power/">Catpower</a>. Catpower is essential for hunting, which yields <a href="/resource/gold/">Gold</a> (due to the Gold Ore upgrade effect in IW mode) and <a href="/resource/ivory/">Ivory</a>.</li>
+<li><strong>Acquisition:</strong> You gain one zebra after researching <a href="/techs/archery/">Archery</a>. Players often perform <strong>short reset runs (6 to 10 runs)</strong> solely to rush Archery and accumulate .</li>
+<li><strong>Zebra Limit:</strong> The maximum zebra limit can be increased by <strong>1</strong> every time you research <a href="/techs/archery/">Archery</a> and reset (up to 10 or 11 initially). The limit also increases based on the amount of science spent in the previous run.</li>
+<li>While a higher zebra count is desired to speed up hunting and catpower generation, diminishing returns on catpower production start to set in .</li>
+<li><a href="/craft/bloodstone/">Bloodstone:</a> If you have at least  in IW mode, hunting gains a <strong>0.05% chance of yielding Bloodstone</strong>.</li>
+<li><strong>IW Carryover:</strong> The <strong>Zebra counter</strong> carries over when you reset the game. The <strong>Zebra Diplomacy</strong> and <strong>Zebra Covenant</strong> Metaphysics upgrades allow a portion of your Zebras (10% and 50% of cap, respectively) to remain if you choose to end Iron Will mode by building housing.</li>
+</ul>
+<hr>
+<p><strong>Analogy:</strong> Zebras act as an offshore supplier for heavy manufacturing materials. They are a hostile, high-risk trade partner, but they are the only reliable source for large quantities of <a href="/resource/titanium/">Titanium</a>—the resource needed to build your space program and advanced factories. In the unique constraints of Iron Will, however, they become a primary workforce, serving as essential substitute hunters to generate the gold and ivory required for civilization building.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Griffins</title>
+      <link>/civilisations/griffins/</link>
+      <pubDate>Mon, 01 Dec 2025 09:36:58 +1100</pubDate>
+      <guid>/civilisations/griffins/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../civilisations/griffins/&#34;&gt;Griffins&lt;/a&gt; are a crucial trading partner in &lt;em&gt;Kittens Game&lt;/em&gt; known for providing foundational industrial resources, primarily Iron, despite their hostile disposition.&lt;/p&gt;
+&lt;p&gt;Here is a comprehensive overview of the Griffins:&lt;/p&gt;
+&lt;h3 id=&#34;attitude-and-trade-details&#34;&gt;Attitude and Trade Details&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../civilisations/attitude/&#34;&gt;Attitude:&lt;/a&gt; Griffins are a &lt;strong&gt;Hostile&lt;/strong&gt; civilization, starting with an attitude of &lt;strong&gt;-15%&lt;/strong&gt;. Hostile civilizations carry a risk of giving you no resources at all during a trade.&lt;/li&gt;
+&lt;li&gt;Griffins &lt;strong&gt;buy Wood&lt;/strong&gt; (minimum 500 units).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Primary Export:&lt;/strong&gt; They sell &lt;a href=&#34;../resource/iron/&#34;&gt;Iron&lt;/a&gt; (minimum 250 units, 100% chance).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Secondary Exports (Unlocked via Embassies):&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../craft/steel/&#34;&gt;Steel&lt;/a&gt; (25 units, 25% chance) at Embassy Level 5. The sources note that with enough embassies, Griffins are a great way to collect a lot of &lt;a href=&#34;../craft/steel/&#34;&gt;steel&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../craft/gear/&#34;&gt;Gear&lt;/a&gt; (5 units, 10% chance) at Embassy Level 10.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seasonal Optimization:&lt;/strong&gt; Trading for &lt;a href=&#34;../resource/iron/&#34;&gt;Iron&lt;/a&gt; is optimally performed during &lt;strong&gt;Autumn&lt;/strong&gt;, which provides a &lt;strong&gt;+35% Amount Modifier&lt;/strong&gt;. Conversely, the trade is worst during Spring (-25%) and Winter (-20%).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-role&#34;&gt;Strategic Role&lt;/h3&gt;
+&lt;p&gt;Griffins play a key role in overcoming bottlenecks in Iron production, particularly during the Infrastructure and Trade Arbitrage phase of the game:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/civilisations/griffins/">Griffins</a> are a crucial trading partner in <em>Kittens Game</em> known for providing foundational industrial resources, primarily Iron, despite their hostile disposition.</p>
+<p>Here is a comprehensive overview of the Griffins:</p>
+<h3 id="attitude-and-trade-details">Attitude and Trade Details</h3>
+<ul>
+<li><a href="/civilisations/attitude/">Attitude:</a> Griffins are a <strong>Hostile</strong> civilization, starting with an attitude of <strong>-15%</strong>. Hostile civilizations carry a risk of giving you no resources at all during a trade.</li>
+<li>Griffins <strong>buy Wood</strong> (minimum 500 units).</li>
+<li><strong>Primary Export:</strong> They sell <a href="/resource/iron/">Iron</a> (minimum 250 units, 100% chance).</li>
+<li><strong>Secondary Exports (Unlocked via Embassies):</strong>
+<ul>
+<li><a href="/craft/steel/">Steel</a> (25 units, 25% chance) at Embassy Level 5. The sources note that with enough embassies, Griffins are a great way to collect a lot of <a href="/craft/steel/">steel</a>.</li>
+<li><a href="/craft/gear/">Gear</a> (5 units, 10% chance) at Embassy Level 10.</li>
+</ul>
+</li>
+<li><strong>Seasonal Optimization:</strong> Trading for <a href="/resource/iron/">Iron</a> is optimally performed during <strong>Autumn</strong>, which provides a <strong>+35% Amount Modifier</strong>. Conversely, the trade is worst during Spring (-25%) and Winter (-20%).</li>
+</ul>
+<h3 id="strategic-role">Strategic Role</h3>
+<p>Griffins play a key role in overcoming bottlenecks in Iron production, particularly during the Infrastructure and Trade Arbitrage phase of the game:</p>
+<ol>
+<li><strong>Iron Bottleneck Resolution:</strong> Trading Wood to Griffins in exchange for Iron is a core mechanism used to bypass the slower rates of production-based smelting. This trade converts low-value, high-volume resources (Wood) into high-value capital (Iron).</li>
+<li>Griffins are central to a strategic trade loop involving Sharks. This loop starts in <strong>Autumn</strong> by trading <strong>Wood to the Griffins to gather Iron</strong>. This acquired Iron can then be traded to Sharks for Catnip in <strong>Winter</strong>, which can be refined into Wood to repeat the cycle. This loop is effective for collecting Wood, <a href="/craft/steel/">Steel</a>, <a href="/craft/gear/">Gears</a>, and <a href="/resource/blueprint/">Blueprints</a> for Steamworks.</li>
+<li>The steel acquired from Griffins is required for crafting <a href="/craft/gear/">Gears</a>.</li>
+</ol>
+<h3 id="related-policy">Related Policy/</h3>
+<p>Once you reach Embassy Level 20 and research the Diplomacy metaphysics upgrade, you can choose one of three specialized  Policy/ (all costing 16,000 Culture):</p>
+<ul>
+<li>Improves the Calciner&rsquo;s steel production bonus by <strong>+15%</strong>.</li>
+<li>Boosts hunting effectiveness by <strong>+50%</strong>.</li>
+<li>Improves the Steamwork&rsquo;s Magneto boost bonus by <strong>+0.5%</strong>.</li>
+</ul>
+<p>The trade relationship with Griffins functions much like engaging an overseas vendor for factory supplies; although they are hostile and require diplomatic investment (Trade Posts, policy choice) to ensure reliable delivery, they provide essential structural materials (Iron and Steel) that are otherwise too slow to produce locally.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Leviathans</title>
+      <link>/civilisations/leviathans/</link>
+      <pubDate>Mon, 01 Dec 2025 09:36:58 +1100</pubDate>
+      <guid>/civilisations/leviathans/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../civilisations/leviathans/&#34;&gt;Leviathans&lt;/a&gt; are an end-game trading civilization in &lt;em&gt;Kittens Game&lt;/em&gt;, defined as a &lt;strong&gt;Neutral (0%)&lt;/strong&gt; race whose appearance is crucial for acquiring the advanced resources necessary for temporal and cosmic progression.&lt;/p&gt;
+&lt;p&gt;Here is a comprehensive breakdown of the Leviathans:&lt;/p&gt;
+&lt;h3 id=&#34;unlocking-and-availability&#34;&gt;Unlocking and Availability&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; Leviathans appear once you have built a &lt;a href=&#34;../ziggurat/black_pyramid/&#34;&gt;Black Pyramid&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; They do not remain permanently after being unlocked. They stay for  at a time, meaning you only need to check for them approximately every half hour (real-time).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Persistence:&lt;/strong&gt; Offering  to the Leviathans will permanently prolong their stay by &lt;strong&gt;1 year per feeding&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;trade-details-and-mechanics&#34;&gt;Trade Details and Mechanics&lt;/h3&gt;
+&lt;p&gt;Leviathans are unique traders because their trade amounts are not affected by seasonal adjustments. They require &lt;strong&gt;Unobtainium (UO)&lt;/strong&gt; to initiate trades:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/civilisations/leviathans/">Leviathans</a> are an end-game trading civilization in <em>Kittens Game</em>, defined as a <strong>Neutral (0%)</strong> race whose appearance is crucial for acquiring the advanced resources necessary for temporal and cosmic progression.</p>
+<p>Here is a comprehensive breakdown of the Leviathans:</p>
+<h3 id="unlocking-and-availability">Unlocking and Availability</h3>
+<ul>
+<li><strong>Prerequisite:</strong> Leviathans appear once you have built a <a href="/ziggurat/black_pyramid/">Black Pyramid</a>.</li>
+<li><strong>Duration:</strong> They do not remain permanently after being unlocked. They stay for  at a time, meaning you only need to check for them approximately every half hour (real-time).</li>
+<li><strong>Persistence:</strong> Offering  to the Leviathans will permanently prolong their stay by <strong>1 year per feeding</strong>.</li>
+</ul>
+<h3 id="trade-details-and-mechanics">Trade Details and Mechanics</h3>
+<p>Leviathans are unique traders because their trade amounts are not affected by seasonal adjustments. They require <strong>Unobtainium (UO)</strong> to initiate trades:</p>
+<ul>
+<li><strong>Cost:</strong> Leviathans <strong>buy 5,000 Unobtainium</strong> per trade.</li>
+<li><strong>Resources Sold:</strong> In return for Unobtainium, they sell several specialized resources:
+<ul>
+<li><strong>Time Crystal:</strong> Highly likely, with a <strong>98% chance</strong>.</li>
+<li><a href="/resource/relic/">Relic:</a> Essential for end-game science, with a <strong>5% chance</strong>.</li>
+<li><strong>Starchart:</strong> Minimum of 250 units, with a 50% chance.</li>
+<li><strong>Black Liquid Sorrow (BLS)/Sorrow:</strong> Minimum of 1 unit, with a 15% chance.</li>
+<li><a href="/resource/black_coin/">Blackcoin:</a> They are the speculative cryptocurrency bought and sold from the Leviathans for relics.</li>
+</ul>
+</li>
+</ul>
+<p>The average expected yield of Time Crystals <code>TC</code> per trade caravan is:</p>
+<p><code>E[TC] = 0.98 * 0.25 * {TradeRatio} n* {RaceRatio}</code></p>
+<p><code>E[TC] = 0.245 * {TradeRatio} * (1 + {LeviathanEnergy} * 0.02)</code></p>
+<p>Where:</p>
+<ul>
+<li><strong>{LeviathanEnergy}</strong>: Elder energy level increased by feeding them necrocorns (capped by the number of Markers and the leviathansEnergyModifier effect).</li>
+<li><a href="/guides/trading/"><strong>TradeRatio</strong>:</a> The total modifier representing trade efficiency.</li>
+</ul>
+<h3 id="leviathan-energy-and-trade-bonus">Leviathan Energy and Trade Bonus</h3>
+<p>The amount of resources the Leviathans provide is influenced by their <strong>energy level</strong>:</p>
+<ul>
+<li>The amount of resources they give is increased by <strong>2% for each energy</strong> they have. This bonus stacks <strong>multiplicatively</strong> with other trading bonuses.</li>
+<li><strong>Leviathan Energy Cap Boost:</strong> The <a href="/policy/necrocracy/">Necrocracy</a> policy increases the Leviathan Energy Cap Boost by 5%.</li>
+<li><strong>Boosting Energy:</strong> Leviathan energy increases when they are fed Necrocorns. The <a href="/transcendence/black_radiance/">Black Radiance</a> Cryptotheology upgrade increases the alicorn corruption rate, which is based on the number of Black Radiances and the amount of Sorrow, thereby accelerating the production of Necrocorns needed to feed the Leviathans.</li>
+<li><strong>Strategic Optimization:</strong> Maximizing Leviathan energy is key to maximizing the <strong>Time Crystals per trade</strong>. Getting several hundred Leviathan energy can boost the Time Crystals per trade well above 10.</li>
+</ul>
+<h3 id="strategic-significance">Strategic Significance</h3>
+<ul>
+<li><strong>Time Crystal Farming:</strong> Trading with Leviathans is, by far, the fastest way to get Time Crystals (roughly <strong>30 times faster</strong> than accumulating Alicorns in the late game).</li>
+<li><strong>Relic Acquisition:</strong> They provide <a href="/resource/relic/">Relics</a>, which are needed for later technologies, buildings, and antimatter production.</li>
+<li>Making a single trade with the Leviathans is a prerequisite for unlocking major late-game Government Policy/, including <a href="/policy/necrocracy/">Necrocracy</a>, <a href="/policy/transkittenism/">Transkittenism</a>, and <a href="/policy/radical_xenophobia/">Radical Xenophobia</a>.</li>
+<li>Leviathan trades are part of the process for establishing the quickest reset possible. The ability to quickly trade Unobtainium for Time Crystals accelerates the paragon farming loop.</li>
+<li><strong>Black Sky Challenge:</strong> The <strong>Black Sky Challenge</strong> (a difficult end-game challenge) is unlocked when Leviathans appear. If you complete this challenge, the Elders come early, acting as a free Black Pyramid.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Attitude</title>
+      <link>/civilisations/attitude/</link>
+      <pubDate>Mon, 01 Dec 2025 09:27:12 +1100</pubDate>
+      <guid>/civilisations/attitude/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Attitude&amp;rdquo; in &lt;em&gt;Kittens Game&lt;/em&gt; refers to the disposition of other civilizations toward your kittens, which significantly affects the success and profitability of trade transactions. Civilizations can be categorized as Friendly, Neutral, or Hostile.&lt;/p&gt;
+&lt;h3 id=&#34;attitude-mechanics&#34;&gt;Attitude Mechanics&lt;/h3&gt;
+&lt;p&gt;The attitude of a trading partner determines the likelihood of receiving bonus resources or receiving no resources at all during a trade.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Friendly Civilizations&lt;/strong&gt; have a chance of giving you &lt;strong&gt;15-25% extra resources&lt;/strong&gt; per successful trade. The sources note that Friendly races &amp;ldquo;think your kittens are adorable&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hostile Civilizations&lt;/strong&gt; may give you &lt;strong&gt;nothing at all&lt;/strong&gt;. The sources note that this event occurs because the hostile race &amp;ldquo;hate you for no reason&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Neutral Civilizations&lt;/strong&gt; (0% attitude) fall between these two extremes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;initial-attitudes-of-key-trading-partners&#34;&gt;Initial Attitudes of Key Trading Partners&lt;/h3&gt;
+&lt;p&gt;Civilizations have fixed starting attitudes once discovered:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>&ldquo;Attitude&rdquo; in <em>Kittens Game</em> refers to the disposition of other civilizations toward your kittens, which significantly affects the success and profitability of trade transactions. Civilizations can be categorized as Friendly, Neutral, or Hostile.</p>
+<h3 id="attitude-mechanics">Attitude Mechanics</h3>
+<p>The attitude of a trading partner determines the likelihood of receiving bonus resources or receiving no resources at all during a trade.</p>
+<ul>
+<li><strong>Friendly Civilizations</strong> have a chance of giving you <strong>15-25% extra resources</strong> per successful trade. The sources note that Friendly races &ldquo;think your kittens are adorable&rdquo;.</li>
+<li><strong>Hostile Civilizations</strong> may give you <strong>nothing at all</strong>. The sources note that this event occurs because the hostile race &ldquo;hate you for no reason&rdquo;.</li>
+<li><strong>Neutral Civilizations</strong> (0% attitude) fall between these two extremes.</li>
+</ul>
+<h3 id="initial-attitudes-of-key-trading-partners">Initial Attitudes of Key Trading Partners</h3>
+<p>Civilizations have fixed starting attitudes once discovered:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Race</th>
+					<th style="text-align: left">Initial Attitude</th>
+					<th style="text-align: left">Strategic Note</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/lizards/">Lizards</a></td>
+					<td style="text-align: left">Friendly (<strong>+25%</strong>)</td>
+					<td style="text-align: left">They have the highest initial friendly bonus.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/spiders/">Spiders</a></td>
+					<td style="text-align: left">Friendly (<strong>+15%</strong>)</td>
+					<td style="text-align: left">They are considered a Friendly civilization.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/sharks/">Sharks</a></td>
+					<td style="text-align: left">Neutral (<strong>0%</strong>)</td>
+					<td style="text-align: left"></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/nagas/">Nagas</a></td>
+					<td style="text-align: left">Neutral (<strong>0%</strong>)</td>
+					<td style="text-align: left"></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/griffins/">Griffins</a></td>
+					<td style="text-align: left">Hostile (<strong>-15%</strong>)</td>
+					<td style="text-align: left"></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/zebras/">Zebras</a></td>
+					<td style="text-align: left">Hostile (<strong>-30%</strong>)</td>
+					<td style="text-align: left">They are the most hostile civilization.</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="modifying-and-mitigating-attitude">Modifying and Mitigating Attitude</h3>
+<p>You can improve your relations (often referred to as standing or mitigating hostility) through various upgrades and Policy/:</p>
+<ul>
+<li><strong>Trade Depots and Caravanserai:</strong> Purchasing <strong>Trade Depots</strong> allows you to unlock the <a href="/upgrade/caravanserai/">Caravanserai</a> upgrade, which directly improves race relations. Each Tradepost improves standing by giving a flat <strong>0.35% chance decrease to the hostile event probability</strong> and a <strong>0.175% increase to the friendly event probability</strong>. For example, 85 Tradeposts are required to negate the chance that Zebras will hate you.</li>
+<li><strong>Diplomacy Metaphysics Upgrade:</strong> The <a href="/policy/diplomacy/">Diplomacy</a> upgrade (costing 5 Paragon) improves standing ratio by 10 and causes races to be discovered earlier (unlock year reduced from 5 to 1). With this upgrade, only <strong>58 Tradeposts</strong> are required to negate the Zebras&rsquo; hostility chance.</li>
+<li><strong>Policy/:</strong>
+<ul>
+<li><strong>Zebra Relations: Appeasement</strong> (5,000 Culture) is often highly recommended as it improves relations with Zebras, equivalent to <strong>15 extra tradeposts</strong>, specifically because players are often desperate for titanium acquired through this trade.</li>
+<li><strong>Zebra Relations: Bellicosity</strong> (5,000 Culture) worsens relations with Zebras (equivalent to -10 tradeposts) but grants better relations with everyone else (equivalent to +5 tradeposts).</li>
+<li><a href="/policy/diplomacy/">Diplomacy</a> (Foreign Policy) makes trades cheaper in terms of catpower, which is generally preferred over <a href="/policy/isolationism/">Isolationism</a> for accessing better future Policy/, even though Isolationism reduces gold cost.</li>
+<li><a href="/policy/outer_space_treaty/">Outer Space Treaty</a> improves relations with all trading partners, equivalent to 10 tradeposts.</li>
+</ul>
+</li>
+<li><strong>Embassies:</strong> Building embassies with neutral races (like Nagas) will have a small effect on their attitude, potentially causing them to become Friendly. They also increase the chance to receive Spice, with no diminishing returns.</li>
+</ul>
+<p>A hostile civilization, such as the Zebras, can be compared to negotiating a necessary but high-risk trade deal. You accept the initial negative attitude and must spend significant resources (like building Tradeposts) to ensure they reliably deliver the crucial resources (like Titanium) instead of running off with your materials.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Civilisations</title>
+      <link>/civilisations/civilisations/</link>
+      <pubDate>Mon, 01 Dec 2025 09:27:12 +1100</pubDate>
+      <guid>/civilisations/civilisations/</guid>
+      <description>&lt;p&gt;Based on the sources, the following civilizations (races) exist in &lt;em&gt;Kittens Game&lt;/em&gt; and have specific requirements for their discovery, often tied to game time or technological milestones:&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Civilization (Race)&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Initial Attitude&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Requirement for Discovery&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Notes on Timing/Unlock&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../civilisations/lizards/&#34;&gt;Lizards&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Friendly (+25%)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Year 20&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;This baseline can be reduced to &lt;strong&gt;Year 5&lt;/strong&gt; if you have accumulated &lt;strong&gt;&amp;gt;0 Karma&lt;/strong&gt;, or to &lt;strong&gt;Year 1&lt;/strong&gt; with the &lt;strong&gt;Diplomacy Metaphysics upgrade&lt;/strong&gt;.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../civilisations/sharks/&#34;&gt;Sharks&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Neutral (0%)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Year 20&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;This baseline can be reduced to &lt;strong&gt;Year 5&lt;/strong&gt; if you have accumulated &lt;strong&gt;&amp;gt;0 Karma&lt;/strong&gt;, or to &lt;strong&gt;Year 1&lt;/strong&gt; with the &lt;strong&gt;Diplomacy Metaphysics upgrade&lt;/strong&gt;.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../civilisations/griffins/&#34;&gt;Griffins&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Hostile (-15%)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Year 20&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;This baseline can be reduced to &lt;strong&gt;Year 5&lt;/strong&gt; if you have accumulated &lt;strong&gt;&amp;gt;0 Karma&lt;/strong&gt;, or to &lt;strong&gt;Year 1&lt;/strong&gt; with the &lt;strong&gt;Diplomacy Metaphysics upgrade&lt;/strong&gt;.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../civilisations/nagas/&#34;&gt;Nagas&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Neutral (0%)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;1500 Culture&lt;/strong&gt;.&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;To unlock the Nagas, you generally need 1500 culture cap, often achieved by maximizing libraries and building Amphitheatres and Academies.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../civilisations/zebras/&#34;&gt;Zebras&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Hostile (-30%)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;1 Trade Ship&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Discovery requires sending explorers, which costs 1,000 Catpower.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../civilisations/spiders/&#34;&gt;Spiders&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Friendly (+15%)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;100 Trade Ships&lt;/strong&gt; and &lt;strong&gt;125k Max Science&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Spiders trade coal and oil for scaffold.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../civilisations/dragons/&#34;&gt;Dragons&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Neutral (0%)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../techs/nuclear_fission/&#34;&gt;Nuclear Fission&lt;/a&gt; technology&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Dragons trade uranium and thorium for titanium.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../civilisations/leviathans/&#34;&gt;Leviathans&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Neutral (0%)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../ziggurat/black_pyramid/&#34;&gt;Black Pyramid&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Unlocking Leviathans does not make them permanent traders, and they trade unobtainium for rare resources like Time Crystals and Relics.&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;discovery-mechanism&#34;&gt;Discovery Mechanism&lt;/h3&gt;
+&lt;p&gt;Once trading is unlocked, you can discover additional civilizations by &lt;strong&gt;Sending Explorers&lt;/strong&gt;. This action costs &lt;strong&gt;1,000 Catpower&lt;/strong&gt;, though 950 Catpower is refunded if no trading partner is found (in the web version).&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Based on the sources, the following civilizations (races) exist in <em>Kittens Game</em> and have specific requirements for their discovery, often tied to game time or technological milestones:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Civilization (Race)</th>
+					<th style="text-align: left">Initial Attitude</th>
+					<th style="text-align: left">Requirement for Discovery</th>
+					<th style="text-align: left">Notes on Timing/Unlock</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/lizards/">Lizards</a></td>
+					<td style="text-align: left">Friendly (+25%)</td>
+					<td style="text-align: left"><strong>Year 20</strong></td>
+					<td style="text-align: left">This baseline can be reduced to <strong>Year 5</strong> if you have accumulated <strong>&gt;0 Karma</strong>, or to <strong>Year 1</strong> with the <strong>Diplomacy Metaphysics upgrade</strong>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/sharks/">Sharks</a></td>
+					<td style="text-align: left">Neutral (0%)</td>
+					<td style="text-align: left"><strong>Year 20</strong></td>
+					<td style="text-align: left">This baseline can be reduced to <strong>Year 5</strong> if you have accumulated <strong>&gt;0 Karma</strong>, or to <strong>Year 1</strong> with the <strong>Diplomacy Metaphysics upgrade</strong>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/griffins/">Griffins</a></td>
+					<td style="text-align: left">Hostile (-15%)</td>
+					<td style="text-align: left"><strong>Year 20</strong></td>
+					<td style="text-align: left">This baseline can be reduced to <strong>Year 5</strong> if you have accumulated <strong>&gt;0 Karma</strong>, or to <strong>Year 1</strong> with the <strong>Diplomacy Metaphysics upgrade</strong>.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/nagas/">Nagas</a></td>
+					<td style="text-align: left">Neutral (0%)</td>
+					<td style="text-align: left"><strong>1500 Culture</strong>.</td>
+					<td style="text-align: left">To unlock the Nagas, you generally need 1500 culture cap, often achieved by maximizing libraries and building Amphitheatres and Academies.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/zebras/">Zebras</a></td>
+					<td style="text-align: left">Hostile (-30%)</td>
+					<td style="text-align: left"><strong>1 Trade Ship</strong></td>
+					<td style="text-align: left">Discovery requires sending explorers, which costs 1,000 Catpower.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/spiders/">Spiders</a></td>
+					<td style="text-align: left">Friendly (+15%)</td>
+					<td style="text-align: left"><strong>100 Trade Ships</strong> and <strong>125k Max Science</strong></td>
+					<td style="text-align: left">Spiders trade coal and oil for scaffold.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/dragons/">Dragons</a></td>
+					<td style="text-align: left">Neutral (0%)</td>
+					<td style="text-align: left"><a href="/techs/nuclear_fission/">Nuclear Fission</a> technology</td>
+					<td style="text-align: left">Dragons trade uranium and thorium for titanium.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/civilisations/leviathans/">Leviathans</a></td>
+					<td style="text-align: left">Neutral (0%)</td>
+					<td style="text-align: left"><a href="/ziggurat/black_pyramid/">Black Pyramid</a></td>
+					<td style="text-align: left">Unlocking Leviathans does not make them permanent traders, and they trade unobtainium for rare resources like Time Crystals and Relics.</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="discovery-mechanism">Discovery Mechanism</h3>
+<p>Once trading is unlocked, you can discover additional civilizations by <strong>Sending Explorers</strong>. This action costs <strong>1,000 Catpower</strong>, though 950 Catpower is refunded if no trading partner is found (in the web version).</p>
+<h3 id="racial-attitudes-and-benefits">Racial Attitudes and Benefits</h3>
+<p>The attitude of a civilization affects trade outcomes:</p>
+<ul>
+<li><strong>Friendly</strong> civilizations have a chance of giving you <strong>15–25% extra resources</strong> during a trade (&ldquo;Race think your kittens are adorable&rdquo;). Lizards and Spiders are initially friendly.</li>
+<li><strong>Hostile</strong> civilizations may give you <strong>nothing at all</strong> (&ldquo;Race hate you for no reason&rdquo;). Griffins and Zebras are initially hostile.</li>
+<li>The <a href="/upgrade/caravanserai/">Caravanserai</a> upgrade (unlocked via Navigation and purchased using Trade Depots) can improve race relations, decreasing the hostile event probability and increasing the friendly event probability.</li>
+</ul>
+<p>The Diplomacy Metaphysics upgrade specifically enhances initial standing, noting that Diplomacy increases the standing ratio by 10.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Spiders</title>
+      <link>/civilisations/spiders/</link>
+      <pubDate>Mon, 01 Dec 2025 08:58:31 +1100</pubDate>
+      <guid>/civilisations/spiders/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../civilisations/spiders/&#34;&gt;Spiders&lt;/a&gt; are a &lt;strong&gt;Friendly&lt;/strong&gt; civilization (+15% attitude) in &lt;em&gt;Kittens Game&lt;/em&gt; who primarily function as a trading partner for industrial resources, particularly &lt;a href=&#34;../resource/coal/&#34;&gt;Coal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is a detailed breakdown of the Spiders:&lt;/p&gt;
+&lt;h3 id=&#34;unlocking-and-attitude&#34;&gt;Unlocking and Attitude&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../civilisations/attitude/&#34;&gt;Attitude:&lt;/a&gt; Spiders are designated as a &lt;strong&gt;Friendly&lt;/strong&gt; civilization, meaning they have an initial positive attitude of &lt;strong&gt;+15%&lt;/strong&gt;. Friendly civilizations have a chance of giving you &lt;strong&gt;15–25% extra resources&lt;/strong&gt; during a trade.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; Discovering the Spiders requires reaching significant progress in space and technology, specifically needing &lt;strong&gt;100 Trade Ships&lt;/strong&gt; and a maximum &lt;a href=&#34;../resource/science/&#34;&gt;Science&lt;/a&gt; limit of &lt;strong&gt;125,000&lt;/strong&gt;.
+&lt;ul&gt;
+&lt;li&gt;Due to the high maximum science requirement, Spiders are considered &amp;ldquo;waayyyy off&amp;rdquo; for players in the early to mid-game stages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;trade-details&#34;&gt;Trade Details&lt;/h3&gt;
+&lt;p&gt;Spiders primarily exchange the crafted resource &lt;a href=&#34;../craft/scaffold/&#34;&gt;Scaffold&lt;/a&gt; for &lt;a href=&#34;../resource/coal/&#34;&gt;Coal&lt;/a&gt;:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/civilisations/spiders/">Spiders</a> are a <strong>Friendly</strong> civilization (+15% attitude) in <em>Kittens Game</em> who primarily function as a trading partner for industrial resources, particularly <a href="/resource/coal/">Coal</a>.</p>
+<p>Here is a detailed breakdown of the Spiders:</p>
+<h3 id="unlocking-and-attitude">Unlocking and Attitude</h3>
+<ul>
+<li><a href="/civilisations/attitude/">Attitude:</a> Spiders are designated as a <strong>Friendly</strong> civilization, meaning they have an initial positive attitude of <strong>+15%</strong>. Friendly civilizations have a chance of giving you <strong>15–25% extra resources</strong> during a trade.</li>
+<li><strong>Prerequisites:</strong> Discovering the Spiders requires reaching significant progress in space and technology, specifically needing <strong>100 Trade Ships</strong> and a maximum <a href="/resource/science/">Science</a> limit of <strong>125,000</strong>.
+<ul>
+<li>Due to the high maximum science requirement, Spiders are considered &ldquo;waayyyy off&rdquo; for players in the early to mid-game stages.</li>
+</ul>
+</li>
+</ul>
+<h3 id="trade-details">Trade Details</h3>
+<p>Spiders primarily exchange the crafted resource <a href="/craft/scaffold/">Scaffold</a> for <a href="/resource/coal/">Coal</a>:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Action</th>
+					<th style="text-align: left">Resource</th>
+					<th style="text-align: left">Minimum Amount</th>
+					<th style="text-align: left">Cost/Gain</th>
+					<th style="text-align: left">Seasonal Optimization</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Buy</strong></td>
+					<td style="text-align: left">Scaffold</td>
+					<td style="text-align: left">50</td>
+					<td style="text-align: left">Cost</td>
+					<td style="text-align: left">N/A</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Sell</strong></td>
+					<td style="text-align: left"><a href="/resource/coal/">Coal</a></td>
+					<td style="text-align: left">350</td>
+					<td style="text-align: left">Gain</td>
+					<td style="text-align: left"><strong>Autumn (+15%)</strong></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Sell</strong></td>
+					<td style="text-align: left">Oil</td>
+					<td style="text-align: left">100</td>
+					<td style="text-align: left">Gain (25% chance, Embassy Level 5)</td>
+					<td style="text-align: left">N/A</td>
+			</tr>
+	</tbody>
+</table>
+<ul>
+<li><a href="/resource/coal/">Coal:</a> They sell a minimum amount of <strong>350 Coal</strong> per trade, with a 100% chance of delivery and a 15% range bonus.</li>
+<li><a href="/resource/oil/">Oil:</a> Once you reach Embassy Level 5, Spiders also sell <strong>100 Oil</strong> per trade, though there is only a <strong>25% chance</strong> of receiving this resource.</li>
+<li><strong>Seasonal Bonus:</strong> Trading for Coal is most efficient during <strong>Autumn</strong>, which provides an additional <strong>+15% Amount Modifier</strong>.</li>
+</ul>
+<h3 id="strategic-context">Strategic Context</h3>
+<p>While Spiders provide a vital source of <a href="/resource/coal/">Coal</a>, early-game advice suggests that acquiring coal from them via scaffold-trading is generally <strong>not realistic</strong> for players focused on lower-tier progression.</p>
+<p>For players who are actively engaging with the Spiders trade route, the coal they provide can be used to fuel industrial buildings like the Steamworks or for crafting advanced materials like <a href="/craft/steel/">Steel</a> (which requires 100 Coal and 100 Iron).</p>
+<h3 id="trading-mechanics"><strong>Trading Mechanics</strong></h3>
+<p>The Spiders are a unique trade partner because they are one of the few sources for bulk coal and oil via trade.</p>
+<ul>
+<li><strong>Cost:</strong> Each trade costs <strong>50 Scaffolds</strong>, <strong>50 Catpower</strong>, and <strong>1 Gold</strong> (once Currency and Gold Ore are researched).</li>
+<li><strong>Primary Export (Coal):</strong> They sell a base of <strong>350 Coal</strong>.</li>
+<li><strong>Secondary Export (Oil):</strong> There is a <strong>25% chance</strong> they will sell <strong>100 Oil</strong>, provided you have at least a <strong>Level 5 Embassy</strong> with them.</li>
+<li><strong>Seasonal Adjustments:</strong> Their Coal output varies by season:
+<ul>
+<li><strong>Autumn:</strong> +15% (Best time to trade).</li>
+<li><strong>Summer:</strong> +5%.</li>
+<li><strong>Spring:</strong> +0%.</li>
+<li><strong>Winter:</strong> -5%.</li>
+</ul>
+</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<ul>
+<li><strong>Resolving the Coal Bottleneck:</strong> While Coal is often produced by Smelters, Mines, or Geologists, trading with Spiders provides a massive manual influx of the resource if your industrial production is lagging.</li>
+<li><strong>Oil Acquisition:</strong> Before you have a robust network of Oil Wells or Bio Labs, Spiders can serve as a supplementary source for Oil needed for space missions and advanced buildings.</li>
+<li><strong>The &ldquo;Scaffold&rdquo; Barrier:</strong> Because Scaffolds are a crafted resource requiring significant amounts of Wood (Beams), trading with Spiders is often not considered realistic until your wood production is extremely high and you can afford to &ldquo;waste&rdquo; scaffolds.</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

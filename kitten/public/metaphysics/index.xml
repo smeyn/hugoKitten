@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/metaphysics/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Sat, 24 Oct 2026 09:20:31 +0000</lastBuildDate>
+    <atom:link href="/metaphysics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Numerology</title>
+      <link>/metaphysics/numerology/</link>
+      <pubDate>Sat, 24 Oct 2026 09:20:31 +0000</pubDate>
+      <guid>/metaphysics/numerology/</guid>
+      <description>&lt;p&gt;Numerology is an early-to-mid Metaphysics upgrade under the Science -&amp;gt; Metaphysics tab that ties your village’s production to the calendar’s celestial cycle.&lt;/p&gt;
+&lt;h3 id=&#34;cost--prerequisites&#34;&gt;Cost &amp;amp; Prerequisites&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tab: Science $\to$ Metaphysics&lt;/li&gt;
+&lt;li&gt;Cost: 16 Paragon&lt;/li&gt;
+&lt;li&gt;Prerequisites: Unlocked after researching Megamania.&lt;/li&gt;
+&lt;li&gt;Tree Position: Serves as the gateway requirement for downstream temporal metaphysics upgrades: Numeromancy (50 Paragon) and Carnivals / Pawgan calendar enhancements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;what-it-does-celestial-cycle-modifiers&#34;&gt;What It Does: Celestial Cycle Modifiers&lt;/h3&gt;
+&lt;p&gt;The game&amp;rsquo;s calendar progresses through 10 celestial cycles, each lasting 5 calendar years (a full cycle loop takes 50 game years).&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Numerology is an early-to-mid Metaphysics upgrade under the Science -&gt; Metaphysics tab that ties your village’s production to the calendar’s celestial cycle.</p>
+<h3 id="cost--prerequisites">Cost &amp; Prerequisites</h3>
+<ul>
+<li>Tab: Science $\to$ Metaphysics</li>
+<li>Cost: 16 Paragon</li>
+<li>Prerequisites: Unlocked after researching Megamania.</li>
+<li>Tree Position: Serves as the gateway requirement for downstream temporal metaphysics upgrades: Numeromancy (50 Paragon) and Carnivals / Pawgan calendar enhancements.</li>
+</ul>
+<h3 id="what-it-does-celestial-cycle-modifiers">What It Does: Celestial Cycle Modifiers</h3>
+<p>The game&rsquo;s calendar progresses through 10 celestial cycles, each lasting 5 calendar years (a full cycle loop takes 50 game years).</p>
+<p>Without Numerology, these cycle signs are purely cosmetic. Once Numerology is purchased, each celestial sign grants a specific $+35%$ production bonus to a designated resource, paired with minor penalties to others:</p>
+<table>
+	<thead>
+			<tr>
+					<th>Celestial Sign</th>
+					<th>Primary Boost (+35%)</th>
+					<th>Secondary Modifiers</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>Charon</td>
+					<td>Catnip</td>
+					<td>Winter penalties slightly harsher</td>
+			</tr>
+			<tr>
+					<td>Umber</td>
+					<td>Coal</td>
+					<td>Minor boost to fossil fuels</td>
+			</tr>
+			<tr>
+					<td>Kharon</td>
+					<td>Iron</td>
+					<td>Slight reduction to mineral gathering</td>
+			</tr>
+			<tr>
+					<td>Yarn</td>
+					<td>Culture</td>
+					<td>Boosts parchment/manuscript generation</td>
+			</tr>
+			<tr>
+					<td>Zeus</td>
+					<td>Minerals</td>
+					<td>Boosts baseline ground extraction</td>
+			</tr>
+			<tr>
+					<td>Hermes</td>
+					<td>Trade Ratio</td>
+					<td>Improves caravan transaction returns</td>
+			</tr>
+			<tr>
+					<td>Ares</td>
+					<td>Catpower / Hunting</td>
+					<td>Higher Fur and Ivory yields</td>
+			</tr>
+			<tr>
+					<td>Helios</td>
+					<td>Solar &amp; Faith</td>
+					<td>Boosts Solar Farms and base Faith accumulation</td>
+			</tr>
+			<tr>
+					<td>Tithonus</td>
+					<td>Wood</td>
+					<td>Improves logging and beam production</td>
+			</tr>
+			<tr>
+					<td>Ananke</td>
+					<td>Oil</td>
+					<td>Speeds up oil wells and fuel conversion</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="why-it-matters">Why It Matters</h3>
+<ol>
+<li>Cycle Awareness: During early and mid-game runs, aligning your big build phases with beneficial signs (e.g., waiting for Kharon to mass-forge Steel or Ares for major hunt batches) provides free efficiency boosts.</li>
+<li>Gateway to Numeromancy: Its primary long-term importance is unlocking Numeromancy (50 Paragon), which applies similar cycling percentage multipliers to Space missions, deep-space projects, and festival durations.</li>
+<li>Synergy with Time Shattering: In the late game, when combusting Time Crystals via Resource Retrieval, you skip through years instantly. The cycle modifiers cycle rapidly, evening out into a solid, passive net boost across all resources.</li>
+</ol>
+<h3 id="when-to-buy-it">When to Buy It</h3>
+<p>Buy it around Runs 3–5, after you have secured your baseline 150–200 banked Paragon floor and picked up the first two price-ratio discounts (Golden Ratio and Divine Proportion).</p>
+<p>At only 16 Paragon, it is a cheap pickup that paves the way toward late-game temporal metaphysics.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Order of the Void</title>
+      <link>/metaphysics/order_of_the_void/</link>
+      <pubDate>Fri, 23 Oct 2026 09:20:31 +0000</pubDate>
+      <guid>/metaphysics/order_of_the_void/</guid>
+      <description>&lt;p&gt;Order of the Void is an end-game Workshop upgrade that links your Religion workforce to Void generation, allowing priests to produce Void during temporal anomalies.&lt;/p&gt;
+&lt;h3 id=&#34;core-mechanics--stats&#34;&gt;Core Mechanics &amp;amp; Stats&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tab: Workshop&lt;/li&gt;
+&lt;li&gt;Cost:
+&lt;ul&gt;
+&lt;li&gt;100,000 Science&lt;/li&gt;
+&lt;li&gt;50,000 Faith&lt;/li&gt;
+&lt;li&gt;50 Void&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Prerequisites: Unlocked after researching the Exophysics technology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-it-works&#34;&gt;How It Works&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The Trigger: Normally, Priests only produce Faith, and Void only drops passively from Chronosphere temporal paradoxes.&lt;/li&gt;
+&lt;li&gt;The Synergistic Payout: With Order of the Void, whenever a Temporal Paradox (Day of the Void) triggers, your assigned Priests harvest extra Void directly into your stockpile.&lt;/li&gt;
+&lt;li&gt;Scaling Factors: The amount of Void harvested per paradox scales based on:
+&lt;ol&gt;
+&lt;li&gt;The total number of assigned Priests.&lt;/li&gt;
+&lt;li&gt;Your civilization&amp;rsquo;s net Faith production (boosted by Sol-tier buildings like Temples, Chapels, and Sunspires).&lt;/li&gt;
+&lt;li&gt;Your accumulated Solar Revolution bonus.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;internal-faith-weight-f_weight&#34;&gt;Internal Faith Weight (F_weight)&lt;/h3&gt;
+&lt;p&gt;The engine first calculates the effective daily faith output per priest:
+{F_weight} = {Priests} * {Base Faith per Priest} * (1 + ({Solar Revolution Bonus %} /100))&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Order of the Void is an end-game Workshop upgrade that links your Religion workforce to Void generation, allowing priests to produce Void during temporal anomalies.</p>
+<h3 id="core-mechanics--stats">Core Mechanics &amp; Stats</h3>
+<ul>
+<li>Tab: Workshop</li>
+<li>Cost:
+<ul>
+<li>100,000 Science</li>
+<li>50,000 Faith</li>
+<li>50 Void</li>
+</ul>
+</li>
+<li>Prerequisites: Unlocked after researching the Exophysics technology.</li>
+</ul>
+<h3 id="how-it-works">How It Works</h3>
+<ul>
+<li>The Trigger: Normally, Priests only produce Faith, and Void only drops passively from Chronosphere temporal paradoxes.</li>
+<li>The Synergistic Payout: With Order of the Void, whenever a Temporal Paradox (Day of the Void) triggers, your assigned Priests harvest extra Void directly into your stockpile.</li>
+<li>Scaling Factors: The amount of Void harvested per paradox scales based on:
+<ol>
+<li>The total number of assigned Priests.</li>
+<li>Your civilization&rsquo;s net Faith production (boosted by Sol-tier buildings like Temples, Chapels, and Sunspires).</li>
+<li>Your accumulated Solar Revolution bonus.</li>
+</ol>
+</li>
+</ul>
+<h3 id="internal-faith-weight-f_weight">Internal Faith Weight (F_weight)</h3>
+<p>The engine first calculates the effective daily faith output per priest:
+{F_weight} = {Priests} * {Base Faith per Priest} * (1 + ({Solar Revolution Bonus %} /100))</p>
+<h3 id="the-priest-void-yield-v_priest">The Priest Void Yield (V_priest)</h3>
+<p>The bonus Void is evaluated using a fractional square root scaling over the accumulated faith weight, capped by diminishing returns:</p>
+<p>V_priest = sqrt(F_weight * {Days of the Void}/100,000) * (1 + 0.10 * {Void Resonators})</p>
+<ul>
+<li><strong>Days of the Void</strong>: The duration of the triggered paradox (typically between 2 and 10 game days depending on Chronosphere count and temporal upgrades).</li>
+<li><a href="/time/void-resonator/">Void Resonators</a>: Each Void Resonator on the Chronoforge applies an additive +10% multiplier to temporal yield mechanics.</li>
+<li><strong>Rounding</strong>: If V_priest &lt; 1, the fractional value acts as an independent probabilistic check to award 1 Void; once V_priest &gt; 1, the integer part is guaranteed and the fractional remainder rolls as a probability.</li>
+</ul>
+<h3 id="grand-total-payout">Grand Total Payout</h3>
+<p>Total Void per Paradox = {Base Void} + V_priest</p>
+<h3 id="practical-implications">Practical Implications</h3>
+<ol>
+<li>
+<p><strong>Why 0 Priests Yield Low Void</strong>: Without Priests, you are receiving purely {Base Void}, which caps out at just a handful of units per event even with a dozen Chronospheres.</p>
+</li>
+<li>
+<p><strong>Why Solar Revolution Matters</strong>: Because F_weight is directly multiplied by <code>(1 + {Solar Rev %}/100)</code>, pushing Solar Revolution to +1,000% to +5,000% (via Black Obelisks) magnifies the inner value of the square root by orders of magnitude.</p>
+</li>
+<li>
+<p><strong>Diminishing Returns</strong>: The square root  prevents Void from scaling linearly into millions per click, maintaining Void as a tightly controlled gating resource even when burning thousands of Time Crystals.</p>
+</li>
+</ol>
+<h3 id="strategic-impact-in-the-late-game">Strategic Impact in the Late Game</h3>
+<ol>
+<li>Breaks the Paradox Rate Limit: Relying solely on Chronosphere base drops yields very slow Void income. Order of the Void turns each Day of the Void into a substantial drop, dramatically reducing real-time waiting.</li>
+<li>Fuels the Time Shatter Engine: When you combust Time Crystals (TCs) with Resource Retrieval (RR) active, every skipped year rolls for paradoxes. Order of the Void ensures that mass-shattering centuries in a few seconds completely floods your storage with Void.</li>
+<li>Funds Expensive Chronoforge Upgrades: Provides the massive Void reserves needed to continually level:</li>
+</ol>
+<ul>
+<li>Resource Retrieval (scales resource yields per shattered TC)</li>
+<li>Void Resonators (projects your Solar Revolution multiplier across skipped years)</li>
+<li>Void Rifts (compounds deep space storage caps using Void and Antimatter)</li>
+<li>Cryochambers (preserves kittens across resets)</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Divine Proportion</title>
+      <link>/metaphysics/divine_proportion/</link>
+      <pubDate>Sat, 11 Apr 2026 01:59:34 +0000</pubDate>
+      <guid>/metaphysics/divine_proportion/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../metaphysics/divine_proportion/&#34;&gt;Divine Proportion&lt;/a&gt; is a highly recommended Metaphysics upgrade that directly improves your civilization&amp;rsquo;s economy by lowering the escalating costs of buildings. It serves as the third major upgrade in the crucial price ratio reduction chain, bridging the gap between Golden Ratio and Vitruvian Feline.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must first purchase the &lt;a href=&#34;../metaphysics/golden_ratio/&#34;&gt;Golden Ratio&lt;/a&gt; metaphysics upgrade to unlock Divine Proportion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; Purchasing the upgrade requires an investment of &lt;strong&gt;100 Paragon&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects&#34;&gt;&lt;strong&gt;Core Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio Reduction:&lt;/strong&gt; Divine Proportion reduces all building price ratios by &lt;strong&gt;~1.77% (exactly 16/9%)&lt;/strong&gt;. This means subsequent buildings will escalate in cost much slower, allowing you to construct significantly more structures before hitting your resource storage caps.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Progression:&lt;/strong&gt; Acquiring Divine Proportion directly unlocks &lt;a href=&#34;../metaphysics/vitruvian_feline/&#34;&gt;Vitruvian Feline&lt;/a&gt;, the next tier of price ratio reduction.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategy-and-timing&#34;&gt;&lt;strong&gt;Strategy and Timing&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prioritization:&lt;/strong&gt; It is highly advised that you prioritize buying all of the price ratio reduction upgrades (Enlightenment, Golden Ratio, Divine Proportion, Vitruvian Feline, and Renaissance) as early as possible in your playthroughs, as making everything in your village cheaper is vital for rapid expansion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;When to Buy:&lt;/strong&gt; A common community strategy is to aim for purchasing Divine Proportion around your &lt;strong&gt;third reset&lt;/strong&gt;. Players typically try to acquire it when they reach a population of about &lt;strong&gt;200 kittens&lt;/strong&gt;, and then continue pushing their population to 220+ kittens before resetting again. This ensures you generate enough Paragon (around 150) to comfortably afford your next set of upgrades in the following run.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/metaphysics/divine_proportion/">Divine Proportion</a> is a highly recommended Metaphysics upgrade that directly improves your civilization&rsquo;s economy by lowering the escalating costs of buildings. It serves as the third major upgrade in the crucial price ratio reduction chain, bridging the gap between Golden Ratio and Vitruvian Feline.</p>
+<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<ul>
+<li><strong>Prerequisite:</strong> You must first purchase the <a href="/metaphysics/golden_ratio/">Golden Ratio</a> metaphysics upgrade to unlock Divine Proportion.</li>
+<li><strong>Cost:</strong> Purchasing the upgrade requires an investment of <strong>100 Paragon</strong>.</li>
+</ul>
+<h3 id="core-effects"><strong>Core Effects</strong></h3>
+<ul>
+<li><strong>Price Ratio Reduction:</strong> Divine Proportion reduces all building price ratios by <strong>~1.77% (exactly 16/9%)</strong>. This means subsequent buildings will escalate in cost much slower, allowing you to construct significantly more structures before hitting your resource storage caps.</li>
+<li><strong>Progression:</strong> Acquiring Divine Proportion directly unlocks <a href="/metaphysics/vitruvian_feline/">Vitruvian Feline</a>, the next tier of price ratio reduction.</li>
+</ul>
+<h3 id="strategy-and-timing"><strong>Strategy and Timing</strong></h3>
+<ul>
+<li><strong>Prioritization:</strong> It is highly advised that you prioritize buying all of the price ratio reduction upgrades (Enlightenment, Golden Ratio, Divine Proportion, Vitruvian Feline, and Renaissance) as early as possible in your playthroughs, as making everything in your village cheaper is vital for rapid expansion.</li>
+<li><strong>When to Buy:</strong> A common community strategy is to aim for purchasing Divine Proportion around your <strong>third reset</strong>. Players typically try to acquire it when they reach a population of about <strong>200 kittens</strong>, and then continue pushing their population to 220+ kittens before resetting again. This ensures you generate enough Paragon (around 150) to comfortably afford your next set of upgrades in the following run.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Renaissance</title>
+      <link>/metaphysics/renaissance/</link>
+      <pubDate>Sat, 11 Apr 2026 01:55:03 +0000</pubDate>
+      <guid>/metaphysics/renaissance/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../metaphysics/renaissance/&#34;&gt;Renaissance&lt;/a&gt; is the final and most powerful Metaphysics upgrade in the building price ratio reduction chain (following Enlightenment, Golden Ratio, Divine Proportion, and Vitruvian Feline).&lt;/p&gt;
+&lt;h3 id=&#34;core-effects-and-cost&#34;&gt;&lt;strong&gt;Core Effects and Cost&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Effect:&lt;/strong&gt; Renaissance provides a massive &lt;strong&gt;2.25% reduction to all building price ratios&lt;/strong&gt;. This makes buildings significantly cheaper to construct, allowing you to build many more structures to boost your population and production before hitting your resource storage caps. It is widely considered one of the most powerful (&amp;ldquo;OP&amp;rdquo;) metaphysics upgrades in the game because once you acquire it, you will rarely have issues generating enough paragon for anything else.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; Purchasing the upgrade requires a substantial investment of &lt;strong&gt;750 Paragon&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategy-and-timing&#34;&gt;&lt;strong&gt;Strategy and Timing&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Progression:&lt;/strong&gt; It is highly recommended that you prioritise acquiring all price ratio reduction upgrades, culminating in Renaissance, before making serious investments into other late-game mechanics like end-game unicorn ziggurats.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;When to Buy:&lt;/strong&gt; Players typically aim to purchase Renaissance around their fifth to seventh reset. A common strategy is to keep resetting at Unobtainium Huts until you have generated enough paragon to comfortably afford it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenges:&lt;/strong&gt; If you plan on taking on the game&amp;rsquo;s difficult challenge modes, such as the Anarchy challenge, it is highly advised to secure Renaissance beforehand to ensure your economy can withstand the harsh penalties.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/metaphysics/renaissance/">Renaissance</a> is the final and most powerful Metaphysics upgrade in the building price ratio reduction chain (following Enlightenment, Golden Ratio, Divine Proportion, and Vitruvian Feline).</p>
+<h3 id="core-effects-and-cost"><strong>Core Effects and Cost</strong></h3>
+<ul>
+<li><strong>Effect:</strong> Renaissance provides a massive <strong>2.25% reduction to all building price ratios</strong>. This makes buildings significantly cheaper to construct, allowing you to build many more structures to boost your population and production before hitting your resource storage caps. It is widely considered one of the most powerful (&ldquo;OP&rdquo;) metaphysics upgrades in the game because once you acquire it, you will rarely have issues generating enough paragon for anything else.</li>
+<li><strong>Cost:</strong> Purchasing the upgrade requires a substantial investment of <strong>750 Paragon</strong>.</li>
+</ul>
+<h3 id="strategy-and-timing"><strong>Strategy and Timing</strong></h3>
+<ul>
+<li><strong>Progression:</strong> It is highly recommended that you prioritise acquiring all price ratio reduction upgrades, culminating in Renaissance, before making serious investments into other late-game mechanics like end-game unicorn ziggurats.</li>
+<li><strong>When to Buy:</strong> Players typically aim to purchase Renaissance around their fifth to seventh reset. A common strategy is to keep resetting at Unobtainium Huts until you have generated enough paragon to comfortably afford it.</li>
+<li><strong>Challenges:</strong> If you plan on taking on the game&rsquo;s difficult challenge modes, such as the Anarchy challenge, it is highly advised to secure Renaissance beforehand to ensure your economy can withstand the harsh penalties.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Vitruvian Feline</title>
+      <link>/metaphysics/vitruvian_feline/</link>
+      <pubDate>Sat, 11 Apr 2026 01:54:05 +0000</pubDate>
+      <guid>/metaphysics/vitruvian_feline/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../metaphysics/vitruvian_feline/&#34;&gt;Vitruvian Feline&lt;/a&gt; is a highly valuable Metaphysics upgrade that directly improves your civilization&amp;rsquo;s economy by lowering the escalating costs of buildings.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-prerequisites&#34;&gt;&lt;strong&gt;Acquisition and Prerequisites&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must first purchase the &lt;a href=&#34;../metaphysics/divine_proportion/&#34;&gt;Divine Proportion&lt;/a&gt; metaphysics upgrade to unlock Vitruvian Feline.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; Purchasing the upgrade requires a substantial investment of &lt;strong&gt;250 Paragon&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects-and-strategy&#34;&gt;&lt;strong&gt;Core Effects and Strategy&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio Reduction:&lt;/strong&gt; Vitruvian Feline reduces all building price ratios by &lt;strong&gt;2%&lt;/strong&gt;. This means buildings will become cheaper to construct, allowing you to buy significantly more structures before you hit your resource storage caps.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Progression:&lt;/strong&gt; Acquiring Vitruvian Feline unlocks &lt;a href=&#34;../metaphysics/renaissance/&#34;&gt;Renaissance&lt;/a&gt;, which is the final price ratio reduction upgrade.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strategic Importance:&lt;/strong&gt; It is highly recommended that you prioritize buying all of the price ratio reduction upgrades (including Vitruvian Feline) early in your playthroughs, as they make everything in your village cheaper and allow for rapid expansion. A common community strategy is to aim for Vitruvian Feline around your fourth reset, which typically requires reaching a population of about &lt;strong&gt;320 kittens&lt;/strong&gt; in a single run to generate enough Paragon to afford it.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/metaphysics/vitruvian_feline/">Vitruvian Feline</a> is a highly valuable Metaphysics upgrade that directly improves your civilization&rsquo;s economy by lowering the escalating costs of buildings.</p>
+<h3 id="acquisition-and-prerequisites"><strong>Acquisition and Prerequisites</strong></h3>
+<ul>
+<li><strong>Prerequisite:</strong> You must first purchase the <a href="/metaphysics/divine_proportion/">Divine Proportion</a> metaphysics upgrade to unlock Vitruvian Feline.</li>
+<li><strong>Cost:</strong> Purchasing the upgrade requires a substantial investment of <strong>250 Paragon</strong>.</li>
+</ul>
+<h3 id="core-effects-and-strategy"><strong>Core Effects and Strategy</strong></h3>
+<ul>
+<li><strong>Price Ratio Reduction:</strong> Vitruvian Feline reduces all building price ratios by <strong>2%</strong>. This means buildings will become cheaper to construct, allowing you to buy significantly more structures before you hit your resource storage caps.</li>
+<li><strong>Progression:</strong> Acquiring Vitruvian Feline unlocks <a href="/metaphysics/renaissance/">Renaissance</a>, which is the final price ratio reduction upgrade.</li>
+<li><strong>Strategic Importance:</strong> It is highly recommended that you prioritize buying all of the price ratio reduction upgrades (including Vitruvian Feline) early in your playthroughs, as they make everything in your village cheaper and allow for rapid expansion. A common community strategy is to aim for Vitruvian Feline around your fourth reset, which typically requires reaching a population of about <strong>320 kittens</strong> in a single run to generate enough Paragon to afford it.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Numeromancy</title>
+      <link>/metaphysics/numeromancy/</link>
+      <pubDate>Wed, 28 Jan 2026 11:12:21 +1100</pubDate>
+      <guid>/metaphysics/numeromancy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../metaphysics/numeromancy/&#34;&gt;Numeromancy&lt;/a&gt; is a late-game &lt;strong&gt;Metaphysics upgrade&lt;/strong&gt; that grants your civilisation unique production bonuses during &lt;a href=&#34;../guides/festivals/&#34;&gt;Festivals&lt;/a&gt; based on the current active &lt;strong&gt;Cycle&lt;/strong&gt; of the Cath solar system.&lt;/p&gt;
+&lt;h3 id=&#34;key-statistics-and-requirements&#34;&gt;&lt;strong&gt;Key Statistics and Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 250 Paragon.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; &lt;a href=&#34;../metaphysics/numerology/&#34;&gt;Numerology&lt;/a&gt; (which costs 50 Paragon and applies cycle-based effects to space production).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlocks:&lt;/strong&gt; The &lt;strong&gt;Malkuth&lt;/strong&gt; metaphysics upgrade.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;festival-effects-by-cycle&#34;&gt;&lt;strong&gt;Festival Effects by Cycle&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;When a &lt;a href=&#34;../guides/festivals/&#34;&gt;Festival&lt;/a&gt; is active, Numeromancy applies the following multipliers depending on the current 5-year cycle:&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Cycle&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Resource Bonus (x)&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Primary Focus&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../cycles/charon_cycle/&#34;&gt;Charon&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1.5x&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Catnip, Wood, Minerals&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../cycles/umbra_cycle/&#34;&gt;Umbra&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1.5x&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Coal, Iron, Titanium, Gold&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../cycles/yarn_cycle/&#34;&gt;Yarn&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;2.0x&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Culture&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../cycles/helios_cycle/&#34;&gt;Helios&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;2.0x / 1.25x&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Faith / Unicorns&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../cycles/cath_cycle/&#34;&gt;Cath&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;2.0x&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Catpower&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../cycles/redmoon_cycle/&#34;&gt;Redmoon&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2.0x&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../resource/unobtainium/&#34;&gt;Unobtainium&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../cycles/dune_cycle/&#34;&gt;Dune&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;2.0x&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Uranium&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../cycles/piscine_cycle/&#34;&gt;Piscine&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;2.0x&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Science&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../cycles/terminus_cycle/&#34;&gt;Terminus&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;2.0x&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Oil&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../cycles/kairo_cycle/&#34;&gt;Kairo&lt;/a&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;5.0x&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Starcharts&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;strategic-synergies&#34;&gt;&lt;strong&gt;Strategic Synergies&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The most powerful application of Numeromancy is during the &lt;a href=&#34;../cycles/redmoon_cycle/&#34;&gt;Redmoon cycle&lt;/a&gt; to resolve the &lt;a href=&#34;../resource/unobtainium/&#34;&gt;Unobtainium&lt;/a&gt; bottleneck.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/metaphysics/numeromancy/">Numeromancy</a> is a late-game <strong>Metaphysics upgrade</strong> that grants your civilisation unique production bonuses during <a href="/guides/festivals/">Festivals</a> based on the current active <strong>Cycle</strong> of the Cath solar system.</p>
+<h3 id="key-statistics-and-requirements"><strong>Key Statistics and Requirements</strong></h3>
+<ul>
+<li><strong>Cost:</strong> 250 Paragon.</li>
+<li><strong>Prerequisite:</strong> <a href="/metaphysics/numerology/">Numerology</a> (which costs 50 Paragon and applies cycle-based effects to space production).</li>
+<li><strong>Unlocks:</strong> The <strong>Malkuth</strong> metaphysics upgrade.</li>
+</ul>
+<h3 id="festival-effects-by-cycle"><strong>Festival Effects by Cycle</strong></h3>
+<p>When a <a href="/guides/festivals/">Festival</a> is active, Numeromancy applies the following multipliers depending on the current 5-year cycle:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Cycle</th>
+					<th style="text-align: left">Resource Bonus (x)</th>
+					<th style="text-align: left">Primary Focus</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><a href="/cycles/charon_cycle/">Charon</a></td>
+					<td style="text-align: left">1.5x</td>
+					<td style="text-align: left">Catnip, Wood, Minerals</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/cycles/umbra_cycle/">Umbra</a></td>
+					<td style="text-align: left">1.5x</td>
+					<td style="text-align: left">Coal, Iron, Titanium, Gold</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/cycles/yarn_cycle/">Yarn</a></td>
+					<td style="text-align: left">2.0x</td>
+					<td style="text-align: left">Culture</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/cycles/helios_cycle/">Helios</a></td>
+					<td style="text-align: left">2.0x / 1.25x</td>
+					<td style="text-align: left">Faith / Unicorns</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/cycles/cath_cycle/">Cath</a></td>
+					<td style="text-align: left">2.0x</td>
+					<td style="text-align: left">Catpower</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/cycles/redmoon_cycle/">Redmoon</a></td>
+					<td style="text-align: left"><strong>2.0x</strong></td>
+					<td style="text-align: left"><a href="/resource/unobtainium/">Unobtainium</a></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/cycles/dune_cycle/">Dune</a></td>
+					<td style="text-align: left">2.0x</td>
+					<td style="text-align: left">Uranium</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/cycles/piscine_cycle/">Piscine</a></td>
+					<td style="text-align: left">2.0x</td>
+					<td style="text-align: left">Science</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/cycles/terminus_cycle/">Terminus</a></td>
+					<td style="text-align: left">2.0x</td>
+					<td style="text-align: left">Oil</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/cycles/kairo_cycle/">Kairo</a></td>
+					<td style="text-align: left">5.0x</td>
+					<td style="text-align: left">Starcharts</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="strategic-synergies"><strong>Strategic Synergies</strong></h3>
+<p>The most powerful application of Numeromancy is during the <a href="/cycles/redmoon_cycle/">Redmoon cycle</a> to resolve the <a href="/resource/unobtainium/">Unobtainium</a> bottleneck.</p>
+<ul>
+<li><strong>The Redmoon Engine:</strong> By running a festival during the Redmoon cycle, you receive a base <strong>2x boost</strong> to Unobtainium income. When combined with other endgame bonuses, this can reach nearly <strong>2.5x total production</strong>.</li>
+<li><strong>Brewery Scaling:</strong> Each <a href="/buildings/brewery/">Brewery</a> you construct increases the &ldquo;Festival Cycle Bonus&rdquo; by <strong>1%</strong>. For example, having 50 breweries would increase the Redmoon festival bonus from 2.0x to 2.5x.</li>
+<li><strong>Temporal Arbitrage:</strong> Experienced players use a <a href="/upgrade/chronoforge/">Chronoforge</a> to &ldquo;shatter&rdquo; Time Crystals, skipping less profitable years to land precisely on the Redmoon cycle and maximise the Numeromancy festival bonus.</li>
+</ul>
+<h3 id="why-it-matters"><strong>Why It Matters</strong></h3>
+<p>Numeromancy is essential for the <strong>mid-to-late game</strong> transition (Phase 3 and 4). It transforms Festivals from simple happiness-boosting events into high-leverage tools for resource generation. This is particularly vital for reaching <strong><a href="/religion/transcendence/">Transcendence</a> Tier 15</strong>, as the faith income bonus in the <a href="/cycles/helios_cycle/">Helios cycle</a> and the Unobtainium boost in <a href="/planet/redmoon/">Redmoon</a> accelerate the accumulation of Time Crystals and Relics.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Megalomania</title>
+      <link>/metaphysics/megalomania/</link>
+      <pubDate>Mon, 26 Jan 2026 17:48:48 +1100</pubDate>
+      <guid>/metaphysics/megalomania/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../metaphysics/megalomania/&#34;&gt;Megalomania&lt;/a&gt; is a mid-game &lt;strong&gt;Metaphysics upgrade&lt;/strong&gt; that serves as the essential gateway to advanced religious structures and the &amp;ldquo;Unicorn Era&amp;rdquo;. It costs &lt;strong&gt;10 Paragon&lt;/strong&gt; to purchase.&lt;/p&gt;
+&lt;h3 id=&#34;unlocks-and-benefits&#34;&gt;&lt;strong&gt;Unlocks and Benefits&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;By purchasing Megalomania, you gain access to high-tier structures and mechanics that are otherwise hidden:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../ziggurat/black_pyramid/&#34;&gt;Black Pyramids&lt;/a&gt;: These are necessary to attract &lt;a href=&#34;../civilisations/leviathans/&#34;&gt;Leviathans&lt;/a&gt;, allowing you to trade Unobtainium for &lt;a href=&#34;../resource/time_crystals/&#34;&gt;Time Crystals&lt;/a&gt; and &lt;a href=&#34;../resource/relic/&#34;&gt;Relics&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../ziggurat/marker/&#34;&gt;Markers&lt;/a&gt;: These strange structures initiate the &lt;strong&gt;corruption&lt;/strong&gt; process, which slowly transforms Alicorns into &lt;strong&gt;Necrocorns&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Black Codex&lt;/strong&gt;: Unlocks further religious upgrades, such as the &lt;a href=&#34;../ziggurat/unicorn_graveyard/&#34;&gt;Unicorn Graveyard&lt;/a&gt;, which boosts your maximum culture based on the number of Ziggurats you possess.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;acquisition-requirements&#34;&gt;&lt;strong&gt;Acquisition Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To unlock Megalomania in the Metaphysics menu, you must meet the following criteria:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/metaphysics/megalomania/">Megalomania</a> is a mid-game <strong>Metaphysics upgrade</strong> that serves as the essential gateway to advanced religious structures and the &ldquo;Unicorn Era&rdquo;. It costs <strong>10 Paragon</strong> to purchase.</p>
+<h3 id="unlocks-and-benefits"><strong>Unlocks and Benefits</strong></h3>
+<p>By purchasing Megalomania, you gain access to high-tier structures and mechanics that are otherwise hidden:</p>
+<ul>
+<li><a href="/ziggurat/black_pyramid/">Black Pyramids</a>: These are necessary to attract <a href="/civilisations/leviathans/">Leviathans</a>, allowing you to trade Unobtainium for <a href="/resource/time_crystals/">Time Crystals</a> and <a href="/resource/relic/">Relics</a>.</li>
+<li><a href="/ziggurat/marker/">Markers</a>: These strange structures initiate the <strong>corruption</strong> process, which slowly transforms Alicorns into <strong>Necrocorns</strong>.</li>
+<li><strong>Black Codex</strong>: Unlocks further religious upgrades, such as the <a href="/ziggurat/unicorn_graveyard/">Unicorn Graveyard</a>, which boosts your maximum culture based on the number of Ziggurats you possess.</li>
+</ul>
+<h3 id="acquisition-requirements"><strong>Acquisition Requirements</strong></h3>
+<p>To unlock Megalomania in the Metaphysics menu, you must meet the following criteria:</p>
+<ul>
+<li><strong>Science Tech</strong>: Research the <a href="/techs/metaphysics/">Metaphysics</a> technology (55k Science and 5 Unobtainium).</li>
+<li><strong>Metaphysics Prerequisite</strong>: You must first purchase <a href="/metaphysics/enlightenment/">Enlightenment</a> (formerly Engineering) for 5 Paragon.</li>
+</ul>
+<h3 id="strategic-timing-when-to-buy"><strong>Strategic Timing: When to Buy</strong></h3>
+<p>While its cost is relatively low, strategic guides offer specific warnings regarding when to invest your Paragon:</p>
+<ul>
+<li><strong>The &ldquo;Early Game Trap&rdquo;</strong>: Megalomania is often considered a <strong>trap for new players</strong>. Because the structures it unlocks (like Black Pyramids) are &ldquo;really expensive&rdquo; and belong to the endgame resource line, it is not recommended for your first few runs.</li>
+<li><strong>Priority Order</strong>: You should prioritise all <strong>price ratio reduction</strong> upgrades—specifically <a href="/metaphysics/golden_ratio/">Golden Ratio</a>, <a href="/metaphysics/divine_proportion/">Divine Proportion</a>, and <a href="/metaphysics/renaissance/">Renaissance</a>—before buying Megalomania.</li>
+<li><strong>The 40k Run Exception</strong>: If you are attempting a very long run (such as the <strong>40k years</strong> milestone), Megalomania is considered necessary to begin working toward Time Crystals as early as possible.</li>
+</ul>
+<h3 id="role-in-the-unicorn-era"><strong>Role in the Unicorn Era</strong></h3>
+<p>Megalomania is the catalyst for transitioning from simple unicorn gathering to a full <strong>Time Crystal engine</strong>. Once purchased, you can refine <strong>Unicorn Tears</strong> into <strong>Black Liquid Sorrow (BLS)</strong>; five units of BLS allow you to build your first <a href="/ziggurat/black_pyramid/">Black Pyramid</a>, which officially begins the process of trading with Leviathans for the temporal resources we discussed previously, such as <a href="/metaphysics/anachronomancy/">Anachronomancy</a> and <a href="/buildings/chronosphere/">Chronospheres</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Golden Ratio</title>
+      <link>/metaphysics/golden_ratio/</link>
+      <pubDate>Sat, 24 Jan 2026 21:08:23 +1100</pubDate>
+      <guid>/metaphysics/golden_ratio/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../metaphysics/golden_ratio/&#34;&gt;Golden Ratio&lt;/a&gt; is an early-to-mid-game &lt;strong&gt;Metaphysics upgrade&lt;/strong&gt; that reduces the price ratio of buildings on the &lt;strong&gt;Bonfire tab&lt;/strong&gt;. By slowing down how quickly construction costs increase, it allows you to build significantly more structures before hitting your resource caps, which directly boosts your production and maximum kitten population.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-prerequisites&#34;&gt;&lt;strong&gt;Acquisition and Prerequisites&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paragon Cost:&lt;/strong&gt; 50 Paragon.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must first purchase the &lt;a href=&#34;../metaphysics/enlightenment/&#34;&gt;Enlightenment&lt;/a&gt; metaphysics upgrade (5 Paragon).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlocks:&lt;/strong&gt; Purchasing Golden Ratio is required to unlock &lt;a href=&#34;../metaphysics/divine_proportion/&#34;&gt;Divine Proportion&lt;/a&gt; (100 Paragon).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects&#34;&gt;&lt;strong&gt;Core Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Price Reduction:&lt;/strong&gt; It reduces all price ratios by approximately &lt;strong&gt;1.618%&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mathematical Basis:&lt;/strong&gt; The exact percentage reduction is derived from the mathematical golden ratio: $\frac{1+\sqrt{5}}{2}$.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scope:&lt;/strong&gt; Note that this price ratio reduction only applies to buildings found in the &lt;strong&gt;Bonfire tab&lt;/strong&gt;; it does not affect space structures or other categories.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-utility&#34;&gt;&lt;strong&gt;Strategic Utility&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Golden Ratio is considered a &amp;ldquo;price reduction meta&amp;rdquo; and is a cornerstone of efficient progression.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/metaphysics/golden_ratio/">Golden Ratio</a> is an early-to-mid-game <strong>Metaphysics upgrade</strong> that reduces the price ratio of buildings on the <strong>Bonfire tab</strong>. By slowing down how quickly construction costs increase, it allows you to build significantly more structures before hitting your resource caps, which directly boosts your production and maximum kitten population.</p>
+<h3 id="acquisition-and-prerequisites"><strong>Acquisition and Prerequisites</strong></h3>
+<ul>
+<li><strong>Paragon Cost:</strong> 50 Paragon.</li>
+<li><strong>Prerequisite:</strong> You must first purchase the <a href="/metaphysics/enlightenment/">Enlightenment</a> metaphysics upgrade (5 Paragon).</li>
+<li><strong>Unlocks:</strong> Purchasing Golden Ratio is required to unlock <a href="/metaphysics/divine_proportion/">Divine Proportion</a> (100 Paragon).</li>
+</ul>
+<h3 id="core-effects"><strong>Core Effects</strong></h3>
+<ul>
+<li><strong>Price Reduction:</strong> It reduces all price ratios by approximately <strong>1.618%</strong>.</li>
+<li><strong>Mathematical Basis:</strong> The exact percentage reduction is derived from the mathematical golden ratio: $\frac{1+\sqrt{5}}{2}$.</li>
+<li><strong>Scope:</strong> Note that this price ratio reduction only applies to buildings found in the <strong>Bonfire tab</strong>; it does not affect space structures or other categories.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>The Golden Ratio is considered a &ldquo;price reduction meta&rdquo; and is a cornerstone of efficient progression.</p>
+<ul>
+<li><strong>Optimal Purchase Timing:</strong> Strategic guides generally recommend purchasing Golden Ratio during your <strong>second run</strong>.</li>
+<li><strong>Kitten Threshold:</strong> It is often advised to wait until you have accumulated between <strong>155 and 160 kittens</strong> before buying it. This timing allows you to benefit from the production and storage bonuses of your unspent Paragon for the majority of the run before spending the 50 points on the upgrade.</li>
+<li><strong>Scaling Production:</strong> Because it allows for more buildings (such as Huts and Log Houses), it facilitates a higher kitten population, which in turn leads to more <strong>Paragon and Karma</strong> upon your next reset.</li>
+<li><strong>Late-Game Path:</strong> In long-term or &ldquo;Endgame&rdquo; strategies, Golden Ratio is the first major step toward the <a href="/metaphysics/renaissance/">Renaissance</a> upgrade, which is the final and most powerful price-reduction tier.</li>
+</ul>
+<p>Would you like to know more about the next upgrade in this chain, <a href="/metaphysics/divine_proportion/">Divine Proportion</a>, or how these ratios interact with your kitten population for a reset?</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Burn your paragon</title>
+      <link>/metaphysics/burn_your_paragon/</link>
+      <pubDate>Sat, 24 Jan 2026 20:56:55 +1100</pubDate>
+      <guid>/metaphysics/burn_your_paragon/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Burning paragon&lt;/strong&gt; is a mechanic that converts your standard unspent paragon into &amp;ldquo;burned&amp;rdquo; paragon. While burned paragon is less effective than regular paragon for production in the early game, it provides unique stacking bonuses and becomes significantly more powerful during the late-game &amp;ldquo;Dark Future&amp;rdquo; period.&lt;/p&gt;
+&lt;h3 id=&#34;core-effects-of-burned-paragon&#34;&gt;&lt;strong&gt;Core Effects of Burned Paragon&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Production Bonus:&lt;/strong&gt; Burned paragon has approximately half the production effectiveness of regular paragon. However, it &lt;strong&gt;stacks with regular paragon&lt;/strong&gt;, allowing you to bypass the diminishing returns that standard paragon faces after the 150–200 point threshold.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storage Capacity:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Before Dark Future (Year 40,000):&lt;/strong&gt; Each burned paragon provides a &lt;strong&gt;0.05%&lt;/strong&gt; storage capacity bonus (half of regular paragon’s 0.1%).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;During Dark Future:&lt;/strong&gt; Each burned paragon provides a &lt;strong&gt;0.2%&lt;/strong&gt; storage capacity bonus, making it twice as effective as regular paragon for increasing resource caps.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Leader Trait Bonus:&lt;/strong&gt; Having burned paragon provides a slight boost to the effects of your &lt;strong&gt;kitten leader’s traits&lt;/strong&gt; (such as Scientist, Artisan, or Manager).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Persistence:&lt;/strong&gt; Like regular paragon, burned paragon is a permanent resource that &lt;strong&gt;carries over&lt;/strong&gt; through all resets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-timing-when-to-burn&#34;&gt;&lt;strong&gt;Strategic Timing: When to Burn&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Deciding when to burn your stash depends on your current progression:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><strong>Burning paragon</strong> is a mechanic that converts your standard unspent paragon into &ldquo;burned&rdquo; paragon. While burned paragon is less effective than regular paragon for production in the early game, it provides unique stacking bonuses and becomes significantly more powerful during the late-game &ldquo;Dark Future&rdquo; period.</p>
+<h3 id="core-effects-of-burned-paragon"><strong>Core Effects of Burned Paragon</strong></h3>
+<ul>
+<li><strong>Production Bonus:</strong> Burned paragon has approximately half the production effectiveness of regular paragon. However, it <strong>stacks with regular paragon</strong>, allowing you to bypass the diminishing returns that standard paragon faces after the 150–200 point threshold.</li>
+<li><strong>Storage Capacity:</strong>
+<ul>
+<li><strong>Before Dark Future (Year 40,000):</strong> Each burned paragon provides a <strong>0.05%</strong> storage capacity bonus (half of regular paragon’s 0.1%).</li>
+<li><strong>During Dark Future:</strong> Each burned paragon provides a <strong>0.2%</strong> storage capacity bonus, making it twice as effective as regular paragon for increasing resource caps.</li>
+</ul>
+</li>
+<li><strong>Leader Trait Bonus:</strong> Having burned paragon provides a slight boost to the effects of your <strong>kitten leader’s traits</strong> (such as Scientist, Artisan, or Manager).</li>
+<li><strong>Persistence:</strong> Like regular paragon, burned paragon is a permanent resource that <strong>carries over</strong> through all resets.</li>
+</ul>
+<h3 id="strategic-timing-when-to-burn"><strong>Strategic Timing: When to Burn</strong></h3>
+<p>Deciding when to burn your stash depends on your current progression:</p>
+<ul>
+<li><strong>The 400-Point Threshold:</strong> A common strategy is to consider burning paragon once you reach <strong>400 unspent points</strong>. At this stage, 400 burned paragon provides roughly the same production boost as 200 regular paragon, but because it stacks, it helps push production higher as standard paragon gains become marginal.</li>
+<li><strong>Storage Caps:</strong> Because burned paragon storage bonuses never diminish, they are essential in the late game for reaching the massive <strong>unobtainium caps</strong> (e.g., 8.14 billion) required for self-sustaining resets with 100 Chronospheres.</li>
+<li><strong>Preparation for Iron Will:</strong> For players attempting the <strong>&ldquo;Insane&rdquo; Space Oddity</strong> achievement, you must have <strong>less than 10 unburned paragon</strong> in your bank. Burning your paragon allows you to keep the production and storage benefits of your prestige without disqualifying yourself from the achievement.</li>
+</ul>
+<h3 id="important-considerations"><strong>Important Considerations</strong></h3>
+<ul>
+<li><strong>Wait for Metaphysics:</strong> It is generally recommended to prioritize purchasing <strong>price ratio reduction Metaphysics</strong> (like Golden Ratio, Divine Proportion, and Renaissance) before burning paragon.</li>
+<li><strong>Dark Future Milestone:</strong> Since the storage bonus quadruples during the Dark Future, burning paragon is a primary strategy for players planning &ldquo;Endless Runs&rdquo; or deep-space exploration.</li>
+<li><strong>Gold Star Space Oddity:</strong> Obtaining the <strong>Space Oddity gold star</strong> reward provides a permanent benefit: it allows you to burn paragon in the future <strong>without exiting Iron Will mode</strong>.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Adjustment Bureau</title>
+      <link>/metaphysics/adjustment_bureau/</link>
+      <pubDate>Sat, 24 Jan 2026 20:56:40 +1100</pubDate>
+      <guid>/metaphysics/adjustment_bureau/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../metaphysics/adjustment_bureau/&#34;&gt;Adjustment Bureau&lt;/a&gt; is a low-cost Metaphysics upgrade that serves as the gateway to the &lt;strong&gt;Challenges&lt;/strong&gt; system in &lt;em&gt;Kittens Game&lt;/em&gt;. Once purchased, it unlocks a dedicated &lt;strong&gt;Challenges tab&lt;/strong&gt; (separate from the Science tab), where you can activate specific game-altering restrictions in exchange for permanent global rewards.&lt;/p&gt;
+&lt;h3 id=&#34;costs-and-unlocks&#34;&gt;&lt;strong&gt;Costs and Unlocks&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 5 Paragon.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlocks:&lt;/strong&gt; The &lt;strong&gt;Challenges&lt;/strong&gt; menu and the secret &lt;strong&gt;ASCOH&lt;/strong&gt; upgrade.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; You must first research the &lt;a href=&#34;../techs/metaphysics/&#34;&gt;Metaphysics&lt;/a&gt; technology (which requires 55,000 Science and 5 Unobtainium) to access the Metaphysics purchase menu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-challenges-work&#34;&gt;&lt;strong&gt;How Challenges Work&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Challenges impose special handicaps that typically require a game reset to begin. When a challenge is active, &lt;a href=&#34;../buildings/chronosphere/&#34;&gt;Chronospheres&lt;/a&gt; will not bring resources into the run (unless it is the Post-Apocalypse challenge); instead, those resources are placed in &lt;strong&gt;reserves&lt;/strong&gt; and can be reclaimed once the challenge is complete.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/metaphysics/adjustment_bureau/">Adjustment Bureau</a> is a low-cost Metaphysics upgrade that serves as the gateway to the <strong>Challenges</strong> system in <em>Kittens Game</em>. Once purchased, it unlocks a dedicated <strong>Challenges tab</strong> (separate from the Science tab), where you can activate specific game-altering restrictions in exchange for permanent global rewards.</p>
+<h3 id="costs-and-unlocks"><strong>Costs and Unlocks</strong></h3>
+<ul>
+<li><strong>Cost:</strong> 5 Paragon.</li>
+<li><strong>Unlocks:</strong> The <strong>Challenges</strong> menu and the secret <strong>ASCOH</strong> upgrade.</li>
+<li><strong>Prerequisites:</strong> You must first research the <a href="/techs/metaphysics/">Metaphysics</a> technology (which requires 55,000 Science and 5 Unobtainium) to access the Metaphysics purchase menu.</li>
+</ul>
+<h3 id="how-challenges-work"><strong>How Challenges Work</strong></h3>
+<p>Challenges impose special handicaps that typically require a game reset to begin. When a challenge is active, <a href="/buildings/chronosphere/">Chronospheres</a> will not bring resources into the run (unless it is the Post-Apocalypse challenge); instead, those resources are placed in <strong>reserves</strong> and can be reclaimed once the challenge is complete.</p>
+<ul>
+<li><strong>Rewards:</strong> Completing a challenge for the first time grants both a <strong>Base Reward</strong> and an <strong>Increasing Reward</strong>. Multiple challenges can be active simultaneously, and rewards for repeated completions stack.</li>
+<li><strong>Examples:</strong> Common challenges include <strong>Winter Has Come</strong> (endless winter), <strong>Anarchy</strong> (lazy kittens), and <strong>Atheism</strong> (no faith bonus).</li>
+</ul>
+<h3 id="strategic-advice"><strong>Strategic Advice</strong></h3>
+<ul>
+<li><strong>Timing:</strong> Strategic guides suggest that you are generally not ready for the Adjustment Bureau and its challenges until you reach <strong>Phase 2</strong> (mid-game). It is usually better to prioritise price ratio reduction upgrades (like Golden Ratio or Renaissance) before attempting challenge runs.</li>
+<li><strong>Iron Will Exception:</strong> You do <strong>not</strong> need to purchase the Adjustment Bureau to play in <a href="/challenges/ironwill/">Iron Will</a> mode. Iron Will is a &ldquo;hidden&rdquo; challenge that is triggered simply by resetting and playing without building any kitten housing.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Carnivals</title>
+      <link>/metaphysics/carnivals/</link>
+      <pubDate>Sat, 24 Jan 2026 20:56:29 +1100</pubDate>
+      <guid>/metaphysics/carnivals/</guid>
+      <description>&lt;p&gt;a mid-game Metaphysics upgrade that allows &lt;a href=&#34;../guides/festivals/&#34;&gt;festivals&lt;/a&gt; to stack in duration, though there is also a similarly named Carnivale policy that modifies festival effects.
+Metaphysics: Carnivals
+The Carnivals upgrade is an essential step in the temporal and religious Metaphysics tree.
+• Cost: 25 Paragon.
+• Primary Effect: It allows your Festivals to stack in duration. Without this, clicking &amp;ldquo;Hold a Festival&amp;rdquo; while one is already active simply wastes resources; with Carnivals, the time is added to the remaining duration.
+• Progression: It is the direct prerequisite for Numerology. It is also considered a mandatory part of the path to Order of the Void and reaching high &lt;a href=&#34;../religion/transcendence/&#34;&gt;Transcendence&lt;/a&gt; Tiers in the late game.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>a mid-game Metaphysics upgrade that allows <a href="/guides/festivals/">festivals</a> to stack in duration, though there is also a similarly named Carnivale policy that modifies festival effects.
+Metaphysics: Carnivals
+The Carnivals upgrade is an essential step in the temporal and religious Metaphysics tree.
+• Cost: 25 Paragon.
+• Primary Effect: It allows your Festivals to stack in duration. Without this, clicking &ldquo;Hold a Festival&rdquo; while one is already active simply wastes resources; with Carnivals, the time is added to the remaining duration.
+• Progression: It is the direct prerequisite for Numerology. It is also considered a mandatory part of the path to Order of the Void and reaching high <a href="/religion/transcendence/">Transcendence</a> Tiers in the late game.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Anachronomancy</title>
+      <link>/metaphysics/anachronomancy/</link>
+      <pubDate>Sat, 24 Jan 2026 20:56:18 +1100</pubDate>
+      <guid>/metaphysics/anachronomancy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../metaphysics/anachronomancy/&#34;&gt;Anachronomancy&lt;/a&gt;  is a pivotal mid-game &lt;strong&gt;Metaphysics upgrade&lt;/strong&gt; that allows your civilisation to preserve its most advanced temporal assets across resets.&lt;/p&gt;
+&lt;p&gt;It is considered a mandatory requirement before a player begins focusing seriously on &lt;a href=&#34;../resource/time_crystals/&#34;&gt;Time Crystals&lt;/a&gt; or deep-space exploration.&lt;/p&gt;
+&lt;h3 id=&#34;costs-and-prerequisites&#34;&gt;&lt;strong&gt;Costs and Prerequisites&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paragon Cost:&lt;/strong&gt; 125.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlock Prerequisite:&lt;/strong&gt; You must first purchase the &lt;a href=&#34;../metaphysics/chronomancy/&#34;&gt;Chronomancy&lt;/a&gt; metaphysics upgrade.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technology Prerequisite:&lt;/strong&gt; You must have researched the &lt;a href=&#34;../techs/metaphysics/&#34;&gt;Metaphysics&lt;/a&gt; technology (which requires 5 unobtainium) to access the purchase menu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects&#34;&gt;&lt;strong&gt;Core Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The primary function of Anachronomancy is to change the rules of what carries over when you reset your game:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/metaphysics/anachronomancy/">Anachronomancy</a>  is a pivotal mid-game <strong>Metaphysics upgrade</strong> that allows your civilisation to preserve its most advanced temporal assets across resets.</p>
+<p>It is considered a mandatory requirement before a player begins focusing seriously on <a href="/resource/time_crystals/">Time Crystals</a> or deep-space exploration.</p>
+<h3 id="costs-and-prerequisites"><strong>Costs and Prerequisites</strong></h3>
+<ul>
+<li><strong>Paragon Cost:</strong> 125.</li>
+<li><strong>Unlock Prerequisite:</strong> You must first purchase the <a href="/metaphysics/chronomancy/">Chronomancy</a> metaphysics upgrade.</li>
+<li><strong>Technology Prerequisite:</strong> You must have researched the <a href="/techs/metaphysics/">Metaphysics</a> technology (which requires 5 unobtainium) to access the purchase menu.</li>
+</ul>
+<h3 id="core-effects"><strong>Core Effects</strong></h3>
+<p>The primary function of Anachronomancy is to change the rules of what carries over when you reset your game:</p>
+<ul>
+<li><strong>Time Crystal Preservation:</strong> Your stockpile of <a href="/resource/time_crystals/">Time Crystals</a> is saved. Without this upgrade, all Time Crystals are lost upon reset.</li>
+<li><strong>Chronophysics Persistence:</strong> The <strong>Chronophysics technology</strong> is saved across resets. Once you have both Anachronomancy and have researched Chronophysics once, you will start every future run with that technology already researched.</li>
+</ul>
+<h3 id="strategic-importance"><strong>Strategic Importance</strong></h3>
+<p>Anachronomancy is the gateway to the &ldquo;Mid-Game&rdquo; and the <strong>Relic/Time Crystal economy</strong>.</p>
+<ol>
+<li><strong>Enabling Chronospheres:</strong> Since Chronophysics is the prerequisite for building <a href="/buildings/chronosphere/">Chronospheres</a>, having it available at the start of a run allows you to begin using temporal mechanics much earlier in your progression.</li>
+<li><strong>Unicorn Era Progression:</strong> It is essential for the &ldquo;Unicorn Era,&rdquo; where players sacrifice unicorns and alicorns to generate Time Crystals. Anachronomancy ensures that this effort isn&rsquo;t wasted when you decide to reset for more Paragon.</li>
+<li><strong>Efficiency Milestone:</strong> Strategic guides typically suggest purchasing Anachronomancy after you have secured primary price-reduction upgrades like <a href="/metaphysics/renaissance/">Renaissance</a>. It allows you to &ldquo;experiment with time crystals&rdquo; without the risk of losing your investment.</li>
+</ol>
+<h3 id="summary-of-carry-over-mechanics"><strong>Summary of Carry-Over Mechanics</strong></h3>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Resource/Tech</th>
+					<th style="text-align: left">Without Anachronomancy</th>
+					<th style="text-align: left">With Anachronomancy</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><a href="/resource/time_crystals/">Time Crystals</a></td>
+					<td style="text-align: left">Lost</td>
+					<td style="text-align: left"><strong>Saved</strong></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/techs/chronophysics/">Chronophysics</a></td>
+					<td style="text-align: left">Must be re-researched</td>
+					<td style="text-align: left"><strong>Saved/Auto-Researched</strong></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><a href="/guides/temporal-flux/">Temporal Flux</a></td>
+					<td style="text-align: left">Saved</td>
+					<td style="text-align: left">Saved</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Chronosphere Resources</strong></td>
+					<td style="text-align: left">Depends on CS count</td>
+					<td style="text-align: left">Depends on CS count</td>
+			</tr>
+	</tbody>
+</table>
+<p>Would you like to know more about how to best use the Time Crystals that Anachronomancy helps you save?</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Unicornmancy</title>
+      <link>/metaphysics/unicornmancy/</link>
+      <pubDate>Sat, 24 Jan 2026 20:56:01 +1100</pubDate>
+      <guid>/metaphysics/unicornmancy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../metaphysics/unicornmancy/&#34;&gt;Unicornmancy&lt;/a&gt; is a mid-to-late-game &lt;strong&gt;Metaphysics upgrade&lt;/strong&gt; that increases the frequency of rare unicorn-related astronomical events. It is a critical component for players entering the &amp;ldquo;Unicorn Era&amp;rdquo;, as it accelerates the acquisition of &lt;strong&gt;Unicorns&lt;/strong&gt; and &lt;a href=&#34;../resource/ivory/&#34;&gt;Ivory&lt;/a&gt;, which are the foundational resources for generating &lt;a href=&#34;../resource/time_crystals/&#34;&gt;Time Crystals&lt;/a&gt; and &lt;a href=&#34;../resource/relic/&#34;&gt;Relics&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;acquisition-and-cost&#34;&gt;&lt;strong&gt;Acquisition and Cost&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To access Unicornmancy, you must first research the &lt;a href=&#34;../techs/metaphysics/&#34;&gt;Metaphysics&lt;/a&gt; technology (requiring 5 Unobtainium) to unlock the Metaphysics purchase menu.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paragon Cost:&lt;/strong&gt; 125 Paragon.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strategic Timing:&lt;/strong&gt; Sources recommend purchasing Unicornmancy once you have secured your primary price-reduction upgrades (up to &lt;a href=&#34;../metaphysics/renaissance/&#34;&gt;Renaissance&lt;/a&gt;) and are ready to begin serious progression into time manipulation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-effects&#34;&gt;&lt;strong&gt;Primary Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The upgrade provides a &lt;strong&gt;10% increase&lt;/strong&gt; to the daily chance of the following phenomena:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/metaphysics/unicornmancy/">Unicornmancy</a> is a mid-to-late-game <strong>Metaphysics upgrade</strong> that increases the frequency of rare unicorn-related astronomical events. It is a critical component for players entering the &ldquo;Unicorn Era&rdquo;, as it accelerates the acquisition of <strong>Unicorns</strong> and <a href="/resource/ivory/">Ivory</a>, which are the foundational resources for generating <a href="/resource/time_crystals/">Time Crystals</a> and <a href="/resource/relic/">Relics</a>.</p>
+<h3 id="acquisition-and-cost"><strong>Acquisition and Cost</strong></h3>
+<p>To access Unicornmancy, you must first research the <a href="/techs/metaphysics/">Metaphysics</a> technology (requiring 5 Unobtainium) to unlock the Metaphysics purchase menu.</p>
+<ul>
+<li><strong>Paragon Cost:</strong> 125 Paragon.</li>
+<li><strong>Strategic Timing:</strong> Sources recommend purchasing Unicornmancy once you have secured your primary price-reduction upgrades (up to <a href="/metaphysics/renaissance/">Renaissance</a>) and are ready to begin serious progression into time manipulation.</li>
+</ul>
+<h3 id="primary-effects"><strong>Primary Effects</strong></h3>
+<p>The upgrade provides a <strong>10% increase</strong> to the daily chance of the following phenomena:</p>
+<ul>
+<li><strong>Unicorn Rifts:</strong> Random events enabled by <a href="/ziggurat/ivory_tower/">Ivory Towers</a> that grant a bulk amount of unicorns.</li>
+<li><strong>Ivory Meteors:</strong> Random events enabled by <a href="/ziggurat/ivory_citadel/">Ivory Citadels</a> that provide a burst of ivory.</li>
+</ul>
+<h3 id="synergies-and-scaling"><strong>Synergies and Scaling</strong></h3>
+<p>The benefits of Unicornmancy can be significantly amplified by late-game infrastructure:</p>
+<ul>
+<li><a href="/transcendence/blazar/">Blazars:</a> Each level of this Cryptotheology building improves the effectiveness of Unicornmancy by <strong>2.5%</strong>.</li>
+<li><strong>Ivory Infrastructure:</strong> Because the frequency of Rifts and Ivory Meteors is fundamentally tied to the number of <a href="/ziggurat/ivory_tower/">Ivory Towers</a> and <a href="/ziggurat/ivory_citadel/">Ivory Citadels</a> you possess, Unicornmancy becomes exponentially more valuable as your religious infrastructure grows.</li>
+<li><a href="/religion/solar_revolution/">Solar Revolution:</a> While Unicornmancy increases the frequency of events, the <a href="/religion/solar_revolution/">Solar Revolution</a> bonus is one of the only multipliers that boosts the actual production of unicorn resources.</li>
+</ul>
+<h3 id="strategic-importance"><strong>Strategic Importance</strong></h3>
+<p>In the late game, <a href="/resource/ivory/">Ivory</a> often becomes a major bottleneck because its production does not benefit from standard paragon or building bonuses. By increasing the frequency of <strong>Ivory Meteors</strong>, Unicornmancy provides a necessary &ldquo;AFK&rdquo; source of ivory. This allows you to build the vast numbers of <a href="/buildings/ziggurat/">Ziggurats</a> required to refine <strong>Unicorn Tears</strong> and eventually trade with <a href="/civilisations/leviathans/">Leviathans</a> for the resources needed to reach the &ldquo;Infinity&rdquo; stage of the game.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Astromancy</title>
+      <link>/metaphysics/astromancy/</link>
+      <pubDate>Sat, 24 Jan 2026 20:55:44 +1100</pubDate>
+      <guid>/metaphysics/astromancy/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Kittens Game&lt;/em&gt;, &lt;a href=&#34;../metaphysics/astromancy/&#34;&gt;Astromancy&lt;/a&gt; is an early-to-midgame &lt;a href=&#34;../techs/metaphysics/&#34;&gt;Metaphysics&lt;/a&gt; upgrade that drastically accelerates astronomical events and early-game Starchart generation.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-cost-and-prerequisites&#34;&gt;&lt;strong&gt;1. Cost and Prerequisites&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; &lt;strong&gt;50 Paragon&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; &lt;a href=&#34;../metaphysics/chronomancy/&#34;&gt;Chronomancy&lt;/a&gt; (25 Paragon).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-core-effects&#34;&gt;&lt;strong&gt;2. Core Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Astromancy doubles both the frequency and the automated success rate of astronomical events:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Doubles Astronomical Event Chance:&lt;/strong&gt; Multiplies your base astronomical event chance and the event chance added by Observatories by &lt;strong&gt;2\times\)&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Doubles Observatory Effectiveness:&lt;/strong&gt; Multiplies the &lt;strong&gt;automatic event observation chance&lt;/strong&gt; provided by Observatories by &lt;strong&gt;2\times\)&lt;/strong&gt; (from +1% per Observatory up to +2% per Observatory).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;(Note: It affects event chances and auto-observation rates, but does &lt;strong&gt;not&lt;/strong&gt; double the science bonus or science cap of Observatories).&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;3-strategic-impact&#34;&gt;&lt;strong&gt;3. Strategic Impact&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reaching 100% Auto-Observation Faster:&lt;/strong&gt; Normally, each Observatory adds +1% chance to automatically observe an event without manual clicking, requiring 100 Observatories to guarantee success. With Astromancy, each Observatory gives +2%, cutting the requirement down to only &lt;strong&gt;50 Observatories&lt;/strong&gt; before you achieve 100% automated success (prior to unlocking SETI).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Breaking the Starchart Bottleneck:&lt;/strong&gt; In early space runs and resets, Starcharts are one of the most punishing bottlenecks needed to craft Trade Ships, unlock Geodesy, and fund early rocket launches. Pairing &lt;a href=&#34;../metaphysics/chronomancy/&#34;&gt;Chronomancy&lt;/a&gt; (+10% daily chance) with &lt;a href=&#34;../metaphysics/astromancy/&#34;&gt;Astromancy&lt;/a&gt; 2 times chance) more than doubles your incoming Starcharts early in a run.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;When to Buy:&lt;/strong&gt; Community guides typically recommend purchasing Astromancy around your &lt;strong&gt;3rd or 4th run&lt;/strong&gt; (often alongside or shortly after Golden Ratio and Divine Proportion), right as you are preparing to push through early space missions and build up large Trade Ship fleets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+      <content:encoded><![CDATA[<p>In <em>Kittens Game</em>, <a href="/metaphysics/astromancy/">Astromancy</a> is an early-to-midgame <a href="/techs/metaphysics/">Metaphysics</a> upgrade that drastically accelerates astronomical events and early-game Starchart generation.</p>
+<hr>
+<h3 id="1-cost-and-prerequisites"><strong>1. Cost and Prerequisites</strong></h3>
+<ul>
+<li><strong>Cost:</strong> <strong>50 Paragon</strong>.</li>
+<li><strong>Prerequisite:</strong> <a href="/metaphysics/chronomancy/">Chronomancy</a> (25 Paragon).</li>
+</ul>
+<hr>
+<h3 id="2-core-effects"><strong>2. Core Effects</strong></h3>
+<p>Astromancy doubles both the frequency and the automated success rate of astronomical events:</p>
+<ul>
+<li><strong>Doubles Astronomical Event Chance:</strong> Multiplies your base astronomical event chance and the event chance added by Observatories by <strong>2\times\)</strong>.</li>
+<li><strong>Doubles Observatory Effectiveness:</strong> Multiplies the <strong>automatic event observation chance</strong> provided by Observatories by <strong>2\times\)</strong> (from +1% per Observatory up to +2% per Observatory).</li>
+<li><em>(Note: It affects event chances and auto-observation rates, but does <strong>not</strong> double the science bonus or science cap of Observatories).</em></li>
+</ul>
+<hr>
+<h3 id="3-strategic-impact"><strong>3. Strategic Impact</strong></h3>
+<ul>
+<li><strong>Reaching 100% Auto-Observation Faster:</strong> Normally, each Observatory adds +1% chance to automatically observe an event without manual clicking, requiring 100 Observatories to guarantee success. With Astromancy, each Observatory gives +2%, cutting the requirement down to only <strong>50 Observatories</strong> before you achieve 100% automated success (prior to unlocking SETI).</li>
+<li><strong>Breaking the Starchart Bottleneck:</strong> In early space runs and resets, Starcharts are one of the most punishing bottlenecks needed to craft Trade Ships, unlock Geodesy, and fund early rocket launches. Pairing <a href="/metaphysics/chronomancy/">Chronomancy</a> (+10% daily chance) with <a href="/metaphysics/astromancy/">Astromancy</a> 2 times chance) more than doubles your incoming Starcharts early in a run.</li>
+<li><strong>When to Buy:</strong> Community guides typically recommend purchasing Astromancy around your <strong>3rd or 4th run</strong> (often alongside or shortly after Golden Ratio and Divine Proportion), right as you are preparing to push through early space missions and build up large Trade Ship fleets.</li>
+</ul>
+<hr>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Chronomancy</title>
+      <link>/metaphysics/chronomancy/</link>
+      <pubDate>Sat, 24 Jan 2026 20:55:44 +1100</pubDate>
+      <guid>/metaphysics/chronomancy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../metaphysics/chronomancy/&#34;&gt;Chronomancy&lt;/a&gt; is a mid-game &lt;strong&gt;Metaphysics upgrade&lt;/strong&gt; that serves as a vital bridge toward advanced temporal and astronomical technologies. It costs &lt;strong&gt;25 Paragon&lt;/strong&gt; to purchase and is primarily used to increase the frequency of celestial phenomena.&lt;/p&gt;
+&lt;h3 id=&#34;core-effects-and-unlocks&#34;&gt;&lt;strong&gt;Core Effects and Unlocks&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Event Multiplier:&lt;/strong&gt; It provides a &lt;strong&gt;1.1x multiplier&lt;/strong&gt; to the daily chance of both meteors and astronomical events. The sources explicitly note that this is a multiplicative bonus to the base chance, not a flat +10% addition.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technological Prerequisites:&lt;/strong&gt; Purchasing Chronomancy is required to unlock two essential high-tier Metaphysics:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../metaphysics/anachronomancy/&#34;&gt;Anachronomancy:&lt;/a&gt; Allows Time Crystals and Chronophysics to persist across game resets.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../metaphysics/astromancy/&#34;&gt;Astromancy:&lt;/a&gt; Further doubles the chance of star events and increases the effectiveness of Observatories.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-utility&#34;&gt;&lt;strong&gt;Strategic Utility&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The value of Chronomancy depends on your current stage of progression:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/metaphysics/chronomancy/">Chronomancy</a> is a mid-game <strong>Metaphysics upgrade</strong> that serves as a vital bridge toward advanced temporal and astronomical technologies. It costs <strong>25 Paragon</strong> to purchase and is primarily used to increase the frequency of celestial phenomena.</p>
+<h3 id="core-effects-and-unlocks"><strong>Core Effects and Unlocks</strong></h3>
+<ul>
+<li><strong>Event Multiplier:</strong> It provides a <strong>1.1x multiplier</strong> to the daily chance of both meteors and astronomical events. The sources explicitly note that this is a multiplicative bonus to the base chance, not a flat +10% addition.</li>
+<li><strong>Technological Prerequisites:</strong> Purchasing Chronomancy is required to unlock two essential high-tier Metaphysics:
+<ul>
+<li><a href="/metaphysics/anachronomancy/">Anachronomancy:</a> Allows Time Crystals and Chronophysics to persist across game resets.</li>
+<li><a href="/metaphysics/astromancy/">Astromancy:</a> Further doubles the chance of star events and increases the effectiveness of Observatories.</li>
+</ul>
+</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>The value of Chronomancy depends on your current stage of progression:</p>
+<ul>
+<li><strong>The Starchart Solution:</strong> In early runs where <strong>Starchart production</strong> is a bottleneck, the combination of Chronomancy and Astromancy is described as &ldquo;pure magic&rdquo;. It more than doubles event frequency, allowing you to build a larger fleet of <a href="/craft/trade_ship/">Trade Ships</a> for Titanium acquisition.</li>
+<li><strong>Late-Game Priority:</strong> In very advanced &ldquo;Endgame&rdquo; or &ldquo;Iron Will&rdquo; runs, some strategies suggest prioritising price-ratio reductions (like Renaissance) first, treating Chronomancy as a &ldquo;less vital&rdquo; upgrade to be picked up once your economic foundation is stable.</li>
+</ul>
+<h3 id="advanced-synergies"><strong>Advanced Synergies</strong></h3>
+<p>The effectiveness of the Chronomancy bonus can be further amplified through late-game structures and upgrades:</p>
+<ul>
+<li><a href="/time/temporal-accelerator/">Temporal Accelerators:</a> These items in the Time tab improve Chronomancy’s time-related effects by <strong>1.25%</strong>.</li>
+<li><a href="/transcendence/blazar/">Blazars:</a> As a Cryptotheology building, each Blazar improves Chronomancy effectiveness by <strong>2.5%</strong>.</li>
+<li><strong>Observatory Integration:</strong> Within the Bonfire tab, Chronomancy is listed as an upgrade for the <a href="/buildings/observatory/">Observatory</a>, specifically increasing the Astronomical Event Chance by the 1.1x multiplier.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Diplomacy</title>
+      <link>/metaphysics/diplomacy/</link>
+      <pubDate>Sat, 24 Jan 2026 20:55:31 +1100</pubDate>
+      <guid>/metaphysics/diplomacy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../metaphysics/diplomacy/&#34;&gt;Diplomacy&lt;/a&gt; is a low-cost entry-level Metaphysics upgrade that significantly accelerates your early-game trade and exploration by allowing you to discover other civilisations much sooner. It is widely considered one of the &lt;strong&gt;essential first purchases&lt;/strong&gt; when you begin spending Paragon.&lt;/p&gt;
+&lt;h3 id=&#34;core-effects-and-costs&#34;&gt;&lt;strong&gt;Core Effects and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The basic Diplomacy upgrade costs &lt;strong&gt;5 Paragon&lt;/strong&gt; and provides the following immediate benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Earlier Discovery:&lt;/strong&gt; Civilisations can be discovered starting at &lt;strong&gt;Year 1&lt;/strong&gt; instead of the default Year 5.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improved Relations:&lt;/strong&gt; Your starting standing ratio with discovered races is increased by 10, meaning they are less likely to be hostile.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hostility Mitigation:&lt;/strong&gt; It reduces the number of &lt;a href=&#34;../buildings/tradepost/&#34;&gt;Tradeposts&lt;/a&gt; required to negate Zebra hostility from 85 down to &lt;strong&gt;58&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-diplomacy-metaphysics-tree&#34;&gt;&lt;strong&gt;The Diplomacy Metaphysics Tree&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Buying Diplomacy opens a progression path primarily focused on the specialised &lt;a href=&#34;../challenges/ironwill/&#34;&gt;Iron Will&lt;/a&gt; mode and advanced navigation:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/metaphysics/diplomacy/">Diplomacy</a> is a low-cost entry-level Metaphysics upgrade that significantly accelerates your early-game trade and exploration by allowing you to discover other civilisations much sooner. It is widely considered one of the <strong>essential first purchases</strong> when you begin spending Paragon.</p>
+<h3 id="core-effects-and-costs"><strong>Core Effects and Costs</strong></h3>
+<p>The basic Diplomacy upgrade costs <strong>5 Paragon</strong> and provides the following immediate benefits:</p>
+<ul>
+<li><strong>Earlier Discovery:</strong> Civilisations can be discovered starting at <strong>Year 1</strong> instead of the default Year 5.</li>
+<li><strong>Improved Relations:</strong> Your starting standing ratio with discovered races is increased by 10, meaning they are less likely to be hostile.</li>
+<li><strong>Hostility Mitigation:</strong> It reduces the number of <a href="/buildings/tradepost/">Tradeposts</a> required to negate Zebra hostility from 85 down to <strong>58</strong>.</li>
+</ul>
+<h3 id="the-diplomacy-metaphysics-tree"><strong>The Diplomacy Metaphysics Tree</strong></h3>
+<p>Buying Diplomacy opens a progression path primarily focused on the specialised <a href="/challenges/ironwill/">Iron Will</a> mode and advanced navigation:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Upgrade</th>
+					<th style="text-align: left">Cost (Paragon)</th>
+					<th style="text-align: left">Key Effect</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><a href="/metaphysics/diplomacy/">Diplomacy</a></td>
+					<td style="text-align: left">5</td>
+					<td style="text-align: left">Discover races at Year 1; +10 standing ratio.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Zebra Diplomacy</strong></td>
+					<td style="text-align: left">35</td>
+					<td style="text-align: left">10% of your Zebra cap stays when ending <a href="/challenges/ironwill/">Iron Will</a> mode.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Zebra Covenant</strong></td>
+					<td style="text-align: left">75</td>
+					<td style="text-align: left">50% of your Zebra cap stays when ending <a href="/challenges/ironwill/">Iron Will</a> mode.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Navigation Diplomacy</strong></td>
+					<td style="text-align: left">300</td>
+					<td style="text-align: left">Allows civilisation discovery as soon as you have <a href="/craft/trade_ship/">Trade Ships</a>.</td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="strategic-advice"><strong>Strategic Advice</strong></h3>
+<ul>
+<li><strong>Priority Purchase:</strong> Strategic guides recommend purchasing Diplomacy on your <strong>second run</strong>, alongside price-reduction upgrades like Golden Ratio.</li>
+<li><strong>The &ldquo;Zebra Trap&rdquo;:</strong> While Diplomacy itself is vital, the subsequent upgrades (<strong>Zebra Diplomacy</strong> and <strong>Zebra Covenant</strong>) are often described as <strong>traps for newer players</strong>. Keeping a small number of Zebras when transitioning out of Iron Will mode provides very little benefit for the high Paragon cost.</li>
+<li><strong>Starchart Synergy:</strong> By discovering races earlier and mitigating hostility faster, you can build a <strong>larger fleet of Trade Ships</strong> more efficiently, which helps overcome the mid-game Titanium bottleneck.</li>
+</ul>
+<p>If you are currently on your first or second run, focusing on <a href="/metaphysics/diplomacy/">Diplomacy</a> and the <strong>price ratio reduction</strong> upgrades (Enlightenment, Golden Ratio) will provide the most significant boost to your village&rsquo;s growth.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Enlightenment</title>
+      <link>/metaphysics/enlightenment/</link>
+      <pubDate>Sat, 24 Jan 2026 20:55:17 +1100</pubDate>
+      <guid>/metaphysics/enlightenment/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../metaphysics/enlightenment/&#34;&gt;Enlightenment&lt;/a&gt; is an entry-level Metaphysics upgrade that provides a permanent global reduction in building costs on the &lt;strong&gt;Bonfire tab&lt;/strong&gt;., It is considered a foundational purchase because it slows the rate at which building prices increase, allowing you to build more structures before hitting resource caps.&lt;/p&gt;
+&lt;h3 id=&#34;costs-and-unlocks&#34;&gt;&lt;strong&gt;Costs and Unlocks&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 5 Paragon.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlocks:&lt;/strong&gt; Purchasing Enlightenment is a prerequisite for several critical branches of the Metaphysics tree:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Price Reduction:&lt;/strong&gt; Unlocks &lt;a href=&#34;../metaphysics/golden_ratio/&#34;&gt;Golden Ratio&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Religious/Unicorn Mechanics:&lt;/strong&gt; Unlocks &lt;a href=&#34;../metaphysics/megalomania/&#34;&gt;Megalomania&lt;/a&gt;.,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Crafting:&lt;/strong&gt; Unlocks &lt;strong&gt;Codex Vox&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects&#34;&gt;&lt;strong&gt;Core Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio Reduction:&lt;/strong&gt; It reduces all building price ratios by &lt;strong&gt;1%&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Persistent Bonus:&lt;/strong&gt; Like all Metaphysics upgrades, Enlightenment is permanent and &lt;strong&gt;carries over through game resets&lt;/strong&gt;, though the &amp;ldquo;Metaphysics&amp;rdquo; technology itself must be re-researched in each new run to access the menu.,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-timing&#34;&gt;&lt;strong&gt;Strategic Timing&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Strategic guides emphasize that Enlightenment is one of the &lt;strong&gt;essential first purchases&lt;/strong&gt; when you begin spending your Paragon:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/metaphysics/enlightenment/">Enlightenment</a> is an entry-level Metaphysics upgrade that provides a permanent global reduction in building costs on the <strong>Bonfire tab</strong>., It is considered a foundational purchase because it slows the rate at which building prices increase, allowing you to build more structures before hitting resource caps.</p>
+<h3 id="costs-and-unlocks"><strong>Costs and Unlocks</strong></h3>
+<ul>
+<li><strong>Cost:</strong> 5 Paragon.</li>
+<li><strong>Unlocks:</strong> Purchasing Enlightenment is a prerequisite for several critical branches of the Metaphysics tree:
+<ul>
+<li><strong>Price Reduction:</strong> Unlocks <a href="/metaphysics/golden_ratio/">Golden Ratio</a>.</li>
+<li><strong>Religious/Unicorn Mechanics:</strong> Unlocks <a href="/metaphysics/megalomania/">Megalomania</a>.,</li>
+<li><strong>Crafting:</strong> Unlocks <strong>Codex Vox</strong>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="core-effects"><strong>Core Effects</strong></h3>
+<ul>
+<li><strong>Price Ratio Reduction:</strong> It reduces all building price ratios by <strong>1%</strong>.</li>
+<li><strong>Persistent Bonus:</strong> Like all Metaphysics upgrades, Enlightenment is permanent and <strong>carries over through game resets</strong>, though the &ldquo;Metaphysics&rdquo; technology itself must be re-researched in each new run to access the menu.,</li>
+</ul>
+<h3 id="strategic-timing"><strong>Strategic Timing</strong></h3>
+<p>Strategic guides emphasize that Enlightenment is one of the <strong>essential first purchases</strong> when you begin spending your Paragon:</p>
+<ul>
+<li><strong>Second Run Priority:</strong> It is highly recommended to buy Enlightenment on your <strong>second run</strong>, typically alongside <a href="/metaphysics/diplomacy/">Diplomacy</a>.,</li>
+<li><strong>Early-Game Milestone:</strong> You should aim to have enough kittens (130+) on your first reset to gain roughly 60 Paragon, which is more than enough to afford Enlightenment and its immediate follow-ups.</li>
+<li><strong>Foundational Step:</strong> It serves as the starting point for the &ldquo;price reduction meta,&rdquo; eventually leading to powerful late-game upgrades like <a href="/metaphysics/renaissance/">Renaissance</a>.,</li>
+</ul>
+<p><strong>Note:</strong> In older versions of the game, this upgrade was named <a href="/techs/engineering/">Engineering</a>.</p>
+<p>Would you like to know more about the next upgrade in this chain, <a href="/metaphysics/golden_ratio/">Golden Ratio</a>, or the unicorn mechanics unlocked via <a href="/metaphysics/megalomania/">Megalomania</a>?</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

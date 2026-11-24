@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/challenges/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Wed, 24 Dec 2025 12:41:34 +1100</lastBuildDate>
+    <atom:link href="/challenges/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IronWill</title>
+      <link>/challenges/ironwill/</link>
+      <pubDate>Wed, 21 Jan 2026 08:23:13 +1100</pubDate>
+      <guid>/challenges/ironwill/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Iron Will (IW)&lt;/strong&gt; is a specialised gameplay mode in &lt;em&gt;Kittens Game&lt;/em&gt; where the colony operates without any kitten housing or population. Entering this mode requires resetting the game with &lt;strong&gt;zero Chronospheres&lt;/strong&gt; and avoiding the construction of Huts, Log Houses, or Mansions; building any housing immediately exits the mode.&lt;/p&gt;
+&lt;h3 id=&#34;the-zebra-accumulation-loop&#34;&gt;&lt;strong&gt;The Zebra Accumulation Loop&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The primary engine of an Iron Will run is the &lt;strong&gt;Zebra&lt;/strong&gt;, which replaces kittens as hunters and provides &lt;a href=&#34;../resource/cat_power/&#34;&gt;Catpower&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><strong>Iron Will (IW)</strong> is a specialised gameplay mode in <em>Kittens Game</em> where the colony operates without any kitten housing or population. Entering this mode requires resetting the game with <strong>zero Chronospheres</strong> and avoiding the construction of Huts, Log Houses, or Mansions; building any housing immediately exits the mode.</p>
+<h3 id="the-zebra-accumulation-loop"><strong>The Zebra Accumulation Loop</strong></h3>
+<p>The primary engine of an Iron Will run is the <strong>Zebra</strong>, which replaces kittens as hunters and provides <a href="/resource/cat_power/">Catpower</a>.</p>
+<ul>
+<li><strong>Initial Discovery:</strong> Zebras begin to appear only after researching <a href="/techs/archery/">Archery</a>.</li>
+<li><strong>Zebra Farming Strategy:</strong> To build a viable foundation, players should research Archery and then <strong>immediately reset</strong>. Each reset performed after reaching Archery in IW increases the maximum Zebra limit for the next run by one.</li>
+<li><strong>The 50–60 Zebra Target:</strong> Strategic guides recommend repeating this &ldquo;Archery reset&rdquo; loop 6 to 10 times to accumulate <strong>50–60 Zebras</strong>. This provides a permanent, efficient Catpower source that bypasses the need for food management, significantly accelerating mid-game economic stability.</li>
+</ul>
+<h3 id="early-infrastructure-and-science"><strong>Early Infrastructure and Science</strong></h3>
+<p>Without kittens to assign as Scholars or Farmers, resource acquisition and research are fundamentally altered:</p>
+<ul>
+<li><strong>Science Generation:</strong> Initial science is gained exclusively through <strong>astronomical events</strong>, which are unlocked by building <strong>Libraries</strong>. Since manual observation is required early on, the automatic success chance is set to a flat <strong>25%</strong> in IW mode.</li>
+<li><strong>Mineral Acquisition:</strong> Minerals are obtained via <strong>meteors</strong>, with the yield increasing for every <a href="/buildings/mine/">Mine</a> built.</li>
+<li><strong>Scientific Prioritisation:</strong> Research <a href="/techs/mathematics/">Mathematics</a> early to unlock <a href="/upgrade/celestial_mechanics/">Celestial Mechanics</a>, which provides a <strong>60% boost</strong> to science gained from events and meteors in IW. Avoid job-specific upgrades like Mineral Hoes or Iron Axes, as they have no effect without workers.</li>
+</ul>
+<h3 id="mid-game-progression-and-bottlenecks"><strong>Mid-Game Progression and Bottlenecks</strong></h3>
+<p>The transition to space and high-tier industry is gated by specific IW constraints:</p>
+<ul>
+<li><strong>The Culture Cap:</strong> To progress, you must discover the <a href="/civilisations/nagas/">Nagas</a> to trade for minerals. This requires a <strong>1,500 culture cap</strong>, which is achieved by building Amphitheatres, Academies, and crafting Manuscripts.</li>
+<li><strong>Gold and Ivory:</strong> Gold is obtained solely through <strong>hunting</strong> until Geodesy is researched. Ivory is also sourced from hunting and is essential for building the &ldquo;Unicorn Tree&rdquo;.</li>
+<li><strong>Trade Arbitrage:</strong> Use the <strong>Shark and Griffin loop</strong> to bypass early production limits. Trade iron to Sharks for Catnip, refine it into Wood, and trade Wood to Griffins for more Iron.</li>
+<li><strong>Policy Selection:</strong> In IW, <a href="/policy/clear_cutting/">Clear Cutting</a> (+10% catnip refinement) and <a href="/policy/strip_mining/">Strip Mining</a> (+10% meteor minerals) provide specialised benefits.</li>
+</ul>
+<h3 id="prestige-and-endgame-iw-goals"><strong>Prestige and Endgame IW Goals</strong></h3>
+<p>Significant milestones like the <strong>&ldquo;Space Oddity&rdquo;</strong> (reaching space in IW) or the <strong>&ldquo;Cathammer 40k&rdquo;</strong> (staying in IW for 40,000 years) require substantial preparation:</p>
+<ul>
+<li><strong>Paragon and Metaphysics:</strong> It is highly recommended to have <strong>400+ burnt paragon</strong> and all <strong>Metaphysics price reduction upgrades</strong> (Golden Ratio, etc.) before a serious long-term IW run. Burnt paragon is particularly valuable as it provides a production and storage boost that works within IW.</li>
+<li><strong>Oil Cap Management:</strong> Reaching the high oil storage required for space missions is a major hurdle. Strategies suggest <strong>grinding steel for Oil Wells</strong> rather than relying on expensive Tankers.</li>
+<li><strong>Religious Utility:</strong> Pursuing <strong>Unicorn Religion</strong> is beneficial as <strong>Ivory Meteors</strong> (unlocked via Ivory Citadels) provide an automated source of ivory, reducing the reliance on active hunting for trades. Reaching <strong>Transcendence Tier 15</strong> for <a href="/transcendence/blazar/">Blazars</a> is a common endgame goal to stabilise Time Crystal production.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Atheism Challenge</title>
+      <link>/challenges/atheism_challenge/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/challenges/atheism_challenge/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../challenges/atheism_challenge/&#34;&gt;Atheism Challenge&lt;/a&gt; is a significant milestone within the &amp;ldquo;Special Modes&amp;rdquo; of &lt;em&gt;Kittens Game&lt;/em&gt;, designed to bridge the gap between standard play and the advanced &lt;strong&gt;Relic Era&lt;/strong&gt;. It is unlocked through the &lt;a href=&#34;../metaphysics/adjustment_bureau/&#34;&gt;Adjustment Bureau&lt;/a&gt; metaphysics upgrade.&lt;/p&gt;
+&lt;h3 id=&#34;the-atheism-challenge-overview&#34;&gt;&lt;strong&gt;The Atheism Challenge Overview&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The primary restriction of this mode is the complete removal of the &lt;strong&gt;Order of the Sun&lt;/strong&gt;, which means players receive &lt;strong&gt;no faith-based production bonus&lt;/strong&gt; (Solar Revolution) throughout the run.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Goal:&lt;/strong&gt; Successfully reset the game while owning at least one &lt;a href=&#34;../time/cryochamber/&#34;&gt;Cryochamber&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Infrastructure Requirements:&lt;/strong&gt; To reach the goal, you must research &lt;a href=&#34;../techs/chronophysics/&#34;&gt;Chronophysics&lt;/a&gt;, &lt;a href=&#34;../techs/tachyon_theory/&#34;&gt;Tachyon Theory&lt;/a&gt;, and &lt;a href=&#34;../techs/void_space/&#34;&gt;Void Space&lt;/a&gt;. A single cryochamber costs 100 Void, 2 Time Crystals, and 1 Karma.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Preparation:&lt;/strong&gt; It is highly recommended to enter the challenge with a minimum of &lt;strong&gt;63 Time Crystals and 1 Relic&lt;/strong&gt; to ensure you can afford the necessary late-game research and structures without the help of a faith bonus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;atheism-in-the-context-of-special-modes&#34;&gt;&lt;strong&gt;Atheism in the Context of Special Modes&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Challenges in &lt;em&gt;Kittens Game&lt;/em&gt; are &amp;ldquo;Special Modes&amp;rdquo; that impose specific constraints in exchange for permanent, stacking rewards.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/challenges/atheism_challenge/">Atheism Challenge</a> is a significant milestone within the &ldquo;Special Modes&rdquo; of <em>Kittens Game</em>, designed to bridge the gap between standard play and the advanced <strong>Relic Era</strong>. It is unlocked through the <a href="/metaphysics/adjustment_bureau/">Adjustment Bureau</a> metaphysics upgrade.</p>
+<h3 id="the-atheism-challenge-overview"><strong>The Atheism Challenge Overview</strong></h3>
+<p>The primary restriction of this mode is the complete removal of the <strong>Order of the Sun</strong>, which means players receive <strong>no faith-based production bonus</strong> (Solar Revolution) throughout the run.</p>
+<ul>
+<li><strong>Goal:</strong> Successfully reset the game while owning at least one <a href="/time/cryochamber/">Cryochamber</a>.</li>
+<li><strong>Infrastructure Requirements:</strong> To reach the goal, you must research <a href="/techs/chronophysics/">Chronophysics</a>, <a href="/techs/tachyon_theory/">Tachyon Theory</a>, and <a href="/techs/void_space/">Void Space</a>. A single cryochamber costs 100 Void, 2 Time Crystals, and 1 Karma.</li>
+<li><strong>Preparation:</strong> It is highly recommended to enter the challenge with a minimum of <strong>63 Time Crystals and 1 Relic</strong> to ensure you can afford the necessary late-game research and structures without the help of a faith bonus.</li>
+</ul>
+<h3 id="atheism-in-the-context-of-special-modes"><strong>Atheism in the Context of Special Modes</strong></h3>
+<p>Challenges in <em>Kittens Game</em> are &ldquo;Special Modes&rdquo; that impose specific constraints in exchange for permanent, stacking rewards.</p>
+<ul>
+<li><strong>Negative Synergies:</strong> Combining Atheism with other challenges often creates severe bottlenecks. For example, running <strong>Atheism and Unicorn Tears</strong> simultaneously makes generating unicorn resources nearly impossible, as the faith bonus is one of the few multipliers affecting them.</li>
+<li><strong>Resource Management:</strong> In most challenges, including Atheism, <a href="/buildings/chronosphere/">Chronospheres</a> do not bring resources into the run. Instead, those resources are placed in <strong>reserves</strong> and can only be reclaimed after the challenge is completed.</li>
+<li><strong>Iron Will Interaction:</strong> While <a href="/challenges/ironwill/">Iron Will</a> (the kittenless mode) is technically a &ldquo;Special Mode,&rdquo; it does not require the Adjustment Bureau to unlock. Attempting Atheism within an Iron Will run is exceptionally difficult due to the lack of worker-based production and faith multipliers.</li>
+</ul>
+<h3 id="strategic-rewards"><strong>Strategic Rewards</strong></h3>
+<p>The rewards for completing Atheism focus on removing the standard caps on faith-based production, making it essential for late-game optimisation:</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Reward Type</th>
+					<th style="text-align: left">Effect</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Base Reward</strong></td>
+					<td style="text-align: left">The <strong>Solar Revolution cap</strong> increases by <strong>100 percentage points per Transcendence tier</strong>. This is equivalent to owning 20 Black Obelisks.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Increasing Reward</strong></td>
+					<td style="text-align: left">Each subsequent completion increases <strong>Solar Revolution effectiveness by 10%</strong> (capped at 400%). This effect is multiplicative with <a href="/transcendence/black_obelisk/">Black Obelisks</a>.</td>
+			</tr>
+	</tbody>
+</table>
+<p>Completion of the challenge also allows for the construction of more <a href="/time/cryochamber/">cryochambers</a> in future runs, provided you have the support of enough Chronospheres. This is vital for carrying over a larger population of skilled kittens into new timelines.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

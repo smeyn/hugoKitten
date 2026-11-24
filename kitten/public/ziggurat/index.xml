@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kittens Overview</title>
+    <link>/ziggurat/</link>
+    <description>Recent content on Kittens Overview</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>stephan meyn 2026</copyright>
+    <lastBuildDate>Sat, 29 Nov 2025 20:44:33 +1100</lastBuildDate>
+    <atom:link href="/ziggurat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Liquid Sorrow</title>
+      <link>/ziggurat/black-liquid-sorrow/</link>
+      <pubDate>Wed, 15 Apr 2026 21:07:52 +0000</pubDate>
+      <guid>/ziggurat/black-liquid-sorrow/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../ziggurat/black-liquid-sorrow/&#34;&gt;Black Liquid Sorrow&lt;/a&gt; (frequently referred to as &lt;strong&gt;BLS&lt;/strong&gt; or simply &lt;strong&gt;Sorrow&lt;/strong&gt;) is a rare, uncommon resource used heavily in the late game to interact with the Leviathans and permanently boost your civilization&amp;rsquo;s production.&lt;/p&gt;
+&lt;p&gt;Here is a breakdown of how to acquire and manage this resource:&lt;/p&gt;
+&lt;h3 id=&#34;how-to-acquire-sorrow&#34;&gt;&lt;strong&gt;How to Acquire Sorrow&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Refining Tears:&lt;/strong&gt; The most consistent way to get BLS is by refining &lt;strong&gt;Unicorn Tears&lt;/strong&gt; at a rate of &lt;strong&gt;10,000 Tears to 1 Sorrow&lt;/strong&gt;. To unlock this ability, you must first purchase the &lt;a href=&#34;../metaphysics/megalomania/&#34;&gt;Megalomania&lt;/a&gt; metaphysics upgrade.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../guides/trading/&#34;&gt;Trading:&lt;/a&gt; Once the Leviathans arrive, every trade you make with them (costing 5,000 Unobtainium) has a &lt;strong&gt;15% chance&lt;/strong&gt; to yield 1 Black Liquid Sorrow.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Events:&lt;/strong&gt; You can occasionally acquire it through a random weather event called &amp;ldquo;Black Rain&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-uses&#34;&gt;&lt;strong&gt;Primary Uses&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../ziggurat/black_pyramid/&#34;&gt;Black Pyramids:&lt;/a&gt; The most important use for your first few Sorrows is building &lt;a href=&#34;../ziggurat/black_pyramid/&#34;&gt;Black Pyramids&lt;/a&gt;, which cost &lt;strong&gt;5 Sorrow&lt;/strong&gt; each (alongside Megaliths, Spice, and Unobtainium). You must construct at least one Black Pyramid to make the Leviathans appear for trading.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Necrocracy Policy:&lt;/strong&gt; After you make your first trade with the Leviathans, you can unlock a powerful late-game government policy called &lt;a href=&#34;../policy/necrocracy/&#34;&gt;Necrocracy&lt;/a&gt;. This policy grants a &lt;strong&gt;global production bonus of 0.1% for every percent of Black Liquid Sorrow&lt;/strong&gt; you possess.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;storage-limits&#34;&gt;&lt;strong&gt;Storage Limits&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Cap:&lt;/strong&gt; Your civilization starts with a very strict &lt;strong&gt;maximum storage limit of 16 BLS&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Expanding Storage:&lt;/strong&gt; You can eventually increase this cap by purchasing &lt;a href=&#34;../transcendence/black_core/&#34;&gt;Black Cores&lt;/a&gt;, an advanced Cryptotheology upgrade (unlocked at Transcendence Tier 5) that increases your sorrow limit by 1% per level.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Refining Warning:&lt;/strong&gt; If you attempt to refine Unicorn Tears into Sorrow while you are already at your maximum storage capacity, the game will prevent it; nothing will happen, but thankfully your Tears will not be consumed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;resetting-the-game&#34;&gt;&lt;strong&gt;Resetting the Game&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;One of the most important aspects of Black Liquid Sorrow is that it is a permanent resource. Your entire stockpile of BLS will &lt;strong&gt;automatically carry over in full whenever you reset your game&lt;/strong&gt;. Because it survives resets, it is highly recommended to refine any leftover Unicorn Tears you have into Sorrow right before you hit the reset button to ensure you don&amp;rsquo;t lose that value.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/ziggurat/black-liquid-sorrow/">Black Liquid Sorrow</a> (frequently referred to as <strong>BLS</strong> or simply <strong>Sorrow</strong>) is a rare, uncommon resource used heavily in the late game to interact with the Leviathans and permanently boost your civilization&rsquo;s production.</p>
+<p>Here is a breakdown of how to acquire and manage this resource:</p>
+<h3 id="how-to-acquire-sorrow"><strong>How to Acquire Sorrow</strong></h3>
+<ul>
+<li><strong>Refining Tears:</strong> The most consistent way to get BLS is by refining <strong>Unicorn Tears</strong> at a rate of <strong>10,000 Tears to 1 Sorrow</strong>. To unlock this ability, you must first purchase the <a href="/metaphysics/megalomania/">Megalomania</a> metaphysics upgrade.</li>
+<li><a href="/guides/trading/">Trading:</a> Once the Leviathans arrive, every trade you make with them (costing 5,000 Unobtainium) has a <strong>15% chance</strong> to yield 1 Black Liquid Sorrow.</li>
+<li><strong>Events:</strong> You can occasionally acquire it through a random weather event called &ldquo;Black Rain&rdquo;.</li>
+</ul>
+<h3 id="primary-uses"><strong>Primary Uses</strong></h3>
+<ul>
+<li><a href="/ziggurat/black_pyramid/">Black Pyramids:</a> The most important use for your first few Sorrows is building <a href="/ziggurat/black_pyramid/">Black Pyramids</a>, which cost <strong>5 Sorrow</strong> each (alongside Megaliths, Spice, and Unobtainium). You must construct at least one Black Pyramid to make the Leviathans appear for trading.</li>
+<li><strong>The Necrocracy Policy:</strong> After you make your first trade with the Leviathans, you can unlock a powerful late-game government policy called <a href="/policy/necrocracy/">Necrocracy</a>. This policy grants a <strong>global production bonus of 0.1% for every percent of Black Liquid Sorrow</strong> you possess.</li>
+</ul>
+<h3 id="storage-limits"><strong>Storage Limits</strong></h3>
+<ul>
+<li><strong>Base Cap:</strong> Your civilization starts with a very strict <strong>maximum storage limit of 16 BLS</strong>.</li>
+<li><strong>Expanding Storage:</strong> You can eventually increase this cap by purchasing <a href="/transcendence/black_core/">Black Cores</a>, an advanced Cryptotheology upgrade (unlocked at Transcendence Tier 5) that increases your sorrow limit by 1% per level.</li>
+<li><strong>Refining Warning:</strong> If you attempt to refine Unicorn Tears into Sorrow while you are already at your maximum storage capacity, the game will prevent it; nothing will happen, but thankfully your Tears will not be consumed.</li>
+</ul>
+<h3 id="resetting-the-game"><strong>Resetting the Game</strong></h3>
+<p>One of the most important aspects of Black Liquid Sorrow is that it is a permanent resource. Your entire stockpile of BLS will <strong>automatically carry over in full whenever you reset your game</strong>. Because it survives resets, it is highly recommended to refine any leftover Unicorn Tears you have into Sorrow right before you hit the reset button to ensure you don&rsquo;t lose that value.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Black Pyramid</title>
+      <link>/ziggurat/black_pyramid/</link>
+      <pubDate>Wed, 24 Dec 2025 09:47:20 +1100</pubDate>
+      <guid>/ziggurat/black_pyramid/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../ziggurat/black_pyramid/&#34;&gt;Black Pyramid&lt;/a&gt; is a significant religious megastructure in the late-game Unicorn/Time Crystal progression path, serving as a gateway to interacting with the powerful Leviathan race.&lt;/p&gt;
+&lt;h3 id=&#34;1-requirements-and-acquisition&#34;&gt;1. Requirements and Acquisition&lt;/h3&gt;
+&lt;p&gt;The Black Pyramid is a high-cost structure unlocked via the &lt;a href=&#34;../metaphysics/megalomania/&#34;&gt;Megalomania&lt;/a&gt; metaphysics upgrade.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; Building one Black Pyramid requires &lt;strong&gt;5 Sorrow&lt;/strong&gt; (also known as Black Liquid Sorrow or BLS), &lt;strong&gt;2500 Megalith&lt;/strong&gt;, &lt;strong&gt;150,000 Spice&lt;/strong&gt;, and &lt;strong&gt;5000 Unobtainium&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unlock Path:&lt;/strong&gt; To obtain the necessary resource, the player must first build a &lt;a href=&#34;../buildings/ziggurat/&#34;&gt;Ziggurat&lt;/a&gt;, sacrifice 2500 Unicorns for Unicorn Tears, and then refine 10,000 Tears into 1 Sorrow. After collecting 5 Sorrow, the Black Pyramid can be constructed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-effects-and-strategic-importance&#34;&gt;2. Effects and Strategic Importance&lt;/h3&gt;
+&lt;p&gt;The construction of the Black Pyramid dramatically shifts the endgame progression by introducing the Leviathans and enhancing subsequent late-game resource mechanisms.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/ziggurat/black_pyramid/">Black Pyramid</a> is a significant religious megastructure in the late-game Unicorn/Time Crystal progression path, serving as a gateway to interacting with the powerful Leviathan race.</p>
+<h3 id="1-requirements-and-acquisition">1. Requirements and Acquisition</h3>
+<p>The Black Pyramid is a high-cost structure unlocked via the <a href="/metaphysics/megalomania/">Megalomania</a> metaphysics upgrade.</p>
+<ul>
+<li><strong>Cost:</strong> Building one Black Pyramid requires <strong>5 Sorrow</strong> (also known as Black Liquid Sorrow or BLS), <strong>2500 Megalith</strong>, <strong>150,000 Spice</strong>, and <strong>5000 Unobtainium</strong>.</li>
+<li><strong>Unlock Path:</strong> To obtain the necessary resource, the player must first build a <a href="/buildings/ziggurat/">Ziggurat</a>, sacrifice 2500 Unicorns for Unicorn Tears, and then refine 10,000 Tears into 1 Sorrow. After collecting 5 Sorrow, the Black Pyramid can be constructed.</li>
+</ul>
+<h3 id="2-effects-and-strategic-importance">2. Effects and Strategic Importance</h3>
+<p>The construction of the Black Pyramid dramatically shifts the endgame progression by introducing the Leviathans and enhancing subsequent late-game resource mechanisms.</p>
+<ul>
+<li><strong>Leviathan Trading:</strong> The primary effect of building a Black Pyramid is that it <strong>unlocks trade with the Leviathans</strong>. Leviathans are crucial because they allow the player to trade <strong>5000 Unobtainium</strong> for scarce resources like <a href="/resource/time_crystals/">Time Crystals</a> (with a 98% chance), <a href="/resource/relic/">Relics</a> (with a 5% chance), and <a href="/ziggurat/black-liquid-sorrow/">Black Liquid Sorrow</a> (with a 15% chance).</li>
+<li><strong>Leviathan Appearance:</strong> More Black Pyramids mean the Leviathans show up more often.</li>
+<li><strong>Black Nexus and Relic Production:</strong> The Black Pyramid provides a multiplicative bonus to relic generation mechanisms.
+<ul>
+<li>The <a href="/transcendence/black_nexus/">Black Nexus</a> upgrade, unlocked at Transcendence Tier 3, produces relics based on the formula: $1 + ({Black Nexus}* Black Pyramid)$ relics.</li>
+<li>Similarly, <a href="/space/space-beacon/">Space Beacons</a> upgraded with <a href="/upgrade/relic_station/">Relic Station</a> produce relics, and this rate is boosted by $+10%$ relic production per Black Pyramid per Black Nexus.</li>
+<li>The <strong>Pact of Cleansing</strong> and <strong>Pact of Destruction</strong> benefits, which respectively increase global resource limits and global production, scale with the number of Black Pyramids.</li>
+</ul>
+</li>
+<li><strong>Challenge Reward:</strong> Completing the <strong>Black Sky Challenge</strong> provides the <strong>Base Reward</strong> of having Elders arrive early, which acts as a free, invisible Black Pyramid. This invisible structure functions just like a real Black Pyramid, improving the effects of the Black Nexus and other related structures.</li>
+</ul>
+<p>The Black Pyramid is described as &ldquo;A dark relic of unspeakable horrors&rdquo;. Its acquisition is a key turning point, marking the start of the <strong>Unicorn/Time crystal Era</strong> and providing access to Time Crystals, which are essential for unlocking Chronospheres and performing prestige resets.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Unicorn_Utopia</title>
+      <link>/ziggurat/unicorn_utopia/</link>
+      <pubDate>Wed, 24 Dec 2025 09:47:20 +1100</pubDate>
+      <guid>/ziggurat/unicorn_utopia/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../ziggurat/unicorn_utopia/&#34;&gt;Unicorn Utopia&lt;/a&gt; is a late-game religious upgrade in &lt;em&gt;Kittens Game&lt;/em&gt; that dramatically increases the rate of Unicorn production.&lt;/p&gt;
+&lt;h3 id=&#34;building-and-effects&#34;&gt;Building and Effects&lt;/h3&gt;
+&lt;p&gt;The Unicorn Utopia is an upgrade for the &lt;a href=&#34;../buildings/unicorn_pasture/&#34;&gt;Unicorn Pasture&lt;/a&gt; structure. It is part of the extensive unicorn religious path that culminates in the acquisition of Time Crystals.&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Detail&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Specification&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Citation&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Prerequisite&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Must complete at least one &lt;a href=&#34;../ziggurat/sky_palace/&#34;&gt;Sky Palace&lt;/a&gt; building.&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Cost&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Requires &lt;strong&gt;5,000 Tears&lt;/strong&gt;, &lt;strong&gt;1 Million Ivory&lt;/strong&gt;, and &lt;strong&gt;500 Gold&lt;/strong&gt;.&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Effect&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Improves unicorn generation by &lt;strong&gt;+250%&lt;/strong&gt;.&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Additional Effects&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Increases &lt;strong&gt;alicorn summon chance&lt;/strong&gt; by $+0.015%$ per game-day.&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Production&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Produces &lt;strong&gt;$0.000025$ alicorns&lt;/strong&gt; per tick ($0.1$ per year).&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Time Crystal Bonus&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Improves the &lt;strong&gt;Time Crystal refine ratio&lt;/strong&gt; by $+5%$ (this bonus applies when turning alicorns into Time Crystals).&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The Sunspire is the next upgrade in this line, further boosting unicorn generation by $500%$ and increasing the Time Crystal refine ratio by 10%.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="/ziggurat/unicorn_utopia/">Unicorn Utopia</a> is a late-game religious upgrade in <em>Kittens Game</em> that dramatically increases the rate of Unicorn production.</p>
+<h3 id="building-and-effects">Building and Effects</h3>
+<p>The Unicorn Utopia is an upgrade for the <a href="/buildings/unicorn_pasture/">Unicorn Pasture</a> structure. It is part of the extensive unicorn religious path that culminates in the acquisition of Time Crystals.</p>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Detail</th>
+					<th style="text-align: left">Specification</th>
+					<th style="text-align: left">Citation</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Prerequisite</strong></td>
+					<td style="text-align: left">Must complete at least one <a href="/ziggurat/sky_palace/">Sky Palace</a> building.</td>
+					<td style="text-align: left"></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Cost</strong></td>
+					<td style="text-align: left">Requires <strong>5,000 Tears</strong>, <strong>1 Million Ivory</strong>, and <strong>500 Gold</strong>.</td>
+					<td style="text-align: left"></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Effect</strong></td>
+					<td style="text-align: left">Improves unicorn generation by <strong>+250%</strong>.</td>
+					<td style="text-align: left"></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Additional Effects</strong></td>
+					<td style="text-align: left">Increases <strong>alicorn summon chance</strong> by $+0.015%$ per game-day.</td>
+					<td style="text-align: left"></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Production</strong></td>
+					<td style="text-align: left">Produces <strong>$0.000025$ alicorns</strong> per tick ($0.1$ per year).</td>
+					<td style="text-align: left"></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Time Crystal Bonus</strong></td>
+					<td style="text-align: left">Improves the <strong>Time Crystal refine ratio</strong> by $+5%$ (this bonus applies when turning alicorns into Time Crystals).</td>
+					<td style="text-align: left"></td>
+			</tr>
+	</tbody>
+</table>
+<p>The Sunspire is the next upgrade in this line, further boosting unicorn generation by $500%$ and increasing the Time Crystal refine ratio by 10%.</p>
+<h3 id="strategic-importance">Strategic Importance</h3>
+<p>The Unicorn Utopia is a key step in the <strong>Unicorn/Time Crystal Era</strong> of the game. Increasing unicorn and alicorn production is vital because:</p>
+<ol>
+<li><strong>Time Crystal Acquisition:</strong> Alicorns (which are produced by Sky Palaces, Unicorn Utopias, and Sunspires) must be sacrificed (25 alicorns per Time Crystal) to generate Time Crystals, which are necessary for Chronospheres and endgame progression. The +5% Time Crystal refine ratio boost from the Utopia also makes this conversion more efficient.</li>
+<li><strong>Resource Cycling:</strong> Strategic guides suggest optimizing for Ivory returns early in the unicorn path by building Ivory Citadels, but later players should transition to Utopias and Sunspires to prepare for the subsequent <strong>alicorn mode</strong> when working towards Time Crystals and Paragon accumulation.</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Marker</title>
+      <link>/ziggurat/marker/</link>
+      <pubDate>Thu, 11 Dec 2025 22:00:53 +1100</pubDate>
+      <guid>/ziggurat/marker/</guid>
+      <description>&lt;h3 id=&#34;acquisition-and-costs&#34;&gt;&lt;strong&gt;Acquisition and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; To unlock the ability to build a Marker, you must first purchase the &lt;a href=&#34;../metaphysics/megalomania/&#34;&gt;Megalomania&lt;/a&gt; metaphysics upgrade.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Base Cost:&lt;/strong&gt; Building your first Marker requires a substantial investment of &lt;strong&gt;5,000 Tears, 750 Megaliths, 50,000 Spice, and 2,500 Unobtainium&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; The cost scales with a 1.15 price ratio for each subsequent Marker you build.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects&#34;&gt;&lt;strong&gt;Core Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Alicorn Corruption (Necrocorns):&lt;/strong&gt; Building a Marker starts a ticking corruption countdown that slowly converts your accumulated Alicorns into &lt;strong&gt;Necrocorns&lt;/strong&gt;. Having multiple Markers will reduce the amount of time it takes to produce a Necrocorn.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Leviathan Energy Cap:&lt;/strong&gt; Each Marker increases the maximum energy capacity of the Leviathans (Elders) by &lt;strong&gt;5&lt;/strong&gt;. This allows you to feed them more Necrocorns, which permanently improves your trade yields with them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Summoning Leviathans:&lt;/strong&gt; Markers multiply the probability of Leviathans arriving to trade with your civilization. However, it is crucial to note that you &lt;strong&gt;must have at least one Black Pyramid&lt;/strong&gt; constructed; having Markers alone will never cause the Leviathans to appear.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;challenges-and-upgrades&#34;&gt;&lt;strong&gt;Challenges and Upgrades&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Black Sky Challenge:&lt;/strong&gt; Completing the &lt;strong&gt;Black Sky&lt;/strong&gt; challenge directly enhances your Markers. For each run completed, the Marker&amp;rsquo;s corruption factor and its Leviathan energy cap increase are both improved by &lt;strong&gt;10%&lt;/strong&gt; (this is capped at 200% with diminishing returns setting in at 150%).&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<h3 id="acquisition-and-costs"><strong>Acquisition and Costs</strong></h3>
+<ul>
+<li><strong>Prerequisite:</strong> To unlock the ability to build a Marker, you must first purchase the <a href="/metaphysics/megalomania/">Megalomania</a> metaphysics upgrade.</li>
+<li><strong>Base Cost:</strong> Building your first Marker requires a substantial investment of <strong>5,000 Tears, 750 Megaliths, 50,000 Spice, and 2,500 Unobtainium</strong>.</li>
+<li><strong>Price Ratio:</strong> The cost scales with a 1.15 price ratio for each subsequent Marker you build.</li>
+</ul>
+<h3 id="core-effects"><strong>Core Effects</strong></h3>
+<ul>
+<li><strong>Alicorn Corruption (Necrocorns):</strong> Building a Marker starts a ticking corruption countdown that slowly converts your accumulated Alicorns into <strong>Necrocorns</strong>. Having multiple Markers will reduce the amount of time it takes to produce a Necrocorn.</li>
+<li><strong>Leviathan Energy Cap:</strong> Each Marker increases the maximum energy capacity of the Leviathans (Elders) by <strong>5</strong>. This allows you to feed them more Necrocorns, which permanently improves your trade yields with them.</li>
+<li><strong>Summoning Leviathans:</strong> Markers multiply the probability of Leviathans arriving to trade with your civilization. However, it is crucial to note that you <strong>must have at least one Black Pyramid</strong> constructed; having Markers alone will never cause the Leviathans to appear.</li>
+</ul>
+<h3 id="challenges-and-upgrades"><strong>Challenges and Upgrades</strong></h3>
+<ul>
+<li><strong>Black Sky Challenge:</strong> Completing the <strong>Black Sky</strong> challenge directly enhances your Markers. For each run completed, the Marker&rsquo;s corruption factor and its Leviathan energy cap increase are both improved by <strong>10%</strong> (this is capped at 200% with diminishing returns setting in at 150%).</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Ivory Citadel</title>
+      <link>/ziggurat/ivory_citadel/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/ziggurat/ivory_citadel/</guid>
+      <description>&lt;p&gt;An &lt;a href=&#34;../ziggurat/ivory_citadel/&#34;&gt;Ivory Citadel&lt;/a&gt; is a mid-to-high-tier religious building found in the &lt;a href=&#34;../buildings/ziggurat/&#34;&gt;Ziggurat&lt;/a&gt; section of the Religion tab. It is a critical component of the &amp;ldquo;Unicorn Era&amp;rdquo;, serving as an upgrade to the Ivory Tower and a stepping stone toward advanced structures like Sky Palaces and Sunspires.&lt;/p&gt;
+&lt;h3 id=&#34;cost-and-requirements&#34;&gt;&lt;strong&gt;Cost and Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Initial Cost:&lt;/strong&gt; 50 Unicorn Tears and 50,000 Ivory.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15 (meaning each subsequent citadel costs 15% more).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must have constructed at least one &lt;a href=&#34;../ziggurat/ivory_tower/&#34;&gt;Ivory Tower&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects&#34;&gt;&lt;strong&gt;Core Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Ivory Citadel provides two primary benefits to your civilisation:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>An <a href="/ziggurat/ivory_citadel/">Ivory Citadel</a> is a mid-to-high-tier religious building found in the <a href="/buildings/ziggurat/">Ziggurat</a> section of the Religion tab. It is a critical component of the &ldquo;Unicorn Era&rdquo;, serving as an upgrade to the Ivory Tower and a stepping stone toward advanced structures like Sky Palaces and Sunspires.</p>
+<h3 id="cost-and-requirements"><strong>Cost and Requirements</strong></h3>
+<ul>
+<li><strong>Initial Cost:</strong> 50 Unicorn Tears and 50,000 Ivory.</li>
+<li><strong>Price Ratio:</strong> 1.15 (meaning each subsequent citadel costs 15% more).</li>
+<li><strong>Prerequisite:</strong> You must have constructed at least one <a href="/ziggurat/ivory_tower/">Ivory Tower</a>.</li>
+</ul>
+<h3 id="core-effects"><strong>Core Effects</strong></h3>
+<p>The Ivory Citadel provides two primary benefits to your civilisation:</p>
+<ul>
+<li><strong>Unicorn Production:</strong> It increases your base unicorn generation by <strong>+25% per tick</strong>.</li>
+<li><strong>Ivory Meteors:</strong> It unlocks a random event called an <strong>Ivory Meteor</strong>. Each citadel provides a <strong>0.05% chance per game-day</strong> to summon a meteor that grants a lump sum of ivory upon impact.</li>
+</ul>
+<h3 id="strategic-analysis"><strong>Strategic Analysis</strong></h3>
+<p>Managing your Ivory Citadels is essential for transitioning from basic resource gathering to the advanced time-manipulation phase of the game.</p>
+<ul>
+<li><strong>The &ldquo;25 Citadel&rdquo; Rule:</strong> Experienced players recommend <strong>optimising for ivory</strong> early in the religious grind. A common strategy is to build approximately <strong>25 Ivory Citadels</strong> before focusing heavily on Unicorn Utopias or Sunspires. This provides a stable enough ivory income (via meteors) to fund more expensive endgame structures.</li>
+<li><strong>AFK Resource Generation:</strong> Because Ivory Meteors provide a passive source of ivory, Citadels are highly valued for <strong>&ldquo;AFK&rdquo; playstyles</strong> where you may be away from the computer for long periods.</li>
+<li><strong>Synergy with Mints:</strong> While Mints also produce ivory, their output does not scale with paragon or religious buildings. Ivory Citadels, by contrast, accelerate the unicorn-to-tear pipeline, which is necessary to eventually unlock <a href="/resource/time_crystals/">Time Crystals</a> and <a href="/resource/relic/">Relics</a> through Leviathan trading.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Ivory Tower</title>
+      <link>/ziggurat/ivory_tower/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/ziggurat/ivory_tower/</guid>
+      <description>&lt;p&gt;An &lt;a href=&#34;../ziggurat/ivory_tower/&#34;&gt;Ivory Tower&lt;/a&gt; is a religious structure found in the &lt;a href=&#34;../buildings/ziggurat/&#34;&gt;Ziggurat&lt;/a&gt; section of the Religion tab. It serves as a mid-tier building in the unicorn-to-time-crystal pipeline, primarily used to accelerate unicorn production and unlock rare celestial events.&lt;/p&gt;
+&lt;h3 id=&#34;core-statistics-and-costs&#34;&gt;&lt;strong&gt;Core Statistics and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 25 Unicorn Tears and 25,000 Ivory.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisite:&lt;/strong&gt; You must have constructed at least one &lt;a href=&#34;../ziggurat/unicorn_tomb/&#34;&gt;Unicorn Tomb&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-effects&#34;&gt;&lt;strong&gt;Primary Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Unicorn Generation:&lt;/strong&gt; Each tower provides a &lt;strong&gt;+10% bonus&lt;/strong&gt; to your unicorns produced per tick.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unicorn Rifts:&lt;/strong&gt; This is the most significant feature of the building. It unlocks a random event called a &lt;strong&gt;Unicorn Rift&lt;/strong&gt;, which provides a large lump sum of unicorns instantly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;unicorn-rift-mechanics&#34;&gt;&lt;strong&gt;Unicorn Rift Mechanics&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Ivory Tower is the only way to trigger rifts, which become more frequent and powerful as your civilisation grows:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>An <a href="/ziggurat/ivory_tower/">Ivory Tower</a> is a religious structure found in the <a href="/buildings/ziggurat/">Ziggurat</a> section of the Religion tab. It serves as a mid-tier building in the unicorn-to-time-crystal pipeline, primarily used to accelerate unicorn production and unlock rare celestial events.</p>
+<h3 id="core-statistics-and-costs"><strong>Core Statistics and Costs</strong></h3>
+<ul>
+<li><strong>Cost:</strong> 25 Unicorn Tears and 25,000 Ivory.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+<li><strong>Prerequisite:</strong> You must have constructed at least one <a href="/ziggurat/unicorn_tomb/">Unicorn Tomb</a>.</li>
+</ul>
+<h3 id="primary-effects"><strong>Primary Effects</strong></h3>
+<ul>
+<li><strong>Unicorn Generation:</strong> Each tower provides a <strong>+10% bonus</strong> to your unicorns produced per tick.</li>
+<li><strong>Unicorn Rifts:</strong> This is the most significant feature of the building. It unlocks a random event called a <strong>Unicorn Rift</strong>, which provides a large lump sum of unicorns instantly.</li>
+</ul>
+<h3 id="unicorn-rift-mechanics"><strong>Unicorn Rift Mechanics</strong></h3>
+<p>The Ivory Tower is the only way to trigger rifts, which become more frequent and powerful as your civilisation grows:</p>
+<ul>
+<li><strong>Frequency:</strong> Each tower adds a <strong>0.05% chance per game-day</strong> for a rift to occur. For example, building 20 towers ensures a 1% chance every day.</li>
+<li><strong>Yield Scaling:</strong> While the base rift reward is 500 unicorns, it is boosted by <strong>10% of your total unicorn ziggurat production bonus</strong>.</li>
+</ul>
+<h3 id="strategic-progression"><strong>Strategic Progression</strong></h3>
+<p>In the broader &ldquo;Unicorn Era&rdquo; strategy, the Ivory Tower is the second step in a long chain of increasingly expensive buildings:</p>
+<ol>
+<li>Unicorn Tomb (+5% unicorns).</li>
+<li><a href="/ziggurat/ivory_tower/">Ivory Tower</a> (+10% unicorns + Rifts).</li>
+<li><a href="/ziggurat/ivory_citadel/">Ivory Citadel</a> (+25% unicorns + Ivory Meteors).</li>
+<li><a href="/ziggurat/sky_palace/">Sky Palace</a> (+50% unicorns + Alicorn generation).</li>
+</ol>
+<p>To maximize your returns, it is often recommended to use a <strong>unicorn calculator</strong> to decide when to stop building towers and start saving for <a href="/ziggurat/ivory_citadel/">Ivory Citadels</a>, which provide a much larger production boost and allow you to farm ivory through meteors.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sky Palace</title>
+      <link>/ziggurat/sky_palace/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/ziggurat/sky_palace/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../ziggurat/sky_palace/&#34;&gt;Sky Palace&lt;/a&gt; is a specialized religious building that is part of the advanced Unicorn progression line.&lt;/p&gt;
+&lt;p&gt;Here is a detailed breakdown of its function, effects, and prerequisites:&lt;/p&gt;
+&lt;h3 id=&#34;function-and-effects&#34;&gt;Function and Effects&lt;/h3&gt;
+&lt;p&gt;The Sky Palace provides multiple bonuses related to the generation of rare luxury resources and general storage:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Unicorn Generation:&lt;/strong&gt; It &lt;strong&gt;improves unicorn generation by 50%&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gold Storage:&lt;/strong&gt; It &lt;strong&gt;improves gold storage by +1%&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Alicorn Production:&lt;/strong&gt; It produces &lt;strong&gt;$0.00002$ alicorns per tick&lt;/strong&gt; (or $0.0001$ per second, $0.08$ per year).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Alicorn Event:&lt;/strong&gt; It enables a random event that grants one alicorn.
+&lt;ul&gt;
+&lt;li&gt;Each Sky Palace built increases the frequency of this event by &lt;strong&gt;$0.01%$ per game-day&lt;/strong&gt; (or $1%$ per day per 100 palaces).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ivory Meteors:&lt;/strong&gt; It &lt;strong&gt;increases ivory gained from Ivory Meteors by $5%$&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;acquisition-and-prerequisites&#34;&gt;Acquisition and Prerequisites&lt;/h3&gt;
+&lt;p&gt;The Sky Palace is unlocked and constructed in the Religion tab, following a specific upgrade path:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/ziggurat/sky_palace/">Sky Palace</a> is a specialized religious building that is part of the advanced Unicorn progression line.</p>
+<p>Here is a detailed breakdown of its function, effects, and prerequisites:</p>
+<h3 id="function-and-effects">Function and Effects</h3>
+<p>The Sky Palace provides multiple bonuses related to the generation of rare luxury resources and general storage:</p>
+<ul>
+<li><strong>Unicorn Generation:</strong> It <strong>improves unicorn generation by 50%</strong>.</li>
+<li><strong>Gold Storage:</strong> It <strong>improves gold storage by +1%</strong>.</li>
+<li><strong>Alicorn Production:</strong> It produces <strong>$0.00002$ alicorns per tick</strong> (or $0.0001$ per second, $0.08$ per year).</li>
+<li><strong>Alicorn Event:</strong> It enables a random event that grants one alicorn.
+<ul>
+<li>Each Sky Palace built increases the frequency of this event by <strong>$0.01%$ per game-day</strong> (or $1%$ per day per 100 palaces).</li>
+</ul>
+</li>
+<li><strong>Ivory Meteors:</strong> It <strong>increases ivory gained from Ivory Meteors by $5%$</strong>.</li>
+</ul>
+<h3 id="acquisition-and-prerequisites">Acquisition and Prerequisites</h3>
+<p>The Sky Palace is unlocked and constructed in the Religion tab, following a specific upgrade path:</p>
+<ul>
+<li><strong>Prerequisites:</strong> You must <strong>complete 1 Ivory Citadel</strong> to unlock the Sky Palace.
+<ul>
+<li>The Ivory Citadel requires completing an Ivory Tower, which in turn requires completing a Unicorn Tomb [1, 2].</li>
+</ul>
+</li>
+<li><strong>Cost:</strong> The Sky Palace requires the following resources to build:
+<ul>
+<li><strong>500 Tears</strong></li>
+<li><strong>125,000 Ivory</strong></li>
+<li><strong>5 Megalith</strong></li>
+</ul>
+</li>
+<li><strong>Ratio:</strong> It has a price ratio of $1.15$.</li>
+</ul>
+<h3 id="place-in-the-unicorn-progression">Place in the Unicorn Progression</h3>
+<p>The Sky Palace is an intermediate step in maximizing unicorn-related production, leading to even more powerful buildings:</p>
+<ul>
+<li>Once you complete 1 Sky Palace, you unlock the <a href="/ziggurat/unicorn_utopia/">Unicorn Utopia</a>, which further improves unicorn generation by $250%$ and increases the Time Crystal Refine ratio by $5%$ [3].</li>
+<li>The Sky Palace, along with other advanced Unicorn buildings like the Ivory Tower and Ivory Citadel, helps generate ivory and alicorns, which are critical for late-game progression [1, 2]. Unicorns, alicorns, and tears are all considered luxury resources, contributing a bonus to happiness [4].</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sunspire</title>
+      <link>/ziggurat/sunspire/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/ziggurat/sunspire/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../ziggurat/sunspire/&#34;&gt;Sunspire&lt;/a&gt; is a high-tier endgame religious building found in the Ziggurat section of the Religion tab. It represents one of the final stages in the unicorn-to-time-crystal pipeline, offering massive bonuses to unicorn generation and alicorn summoning.&lt;/p&gt;
+&lt;h3 id=&#34;statistics-and-requirements&#34;&gt;&lt;strong&gt;Statistics and Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To construct a Sunspire, you must first have at least one &lt;a href=&#34;../ziggurat/unicorn_utopia/&#34;&gt;Unicorn Utopia&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 25,000 Unicorn Tears, 750,000 Ivory, and 1,000 Gold.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Production Bonus:&lt;/strong&gt; It provides a massive &lt;strong&gt;+500% bonus to unicorn generation&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-effects&#34;&gt;&lt;strong&gt;Core Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Sunspire is critical for the late-game &amp;ldquo;Unicorn Era&amp;rdquo;, as it automates and enhances the production of rare celestial resources:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/ziggurat/sunspire/">Sunspire</a> is a high-tier endgame religious building found in the Ziggurat section of the Religion tab. It represents one of the final stages in the unicorn-to-time-crystal pipeline, offering massive bonuses to unicorn generation and alicorn summoning.</p>
+<h3 id="statistics-and-requirements"><strong>Statistics and Requirements</strong></h3>
+<p>To construct a Sunspire, you must first have at least one <a href="/ziggurat/unicorn_utopia/">Unicorn Utopia</a>.</p>
+<ul>
+<li><strong>Cost:</strong> 25,000 Unicorn Tears, 750,000 Ivory, and 1,000 Gold.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+<li><strong>Production Bonus:</strong> It provides a massive <strong>+500% bonus to unicorn generation</strong>.</li>
+</ul>
+<h3 id="core-effects"><strong>Core Effects</strong></h3>
+<p>The Sunspire is critical for the late-game &ldquo;Unicorn Era&rdquo;, as it automates and enhances the production of rare celestial resources:</p>
+<ul>
+<li><strong>Alicorn Generation:</strong> It provides a passive <strong>0.00005 alicorns per tick</strong> (0.2 per year) and increases the random alicorn summon chance by <strong>0.03% per game-day</strong>.</li>
+<li><strong>Time Crystal Efficiency:</strong> It improves the <strong>Time Crystal (TC) refine ratio by 10%</strong>, meaning you receive more Time Crystals when sacrificing alicorns.</li>
+<li><strong>Ivory Harvesting:</strong> It increases the ivory gained from <strong>Ivory Meteors</strong> (a random event summoned by Ivory Citadels) by <strong>50%</strong>.</li>
+</ul>
+<h3 id="strategic-utility"><strong>Strategic Utility</strong></h3>
+<p>In the progression toward a self-sustaining &ldquo;Positive Reset&rdquo; engine, Sunspires are used to overcome the massive resource requirements of the late game.</p>
+<ul>
+<li><strong>Build Order:</strong> Strategic guides recommend first building a solid foundation of roughly <strong>25 Ivory Citadels</strong> before prioritising higher-tier structures like Unicorn Utopias and Sunspires.</li>
+<li><strong>Synergy:</strong> The effectiveness of a Sunspire is heavily reliant on your <a href="/religion/solar_revolution/">Solar Revolution</a> bonus. By the time you are constructing these, you should aim to have your faith production near the <strong>1000% cap</strong> to maximise unicorn growth.</li>
+<li><strong>Relic Engine:</strong> Sunspires are a foundational component of the &ldquo;<strong>Type 0 Relic Engine</strong>&rdquo;, where increased unicorn and alicorn production allows for more frequent sacrifices to generate the Time Crystals and Relics needed for <a href="/techs/cryptotheology/">Cryptotheology</a>.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Unicorn Graveyard</title>
+      <link>/ziggurat/unicorn_graveyard/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/ziggurat/unicorn_graveyard/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../ziggurat/unicorn_graveyard/&#34;&gt;Unicorn Graveyard&lt;/a&gt; is an endgame building found within the &lt;a href=&#34;../techs/cryptotheology/&#34;&gt;Cryptotheology&lt;/a&gt; section of the Religion tab. It is primarily used to scale your maximum culture capacity based on your religious infrastructure.&lt;/p&gt;
+&lt;h3 id=&#34;core-statistics-and-costs&#34;&gt;&lt;strong&gt;Core Statistics and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 5 Necrocorns and 1000 Megaliths.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; You must have unlocked the &lt;strong&gt;Black Codex&lt;/strong&gt; (a metaphysics upgrade costing 25 Paragon that requires Megalomania).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;primary-effects&#34;&gt;&lt;strong&gt;Primary Effects&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Culture Scaling:&lt;/strong&gt; Increases your &lt;strong&gt;maximum Culture by +1% for every Ziggurat&lt;/strong&gt; you own.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cryptotheology Synergy:&lt;/strong&gt; It provides a bonus to the &lt;a href=&#34;../transcendence/black_library/&#34;&gt;Black Library&lt;/a&gt; (another cryptotheology building), specifically improving the scaling of the &lt;em&gt;Codex Leviathanianus&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flavor Text:&lt;/strong&gt; It is poetically described in-game as the &amp;ldquo;Grave of the fireflies&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;strategic-value&#34;&gt;&lt;strong&gt;Strategic Value&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;When to build them:&lt;/strong&gt; They are generally considered a &amp;ldquo;low-priority&amp;rdquo; late-game investment. You should typically focus on feeding your Necrocorns to the Leviathans first to max out their energy and Time Crystal production.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the late game, &lt;a href=&#34;../resource/culture/&#34;&gt;Culture&lt;/a&gt; often becomes a significant bottleneck for technological advancement and crafting &lt;a href=&#34;../resource/manuscript/&#34;&gt;Manuscripts&lt;/a&gt;. Because your Ziggurat count can become quite high during the &amp;ldquo;Unicorn Era&amp;rdquo; as you hunt for Time Crystals, the Unicorn Graveyard provides a powerful way to expand your culture cap without relying solely on standard buildings like Amphitheatres or Temples.
+The requirement of &lt;strong&gt;Necrocorns&lt;/strong&gt; means you must already have established &lt;a href=&#34;../ziggurat/marker/&#34;&gt;Markers&lt;/a&gt; to corrupt your Alicorns, placing this building firmly in the late-game &amp;ldquo;Phase 3&amp;rdquo; of development.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/ziggurat/unicorn_graveyard/">Unicorn Graveyard</a> is an endgame building found within the <a href="/techs/cryptotheology/">Cryptotheology</a> section of the Religion tab. It is primarily used to scale your maximum culture capacity based on your religious infrastructure.</p>
+<h3 id="core-statistics-and-costs"><strong>Core Statistics and Costs</strong></h3>
+<ul>
+<li><strong>Cost:</strong> 5 Necrocorns and 1000 Megaliths.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+<li><strong>Prerequisites:</strong> You must have unlocked the <strong>Black Codex</strong> (a metaphysics upgrade costing 25 Paragon that requires Megalomania).</li>
+</ul>
+<h3 id="primary-effects"><strong>Primary Effects</strong></h3>
+<ul>
+<li><strong>Culture Scaling:</strong> Increases your <strong>maximum Culture by +1% for every Ziggurat</strong> you own.</li>
+<li><strong>Cryptotheology Synergy:</strong> It provides a bonus to the <a href="/transcendence/black_library/">Black Library</a> (another cryptotheology building), specifically improving the scaling of the <em>Codex Leviathanianus</em>.</li>
+<li><strong>Flavor Text:</strong> It is poetically described in-game as the &ldquo;Grave of the fireflies&rdquo;.</li>
+</ul>
+<h3 id="strategic-value"><strong>Strategic Value</strong></h3>
+<ul>
+<li><strong>When to build them:</strong> They are generally considered a &ldquo;low-priority&rdquo; late-game investment. You should typically focus on feeding your Necrocorns to the Leviathans first to max out their energy and Time Crystal production.</li>
+</ul>
+<p>In the late game, <a href="/resource/culture/">Culture</a> often becomes a significant bottleneck for technological advancement and crafting <a href="/resource/manuscript/">Manuscripts</a>. Because your Ziggurat count can become quite high during the &ldquo;Unicorn Era&rdquo; as you hunt for Time Crystals, the Unicorn Graveyard provides a powerful way to expand your culture cap without relying solely on standard buildings like Amphitheatres or Temples.
+The requirement of <strong>Necrocorns</strong> means you must already have established <a href="/ziggurat/marker/">Markers</a> to corrupt your Alicorns, placing this building firmly in the late-game &ldquo;Phase 3&rdquo; of development.</p>
+<ul>
+<li><strong>The &ldquo;Surplus&rdquo; Strategy:</strong> Most players only build Unicorn Graveyards once they have already capped their Leviathan energy and have excess Necrocorns to spare. At that point, they become a useful way to dump &ldquo;leftover&rdquo; resources to push your culture cap higher.</li>
+<li><strong>Synergy:</strong> Because they boost your <em>total</em> culture storage (which includes bonuses from things like manuscripts and policies), the +1% per Ziggurat can result in a significant cumulative increase if you have a high Ziggurat count.</li>
+</ul>
+<h3 id="what-it-does">What it does</h3>
+<ul>
+<li><strong>Culture Capacity Boost:</strong> Each Unicorn Graveyard increases your maximum culture by <strong>+1% per Ziggurat</strong> you own.</li>
+<li><strong>Black Library Bonus:</strong> It provides a small bonus to <strong>Black Libraries</strong>, which in turn helps increase your science storage cap.</li>
+<li><strong>Late-Game Utility:</strong> Because it scales with the number of Ziggurats you own, its effect can become quite powerful in deep runs where your Ziggurat count is high.</li>
+</ul>
+<h3 id="strategic-context">Strategic Context</h3>
+<ul>
+<li><strong>When to build them:</strong> They are generally considered a &ldquo;low-priority&rdquo; late-game investment. You should typically focus on feeding your Necrocorns to the Leviathans first to max out their energy and Time Crystal production.</li>
+<li><strong>The &ldquo;Surplus&rdquo; Strategy:</strong> Most players only build Unicorn Graveyards once they have already capped their Leviathan energy and have excess Necrocorns to spare. At that point, they become a useful way to dump &ldquo;leftover&rdquo; resources to push your culture cap higher.</li>
+<li><strong>Synergy:</strong> Because they boost your <em>total</em> culture storage (which includes bonuses from things like manuscripts and policies), the +1% per Ziggurat can result in a significant cumulative increase if you have a high Ziggurat count.</li>
+</ul>
+<h3 id="prerequisites">Prerequisites</h3>
+<ul>
+<li><strong>Research:</strong> You must have the <strong>Black Codex</strong> researched.</li>
+<li><strong>Cost:</strong> Each one costs <strong>5 Necrocorns</strong> and <strong>1000 Megaliths</strong>.</li>
+</ul>
+<p><strong>Summary:</strong> Think of the Unicorn Graveyard as a tool for &ldquo;scaling&rdquo; your culture cap rather than a primary production building. It is a refinement for players who have already optimized their main income streams and are looking to push their storage limits as far as possible before a reset.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Unicorn Necropolis</title>
+      <link>/ziggurat/unicorn_necropolis/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/ziggurat/unicorn_necropolis/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../ziggurat/unicorn_necropolis/&#34;&gt;Unicorn Necropolis&lt;/a&gt; is an advanced endgame building found in the &lt;a href=&#34;../techs/cryptotheology/&#34;&gt;Cryptotheology&lt;/a&gt; section of the Religion tab. It is primarily used to accelerate the generation of &lt;strong&gt;Necrocorns&lt;/strong&gt; by increasing the rate of alicorn corruption.&lt;/p&gt;
+&lt;h3 id=&#34;core-statistics-and-costs&#34;&gt;&lt;strong&gt;Core Statistics and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Attribute&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Details&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Cost&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;15 Necrocorns, 2500 Megaliths, 100 Alicorns, and 5 Void&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Price Ratio&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1.15&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Prerequisite&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;../ziggurat/unicorn_graveyard/&#34;&gt;Unicorn Graveyard&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Primary Effect&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Increases &lt;strong&gt;Necrocorn corruption&lt;/strong&gt; speed by &lt;strong&gt;10%&lt;/strong&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;mechanics-and-synergy&#34;&gt;&lt;strong&gt;Mechanics and Synergy&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Unicorn Necropolis functions by speeding up the &amp;ldquo;corruption&amp;rdquo; process that transforms your &lt;a href=&#34;../resource/alicorn/&#34;&gt;Alicorns&lt;/a&gt; into &lt;strong&gt;Necrocorns&lt;/strong&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The <a href="/ziggurat/unicorn_necropolis/">Unicorn Necropolis</a> is an advanced endgame building found in the <a href="/techs/cryptotheology/">Cryptotheology</a> section of the Religion tab. It is primarily used to accelerate the generation of <strong>Necrocorns</strong> by increasing the rate of alicorn corruption.</p>
+<h3 id="core-statistics-and-costs"><strong>Core Statistics and Costs</strong></h3>
+<table>
+	<thead>
+			<tr>
+					<th style="text-align: left">Attribute</th>
+					<th style="text-align: left">Details</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Cost</strong></td>
+					<td style="text-align: left">15 Necrocorns, 2500 Megaliths, 100 Alicorns, and 5 Void</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Price Ratio</strong></td>
+					<td style="text-align: left">1.15</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Prerequisite</strong></td>
+					<td style="text-align: left"><a href="/ziggurat/unicorn_graveyard/">Unicorn Graveyard</a></td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Primary Effect</strong></td>
+					<td style="text-align: left">Increases <strong>Necrocorn corruption</strong> speed by <strong>10%</strong></td>
+			</tr>
+	</tbody>
+</table>
+<h3 id="mechanics-and-synergy"><strong>Mechanics and Synergy</strong></h3>
+<p>The Unicorn Necropolis functions by speeding up the &ldquo;corruption&rdquo; process that transforms your <a href="/resource/alicorn/">Alicorns</a> into <strong>Necrocorns</strong>.</p>
+<ul>
+<li><strong>Corruption Loop:</strong> While <a href="/ziggurat/marker/">Markers</a> initiate the ticking corruption countdown, the Necropolis serves as a multiplier for that speed.</li>
+<li><strong>The &ldquo;One Necrocorn&rdquo; Rule:</strong> For these buildings to function, you must maintain a balance of <strong>at least 1 Necrocorn</strong> in your inventory.</li>
+</ul>
+<h3 id="strategic-utility-and-roi"><strong>Strategic Utility and ROI</strong></h3>
+<p>Because the building itself costs Necrocorns—which are otherwise used to feed <a href="/civilisations/leviathans/">Leviathans</a> to increase their energy cap—there is a specific threshold for when they become a &ldquo;profitable&rdquo; investment.</p>
+<ul>
+<li><strong>The Break-Even Point:</strong> Strategic guides suggest that the Unicorn Necropolis only becomes truly profitable at <strong>11 units</strong>.</li>
+<li><strong>Opportunity Cost:</strong> For the first 9 or 10 buildings, the rate at which Necrocorns are generated is slower than the rate at which you would have gained benefits by simply feeding those Necrocorns directly to the Leviathans.</li>
+<li><strong>Total Investment:</strong> Reaching this profitability threshold (11 Necropolises) requires a total investment of <strong>365 Necrocorns</strong>.</li>
+</ul>
+<h3 id="endgame-context"><strong>Endgame Context</strong></h3>
+<p>The building is described as &ldquo;The ocean of blood at the end of the lane&rdquo;. It represents the final stage of the unicorn-to-necrocorn pipeline, allowing players to eventually automate the feeding of <a href="/civilisations/leviathans/">Leviathans</a> at high speeds to maximize trade ratios for <a href="/resource/time_crystals/">Time Crystals</a> and <a href="/resource/relic/">Relics</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Unicorn Tomb</title>
+      <link>/ziggurat/unicorn_tomb/</link>
+      <pubDate>Sat, 29 Nov 2025 20:44:33 +1100</pubDate>
+      <guid>/ziggurat/unicorn_tomb/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;../ziggurat/unicorn_tomb/&#34;&gt;Unicorn Tomb&lt;/a&gt; is an early-tier building found in the Ziggurat section of the Religion tab that provides a 5% bonus to &lt;strong&gt;unicorn generation&lt;/strong&gt;. It is the first building in a progression chain that leads to more powerful structures like Ivory Towers and Sky Palaces.&lt;/p&gt;
+&lt;h3 id=&#34;core-statistics-and-costs&#34;&gt;&lt;strong&gt;Core Statistics and Costs&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost:&lt;/strong&gt; 5 Unicorn Tears and 500 Ivory.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Ratio:&lt;/strong&gt; 1.15.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt; You must have unlocked &lt;a href=&#34;../resource/ivory/&#34;&gt;Ivory&lt;/a&gt; and &lt;strong&gt;Unicorn Tears&lt;/strong&gt; (typically by building a Ziggurat and sacrificing unicorns).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Primary Effect:&lt;/strong&gt; Increases unicorns per tick by &lt;strong&gt;+5%&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;challenge-reward&#34;&gt;&lt;strong&gt;Challenge Reward&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Unicorn Tomb gains a significant secondary utility through the &lt;strong&gt;Unicorn Tears challenge&lt;/strong&gt;. Upon successfully completing this challenge, Unicorn Tombs provide a permanent base reward: they increase your &lt;strong&gt;maximum faith capacity&lt;/strong&gt; based on your current &lt;strong&gt;Transcendence Tier&lt;/strong&gt;. This makes them relevant even in the late game when the 5% unicorn production bonus becomes less impactful compared to higher-tier buildings like Sunspires.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A <a href="/ziggurat/unicorn_tomb/">Unicorn Tomb</a> is an early-tier building found in the Ziggurat section of the Religion tab that provides a 5% bonus to <strong>unicorn generation</strong>. It is the first building in a progression chain that leads to more powerful structures like Ivory Towers and Sky Palaces.</p>
+<h3 id="core-statistics-and-costs"><strong>Core Statistics and Costs</strong></h3>
+<ul>
+<li><strong>Cost:</strong> 5 Unicorn Tears and 500 Ivory.</li>
+<li><strong>Price Ratio:</strong> 1.15.</li>
+<li><strong>Prerequisites:</strong> You must have unlocked <a href="/resource/ivory/">Ivory</a> and <strong>Unicorn Tears</strong> (typically by building a Ziggurat and sacrificing unicorns).</li>
+<li><strong>Primary Effect:</strong> Increases unicorns per tick by <strong>+5%</strong>.</li>
+</ul>
+<h3 id="challenge-reward"><strong>Challenge Reward</strong></h3>
+<p>The Unicorn Tomb gains a significant secondary utility through the <strong>Unicorn Tears challenge</strong>. Upon successfully completing this challenge, Unicorn Tombs provide a permanent base reward: they increase your <strong>maximum faith capacity</strong> based on your current <strong>Transcendence Tier</strong>. This makes them relevant even in the late game when the 5% unicorn production bonus becomes less impactful compared to higher-tier buildings like Sunspires.</p>
+<h3 id="strategic-context"><strong>Strategic Context</strong></h3>
+<ul>
+<li><strong>Early Unicorn Era:</strong> In the beginning of the unicorn-to-time-crystal pipeline, Unicorn Tombs are essential for accelerating your production rate so you can reach the 2,500 unicorns required for further sacrifices.</li>
+<li><strong>Scaling:</strong> Like other religious buildings, its cost increases with each one built. Strategic guides recommend using a <strong>unicorn calculator</strong> to determine if a Unicorn Tomb or another building, like an Ivory Tower, offers the best return on investment for your current resources.</li>
+<li><strong>Religion Integration:</strong> In later runs, once you have higher <a href="/religion/solar_revolution/">Solar Revolution</a> bonuses, your unicorn production will scale significantly, and these tombs serve as a foundational layer for that growth.</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

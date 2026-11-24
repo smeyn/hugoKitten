@@ -1,0 +1,27 @@
++++
+date = 2026-01-20T20:44:33.317594+11:00
+draft = false
+title = "Animal_Husbandry"
+
++++
+[Animal Husbandry]( {{< relref "techs/Animal_Husbandry.md" >}}) is an early-game scientific technology that is essential for transitioning from basic survival to infrastructure development and more advanced resource management. It is unlocked after researching [Archery]( {{< relref "techs/Archery.md" >}}) and costs **500 Science**.
+
+### **Core Buildings and Effects**
+Researching Animal Husbandry unlocks two primary structures focused on managing the colony's food economy and rare resources:
+*   [Pastures:]( {{< relref "buildings/Pasture.md" >}}) These buildings cost **100 Catnip and 10 Wood**. Each Pasture provides a **-0.5% reduction in catnip demand** per kitten.
+*   **Unicorn Pastures:** These structures cost **2 Unicorns** and provide a smaller **-0.15% reduction in catnip demand**. Additionally, they automatically generate **0.001 unicorns per tick**.
+
+The demand reduction from both building types is vital for surviving **Winter**, as it decreases the constant food burden imposed by the kitten population. However, this reduction is subject to **strict diminishing returns** and is hard-capped at **50%**.
+
+### **Scientific and Industrial Gateway**
+Animal Husbandry serves as a critical technological pivot point, acting as the mandatory prerequisite for three major scientific branches:
+*   [Construction:]( {{< relref "techs/Construction.md" >}}) This allows for the building of **Log Houses, Warehouses, Lumber Mills, and Ziggurats**, as well as the enabling of **crafting**.
+*   [Mathematics:]( {{< relref "techs/Mathematics.md" >}}) This unlocks **Academies** and the [Celestial Mechanics]( {{< relref "upgrade/Celestial_Mechanics.md" >}}) upgrade to boost science gains from meteors.
+*   [Civil Service:]( {{< relref "techs/Civil_Service.md" >}}) This enables the **Census** system and the ability to assign a **Leader** to the colony.
+
+Because it leads directly to [Construction]( {{< relref "techs/Construction.md" >}}), Animal Husbandry is an indirect prerequisite for [Engineering]( {{< relref "techs/Engineering.md" >}}), which unlocks the game’s powerful **policy system**.
+
+### **Late-Game Transitions**
+As the colony advances into the industrial and space eras, the role of Animal Husbandry shifts:
+*   **Energy Pivot:** Once [Ecology]( {{< relref "techs/Ecology.md" >}}) is researched, players can replace Pastures with [Solar Farms]( {{< relref "buildings/Solar_Farm.md" >}}) to generate energy. This is considered a safe transition in the late game because the catnip demand reduction from Pastures is marginal by that point.
+*   **Unicorn Tree:** Animal Husbandry remains relevant to religious progression through the **Unicorn Tree**. Workshop upgrades like [Unicorn Selection]( {{< relref "upgrade/Unicorn_Selection.md" >}}) (unlocked via Genetics) further improve the effectiveness of Unicorn Pastures by **25%**.
