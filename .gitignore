@@ -1,3 +1,8 @@
 src/target/
 *.bak
 src/__pycache__/date_picker.cpython-313.pyc
+skills
+cp2pihole.sh
+uv.lock
+kitten/.hugo_build.lock
+kitten/.hugo-bros/
